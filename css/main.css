@@ -1,8 +1,38 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
 body {
-  min-height: 2000px;
-  padding-top: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   background-color: #E3E5DA;
 }
+
+/* Layout Styles */
+/* ----------------------------------------------------------*/
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* Mast head */
+
+.masthead {
+  color: #E3E5DA;
+  background-image: url("/img/gpact_logo_header.gif");
+  background-repeat: no-repeat;
+  height: 70px;
+}
+
+/* Site header */
+
+.site-header {
+  background-color: #E3E5DA;
+}
+
