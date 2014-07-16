@@ -14,6 +14,16 @@ body {
   background-color: #E3E5DA;
 }
 
+a {
+  color: #5B6622;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5E2035;
+  text-decoration: underline;
+}
+
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
