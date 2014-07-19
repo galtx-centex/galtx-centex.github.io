@@ -1,0 +1,23 @@
+---
+layout: page
+title: Greyhounds
+---
+
+<div class="container-fluid">
+
+  <div class="row">
+
+    {% for greyhound in site.data.greyhounds %}
+
+    <div class="col-md-3">
+      <a href="#" class="thumbnail">
+        <img src="{{ site.baseurl }}/img/{{ greyhound.thumbnail }}">
+      </a>
+      <p> {{ greyhound.name }} </p>
+    </div>
+
+    {% endfor %}
+
+  </div>
+
+</div>
