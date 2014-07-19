@@ -10,10 +10,12 @@ title: Greyhounds
     {% for greyhound in site.data.greyhounds %}
 
     <div class="col-md-3">
-      <a href="#">
-        <img class="img-thumbnail" src="{{ site.baseurl }}/img/{{ greyhound.thumbnail }}">
-      </a>
-      <p> {{ greyhound.name }} </p>
+      <div class="thumbnail">
+        <a href="/greyhounds/{{ greyhound.url }}">
+          <img src="/img/{{ greyhound.thumbnail }}" alt="{{ greyhound.name }}">
+        </a>
+        <h3>{{ greyhound.name }}</h3>
+      </div>
     </div>
 
     {% endfor %}
