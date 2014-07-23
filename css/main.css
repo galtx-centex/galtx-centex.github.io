@@ -46,6 +46,14 @@ a:hover {
   background-color: #E3E5DA;
 }
 
+/* button margins */
+.btn {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
