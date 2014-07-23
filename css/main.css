@@ -54,6 +54,12 @@ a:hover {
   margin-left: 10px;
 }
 
+.btn-social {
+  vertical-align: top;
+  zoom: 1;
+  *display: inline
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
