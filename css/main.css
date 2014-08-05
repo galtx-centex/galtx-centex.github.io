@@ -1,28 +1,3 @@
-/* Base */
-/* ----------------------------------------------------------*/
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body { height: 100%; }
-
-body {
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-a {
-  color: #5B6622;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #5E2035;
-  text-decoration: underline;
-}
-
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -31,7 +6,6 @@ a:hover {
 }
 
 /* Mast head */
-
 .masthead {
   display: block;
   width: 150px;
@@ -56,9 +30,6 @@ a:hover {
   zoom: 1;
   *display: inline
 }
-
-/* MARKETING CONTENT
--------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
