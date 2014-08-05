@@ -1,0 +1,16 @@
+#!/bin/sh
+
+draft=$(basename $1)
+post=$(date +%Y-%m-%d)-${draft}
+git_dir=$(git rev-parse --show-cdup)
+
+source=$1
+destination=${git_dir}_posts/${post}
+
+if [ $(git ls-files --error-unmatch -- ${source}) ]; then
+    git mv ${source} ${destination}
+else
+    mv ${source} ${destination}
+fi
+git add ${destination}
+git commit -em "Posting ${draft}"
