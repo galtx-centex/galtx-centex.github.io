@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adoption FAQs
-permalink: /adopt/faqs/
+permalink: {{ site.baseurl }}/adopt/faqs/
 ---
 
 What are the adoption costs involved?
