@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteering
-permalink: /volunteer/
+permalink: {{ site.baseurl }}/volunteer/
 ---
 
 Dear GPA-CT Members and Friends:
