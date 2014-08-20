@@ -1,9 +1,9 @@
 ---
 layout: greyhound
 title: Flowers
-permalink: /greyhounds/flowers/
+permalink: {{ site.baseurl }}/greyhounds/flowers/
 ---
 
-![Flowers](/img/flowers.jpg)
+![Flowers]({{ site.baseurl }}/img/flowers.jpg)
 
 Flowers is a cool dog.  Adopt her!
