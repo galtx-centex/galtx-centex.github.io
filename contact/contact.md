@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Greyhound Pets of America, Central Texas
-permalink: /contact/
+permalink: {{ site.baseurl }}/contact/
 ---
 
 __P.O. Box 10069__
