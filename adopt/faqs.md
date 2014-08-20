@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adoption FAQs
-permalink: {{ site.baseurl }}/adopt/faqs/
+permalink: http://gpa-centex.github.io/gpa-centex/adopt/faqs/
 ---
 
 What are the adoption costs involved?
