@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteering
-permalink: {{ site.baseurl }}/volunteer/
+permalink: http://gpa-centex.github.io/gpa-centex/volunteer/
 ---
 
 Dear GPA-CT Members and Friends:
