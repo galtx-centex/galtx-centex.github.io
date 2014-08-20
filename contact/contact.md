@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Greyhound Pets of America, Central Texas
-permalink: {{ site.baseurl }}/contact/
+permalink: http://gpa-centex.github.io/gpa-centex/contact/
 ---
 
 __P.O. Box 10069__
