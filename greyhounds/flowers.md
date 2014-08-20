@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Flowers
-permalink: {{ site.baseurl }}/greyhounds/flowers/
+permalink: http://gpa-centex.github.io/gpa-centex/greyhounds/flowers/
 ---
 
 ![Flowers]({{ site.baseurl }}/img/flowers.jpg)
