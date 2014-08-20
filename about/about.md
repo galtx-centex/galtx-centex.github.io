@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: {{ site.baseurl }}/about/
 ---
 
 Greyhound Pets of America-Central Texas (GPA-CT) is a chapter of Greyhound Pets of America, a national 501(c)3
