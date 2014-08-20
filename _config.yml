@@ -2,8 +2,8 @@
 title: GPA Central Texas
 email: your-email@gpa-centex.com
 description: "Adopting retired racing greyhounds in Austin, Texas and surrounding areas"
-baseurl: ""
-url: "http://gpa-centex.org"
+baseurl: "http://gpa-centex.github.io/gpa-centex"
+url: "http://gpa-centex.github.io/gpa-centex"
 #twitter_username: gpa-centex
 
 # Build settings
