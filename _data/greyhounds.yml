@@ -21,3 +21,7 @@
 - name: Nicole
   thumbnail: nicole.jpg
   url: nicole
+
+- name: Poppy
+  thumbnail: poppy.jpg
+  url: poppy
