@@ -1,35 +1,31 @@
-- name: flowers
+- name: Flowers
   thumbnail: flowers.jpg
   url: flowers
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Alex
+  thumbnail: alex.jpg
+  url: alex
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Summer
+  thumbnail: summer.jpg
+  url: summer
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Cowboy
+  thumbnail: cowboy.jpg
+  url: cowboy
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Hannah
+  thumbnail: hannah.jpg
+  url: hannah
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Nicole
+  thumbnail: nicole.jpg
+  url: nicole
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Poppy
+  thumbnail: poppy.jpg
+  url: poppy
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Derek
+  thumbnail: zoolander.jpg
+  url: zoolander
