@@ -13,3 +13,7 @@
 - name: Cowboy
   thumbnail: cowboy.jpg
   url: cowboy
+
+- name: Hannah
+  thumbnail: hannah.jpg
+  url: hannah
