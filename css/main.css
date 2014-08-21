@@ -48,3 +48,12 @@ img {
   margin-right: 10px;
   margin-left: 10px;
 }
+
+/* Make greyhound description text bigger */
+.greyt_content {
+  font-size: 175%;
+}
+
+.align_right {
+  text-align: right;
+}

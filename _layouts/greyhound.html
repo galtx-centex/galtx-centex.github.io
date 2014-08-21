@@ -2,10 +2,44 @@
 layout: page
 ---
 
-{{ content }}
+<div class="row">
+  <div class="col-md-6">
+    <img src="/img/{{ page.pic }}"></img>
+  </div>
+
+  <div class="col-md-6">
+    <div class="greyt_content">
+      {{ content }}
+    </div>
+  </div>
+</div>
+<p>
 
 <div class="panel-footer">
-<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="AdoptAGreyhound">Tweet</a>
-<p>
-<div class="fb-like" data-href="{{ page.url }}" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+  <div class="row">
+    <div class="col-md-6">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="AdoptAGreyhound">Tweet</a>
+      <p>
+      <div class="fb-like" data-href="{{ page.url }}" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+    <div class="col-md-6 align_right">
+
+      {% if page.sex == "MALE" %}
+        <span class="label label-primary">{{ page.sex }}</span>
+      {% elsif page.sex == "FEMALE" %}
+        <span class="label label-info">{{ page.sex }}</span>
+      {% endif %}
+
+      {% if page.cats %}
+        <span class="label label-success">CATS OK</span>
+      {% else %}
+        <span class="label label-danger">NO CATS</span>
+      {% endif %}
+
+      <span class="label label-default">{{ page.color }}</span>
+
+      <span class="label label-default">{{ page.age }} YRS</span>
+
+    </div>
+  </div>
 </div>
