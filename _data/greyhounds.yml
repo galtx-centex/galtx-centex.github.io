@@ -17,3 +17,7 @@
 - name: Hannah
   thumbnail: hannah.jpg
   url: hannah
+
+- name: Nicole
+  thumbnail: nicole.jpg
+  url: nicole
