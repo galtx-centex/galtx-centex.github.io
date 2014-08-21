@@ -9,3 +9,7 @@
 - name: Summer
   thumbnail: summer.jpg
   url: summer
+
+- name: Cowboy
+  thumbnail: cowboy.jpg
+  url: cowboy
