@@ -1,31 +1,39 @@
 - name: Flowers
   thumbnail: flowers.jpg
+  available: yes
   url: flowers
 
 - name: Alex
   thumbnail: alex.jpg
+  available: yes
   url: alex
 
 - name: Summer
   thumbnail: summer.jpg
+  available: yes
   url: summer
 
 - name: Cowboy
   thumbnail: cowboy.jpg
+  available: yes
   url: cowboy
 
 - name: Hannah
   thumbnail: hannah.jpg
+  available: yes
   url: hannah
 
 - name: Nicole
   thumbnail: nicole.jpg
+  available: yes
   url: nicole
 
 - name: Poppy
   thumbnail: poppy.jpg
+  available: yes
   url: poppy
 
 - name: Derek
   thumbnail: zoolander.jpg
+  available: yes
   url: zoolander
