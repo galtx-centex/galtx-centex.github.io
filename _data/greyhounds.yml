@@ -1,35 +1,8 @@
-- name: flowers
+- name: Flowers
   thumbnail: flowers.jpg
   url: flowers
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
+- name: Alex
+  thumbnail: alex.jpg
+  url: alex
 
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
-
-- name: flowers
-  thumbnail: flowers.jpg
-  url: flowers
