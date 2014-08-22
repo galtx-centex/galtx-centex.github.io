@@ -49,11 +49,14 @@ img {
   margin-left: 10px;
 }
 
-/* Make greyhound description text bigger */
-.greyt_content {
-  font-size: 175%;
+/* text alignment */
+.align-right {
+  text-align: right;
 }
 
-.align_right {
-  text-align: right;
+/* Make greyhound description text bigger */
+.greyt-content {
+  font-size: 175%;
+  padding-right: 15px;
+  padding-left: 15px;
 }
