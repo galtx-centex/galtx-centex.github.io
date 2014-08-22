@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Sunflower
+pic: sunflower.jpg
 sex: FEMALE
 age: 18 MONTHS
 color: FAWN
