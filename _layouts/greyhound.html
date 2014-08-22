@@ -36,9 +36,13 @@ layout: page
         <span class="label label-danger">NO CATS</span>
       {% endif %}
 
-      <span class="label label-default">{{ page.color }}</span>
+      {% if page.color %}
+        <span class="label label-default">{{ page.color }}</span>
+      {% endif %}
 
-      <span class="label label-default">{{ page.age }} YRS</span>
+      {% if page.age %}
+        <span class="label label-default">{{ page.age }} YRS</span>
+      {% endif %}
 
     </div>
   </div>
