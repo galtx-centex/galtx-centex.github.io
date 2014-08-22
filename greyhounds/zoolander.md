@@ -3,9 +3,9 @@ layout: greyhound
 title: Derek (Zoolander)
 pic: zoolander.jpg
 sex: MALE
-cats: NO
+cats: no
 color: RED FAWN
-age: 1
+age: 1 YEAR
 permalink: /greyhounds/zoolander/
 ---
 

@@ -6,11 +6,8 @@ layout: page
   <div class="col-md-6">
     <img src="/img/{{ page.pic }}"></img>
   </div>
-
-  <div class="col-md-6">
-    <div class="greyt_content">
-      {{ content }}
-    </div>
+  <div class="greyt-content">
+    {{ content }}
   </div>
 </div>
 <p>
@@ -22,7 +19,7 @@ layout: page
       <p>
       <div class="fb-like" data-href="{{ page.url }}" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
     </div>
-    <div class="col-md-6 align_right">
+    <div class="col-md-6 align-right">
 
       {% if page.sex == "MALE" %}
         <span class="label label-primary">{{ page.sex }}</span>
@@ -36,9 +33,13 @@ layout: page
         <span class="label label-danger">NO CATS</span>
       {% endif %}
 
-      <span class="label label-default">{{ page.color }}</span>
+      {% if page.color %}
+        <span class="label label-default">{{ page.color }}</span>
+      {% endif %}
 
-      <span class="label label-default">{{ page.age }} YRS</span>
+      {% if page.age %}
+        <span class="label label-default">{{ page.age }}</span>
+      {% endif %}
 
     </div>
   </div>
