@@ -54,11 +54,6 @@ img {
   text-align: right;
 }
 
-/* Make greyhound description text bigger */
-.greyt-content {
-  font-size: 175%;
-}
-
 /* Post styles */
 .post-header { margin: 10px 0 30px; }
 
