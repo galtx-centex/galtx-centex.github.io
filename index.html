@@ -7,10 +7,15 @@ layout: default
   <div class="panel panel-default">
     <div class="panel-body">
       {% assign post = site.posts.first %}
-      <h1>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h1>
-      {{ post.content }}
+      <header class="post-header">
+        <h1><a href="{{ post.url }}">{{ post.title  }}</a></h1>
+        <div class="meta">
+          {{ post.date | date: "%b %-d, %Y" }}
+        </div>
+      </header>
+      <article class="post-content">
+        {{ post.content }}
+      </article>
     </div>
   </div>
 
