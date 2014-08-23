@@ -43,17 +43,17 @@
   url: barley
   available: no
 
-- name: Ana (Anastasia)
+- name: Anastasia
   thumbnail: anastasia.jpg
   url: anastasia
   available: no
 
-- name: Silver Sloan
+- name: Silver
   thumbnail: silversloan.jpg
   url: silversloan
   available: no
 
-- name: Lady Jeanine
+- name: Jeanine
   thumbnail: ladyjeanine.jpg
   url: ladyjeanine
   available: no
@@ -73,7 +73,7 @@
   url: checkers
   available: no
 
-- name: Jazz (Happy Jazz)
+- name: Jazz
   thumbnail: happyjazz.jpg
   url: happyjazz
   available: no
@@ -88,12 +88,12 @@
   url: casey
   available: no
 
-- name: Henny Penny
+- name: Penny
   thumbnail: hennypenny.jpg
   url: hennypenny
   available: no
 
-- name: Backwoods Justice
+- name: Justice
   thumbnail: backwoodsjustice.jpg
   url: backwoodsjustice
   available: no
@@ -143,7 +143,7 @@
   url: jack
   available: no
 
-- name: Charging Warrior
+- name: Warrior
   thumbnail: chargingwarrior.jpg
   url: chargingwarrior
   available: no
@@ -178,7 +178,7 @@
   url: harmony
   available: no
 
-- name: Backwoods Tyson
+- name: Tyson
   thumbnail: backwoodstyson.jpg
   url: backwoodstyson
   available: no
@@ -193,7 +193,7 @@
   url: angelo
   available: no
 
-- name: Backwoods Alaska
+- name: Alaska
   thumbnail: backwoodsalaska.jpg
   url: backwoodsalaska
   available: no
@@ -208,7 +208,7 @@
   url: sheila
   available: no
 
-- name: Backwoods Timothy
+- name: Timothy
   thumbnail: backwoodstimothy.jpg
   url: backwoodstimothy
   available: no
@@ -288,17 +288,17 @@
   url: montezuma
   available: no
 
-- name: Jedi Warrior
+- name: Jedi
   thumbnail: jediwarrior.jpg
   url: jediwarrior
   available: no
 
-- name: Nite Design
+- name: Nite
   thumbnail: nitedesign.jpg
   url: nitedesign
   available: no
 
-- name: High Noon Motive
+- name: Motive
   thumbnail: highnoonmotive.jpg
   url: highnoonmotive
   available: no
@@ -308,7 +308,7 @@
   url: carmelo
   available: no
 
-- name: Blackjack Mongo
+- name: Blackjack
   thumbnail: blackjackmongo.jpg
   url: blackjackmongo
   available: no
@@ -383,7 +383,7 @@
   url: carlos
   available: no
 
-- name: Mona Nicole
+- name: Nicole
   thumbnail: monanicole.jpg
   url: monanicole
   available: no
@@ -393,7 +393,7 @@
   url: sandy
   available: no
 
-- name: Linda McPike
+- name: Linda
   thumbnail: lindamcpike.jpg
   url: lindamcpike
   available: no
