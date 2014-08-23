@@ -5,7 +5,7 @@ pic: alex.jpg
 sex: MALE
 cats: NO
 color: BRINDLE
-age: 6
+age: 6 YEARS
 permalink: /greyhounds/alex/
 ---
 

@@ -5,7 +5,7 @@ pic: nicole.jpg
 sex: FEMALE
 cats: NO
 color: FAWN
-age: 7
+age: 7 YEARS
 permalink: /greyhounds/nicole/
 ---
 
