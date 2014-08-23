@@ -5,7 +5,7 @@ pic: cowboy.jpg
 sex: MALE
 cats: NO
 color: LARGER BRINDLE
-age: 7
+age: 7 YEARS
 permalink: /greyhounds/cowboy/
 ---
 

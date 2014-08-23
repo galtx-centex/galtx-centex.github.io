@@ -5,7 +5,7 @@ pic: summer.jpg
 sex: FEMALE
 cats: NO
 color: FAWN
-age: 8
+age: 8 YEARS
 permalink: /greyhounds/summer/
 ---
 

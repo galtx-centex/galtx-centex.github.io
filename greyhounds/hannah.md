@@ -5,7 +5,7 @@ pic: hannah.jpg
 sex: FEMALE
 cats: YES
 color: FAWN
-age: 8
+age: 8 YEARS
 permalink: /greyhounds/hannah/
 ---
 

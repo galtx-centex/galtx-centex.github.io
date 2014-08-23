@@ -5,7 +5,7 @@ pic: zoolander.jpg
 sex: MALE
 cats: no
 color: RED FAWN
-age: 1 YEAR
+age: 8 MONTHS
 permalink: /greyhounds/zoolander/
 ---
 

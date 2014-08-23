@@ -5,7 +5,7 @@ pic: poppy.jpg
 sex: FEMALE
 cats: YES
 color: RED
-age: 5
+age: 5 YEARS
 permalink: /greyhounds/poppy/
 ---
 
