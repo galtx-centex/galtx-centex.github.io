@@ -31,6 +31,10 @@
   *display: inline;
 }
 
+a:hover, .btn-social {
+  text-decoration: none;
+}
+
 /* images */
 img {
   max-width: 100%;
