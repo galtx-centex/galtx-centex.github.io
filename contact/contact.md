@@ -19,6 +19,11 @@ Board of Directors meetings are held on the third Tuesday of the month from 7-9p
 [The Church on Congress Ave. 1511 So. Congress Austin, TX 78704](http://goo.gl/vTCxBs).  Members are always welcome to
 join us.
 
+## Membership Meetings
+
+GPA-CT's membership meetings are held quarterly (tentatively in March, June, September, and December) at various
+locations around the Austin area.
+
 ## Officers & Board of Directors:
 
 {% for contact in site.data.contacts %}
