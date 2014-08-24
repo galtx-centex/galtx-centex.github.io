@@ -149,3 +149,41 @@ margin-bottom: 30px;
   font-size: 15px;
   color: #818181;
 }
+
+/* Event styles */
+
+.event-content {
+  margin: 0 0 30px;
+  font-size: 130%;
+}
+
+.events {
+  list-style-type: none;
+  padding: 0;
+}
+
+.events li {
+  margin-bottom: 30px;
+}
+
+.events .event-date {
+  display: block;
+  font-size: 15px;
+  color: #818181;
+}
+
+.events .event-link {
+  display: block;
+  font-size: 28px;
+  line-height: 1;
+}
+
+.events .event-location a {
+  text-decoration: none;
+  color: #818181;
+}
+
+.events .event-location a:hover {
+  color: #818181;
+  text-decoration: underline;
+}
