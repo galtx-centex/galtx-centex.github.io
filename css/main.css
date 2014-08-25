@@ -59,7 +59,9 @@ img {
 }
 
 /* Post styles */
-.post-header { margin: 10px 0 30px; }
+.post-header {
+  margin: 10px 0 30px;
+}
 
 .post-header h1 {
   font-size: 42px;
@@ -79,8 +81,9 @@ img {
   font-size: 150%;
 }
 
-.post-content > * { margin: 20px 0; }
-
+.post-content > * {
+  margin: 20px 0;
+}
 
 .post-content h1,
 .post-content h2,
@@ -119,7 +122,9 @@ img {
 }
 
 .post-content ul,
-.post-content ol { padding-left: 20px; }
+.post-content ol {
+  padding-left: 20px;
+}
 
 .row .post-content {
   padding-right: 15px;
@@ -127,7 +132,9 @@ img {
 }
 
 .post ul,
-.post ol { margin-left: 1.35em; }
+.post ol {
+  margin-left: 1.35em;
+}
 
 .posts {
   list-style-type: none;
@@ -135,7 +142,7 @@ img {
 }
 
 .posts li {
-margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .posts .post-link {
