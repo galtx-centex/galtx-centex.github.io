@@ -152,11 +152,6 @@ margin-bottom: 30px;
 
 /* Event styles */
 
-.event-content {
-  margin: 0 0 30px;
-  font-size: 130%;
-}
-
 .events {
   list-style-type: none;
   padding: 0;
@@ -187,3 +182,9 @@ margin-bottom: 30px;
   color: #818181;
   text-decoration: underline;
 }
+
+.events .event-content {
+  margin: 0 0 30px;
+  font-size: 130%;
+}
+
