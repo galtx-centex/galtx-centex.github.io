@@ -31,6 +31,10 @@
   *display: inline;
 }
 
+.social-links {
+  margin-bottom: 10px;
+}
+
 .social-links > a {
   text-decoration: none;
   color: #818181;
