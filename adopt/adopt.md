@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Adoption
+permalink: /adopt/
 ---
 
 Adopting a Greyhound from GPA, Central Texas
