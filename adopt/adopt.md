@@ -1,34 +1,41 @@
 ---
 layout: page
 title: Adoption
+permalink: /adopt/
 ---
 
-<h2>Adopting a Greyhound from GPA, Central Texas</h2>
+Adopting a Greyhound from GPA, Central Texas
+--------------------------------------------
+
 The application is processed in several steps. We want to get a feel for your family life to begin considering the right
 personality match and ensure that the family and greyhound is an appropriate fit together. Our process includes:
-<p>
 
-<h2>Application review</h2>
+Application review
+------------------
+
 We will contact you to ask additional questions and will check your references. We will also discuss any behavioral and
 training items that are pertinent to items found in your application.
-<p>
 
-<h2>Home visit</h2>
+Home visit
+----------
+
 Once the application review has occurred, we will schedule a home visit. The purpose of the home visit is to assess your
 home and/or yard and note any items that may pose a danger to a greyhound, and discuss preventative measures to take. A
 volunteer from the Placement Team will visit you in your home, and will answer any questions you may have that did not
 come up during the application review. All adults that live in the home need to be present for this visit.
-<p>
 
-<h2>Adoption/Foster Approval</h2>
+Adoption/Foster Approval
+------------------------
+
 After the home visit, we will notify you of the decision. We reserve the right to deny an application for any reason,
 and a $75 refund on your deposit is available upon request. If approved, we will begin the process of helping you select
 the best greyhound to suit your interest and lifestyle. We discourage requesting a dog based solely on physical traits.
 Greyhounds are pets and are to be incorporated into your family lifestyle based on personality and character traits.
 Keep in mind, it is likely that a greyhound will behave differently in your home than they did at the meet and greet.
-<p>
 
-<h2>Pre-Adoption Visit</h2>
+Pre-Adoption Visit
+------------------
+
 After you have met a dog and agreed with your GPA placement volunteer on a good match, we will arrange for a second home
 visit with the selected dog. The adoption can be finalized at this point or you have the option of an extended trial
 period to make sure the dog is a good fit for your family. It could take several months for a dog to adapt to its
@@ -37,16 +44,16 @@ dogs are often nervous and do not exhibit their true nature or personalities in 
 important to be prepared for that introduction to your home and family. If all is well, the GPA placement team volunteer
 will set a time to finalize the adoption. We are available to help you and your new family member adjust and work
 through any issues as long as you need us.
-<p>
 
-<h2>Senior Hound Adoption Program</h2>
+Senior Hound Adoption Program
+-----------------------------
+
 The GPA-Central Texas Senior Incentive Program is open to families who already have a greyhound or are approved by the
 board. The normal adoption process will be followed, but the adoption fee will be reduced.
 
 Adoption Fee: The adoption fee will be reduced to $100 for senior greyhounds who are adopted through GPA-CT. Before
 being adopted, the senior greyhound will have received the same veterinary care and package as younger greyhounds,
 including a microchip.
-<p>
 
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/application.pdf" role="button">Download Application!</a>
