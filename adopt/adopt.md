@@ -24,7 +24,7 @@ home and/or yard and note any items that may pose a danger to a greyhound, and d
 volunteer from the Placement Team will visit you in your home, and will answer any questions you may have that did not
 come up during the application review. All adults that live in the home need to be present for this visit.
 
-Adoption/Foster Approval
+Adoption Approval
 ------------------------
 
 After the home visit, we will notify you of the decision. We reserve the right to deny an application for any reason,
@@ -48,11 +48,10 @@ through any issues as long as you need us.
 Senior Hound Adoption Program
 -----------------------------
 
-The GPA-Central Texas Senior Incentive Program is open to families who already have a greyhound or are approved by the
-board. The normal adoption process will be followed, but the adoption fee will be reduced.
+The GPA-CT Senior Hound Adoption Program is open to families who already have a greyhound or are approved by the
+board. The normal adoption process will be followed, but the adoption fee is reduced to $100.
 
-Adoption Fee: The adoption fee will be reduced to $100 for senior greyhounds who are adopted through GPA-CT. Before
-being adopted, the senior greyhound will have received the same veterinary care and package as younger greyhounds,
+Before being adopted, the senior greyhound will have received the same veterinary care and package as younger greyhounds,
 including a microchip.
 
 <div class="text-center">
