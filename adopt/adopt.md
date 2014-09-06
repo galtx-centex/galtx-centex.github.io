@@ -8,7 +8,7 @@ Adopting a Greyhound from GPA, Central Texas
 --------------------------------------------
 
 The application is processed in several steps. We want to get a feel for your family life to begin considering the right
-personality match and ensure that the family and greyhound is an appropriate fit together. Our process includes:
+personality match and ensure that the family and greyhound are an appropriate fit together. Our process includes the steps listed below.
 
 Application review
 ------------------
