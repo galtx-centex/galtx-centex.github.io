@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Available Greyhounds
+title: Rainbow Bridge
 ---
 
 <div class="container-fluid">
@@ -10,15 +10,12 @@ title: Available Greyhounds
     {% for greyhound in site.data.greyhounds %}
 
     {% if greyhound.deceased %}
-    {% elsif greyhound.available %}
-      <div class="col-md-3">
-        <a href="{{ page.url }}/{{ greyhound.url }}">
-        <div class="thumbnail">
+      <div class="col-md-2">
+        <a href="/greyhounds/{{ greyhound.url }}" class="thumbnail">
           <img src="/img/thm/{{ greyhound.thumbnail }}">
           <div class="text-center">
-          <h3>{{ greyhound.name }}</h3>
+            <h3>{{ greyhound.name }}</h3>
           </div>
-        </div>
         </a>
       </div>
     {% endif %}
