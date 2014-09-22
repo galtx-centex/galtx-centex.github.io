@@ -412,7 +412,8 @@
   thumbnail: stormy.jpg
   url: stormy
   available: no
-
+  deceased: yes
+  
 - name: Alyann
   thumbnail: alyann.jpg
   url: alyann
