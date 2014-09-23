@@ -3,13 +3,11 @@ layout: greyhound
 title: Stormy
 pic: stormy.jpg
 sex: FEMALE
-age: 10 YEARS
+age: April 13, 2002 - May 14, 2014
 color: DARK BRINDLE
 cats: no
 permalink: /greyhounds/stormy/
 ---
 
 
-Despite her name, she is no trouble at all - more like Sunny & Sweet!  She lives peaceably with three other senior greys
-and is by far the most active of the bunch!  She also enjoys the company of a seven year old human.  She had 63 races
-with 8 wins and then was momma to 35 pups.  Whew!!!
+Stormy Ghadimi raced under the name "I Beg to Differ."  She was mother to 35 registered offspring including GPACT alumni: Bruiser, Zia, Rio and Alex.  She was a happy girl who enjoyed meeting people and represented her breed well at GPACT events.  Stormy enjoyed her life to the fullest - right up to the end.  She surprised her doctors by dislocating a toe while running in the backyard, despite her cancer diagnosis.  We miss her sweet spirit.
