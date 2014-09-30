@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Greyhound Pets of America, Central Texas
+title: Contact GPA Central Texas
 permalink: /contact/
 ---
 
