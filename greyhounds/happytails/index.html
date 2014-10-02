@@ -9,7 +9,8 @@ title: Happy Tails
 
     {% for greyhound in site.data.greyhounds %}
 
-    {% if greyhound.available %}
+    {% if greyhound.deceased %}
+    {% elsif greyhound.available %}
     {% else %}
       <div class="col-md-2">
         <a href="/greyhounds/{{ greyhound.url }}" class="thumbnail">
