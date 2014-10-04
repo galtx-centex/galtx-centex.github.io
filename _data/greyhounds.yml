@@ -172,7 +172,8 @@
   thumbnail: batman.jpg
   url: batman
   available: no
-
+  deceased: yes
+  
 - name: Harmony
   thumbnail: harmony.jpg
   url: harmony
@@ -213,7 +214,7 @@
   url: backwoodstimothy
   available: no
 
-- name: Jey
+- name: Jet
   thumbnail: jet.jpg
   url: jet
   available: no
