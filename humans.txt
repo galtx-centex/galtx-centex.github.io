@@ -1,0 +1,22 @@
+/* TEAM */
+Zach Whaley
+Site: http://zachwhaley.me/
+From: Pflugerville, TX
+
+Jean Flahive
+
+Tommi Howell
+
+Amy Garcia
+
+Catelyn Silapachai
+
+Leigh Stuemke
+
+Joel Stuemke
+
+
+/* SITE */
+Jekyll
+Bootstrap
+Github
