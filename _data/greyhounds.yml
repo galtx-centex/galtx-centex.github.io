@@ -1,6 +1,6 @@
 - name: Bella
   thumbnail: bella.png
-  available: yes
+  available: no
   url: bella
 
 - name: Alex
