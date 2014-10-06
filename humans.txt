@@ -15,6 +15,10 @@ Leigh Stuemke
 
 Joel Stuemke
 
+Mark Darholt
+
+Melissa Massello
+
 
 /* SITE */
 Jekyll
