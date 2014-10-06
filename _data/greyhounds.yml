@@ -25,7 +25,7 @@
 
 - name: Poppy
   thumbnail: poppy.jpg
-  available: yes
+  available: no
   url: poppy
 
 - name: Derek
