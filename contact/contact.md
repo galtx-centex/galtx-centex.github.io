@@ -33,7 +33,9 @@ locations around the Austin area.
 
 {{ contact.phone }}
 
+{% if contact.email %}
 [{{ contact.email }}](mailto:{{ contact.email }})
+{% endif %}
 {% endfor %}
 
 ## *We need You!*
