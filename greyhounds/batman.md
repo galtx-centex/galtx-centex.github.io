@@ -4,7 +4,7 @@ title: Batman
 pic: batman.jpg
 sex: MALE
 age: October 3, 2014
-color: Male, BLACK & WHITE
+color: BLACK & WHITE
 cats: no
 permalink: /greyhounds/batman/
 ---
