@@ -1,4 +1,4 @@
-# [gpa-centex.org](http://test.gpa-centex.org/)
+# [gpa-centex.org](http://gpa-centex.org/)
 
 Greyhound Pets of America, Central Texas website
 
