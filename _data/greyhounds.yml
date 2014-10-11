@@ -1,5 +1,5 @@
 - name: Lady
-  thumbnail:
+  thumbnail: lady.png
   available: yes
   url: lady
 
