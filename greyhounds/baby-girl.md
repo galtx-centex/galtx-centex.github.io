@@ -4,6 +4,7 @@ title: Baby Girl
 pic: baby-girl.jpg
 sex: FEMALE
 color: WHITE & BLACK
+age: 6 YEARS
 cats: yes
 permalink: /greyhounds/baby-girl/
 ---
