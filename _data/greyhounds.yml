@@ -1,5 +1,5 @@
 - name: Raven
-  thumbnail:
+  thumbnail: raven.png
   available: yes
   url: raven
 
