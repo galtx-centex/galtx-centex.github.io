@@ -3,6 +3,11 @@
   available: yes
   url: raven
 
+- name: Baby Girl
+  thumbnail: baby-girl.jpg
+  available: yes
+  url: baby-girl
+
 - name: Carly
   thumbnail: carly.png
   available: yes
