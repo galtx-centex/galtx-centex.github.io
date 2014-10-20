@@ -1,3 +1,8 @@
+- name: Bristol
+  thumbnail:
+  available: yes
+  url: bristol
+
 - name: Carly
   thumbnail: carly.png
   available: yes
