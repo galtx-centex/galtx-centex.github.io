@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Baby Girl
-pic:
+pic: baby-girl.jpg
 sex: FEMALE
 color: WHITE & BLACK
 cats: yes
