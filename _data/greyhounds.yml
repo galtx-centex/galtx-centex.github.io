@@ -1,5 +1,5 @@
 - name: Bristol
-  thumbnail:
+  thumbnail: bristol.png
   available: yes
   url: bristol
 
