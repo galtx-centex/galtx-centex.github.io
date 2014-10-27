@@ -3,7 +3,7 @@ layout: greyhound
 title: Zander
 pic: zoolander.jpg
 sex: MALE
-cats: no
+cats: yes
 color: RED FAWN
 age: 10 MONTHS
 permalink: /greyhounds/zoolander/
