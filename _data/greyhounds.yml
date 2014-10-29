@@ -30,7 +30,7 @@
 
 - name: Alex
   thumbnail: alex.jpg
-  available: yes
+  available: no
   url: alex
 
 - name: Summer
