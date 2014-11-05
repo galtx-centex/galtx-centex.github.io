@@ -15,3 +15,4 @@ who will talk to me and rub my ears.
 
 My perfect evening would be dinner at home, a walk in the neighborhood, and curling-up in a
 soft bed next to yours.
+![alttext](/img/carly1.png "Carly")
