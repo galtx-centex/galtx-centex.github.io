@@ -50,7 +50,7 @@
 
 - name: Nicole
   thumbnail: nicole.jpg
-  available: yes
+  available: no
   url: nicole
 
 - name: Poppy
