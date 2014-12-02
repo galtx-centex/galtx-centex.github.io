@@ -33,7 +33,7 @@ Thank you for supporting GPA-CT!
 Please take a few moments to complete this [brief survey](https://docs.google.com/forms/d/1HbrgBcaOxCdETGGfanqsEOQbJhoCL_9628qqf_f6flc/viewform).
 We appreciate your input to help us improve your membership experience.
 
-For other questions, please contact [membership@gpa-centex.org](mailto:membership@gpa-centex.org)
+For other questions, please contact [president@gpa-centex.org](mailto:president@gpa-centex.org)
 
 <dev class="text-center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
