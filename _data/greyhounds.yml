@@ -1,3 +1,8 @@
+- name: Gracie
+  thumbnail: gracie.png
+  available: yes
+  url: gracie
+
 - name: Bristol
   thumbnail: bristol.png
   available: yes
