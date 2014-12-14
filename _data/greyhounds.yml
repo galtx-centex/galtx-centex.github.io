@@ -60,7 +60,7 @@
 
 - name: Zander
   thumbnail: zoolander.jpg
-  available: yes
+  available: no
   url: zoolander
 
 - name: Antigua
