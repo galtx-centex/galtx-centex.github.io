@@ -40,7 +40,7 @@
 
 - name: Cowboy
   thumbnail: cowboy.jpg
-  available: yes
+  available: no
   url: cowboy
 
 - name: Hannah
