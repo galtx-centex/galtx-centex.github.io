@@ -10,7 +10,7 @@
 
 - name: Baby Girl
   thumbnail: baby-girl.jpg
-  available: yes
+  available: no
   url: baby-girl
 
 - name: Carly
