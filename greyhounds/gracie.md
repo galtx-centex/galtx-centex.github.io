@@ -9,4 +9,4 @@ cats:
 permalink: /greyhounds/gracie/
 ---
 
-[bio]
+*More information coming soon...*
