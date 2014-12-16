@@ -9,4 +9,4 @@ cats:
 permalink: /greyhounds/tamara/
 ---
 
-[bio]
+*More information coming soon...*
