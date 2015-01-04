@@ -1,0 +1,40 @@
+---
+layout: post
+title: Greyt News
+---
+
+## Adoptions!
+
+[Baby Girl](http://gpa-centex.org/greyhounds/baby-girl/) now goes by Sharonna.
+She is rockin' around the Christmas tree with Matt and Morgan.
+
+![Sharonna](/img/baby-girl-1.jpg)
+
+[Cowboy](http://gpa-centex.org/greyhounds/cowboy/) is truly home on the range with Shannon
+and Kathryn!
+
+![Cowboy](/img/cowboy-1.jpg)
+
+That very special boy [Zander](http://gpa-centex.org/greyhounds/zoolander/), found a very
+special family - the Borgeson's.  We look forward to
+lots of posts about this pup as he grows.  Thank you to the Wylie's and the Whaley's who helped
+him along his way.
+
+![Zander](/img/zander-1.jpg)
+
+## Membership Renewal
+
+It’s time to renew your Greyhound Pets of America - Central Texas membership! Annual membership
+dues are $30 and are due on January 1st. If you adopt a dog from GPA-CT your dues are waived
+for the calendar year. If you foster a dog for GPA-CT your dues are waived during the calendar
+year(s) that you foster.
+
+See the [Join](http://gpa-centex.org/join/) page for a link to the Membership Application
+and a link to a secure PayPal account to make
+your dues payment. We are an all-volunteer group and your dues are used toward re-homing
+greyhounds.
+
+Thank you for supporting GPA-CT!
+
+[Read
+more](http://us6.campaign-archive2.com/?u=ce82f17bc088ab9ad887edb8d&id=549ff3fdcc&e=b3db65c45d)
