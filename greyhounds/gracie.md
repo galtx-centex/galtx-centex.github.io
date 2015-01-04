@@ -5,7 +5,7 @@ pic: gracie.png
 sex: FEMALE
 age: 1 1/2 YEARS
 color: FAWN
-cats:
+cats: YES
 permalink: /greyhounds/gracie/
 ---
 
