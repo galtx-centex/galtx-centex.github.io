@@ -9,8 +9,12 @@ cats:
 permalink: /greyhounds/bristol/
 ---
 
-I am a sweet, affectionate brindle girl with big brown eyes.  I love getting attention and am
-happy to give some back to you.  I enjoy going for walks and discovering new things.  Playing
-with these new things called "toys" is quickly becoming one of my favorite activities.  Don't worry - my foster family taught me, "toys are good, books are bad."  It's just all so new to me, I never had toys or books before!  
+I am a sweet, affectionate brindle girl with BIG brown eyes. I love getting attention and am
+happy to give some back to you. I enjoy going for walks, meeting people and discovering new
+things. Playing with these new things called “toys” is quickly becoming one of my favorite
+activities. I will even chase a tennis ball, throw it into the air and catch it on the way
+down. Did I say "I LOOOVE people".
 
-I am looking for a forever home with a soft spot to lay on, and a few toys to play with, where I can live out my retirement.
+I am looking for a forever home with a soft spot for me to lay down and a few toys so I can
+play, where I can live out my retirement. I will be your BEST friend and companion and follow
+you wherever you go.
