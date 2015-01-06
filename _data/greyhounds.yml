@@ -30,7 +30,7 @@
 
 - name: Lady
   thumbnail: lady.png
-  available: yes
+  available: no
   url: lady
 
 - name: Bella
