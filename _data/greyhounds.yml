@@ -5,7 +5,7 @@
 
 - name: Gracie
   thumbnail: gracie.png
-  available: yes
+  available: no
   url: gracie
 
 - name: Bristol
