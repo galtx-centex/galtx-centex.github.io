@@ -23,7 +23,7 @@ waited a long time for just the right dog at just the right time.  Their patienc
 with gregarious, young Gracie.  She is the perfect match for their two active kids, cat and
 small dog.  Congratulations!
 
-![Gracie](/img/gracie-news.jpg)
+![Gracie](/img/gracie-news.png)
 
 Belle’s story is a little different, but still has a happy ending.  Belle was
 relinquished at the age of twelve due to a change in family circumstances.  She had achy
@@ -31,6 +31,6 @@ joints, a bit underweight, and indications of early kidney disease, but the Howe
 all that.  They fell in love with her dark eyes and knew instantly that this girl still had
 life and love in there to share!
 
-![Belle](/img/belle-news.jpg)
+![Belle](/img/belle-news.png)
 
 [Read More...](http://us6.campaign-archive2.com/?u=ce82f17bc088ab9ad887edb8d&id=ba9dc5d976&e=b3db65c45d)
