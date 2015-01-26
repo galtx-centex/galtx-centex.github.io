@@ -3,9 +3,9 @@ layout: post
 title: Greyt News
 ---
 
-## Play Date!
-
-![Play Date](/img/play-date.jpg)
+<div class="text-center">
+  <img alt="Play Date!!!" src="/img/play-date.jpg">
+</div>
 
 Show your Greyhound some Love!  Spend a fun afternoon with your loyal friend at the
 [Zoom Room](http://www.zoomroomonline.com/austin-dog-training.html)
