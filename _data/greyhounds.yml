@@ -1,6 +1,6 @@
 - name: Tamara
   thumbnail: tamara.png
-  available: yes
+  available: no
   url: tamara
 
 - name: Gracie
