@@ -7,6 +7,7 @@ Hosted on [Github Pages](https://pages.github.com/).
 And built with [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
+[![Build Status](https://travis-ci.org/gpa-centex/gpa-centex.github.io.svg?branch=master)](https://travis-ci.org/gpa-centex/gpa-centex.github.io)
 
 If you are not a part of the GPA-CTX team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
