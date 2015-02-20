@@ -5,7 +5,7 @@ pic: buckley.png
 sex: MALE
 age: 4 YEARS
 color: black
-cats:
+cats: YES
 permalink: /greyhounds/buckley/
 ---
 
