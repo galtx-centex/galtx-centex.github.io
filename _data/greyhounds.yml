@@ -1,3 +1,13 @@
+- name: Sage
+  thumbnail: sage.png
+  available: yes
+  url: sage
+
+- name: Buckley
+  thumbnail: buckley.png
+  available: yes
+  url: buckley
+
 - name: Tamara
   thumbnail: tamara.png
   available: no
