@@ -1,6 +1,7 @@
 require 'html/proofer'
+require 'jekyll'
 
 task :test do
-  sh 'bundle exec jekyll build'
+  Jekyll::Commands::Build.process({})
   HTML::Proofer.new("./_site", {:alt_ignore => [/.*/], :href_ignore => ['#']}).run
 end
