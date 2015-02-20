@@ -2,9 +2,7 @@ language: ruby
 rvm:
 - 2.1
 
-install: gem install jekyll htlmproof
-
-script: jekyll build && htmlproof ./_site
+script: rake test
 
 env:
   global:
