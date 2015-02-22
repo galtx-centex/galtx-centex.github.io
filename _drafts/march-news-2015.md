@@ -3,7 +3,7 @@ layout: post
 title: Paws and Reflect
 ---
 
-![Fosters Needed](/img/fosters-needed.png)
+[![Fosters Needed](/img/fosters-needed.png)](/foster/)
 
 If you've ever thought about fostering, now's the time! Tomlinsons has generously donated food
 for our foster families, so now there is absolutely no monetary cost to fostering (GPA has
@@ -17,7 +17,7 @@ much for all you do!
 
 ## Greyt News!
 
-[Tamara](http://gpa-centex.org/greyhounds/tamara/) has been adopted by Alyssa Dillard.
+[Tamara](/greyhounds/tamara/) has been adopted by Alyssa Dillard.
 It didn’t take long for this country girl to be transformed into a SoCo hipster.  She already
 has an Instagram following!
 
