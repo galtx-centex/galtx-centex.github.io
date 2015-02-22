@@ -13,4 +13,4 @@ else
     mv ${source} ${destination}
 fi
 git add ${destination}
-git commit -em "Posting ${draft}"
+git commit -em "Post ${draft}"
