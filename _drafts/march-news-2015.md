@@ -5,7 +5,7 @@ title: Paws and Reflect
 
 [![Fosters Needed](/img/fosters-needed.png)](/foster/)
 
-If you've ever thought about fostering, now's the time! Tomlinsons has generously donated food
+If you've ever thought about fostering, now's the time! [Tomlinson's](http://www.tomlinsons.com/) has generously donated food
 for our foster families, so now there is absolutely no monetary cost to fostering (GPA has
 always covered medical treatment and monthly preventative medications). As many of you know, we
 appreciate and depend on our foster families to be able to take in greyhounds from the
