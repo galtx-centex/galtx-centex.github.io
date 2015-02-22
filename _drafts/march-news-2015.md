@@ -11,9 +11,10 @@ always covered medical treatment and monthly preventative medications). As many 
 appreciate and depend on our foster families to be able to take in greyhounds from the
 racetrack. We don't have a "holding" facility, so the number of greyhounds we can find homes
 for is absolutely a function of the number of foster families volunteering at any given time.
-If you're interested, or would just like to learn more about fostering, please email our foster
-coordinator, Catelyn, at [foster@gpa-centex.org](mailto:foster@gpa-centex.org). Thank you so
-much for all you do!
+If you're interested, or would just like to learn more about fostering, visit our
+[Foster page](/foster/)
+
+Thank you so much for all you do!
 
 ## Greyt News!
 
