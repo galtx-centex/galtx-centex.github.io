@@ -11,7 +11,7 @@ permalink: /greyhounds/backwoodstyson/
 
 
 Backwoods Tyson is a tall, gorgeous 75 lbs. red brindle male with white chest and feet.  His striking good looks and
-bouncing, silly personality make him a walking conversation piece.  Outgoing, playful and energetic, 15month old Tyson
+bouncing, silly personality make him a walking conversation piece.  Outgoing, playful and energetic, 15 month old Tyson
 is more of a lover than a fighter--he loves meeting new people and is not shy at all!   Tyson retired early due to
 playing/distracting other dogs while training for the racetrack.  Tyson likes to sing along with the radio in the car,
 and is not a fan of being alone or crated; however, he is learning that when his foster humans leave, there's no reason

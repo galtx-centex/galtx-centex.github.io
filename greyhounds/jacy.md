@@ -18,4 +18,4 @@ sensitive tummy and needs a home that can provide her with a high quality diet t
 to be alone or crated, preferring to embrace retirement fully and enjoys being with her people. Little Jacy would do
 best in an active home with humans and doggie companions who are home to include her in much of their day, or who can
 take her to doggie day care while at work. She has been known to share toys and beds with smaller dogs and, while not a
-retriever, can even play tug or frisbee with her miniature canine companions.
+retriever, can even play tug or Frisbee with her miniature canine companions.
