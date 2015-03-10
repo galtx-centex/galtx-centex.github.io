@@ -1,8 +1,13 @@
 language: ruby
+cache: bundler
 rvm:
 - 2.1
 
 install: script/install-hunspell.sh
+
+before_script:
+- sudo git clean -df
+- bundle update
 
 script: rake test
 
