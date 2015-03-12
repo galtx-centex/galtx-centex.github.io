@@ -2,7 +2,7 @@
 
 Greyhound Pets of America, Central Texas website
 
-Hosted on [Github Pages](https://pages.github.com/).
+Hosted on [GitHub Pages](https://pages.github.com/).
 
 And built with [Jekyll](http://jekyllrb.com/).
 
@@ -19,7 +19,7 @@ If you are on the GPA-CTX team:
 , whether it be an enhancement, update, fix, etc.
 
 2. Edit the files
-  - This can be done on your computer locally, or via Github's
+  - This can be done on your computer locally, or via GitHub's
   [Ace editor](https://help.github.com/articles/editing-files-in-your-repository)
 
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request)
