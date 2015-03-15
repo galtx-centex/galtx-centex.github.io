@@ -10,8 +10,10 @@ life. Please send your foster application (download below) to:
 [foster@gpa-centex.org](mailto:foster@gpa-centex.org).
 
 GPA-Central Texas ALWAYS needs caring foster homes (with or without cats!). GPA-CT provides the
-basic supplies; you provide food, lessons on home life, bed, safety, warmth, affection, and
-training for becoming someone's forever companion. Greyhounds are very intelligent and learn
+basic supplies; you provide lessons on home life, bed, safety, warmth, affection, and
+training for becoming someone's forever companion. Recently, Tomlinson's has generously donated food for our foster families, so now there is absolutely no monetary cost to fostering.
+
+Greyhounds are very intelligent and learn
 very quickly, particularly when given daily affection.  During the time they are in foster
 care, the greyhounds are taken to the veterinarian, get their annual shots, are spayed or
 neutered, have their teeth cleaned, are tested for heartworms and put on heartworm
