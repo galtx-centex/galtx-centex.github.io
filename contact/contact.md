@@ -14,7 +14,7 @@ __[president@gpa-centex.org](mailto:president@gpa-centex.org)__
 
 ## Board of Directors Meetings
 
-Board of Directors meetings are held on the third Tuesday of the month from 7-9pm at
+Board of Directors meetings are held on the third Tuesday of the month from 7-9 pm at
 
 [Old Quarry Branch Library, 7051 Village Center Drive, Austin, TX  78731](http://goo.gl/oV0yar).  Members are always welcome to
 join us.

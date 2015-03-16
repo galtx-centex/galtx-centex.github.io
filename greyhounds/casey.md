@@ -7,4 +7,4 @@ color: RED FAWN
 cats: no
 permalink: /greyhounds/casey/
 ---
-Striking red fawn male, 7yrs old, with over 200 races.
+Striking red fawn male, 7 yrs old, with over 200 races.
