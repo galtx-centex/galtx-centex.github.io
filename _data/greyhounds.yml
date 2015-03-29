@@ -1,3 +1,9 @@
+- name: Doc
+  thumbnail: doc.jpg
+  available: no
+  deceased: yes
+  url: doc
+
 - name: Mary
   thumbnail: mary.png
   available: yes
