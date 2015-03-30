@@ -8,11 +8,11 @@ age: 6 YEARS
 permalink: /greyhounds/carly/
 ---
 
-Sophisticated brindle girl seeks a long term relationship with someone who will give me lots of
-love. I'm a petite, athletic girl with a soft, shiny coat and dark brown eyes. I love to go on
-long walks, play with squeaky toys and eat my foster mom's cooking. I enjoy being with people
-who will talk to me and rub my ears.
+Hi, I’m Carly, a sleek dark brindle girl, playful and friendly. I’ve been told that my fur is amazingly soft and I do love a good neck and ear rub. Even though I’m a little old to be playing with toys, I still sneak into the toy basket daily and get most of the toys out. The resident greyhound in my foster home and I get along just fine but I would prefer to not share my space with small dogs or cats.
 
-My perfect evening would be dinner at home, a walk in the neighborhood, and curling-up in a
-soft bed next to yours.
+When your car drives in the driveway, I will meet you at the door with an excited yelp and a big tail wag. If I think we might possibly go for a walk, I will do an excited little tap dance but once the leash is on, I’m all business.
+
+The best times of the day for me are mealtimes. I will escort you to pick up the food bowl, lead you to the food closet and wait patiently until you put it back down. To save you work, I always clean my bowl thoroughly.
+ 
+If you have a nice soft dog bed, a steady supply of dog food and want someone to love, I’m the girl for you.
 ![alttext](/img/carly1.png "Carly")
