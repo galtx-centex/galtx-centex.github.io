@@ -15,4 +15,5 @@ When your car drives in the driveway, I will meet you at the door with an excite
 The best times of the day for me are mealtimes. I will escort you to pick up the food bowl, lead you to the food closet and wait patiently until you put it back down. To save you work, I always clean my bowl thoroughly.
  
 If you have a nice soft dog bed, a steady supply of dog food and want someone to love, I’m the girl for you.
+
 ![alttext](/img/carly1.png "Carly")
