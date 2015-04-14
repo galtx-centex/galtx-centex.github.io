@@ -7,9 +7,7 @@ title: GPA-Central Texas Annual Picnic
 
 Join us in celebrating _**20 years**_ of greyhound adoptions!
 
-_Saturday, April 11th 10:30 am through 2:30 pm_
-
-[_12157 Windy Ridge Rd., Austin 78726_](https://www.google.com/maps/place/12157+Windy+Ridge+Rd,+Austin,+TX+78726/@30.449995,-97.836644,17z/data=!3m1!4b1!4m2!3m1!1s0x865b325c582a2fd7:0xad23d6334bb264b5)
+_**TO BE RESCHEDULED DUE TO WEATHER**_
 
 This will be a family and hound friendly day on a beautiful, fully-fenced acre in Northwest
 Austin.
