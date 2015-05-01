@@ -1,3 +1,8 @@
+- name: Felix
+  thumbnail: felix.jpg
+  available: yes
+  url: felix
+
 - name: Doc
   thumbnail: doc.jpg
   available: no
