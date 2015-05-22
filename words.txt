@@ -5,6 +5,7 @@ elsif
 jpg
 png
 alttext
+baseurl
 gpalogoblue
 GPA
 gpa
@@ -32,3 +33,4 @@ LOOOVE
 como
 SoCo
 Ceelect
+Knoblock
