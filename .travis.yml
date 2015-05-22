@@ -3,6 +3,9 @@ cache: bundler
 rvm:
 - 2.1
 
+before_install:
+- sudo apt-get update -qq
+
 install: script/install-hunspell.sh
 
 before_script:
