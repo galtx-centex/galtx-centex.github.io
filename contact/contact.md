@@ -40,4 +40,4 @@ locations around the Austin area.
 
 ## *We need You!*
 
-Email [president@gpa-centex.org](mailto:president@gpa-centex.org) to volunteer!
+Email [volunteer@gpa-centex.org](mailto:volunteer@gpa-centex.org) to volunteer!
