@@ -24,4 +24,4 @@ Please look through this list to see where you fit in and what you can do to hel
 * Online Store Manager
 
 If you would like to find out more about these volunteer opportunities please contact
-[secretary@gpa-centex.org](mailto:secretary@gpa-centex.org)
+[volunteer@gpa-centex.org](mailto:volunteer@gpa-centex.org)
