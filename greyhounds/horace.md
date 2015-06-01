@@ -9,8 +9,9 @@ cats: NO
 permalink: /greyhounds/horace/
 ---
 
-Hi, I'm Horace! You might remember my brother Zander. I'm a lot like him--super cuddly, lovable
-and goofy. I can't wait to be your new best friend! My favorite activities include lounging on
+Hi, I'm Horace! You might remember my brother [Zander]({{ site.baseurl }}/greyhounds/zoolander).
+I'm a lot like him--super cuddly, lovable and goofy.
+I can't wait to be your new best friend! My favorite activities include lounging on
 the couch, playing with my stuffed toys and following humans around. I have a really big and
 quirky personality. I'm super laid back and don't mind being left alone if you have to leave.
 I'm very smart and like to find hidden toys. I also love belly rubs!
