@@ -1,3 +1,8 @@
+- name: Jack
+  thumbnail: jack2.jpg
+  available: yes
+  url: jack2
+
 - name: Felix
   thumbnail: felix.jpg
   available: yes
