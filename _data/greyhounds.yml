@@ -31,7 +31,7 @@
 
 - name: Horace
   thumbnail: horace.png
-  available: yes
+  available: no
   url: horace
 
 - name: Sage
