@@ -32,7 +32,7 @@ program, but is now doing very well in her foster home.
   </div>
 </div>
 
-The cost of Jack’s orthopedic care will exceed $3000. Unfortunately, his is not
+The cost of Jack’s orthopedic care will exceed **_$3,000_**. Unfortunately, his is not
 our only sad story recently. Help make this one a happy ever-after ending
 by [donating here](/donate/).
 Your gift in any amount is appreciated. This is #JacksStory
