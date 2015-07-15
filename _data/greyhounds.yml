@@ -1,3 +1,8 @@
+- name: Sunday
+  thumbnail: sunday.jpg
+  available: yes
+  url: sunday
+
 - name: Jill
   thumbnail: jill.jpg
   available: yes
