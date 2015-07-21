@@ -15,7 +15,7 @@
 
 - name: Felix
   thumbnail: felix.jpg
-  available: yes
+  available: no
   url: felix
 
 - name: Doc
