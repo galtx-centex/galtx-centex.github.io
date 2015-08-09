@@ -61,7 +61,7 @@
 
 - name: Bristol
   thumbnail: bristol.png
-  available: yes
+  available: no
   url: bristol
 
 - name: Raven
