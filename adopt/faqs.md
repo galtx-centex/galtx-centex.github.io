@@ -86,3 +86,5 @@ Are there special responsibilities if I adopt a greyhound?
 ----------------------------------------------------------
 Your greyhound must be kept on year-round heartworm preventative, kept free of parasites, receive regular vaccinations,
 be kept indoors, and wear a GPA-CT identification tag at all times.
+
+For more questions, please contact [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
