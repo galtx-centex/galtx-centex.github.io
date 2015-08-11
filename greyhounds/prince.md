@@ -5,6 +5,7 @@ pic: prince.jpg
 sex: MALE
 age: 1.5 YEARS
 color: FAWN
+cats: YES
 permalink: /greyhounds/prince/
 ---
 
