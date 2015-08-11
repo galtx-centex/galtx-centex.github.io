@@ -1,3 +1,8 @@
+- name: Prince
+  thumbnail: prince.jpg
+  available: yes
+  url: prince
+
 - name: Sunday
   thumbnail: sunday.jpg
   available: yes
