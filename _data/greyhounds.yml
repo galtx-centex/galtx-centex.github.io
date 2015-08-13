@@ -10,7 +10,7 @@
 
 - name: Jill
   thumbnail: jill.jpg
-  available: yes
+  available: no
   url: jill
 
 - name: Jack
