@@ -1,3 +1,13 @@
+- name: Concho
+  thumbnail: concho.jpg
+  available: yes
+  url: concho
+
+- name: Lights
+  thumbnail: lights.jpg
+  available: yes
+  url: lights
+
 - name: Prince
   thumbnail: prince.jpg
   available: yes
