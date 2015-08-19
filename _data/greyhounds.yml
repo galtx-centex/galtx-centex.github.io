@@ -15,7 +15,7 @@
 
 - name: Sunday
   thumbnail: sunday.jpg
-  available: yes
+  available: no
   url: sunday
 
 - name: Jill
