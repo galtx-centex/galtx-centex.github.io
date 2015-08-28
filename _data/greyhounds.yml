@@ -5,7 +5,7 @@
 
 - name: Lights
   thumbnail: lights.jpg
-  available: yes
+  available: no
   url: lights
 
 - name: Prince
