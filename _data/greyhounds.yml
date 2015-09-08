@@ -1,3 +1,18 @@
+- name: Eleanor
+  thumbnail: eleanor.jpg
+  available: yes
+  url: eleanor
+
+- name: Cortez
+  thumbnail: cortez.jpg
+  available: yes
+  url: cortez
+
+- name: Homer
+  thumbnail: homer.jpg
+  available: yes
+  url: homer
+
 - name: Concho
   thumbnail: concho.jpg
   available: yes
