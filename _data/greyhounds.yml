@@ -1,6 +1,6 @@
 - name: Eleanor
   thumbnail: eleanor.jpg
-  available: yes
+  available: no
   url: eleanor
 
 - name: Cortez
