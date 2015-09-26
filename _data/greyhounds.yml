@@ -10,7 +10,7 @@
 
 - name: Cortez
   thumbnail: cortez.jpg
-  available: yes
+  available: no
   url: cortez
 
 - name: Homer
