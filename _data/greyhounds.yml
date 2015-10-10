@@ -30,7 +30,7 @@
 
 - name: Concho
   thumbnail: concho.jpg
-  available: yes
+  available: no
   url: concho
 
 - name: Lights
