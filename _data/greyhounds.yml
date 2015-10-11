@@ -55,7 +55,7 @@
 
 - name: Jack
   thumbnail: jack2.jpg
-  available: yes
+  available: no
   url: jack2
 
 - name: Felix
