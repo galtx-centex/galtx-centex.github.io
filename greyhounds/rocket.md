@@ -8,4 +8,4 @@ color: FAWN
 permalink: /greyhounds/rocket/
 ---
 
-I'm a playful and loving 3 year old male. I love to cuddle with my foster parents and get along really well with my greyhound foster brother. I like to get pets and attention and love my walks. I'm very social and love to get attention anywhere I go, down the street or to the local coffee shop. I can't wait to meet my forever family!
+Mr. Rocket is VERY excited for life off the track! He loves to give kisses and hugs. He is an avid water drinker (We have never seen a dog drink as much water as he does). He is super super sweet and good with other dogs. He is very obedient and will come to you anytime his name is called. He is the BEST doctor's patient and has no problem downing a pill. He is super lovable (and loving) and very much a wonderful dog! 
