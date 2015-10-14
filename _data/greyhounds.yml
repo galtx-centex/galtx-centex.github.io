@@ -25,7 +25,7 @@
 
 - name: Homer
   thumbnail: homer.jpg
-  available: yes
+  available: no
   url: homer
 
 - name: Concho
