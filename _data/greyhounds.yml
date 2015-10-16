@@ -1,3 +1,13 @@
+- name: Stepper
+  thumbnail: stepper.png
+  available: yes
+  url: stepper
+
+- name: Alcide
+  thumbnail: alcide.png
+  available: yes
+  url: alcide
+
 - name: Tia
   thumbnail: tia.png
   available: yes
