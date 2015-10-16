@@ -1,3 +1,8 @@
+- name: Valkyrie
+  thumbnail: valkyrie.png
+  deceased: yes
+  url: valkyrie
+
 - name: Vicki
   thumbnail: vicki.png
   deceased: yes
