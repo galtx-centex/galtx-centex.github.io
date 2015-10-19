@@ -228,6 +228,7 @@
   thumbnail: checkers.jpg
   url: checkers
   available: no
+  deceased: yes
 
 - name: Jazz
   thumbnail: happyjazz.jpg
