@@ -30,7 +30,7 @@
 
 - name: Tyler
   thumbnail: tyler.png
-  available: yes
+  available: no
   url: tyler
 
 - name: Eleanor
