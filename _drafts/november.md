@@ -30,12 +30,12 @@ To volunteer, contact [dona@gpa-centex.org](mailto:dona@gpa-centex.org)
 [![Painting with a Twist](/img/painting.png)](http://paintingwithatwist.com/northaustin)
 
 **Painting with a Twist**
-<br>Sunday 11/15 at 6-9pm,
+<br>Sunday 11/15 at 6-9:00pm
 <br>8820 Burnet Rd. Austin at the intersection of 183
 
 If you missed the fun painting class we had a couple months ago, here is your chance!  This is
 a custom canvas of your pet (any pet, does not need to be a greyhound.)  **You must register in
-advance and supply a jpeg photo head shot of your pet by 11/10**.  This class is limited to 30
+advance and supply a JPEG photo head shot of your pet by 11/10**.  This class is limited to 30
 participants and always sells out, so
 [REGISTER](http://paintingwithatwist.com/events/viewevent.aspx?eventID=557192) soon.
 Cost is $55. Your canvas will be pre-sketched and ready for you to paint.
