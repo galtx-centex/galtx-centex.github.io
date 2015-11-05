@@ -48,3 +48,8 @@ gemstone jewelry for your holiday shopping ease.  Accent Gem Designs is all abou
 beautiful and unique jewelry that will enhance your fashion and style while inspiring body,
 mind and spirit.  Take a sneak peek at her online store, but come shop on 11/15.  Michele
 will be donating a percentage of her sales that evening to GPA Central Texas.
+
+## Annual Membership Picnic Pictures!
+
+Check out the pictures from the Annual Membership Picnic!
+[ktuckerphotography.com/greyhound](http://www.ktuckerphotography.com/greyhound)
