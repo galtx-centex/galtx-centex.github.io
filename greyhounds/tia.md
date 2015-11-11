@@ -5,6 +5,7 @@ pic: tia.jpg
 sex: FEMALE
 age:  2 YEARS
 color: BLACK
+cats: YES
 permalink: /greyhounds/tia/
 ---
 
