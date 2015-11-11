@@ -5,6 +5,7 @@ pic: stepper.jpg
 sex: FEMALE
 age:  9 YEARS
 color: FAWN
+cats: NO
 permalink: /greyhounds/stepper/
 ---
 
