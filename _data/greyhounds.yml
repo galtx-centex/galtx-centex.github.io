@@ -8,10 +8,10 @@
   deceased: yes
   url: vicki
 
-- name: Stepper
-  thumbnail: stepper.png
+- name: Pepper
+  thumbnail: pepper1.png
   available: yes
-  url: stepper
+  url: pepper1
 
 - name: Alcide
   thumbnail: alcide.png
