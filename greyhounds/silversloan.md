@@ -1,11 +1,11 @@
 ---
 layout: greyhound
 title: Silvia
-pic: silversloan.jpg
+pic: silvia.jpg
 sex: FEMALE
 color: BRINDLE
 cats: yes
-age: 2015
+age: Feb 6, 2006 - Nov 18, 2015
 permalink: /greyhounds/silversloan/
 ---
 
