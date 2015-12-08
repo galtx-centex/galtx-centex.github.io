@@ -20,7 +20,7 @@
 
 - name: Tia
   thumbnail: tia.png
-  available: yes
+  available: no
   url: tia
 
 - name: Rocket
