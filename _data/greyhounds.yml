@@ -204,10 +204,11 @@
   url: anastasia
   available: no
 
-- name: Silver
-  thumbnail: silversloan.jpg
+- name: Silvia
+  thumbnail: silvia.png
   url: silversloan
   available: no
+  deceased: yes
 
 - name: Jeanine
   thumbnail: ladyjeanine.jpg
