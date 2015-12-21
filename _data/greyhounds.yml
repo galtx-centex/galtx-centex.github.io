@@ -15,7 +15,7 @@
 
 - name: Alcide
   thumbnail: alcide.png
-  available: yes
+  available: no
   url: alcide
 
 - name: Tia
