@@ -1,3 +1,13 @@
+- name: Bella
+  thumbnail: bella.jpg
+  available: yes
+  url: bella1
+
+- name: Breeze
+  thumbnail: breeze.jpg
+  available: yes
+  url: breeze
+
 - name: Valkyrie
   thumbnail: valkyrie.png
   deceased: yes
