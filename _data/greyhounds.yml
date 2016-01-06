@@ -1,10 +1,10 @@
 - name: Bella
-  thumbnail: bella.jpg
+  thumbnail: bella1.png
   available: yes
   url: bella1
 
 - name: Breeze
-  thumbnail: breeze.jpg
+  thumbnail: breeze.png
   available: yes
   url: breeze
 

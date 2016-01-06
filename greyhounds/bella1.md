@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Bella
-pic: bella.jpg
+pic: bella1.JPG
 sex: FEMALE
 age:  6 YEARS
 color: WHITE/BLACK

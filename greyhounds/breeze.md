@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Breeze
-pic: breeze.jpg
+pic: breeze.JPG
 sex: FEMALE
 age:  6 YEARS
 color: BLACK
