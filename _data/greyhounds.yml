@@ -1,3 +1,13 @@
+- name: Noosa
+  thumbnail: noosa.jpg
+  available: yes
+  url: noosa
+
+- name: Greycie
+  thumbnail: greycie.jpg
+  available: yes
+  url: greycie
+
 - name: Bella
   thumbnail: bella1.png
   available: yes
