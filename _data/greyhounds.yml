@@ -45,7 +45,7 @@
 
 - name: Rocket
   thumbnail: rocket.png
-  available: yes
+  available: no
   url: rocket
 
 - name: Tyler
