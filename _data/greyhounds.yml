@@ -1,3 +1,8 @@
+- name: Lexi
+  thumbnail: lexi.jpg
+  available: yes
+  url: lexi
+
 - name: Noosa
   thumbnail: noosa.jpg
   available: yes
