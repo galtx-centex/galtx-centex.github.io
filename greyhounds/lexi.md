@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Lexi
-pic: lexi.JPG
+pic: lexi.jpg
 sex: FEMALE
 age:  2 YEARS
 color: FAWN
