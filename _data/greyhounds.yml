@@ -10,7 +10,7 @@
 
 - name: Greycie
   thumbnail: greycie.jpg
-  available: yes
+  available: no
   url: greycie
 
 - name: Bella
