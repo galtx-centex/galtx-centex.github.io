@@ -6,7 +6,7 @@ title:
 Do you know [BarkBox](https://www.barkbox.com/)?
 
 <div class="text-center">
-  <img alt="GreyhoundPets BarkBox" src="img/greyhoundpets_barkbox.jpeg">
+  <img alt="Greyhound Pets BarkBox" src="img/greyhoundpets_barkbox.jpeg">
 </div>
 
 It is a subscription service that you and your dog will love!
