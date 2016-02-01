@@ -1,3 +1,13 @@
+- name: Pettee
+  thumbnail: pettee.jpg
+  available: yes
+  url: pettee
+
+- name: Hurst
+  thumbnail: hurst.jpg
+  available: yes
+  url: hurst
+
 - name: Lexi
   thumbnail: lexi.jpg
   available: yes
