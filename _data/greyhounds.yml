@@ -25,7 +25,7 @@
 
 - name: Bella
   thumbnail: bella1.png
-  available: yes
+  available: no
   url: bella1
 
 - name: Breeze
@@ -45,7 +45,7 @@
 
 - name: Pepper
   thumbnail: pepper1.png
-  available: yes
+  available: no
   url: pepper1
 
 - name: Alcide
