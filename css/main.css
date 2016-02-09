@@ -12,6 +12,10 @@
   margin-bottom: 20px;
 }
 
+.navbar-nav.nav-justified > li {
+  float:none;
+}
+
 /* Mast head */
 .masthead {
   display: block;
