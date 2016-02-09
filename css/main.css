@@ -216,6 +216,12 @@ img {
   font-size: 130%;
 }
 
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
 /* Follow Instagram style */
 .ig-b- {
   display: inline-block;
