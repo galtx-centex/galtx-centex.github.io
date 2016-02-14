@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact GPA Central Texas
+title: Contact GPA Central Texas!
 permalink: /contact/
 ---
 
