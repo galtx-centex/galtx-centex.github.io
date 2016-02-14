@@ -26,7 +26,9 @@ mission. The main limitation on the number of dogs GPA-CT can bring into its ado
 is the number of volunteer foster families. If you would like to volunteer to foster a newly
 retired racing greyhound, please review the Foster FAQs below.
 
-Questions? Email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex.org)
+### Questions?
+
+email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex.org)
 
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/application.pdf" role="button">Download Application!</a>

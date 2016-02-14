@@ -23,4 +23,6 @@ Please look through this list to see where you fit in and what you can do to hel
 * Media/Public Relations Coordinator
 * Online Store Manager
 
-Questions? Email the Volunteer Coordinator at [volunteer@gpa-centex.org](mailto:volunteer@gpa-centex.org)
+### Questions?
+
+Email the Volunteer Coordinator at [volunteer@gpa-centex.org](mailto:volunteer@gpa-centex.org)

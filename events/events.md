@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Upcoming Events
+permalink: /events/
 ---
 
 <div class="text-center">
@@ -15,4 +16,6 @@ title: Upcoming Events
 
 </div>
 
-Questions? Email the Event Planner at [events@gpa-centex.org](mailto:events@gpa-centex.org)
+### Questions?
+
+Email the Event Planner at [events@gpa-centex.org](mailto:events@gpa-centex.org)

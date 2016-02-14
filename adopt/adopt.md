@@ -54,7 +54,9 @@ board. The normal adoption process will be followed, but the adoption fee is red
 Before being adopted, the senior greyhound will have received the same veterinary care and package as younger greyhounds,
 including a microchip.
 
-Questions? Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
+### Questions?
+
+Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
 
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/application.pdf" role="button">Download Application!</a>
