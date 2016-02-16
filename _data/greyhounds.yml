@@ -1,6 +1,6 @@
 - name: Pettee
   thumbnail: pettee.jpg
-  available: yes
+  available: no
   url: pettee
 
 - name: Hurst
@@ -15,7 +15,7 @@
 
 - name: Noosa
   thumbnail: noosa.jpg
-  available: yes
+  available: no
   url: noosa
 
 - name: Greycie
