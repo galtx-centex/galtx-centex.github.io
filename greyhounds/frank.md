@@ -1,11 +1,11 @@
 ---
 layout: greyhound
 title: Frank
-pic: frank.jpg
+pic: frank.JPG
 sex: MALE
 age: 5 YEARS
 color: BRINDLE
-cats: NA
+cats:
 permalink: /greyhounds/frank/
 ---
 

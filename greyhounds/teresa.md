@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Teresa
-pic: teresa.jpg
+pic: teresa.JPG
 sex: FEMALE
 age: 3 YEARS
 color: BLACK
