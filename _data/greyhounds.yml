@@ -1,6 +1,16 @@
+- name: Teresa
+  thumbnail: teresa.JPG
+  available: yes
+  url: teresa
+
+- name: Frank
+  thumbnail: frank.JPG
+  available: yes
+  url: frank
+
 - name: Pettee
   thumbnail: pettee.jpg
-  available: yes
+  available: no
   url: pettee
 
 - name: Hurst
@@ -15,7 +25,7 @@
 
 - name: Noosa
   thumbnail: noosa.jpg
-  available: yes
+  available: no
   url: noosa
 
 - name: Greycie
