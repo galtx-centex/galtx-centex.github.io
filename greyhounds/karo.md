@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Karo
-pic: karo.JPG
+pic: karo.jpg
 sex: FEMALE
 age: 4 YEARS
 color: BRINDLE

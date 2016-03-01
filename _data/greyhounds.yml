@@ -1,10 +1,10 @@
 - name: Demi
-  thumbnail: demi.JPG
+  thumbnail: demi.jpg
   available: yes
   url: demi
 
 - name: Karo
-  thumbnail: karo.JPG
+  thumbnail: karo.jpg
   available: yes
   url: karo
 
