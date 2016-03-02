@@ -1,3 +1,13 @@
+- name: Demi
+  thumbnail: demi.jpg
+  available: yes
+  url: demi
+
+- name: Karo
+  thumbnail: karo.jpg
+  available: yes
+  url: karo
+
 - name: Teresa
   thumbnail: teresa.JPG
   available: yes
@@ -5,7 +15,7 @@
 
 - name: Frank
   thumbnail: frank.JPG
-  available: yes
+  available: no
   url: frank
 
 - name: Pettee
