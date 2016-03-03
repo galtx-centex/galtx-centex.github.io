@@ -5,7 +5,7 @@ pic: demi.jpg
 sex: FEMALE
 age: 7 YEARS
 color: BRINDLE
-cats: TBD
+cats:
 permalink: /greyhounds/demi/
 ---
 

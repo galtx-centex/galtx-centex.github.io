@@ -5,7 +5,7 @@ pic: karo.jpg
 sex: FEMALE
 age: 4 YEARS
 color: BRINDLE
-cats: TBD
+cats:
 permalink: /greyhounds/karo/
 ---
 

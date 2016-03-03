@@ -29,7 +29,9 @@ layout: page
         <span class="label label-info">{{ page.sex }}</span>
       {% endif %}
 
-      {% if page.cats %}
+      {% if page.cats == null %}
+        <span class="label label-warning">CATS TBD</span>
+      {% elsif page.cats %}
         <span class="label label-success">CATS OK</span>
       {% else %}
         <span class="label label-danger">NO CATS</span>
