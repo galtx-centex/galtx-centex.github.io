@@ -5,7 +5,7 @@ pic: galaxy.jpg
 sex: FEMALE
 age: 3 YEARS
 color: FAWN
-cats: TBD
+cats:
 permalink: /greyhounds/galaxy/
 ---
 
