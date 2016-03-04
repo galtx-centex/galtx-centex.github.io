@@ -35,7 +35,7 @@
 
 - name: Lexi
   thumbnail: lexi.jpg
-  available: yes
+  available: no
   url: lexi
 
 - name: Noosa
