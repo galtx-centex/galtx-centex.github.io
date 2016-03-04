@@ -15,7 +15,7 @@
 
 - name: Teresa
   thumbnail: teresa.JPG
-  available: yes
+  available: no
   url: teresa
 
 - name: Frank
