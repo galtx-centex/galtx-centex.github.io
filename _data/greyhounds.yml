@@ -1,3 +1,8 @@
+- name: Siggie
+  thumbnail: siggie.jpg
+  available: yes
+  url: siggie
+
 - name: Galaxy
   thumbnail: galaxy.jpg
   available: yes
