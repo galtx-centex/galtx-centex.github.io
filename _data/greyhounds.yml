@@ -1,3 +1,18 @@
+- name: Chunk
+  thumbnail: chunk.jpg
+  available: yes
+  url: chunk
+
+- name: Bear
+  thumbnail: bear.jpg
+  available: yes
+  url: bear
+
+- name: Aine
+  thumbnail: aine.jpg
+  available: yes
+  url: aine
+
 - name: Siggie
   thumbnail: siggie.jpg
   available: yes
@@ -35,7 +50,7 @@
 
 - name: Hurst
   thumbnail: hurst.jpg
-  available: yes
+  available: no
   url: hurst
 
 - name: Lexi
