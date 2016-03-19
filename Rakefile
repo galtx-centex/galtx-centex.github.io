@@ -9,7 +9,6 @@ task :test do
 end
 
 task :clean do
-  `git checkout words.txt`
-  `find -name "*.tmp" | xargs rm -f`
-  `rm -rf _site/`
+  print `git checkout -- words.txt`
+  print `git clean -dfx`
 end
