@@ -1,3 +1,13 @@
+- name: Pearl
+  thumbnail: pearl.jpg
+  available: yes
+  url: pearl
+
+- name: Taz
+  thumbnail: taz.jpg
+  available: yes
+  url: taz
+
 - name: Chunk
   thumbnail: chunk.jpg
   available: yes
