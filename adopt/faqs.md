@@ -37,8 +37,7 @@ Greyhounds are generally gentle, quiet, clean, and good-natured.
 What is their life expectancy?
 ------------------------------
 Although most large breed dogs do not live as long as small breeds, track greyhounds have such an excellent athletic
-start in life that you can expect them to live until they are 12 to 14 years old. We know of some who have lived 17
-years.
+start in life that you can expect them to live until they are 12 to 14 years old.
 
 How much exercise do they need?
 -------------------------------
