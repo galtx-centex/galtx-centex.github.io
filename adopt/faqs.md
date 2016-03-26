@@ -6,18 +6,22 @@ permalink: /adopt/faqs/
 
 What are the adoption costs involved?
 -------------------------------------
-The total adoption donation is $225 (of which $150 is tax deductible). A deposit of $100 (payable by check or PayPal via
-the gpa-centex.org website) is required when submitting the application. The remaining adoption donation is due when the
-greyhound is adopted.
+**A non-refundable deposit of $50** should be submitted along with your application.
+This may be paid by check or electronically through our website at [gpa-centex.org/donate/](http://gpa-centex.org/donate/).
+The remaining  donation is due when an adoption is finalized.
 
-For senior (eight years or older) or special needs dogs, the total adoption donation is $100.
+Effective April 1, 2016, adoption fees are as follows (these amounts are in addition to the deposit):
 
-For a puppy (12 months or younger), the total adoption donation is $300.
+* for puppies less than one year old, the donation will be $300
+* for adult dogs age 1 - 8 years, the donation will be $200
+* for senior dogs greater than 8 years, the donation will be $100.
 
-There is no donation for foster applications.
+Your adoption will include a collar and leash set, muzzle, reference book, GPA-CT tag, one year
+membership in GPA Central Texas and the support of your GPA adoption team.  Your greyhound will
+have been spayed or neutered, vaccinated, microchipped, tested for heartworm and other parasites,
+and (except puppies) received a full dental.
 
-GPA-CT uses the adoption donation to pay for neutering or spaying, vaccinations, heartworm testing and, in most cases,
-teeth cleaning.
+There is no deposit or fee required with foster applications.
 
 What are the prerequisites for adoption?
 ----------------------------------------
