@@ -45,15 +45,6 @@ important to be prepared for that introduction to your home and family. If all i
 will set a time to finalize the adoption. We are available to help you and your new family member adjust and work
 through any issues as long as you need us.
 
-Senior Hound Adoption Program
------------------------------
-
-The GPA-CT Senior Hound Adoption Program is open to families who already have a greyhound or are approved by the
-board. The normal adoption process will be followed, but the adoption fee is reduced to $100.
-
-Before being adopted, the senior greyhound will have received the same veterinary care and package as younger greyhounds,
-including a microchip.
-
 ### Questions?
 
 Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
