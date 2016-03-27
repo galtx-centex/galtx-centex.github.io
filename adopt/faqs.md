@@ -18,7 +18,7 @@ Effective April 1, 2016, adoption fees are as follows (these amounts are in addi
 
 Your adoption will include a collar and leash set, muzzle, reference book, GPA-CT tag, one year
 membership in GPA Central Texas and the support of your GPA adoption team.  Your greyhound will
-have been spayed or neutered, vaccinated, microchipped, tested for heartworm and other parasites,
+have been spayed or neutered, vaccinated, micro-chipped, tested for heartworm and other parasites,
 and (except puppies) received a full dental.
 
 There is no deposit or fee required with foster applications.
