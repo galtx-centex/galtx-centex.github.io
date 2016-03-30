@@ -1,3 +1,8 @@
+- name: Phoebe
+  thumbnail: phoebe.jpg
+  available: yes
+  url: phoebe
+
 - name: Pearl
   thumbnail: pearl.jpg
   available: yes
@@ -10,12 +15,12 @@
 
 - name: Chunk
   thumbnail: chunk.jpg
-  available: yes
+  available: no
   url: chunk
 
 - name: Bear
   thumbnail: bear.jpg
-  available: yes
+  available: no
   url: bear
 
 - name: Aine
@@ -35,7 +40,7 @@
 
 - name: Demi
   thumbnail: demi.jpg
-  available: yes
+  available: no
   url: demi
 
 - name: Karo
