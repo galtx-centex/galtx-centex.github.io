@@ -5,7 +5,7 @@
 
 - name: Pearl
   thumbnail: pearl.jpg
-  available: yes
+  available: no
   url: pearl
 
 - name: Taz
@@ -25,7 +25,7 @@
 
 - name: Aine
   thumbnail: aine.jpg
-  available: yes
+  available: no
   url: aine
 
 - name: Siggie
