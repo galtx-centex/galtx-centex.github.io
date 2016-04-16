@@ -1,3 +1,13 @@
+- name: Colt
+  thumbnail: colt.jpg
+  available: yes
+  url: colt
+
+- name: Dayce
+  thumbnail: dayce.JPG
+  available: yes
+  url: dayce
+
 - name: Phoebe
   thumbnail: phoebe.jpg
   available: yes
