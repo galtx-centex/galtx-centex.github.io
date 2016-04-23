@@ -40,7 +40,7 @@
 
 - name: Siggie
   thumbnail: siggie.jpg
-  available: yes
+  available: no
   url: siggie
 
 - name: Galaxy
@@ -55,7 +55,7 @@
 
 - name: Karo
   thumbnail: karo.jpg
-  available: yes
+  available: no
   url: karo
 
 - name: Teresa
