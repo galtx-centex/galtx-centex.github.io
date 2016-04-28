@@ -344,7 +344,7 @@
 - name: Robin
   thumbnail: robin.jpg
   url: robin
-  available: no
+  deceased: yes
 
 - name: Casey
   thumbnail: casey.jpg
