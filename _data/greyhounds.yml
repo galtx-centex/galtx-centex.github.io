@@ -5,12 +5,12 @@
 
 - name: Dayce
   thumbnail: dayce.JPG
-  available: yes
+  available: no
   url: dayce
 
 - name: Phoebe
   thumbnail: phoebe.jpg
-  available: yes
+  available: no
   url: phoebe
 
 - name: Pearl
@@ -20,7 +20,7 @@
 
 - name: Taz
   thumbnail: taz.jpg
-  available: yes
+  available: no
   url: taz
 
 - name: Chunk
@@ -45,7 +45,7 @@
 
 - name: Galaxy
   thumbnail: galaxy.jpg
-  available: yes
+  available: no
   url: galaxy
 
 - name: Demi
