@@ -10,12 +10,12 @@
 
 - name: Denise
   thumbnail: denise.JPG
-  available: yes
+  available: no
   url: denise
 
 - name: Colt
   thumbnail: colt.jpg
-  available: yes
+  available: no
   url: colt
 
 - name: Dayce
