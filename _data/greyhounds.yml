@@ -1,3 +1,18 @@
+- name: Ballatore
+  thumbnail: ballatore.jpg
+  available: yes
+  url: ballatore
+
+- name: Judge
+  thumbnail: judge.jpg
+  available: yes
+  url: judge
+
+- name: Lookin
+  thumbnail: lookin.JPG
+  available: yes
+  url: lookin
+
 - name: Jamie
   thumbnail: jamie.JPG
   available: yes
@@ -114,7 +129,7 @@
   url: bella1
 
 - name: Breeze
-  thumbnail: breeze.png
+  thumbnail: breeze.JPG
   available: yes
   url: breeze
 
