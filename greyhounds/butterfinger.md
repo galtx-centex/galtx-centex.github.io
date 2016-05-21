@@ -1,12 +1,12 @@
 ---
 layout: greyhound
-title: Peanutbutter
-pic: peanutbutter.JPG
+title: Butterfinger
+pic: butterfinger.JPG
 sex: FEMALE
 age: 3 YEARS
 color: WHITE/BLACK
 cats:
-permalink: /greyhounds/peanutbutter/
+permalink: /greyhounds/butterfinger/
 ---
 
 I just arrived!

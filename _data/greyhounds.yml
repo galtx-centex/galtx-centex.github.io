@@ -3,10 +3,10 @@
   available: yes
   url: jamie
 
-- name: Peanutbutter
-  thumbnail: peanutbutter.JPG
+- name: Butterfinger
+  thumbnail: butterfinger.JPG
   available: yes
-  url: peanutbutter
+  url: butterfinger
 
 - name: Denise
   thumbnail: denise.JPG
