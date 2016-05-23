@@ -3,7 +3,7 @@ layout: post
 title: Tomlinson's Pound for Pound
 ---
 
-![Tomlinson's Pound for Pound](/img/2014P4Pfb_cover.jpg "Tomlinson's Pound for Pound")
+![Tomlinson's Pound for Pound](/img/poundforpound.jpg "Tomlinson's Pound for Pound")
 
 The **Pound for Pound Food Drive** is a cherished tradition at locally owned **Tomlinson’s Pet
 Supplies**.  This year GPA Central Texas has been chosen as one of the local animal rescue groups
