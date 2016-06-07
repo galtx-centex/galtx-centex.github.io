@@ -15,7 +15,7 @@
 
 - name: Jamie
   thumbnail: jamie.JPG
-  available: yes
+  available: no
   url: jamie
 
 - name: Butterfinger
