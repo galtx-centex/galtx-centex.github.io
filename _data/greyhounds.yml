@@ -1,3 +1,33 @@
+- name: Victor
+  thumbnail: victor.jpg
+  available: yes
+  url: victor
+
+- name: Plante
+  thumbnail: plante.jpg
+  available: yes
+  url: plante
+
+- name: James Bond
+  thumbnail: jamesbond.JPG
+  available: yes
+  url: jamesbond
+
+- name: Gregory
+  thumbnail: gregory.jpg
+  available: yes
+  url: gregory
+
+- name: Flower
+  thumbnail: flower.jpg
+  available: yes
+  url: flower
+
+- name: Johaunna
+  thumbnail: johaunna.jpg
+  available: yes
+  url: johaunna
+
 - name: Ballatore
   thumbnail: ballatore.jpg
   available: yes
@@ -8,10 +38,10 @@
   available: yes
   url: judge
 
-- name: Lookin
-  thumbnail: lookin.JPG
+- name: Poncho
+  thumbnail: poncho.jpg
   available: yes
-  url: lookin
+  url: poncho
 
 - name: Jamie
   thumbnail: jamie.JPG
