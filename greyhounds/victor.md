@@ -4,7 +4,7 @@ title: Victor
 pic: victor.jpg
 sex: MALE
 age: 4 YEARS
-color: brindle
+color: BRINDLE
 cats: NO
 permalink: /greyhounds/victor/
 ---
