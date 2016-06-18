@@ -56,4 +56,3 @@ Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex
   <div class="panel-footer">
     <a href="/adopt/faqs">Adoption FAQs</a>
   </div>
-</div>
