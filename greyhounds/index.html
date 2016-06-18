@@ -7,13 +7,14 @@ title: Available Greyhounds
 
   <div class="row">
 
-    {% for hash in site.data.greyhounds %}
-    {% assign greyhound = hash[1] %}
+    {% for grey_hash in site.data.greyhounds %}
+    {% assign grey_key = grey_hash[0] %}
+    {% assign greyhound = grey_hash[1] %}
 
     {% if greyhound.deceased %}
     {% elsif greyhound.available %}
       <div class="col-md-3">
-        <a href="/greyhounds/{{ greyhound.url }}">
+        <a href="/greyhounds/{{ grey_key }}">
         <div class="thumbnail">
           <img src="/img/thm/{{ greyhound.pic }}">
           <div class="text-center">

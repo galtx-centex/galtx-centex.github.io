@@ -1,6 +1,5 @@
 victor:
   name: Victor
-  url: victor
   pic: victor.jpg
   sex: MALE
   age: 4 YEARS
@@ -10,7 +9,6 @@ victor:
 
 plante:
   name: Plante
-  url: plante
   pic: plante.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -20,7 +18,6 @@ plante:
 
 jamesbond:
   name: James Bond
-  url: jamesbond
   pic: jamesbond.JPG
   sex: MALE
   age: 2 YEARS
@@ -30,7 +27,6 @@ jamesbond:
 
 gregory:
   name: Gregory
-  url: gregory
   pic: gregory.jpg
   sex: MALE
   age: 4 YEARS
@@ -40,7 +36,6 @@ gregory:
 
 flower:
   name: Flower
-  url: flower
   pic: flower.jpg
   sex: FEMALE
   age: 3 YEARS
@@ -50,7 +45,6 @@ flower:
 
 johaunna:
   name: Johaunna
-  url: johaunna
   pic: johaunna.jpg
   sex: FEMALE
   age: 3 YEARS
@@ -60,7 +54,6 @@ johaunna:
 
 ballatore:
   name: Ballatore
-  url: ballatore
   pic: ballatore.jpg
   sex: FEMALE
   age: 3 YEARS
@@ -70,7 +63,6 @@ ballatore:
 
 judge:
   name: Judge
-  url: judge
   pic: judge.jpg
   sex: MALE
   age: 4 YEARS
@@ -80,7 +72,6 @@ judge:
 
 poncho:
   name: Poncho
-  url: poncho
   pic: poncho.jpg
   sex: MALE
   age: 4 YEARS
@@ -90,7 +81,6 @@ poncho:
 
 jamie:
   name: Jamie
-  url: jamie
   pic: jamie.JPG
   sex: MALE
   age: 2 YEARS
@@ -100,7 +90,6 @@ jamie:
 
 butterfinger:
   name: Butterfinger
-  url: butterfinger
   pic: butterfinger.JPG
   sex: FEMALE
   age: 3 YEARS
@@ -110,7 +99,6 @@ butterfinger:
 
 denise:
   name: Denise
-  url: denise
   pic: denise.JPG
   sex: FEMALE
   age: 2 YEARS
@@ -120,7 +108,6 @@ denise:
 
 colt:
   name: Colt
-  url: colt
   pic: colt.jpg
   sex: FEMALE
   age: 1 YEAR
@@ -130,7 +117,6 @@ colt:
 
 dayce:
   name: Dayce
-  url: dayce
   pic: dayce.JPG
   sex: MALE
   age: 2 YEARS
@@ -140,7 +126,6 @@ dayce:
 
 phoebe:
   name: Phoebe
-  url: phoebe
   pic: phoebe.jpg
   sex: FEMALE
   age: 1 YEARS
@@ -150,7 +135,6 @@ phoebe:
 
 pearl:
   name: Pearl
-  url: pearl
   pic: pearl.jpg
   sex: FEMALE
   age: 1.5 YEARS
@@ -160,7 +144,6 @@ pearl:
 
 taz:
   name: Taz
-  url: taz
   pic: taz.jpg
   sex: MALE
   age: 2 YEARS
@@ -170,7 +153,6 @@ taz:
 
 chunk:
   name: Chunk
-  url: chunk
   pic: chunk.jpg
   sex: FEMALE
   age: 6 MONTHS
@@ -180,7 +162,6 @@ chunk:
 
 bear:
   name: Bear
-  url: bear
   pic: bear.jpg
   sex: MALE
   age: 6 MONTHS
@@ -190,7 +171,6 @@ bear:
 
 aine:
   name: Aine
-  url: aine
   pic: aine.jpg
   sex: FEMALE
   age: 6 MONTHS
@@ -200,7 +180,6 @@ aine:
 
 siggie:
   name: Siggie
-  url: siggie
   pic: siggie.jpg
   sex: FEMALE
   age: 8 YEARS
@@ -210,7 +189,6 @@ siggie:
 
 galaxy:
   name: Galaxy
-  url: galaxy
   pic: galaxy.jpg
   sex: FEMALE
   age: 3 YEARS
@@ -220,7 +198,6 @@ galaxy:
 
 demi:
   name: Demi
-  url: demi
   pic: demi.jpg
   sex: FEMALE
   age: 7 YEARS
@@ -230,7 +207,6 @@ demi:
 
 karo:
   name: Karo
-  url: karo
   pic: karo.jpg
   sex: FEMALE
   age: 4 YEARS
@@ -240,7 +216,6 @@ karo:
 
 teresa:
   name: Teresa
-  url: teresa
   pic: teresa.JPG
   sex: FEMALE
   age: 3 YEARS
@@ -250,7 +225,6 @@ teresa:
 
 frank:
   name: Frank
-  url: frank
   pic: frank.JPG
   sex: MALE
   age: 5 YEARS
@@ -260,7 +234,6 @@ frank:
 
 pettee:
   name: Pettee
-  url: pettee
   pic: pettee.jpg
   sex: MALE
   age:  YEARS
@@ -270,7 +243,6 @@ pettee:
 
 hurst:
   name: Hurst
-  url: hurst
   pic: hurst.jpg
   sex: MALE
   age: 4 YEARS
@@ -280,7 +252,6 @@ hurst:
 
 lexi:
   name: Lexi
-  url: lexi
   pic: lexi.jpg
   sex: FEMALE
   age:  2 YEARS
@@ -290,7 +261,6 @@ lexi:
 
 noosa:
   name: Noosa
-  url: noosa
   pic: noosa.JPG
   sex: FEMALE
   age:  4 YEARS
@@ -300,7 +270,6 @@ noosa:
 
 greycie:
   name: Greycie
-  url: greycie
   pic: greycie.JPG
   sex: FEMALE
   age:  7 YEARS
@@ -310,7 +279,6 @@ greycie:
 
 bella1:
   name: Bella
-  url: bella1
   pic: bella1.JPG
   sex: FEMALE
   age:  6 YEARS
@@ -320,7 +288,6 @@ bella1:
 
 breeze:
   name: Breeze
-  url: breeze
   pic: breeze.JPG
   sex: FEMALE
   age:  6 YEARS
@@ -330,7 +297,6 @@ breeze:
 
 valkyrie:
   name: Valkyrie
-  url: valkyrie
   pic: valkyrie.jpg
   sex: MALE
   color: BRINDLE
@@ -339,7 +305,6 @@ valkyrie:
 
 vicki:
   name: Vicki
-  url: vicki
   pic: vicki.jpg
   sex: FEMALE
   color: FAWN
@@ -348,7 +313,6 @@ vicki:
 
 pepper1:
   name: Pepper
-  url: pepper1
   pic: pepper1.jpg
   sex: FEMALE
   age:  9 YEARS
@@ -358,7 +322,6 @@ pepper1:
 
 alcide:
   name: Alcide
-  url: alcide
   pic: alcide.jpg
   sex: MALE
   age: 1 YEARS
@@ -367,7 +330,6 @@ alcide:
 
 tia:
   name: Tia
-  url: tia
   pic: tia.jpg
   sex: FEMALE
   age:  2 YEARS
@@ -377,7 +339,6 @@ tia:
 
 rocket:
   name: Rocket
-  url: rocket
   pic: rocket.jpg
   sex: MALE
   age:  3 YEARS
@@ -386,7 +347,6 @@ rocket:
 
 tyler:
   name: Tyler
-  url: tyler
   pic: tyler.jpg
   sex: MALE
   age:  4 YEARS
@@ -395,7 +355,6 @@ tyler:
 
 eleanor:
   name: Eleanor
-  url: eleanor
   pic: eleanor.jpg
   sex: FEMALE
   age:  5 YEARS
@@ -404,7 +363,6 @@ eleanor:
 
 cortez:
   name: Cortez
-  url: cortez
   pic: cortez.jpg
   sex: FEMALE
   cats: no
@@ -414,7 +372,6 @@ cortez:
 
 homer:
   name: Homer
-  url: homer
   pic: homer.jpg
   sex: MALE
   age:  7 YEARS
@@ -423,7 +380,6 @@ homer:
 
 concho:
   name: Concho
-  url: concho
   pic: concho.jpg
   sex: MALE
   age: 4 YEARS
@@ -432,7 +388,6 @@ concho:
 
 lights:
   name: Lights
-  url: lights
   pic: lights.jpg
   sex: FEMALE
   age:  6 YEARS
@@ -441,7 +396,6 @@ lights:
 
 prince:
   name: Prince
-  url: prince
   pic: prince.jpg
   sex: MALE
   age: 1.5 YEARS
@@ -451,7 +405,6 @@ prince:
 
 sunday:
   name: Sunday
-  url: sunday
   pic: sunday.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -460,7 +413,6 @@ sunday:
 
 jill:
   name: Jill
-  url: jill
   pic: jill.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -469,7 +421,6 @@ jill:
 
 jack2:
   name: Jack
-  url: jack2
   pic: jack2.jpg
   sex: MALE
   age: 6 YEARS
@@ -478,7 +429,6 @@ jack2:
 
 felix:
   name: Felix
-  url: felix
   pic: felix.jpg
   sex: MALE
   age: 6 YEARS
@@ -488,7 +438,6 @@ felix:
 
 doc:
   name: Doc
-  url: doc
   pic: doc.jpg
   sex: MALE
   age: 2002 - 2015
@@ -499,7 +448,6 @@ doc:
 
 mary:
   name: Mary
-  url: mary
   pic: mary.png
   sex: FEMALE
   age: 6 YEARS
@@ -509,7 +457,6 @@ mary:
 
 edmundo:
   name: Edmundo
-  url: edmundo
   pic: edmundo.png
   sex: MALE
   age: 4 YEARS
@@ -518,7 +465,6 @@ edmundo:
 
 horace:
   name: Horace
-  url: horace
   pic: horace.jpg
   sex: MALE
   age: 1 YEAR
@@ -528,7 +474,6 @@ horace:
 
 sage:
   name: Sage
-  url: sage
   pic: sage.png
   sex: FEMALE
   age: 4 YEARS
@@ -538,7 +483,6 @@ sage:
 
 buckley:
   name: Buckley
-  url: buckley
   pic: buckley.png
   sex: MALE
   age: 4 YEARS
@@ -548,7 +492,6 @@ buckley:
 
 tamara:
   name: Tamara
-  url: tamara
   pic: tamara.png
   sex: FEMALE
   age: 7 YEARS
@@ -558,7 +501,6 @@ tamara:
 
 gracie:
   name: Gracie
-  url: gracie
   pic: gracie.png
   sex: FEMALE
   age: 1 1/2 YEARS
@@ -568,7 +510,6 @@ gracie:
 
 bristol:
   name: Bristol
-  url: bristol
   pic: bristol.png
   sex: FEMALE
   age: 6 YEARS
@@ -578,7 +519,6 @@ bristol:
 
 raven:
   name: Raven
-  url: raven
   pic: raven.png
   sex: FEMALE
   age: 5 YEARS
@@ -588,7 +528,6 @@ raven:
 
 baby-girl:
   name: Baby Girl
-  url: baby-girl
   pic: baby-girl.jpg
   sex: FEMALE
   color: WHITE & BLACK
@@ -598,7 +537,6 @@ baby-girl:
 
 carly:
   name: Carly
-  url: carly
   pic: carly.png
   sex: FEMALE
   color: BRINDLE
@@ -607,7 +545,6 @@ carly:
 
 lady:
   name: Lady
-  url: lady
   pic: lady.png
   sex: FEMALE
   age: 4 YEARS
@@ -616,7 +553,6 @@ lady:
 
 bella:
   name: Bella
-  url: bella
   pic: bella.png
   sex: FEMALE
   age: 1 YEAR
@@ -626,7 +562,6 @@ bella:
 
 alex:
   name: Alex
-  url: alex
   pic: alex.jpg
   sex: MALE
   cats: no
@@ -636,7 +571,6 @@ alex:
 
 summer:
   name: Summer
-  url: summer
   pic: summer.jpg
   sex: FEMALE
   cats: no
@@ -646,7 +580,6 @@ summer:
 
 cowboy:
   name: Cowboy
-  url: cowboy
   pic: cowboy.jpg
   sex: MALE
   cats: no
@@ -656,7 +589,6 @@ cowboy:
 
 hannah:
   name: Hannah
-  url: hannah
   pic: hannah.jpg
   sex: FEMALE
   cats: yes
@@ -666,7 +598,6 @@ hannah:
 
 nicole:
   name: Nicole
-  url: nicole
   pic: nicole.jpg
   sex: FEMALE
   cats: no
@@ -676,7 +607,6 @@ nicole:
 
 poppy:
   name: Poppy
-  url: poppy
   pic: poppy.jpg
   sex: FEMALE
   cats: yes
@@ -686,7 +616,6 @@ poppy:
 
 zoolander:
   name: Zander
-  url: zoolander
   pic: zoolander.jpg
   sex: MALE
   cats: no
@@ -696,7 +625,6 @@ zoolander:
 
 antigua:
   name: Antigua
-  url: antigua
   pic: antigua.jpg
   sex: FEMALE
   color: BRINDLE
@@ -705,7 +633,6 @@ antigua:
 
 barley:
   name: Barley
-  url: barley
   pic: barley.jpg
   sex: MALE
   color: RED
@@ -714,7 +641,6 @@ barley:
 
 anastasia:
   name: Anastasia
-  url: anastasia
   pic: anastasia.jpg
   sex: FEMALE
   color: WHITE & RED
@@ -724,7 +650,6 @@ anastasia:
 
 silversloan:
   name: Silvia
-  url: silviasloan
   pic: silvia.jpg
   sex: FEMALE
   color: BRINDLE
@@ -735,7 +660,6 @@ silversloan:
 
 ladyjeanine:
   name: Jeanine
-  url: ladyjeanine
   pic: ladyjeanine.jpg
   sex: FEMALE
   color: BLACK & WHITE
@@ -744,7 +668,6 @@ ladyjeanine:
 
 haley:
   name: Haley
-  url: haley
   pic: haley.jpg
   sex: FEMALE
   color: RED FAWN
@@ -753,7 +676,6 @@ haley:
 
 dolly:
   name: Dolly
-  url: dolly
   pic: dolly.jpg
   sex: FEMALE
   color: DARK BRINDLE
@@ -762,7 +684,6 @@ dolly:
 
 checkers:
   name: Checkers
-  url: checkers
   pic: checkers.jpg
   sex: FEMALE
   color: BLACK & WHITE
@@ -773,7 +694,6 @@ checkers:
 
 happyjazz:
   name: Jazz
-  url: happyjazz
   pic: happyjazz.jpg
   sex: FEMALE
   color: RED & WHITE
@@ -782,7 +702,6 @@ happyjazz:
 
 robin:
   name: Robin
-  url: robin
   pic: robin.jpg
   sex: FEMALE
   age: April 26, 2016
@@ -792,7 +711,6 @@ robin:
 
 casey:
   name: Casey
-  url: casey
   pic: casey.jpg
   sex: MALE
   color: RED FAWN
@@ -801,7 +719,6 @@ casey:
 
 hennypenny:
   name: Penny
-  url: hennypenny
   pic: hennypenny.jpg
   sex: FEMALE
   color: BLACK
@@ -810,7 +727,6 @@ hennypenny:
 
 backwoodsjustice:
   name: Justice
-  url: backwoodsjustice
   pic: backwoodsjustice.jpg
   sex: MALE
   color: RED BRINDLE
@@ -820,7 +736,6 @@ backwoodsjustice:
 
 baxter:
   name: Baxter
-  url: baxter
   pic: baxter.jpg
   sex: MALE
   cats: no
@@ -830,7 +745,6 @@ baxter:
 
 beau:
   name: Beau
-  url: beau
   pic: beau.jpg
   sex: MALE
   age: 8 MONTHS
@@ -840,7 +754,6 @@ beau:
 
 giselle:
   name: Giselle
-  url: giselle
   pic: giselle.jpg
   sex: FEMALE
   color: RED FAWN
@@ -849,7 +762,6 @@ giselle:
 
 paco:
   name: Paco
-  url: paco
   pic: paco.jpg
   sex: MALE
   age: 3 YEARS
@@ -859,7 +771,6 @@ paco:
 
 sunflower:
   name: Sunflower
-  url: sunflower
   pic: sunflower.jpg
   sex: FEMALE
   age: 18 MONTHS
@@ -869,7 +780,6 @@ sunflower:
 
 chrissy:
   name: Chrissy
-  url: chrissy
   pic: chrissy.jpg
   sex: FEMALE
   age: 4 YEARS
@@ -879,7 +789,6 @@ chrissy:
 
 jacy:
   name: Jacy
-  url: jacy
   pic: jacy.jpg
   sex: FEMALE
   age: 15 MONTHS
@@ -889,7 +798,6 @@ jacy:
 
 santana:
   name: Santana
-  url: santana
   pic: gpa_logo_blue_150.jpg
   sex: FEMALE
   age: 5 YEARS
@@ -898,7 +806,6 @@ santana:
 
 jack:
   name: Jack
-  url: jack
   pic: jack.jpg
   sex: MALE
   age: 6 MONTHS
@@ -907,7 +814,6 @@ jack:
 
 chargingwarrior:
   name: Warrior
-  url: chargingwarrior
   pic: chargingwarrior.jpg
   sex: MALE
   age: 3 YEARS
@@ -917,7 +823,6 @@ chargingwarrior:
 
 audi:
   name: Audi
-  url: audi
   pic: audi.jpg
   sex: MALE
   age: 18 MONTHS
@@ -927,7 +832,6 @@ audi:
 
 abnar:
   name: Abnar
-  url: abnar
   pic: abnar.jpg
   sex: MALE
   age: 3 YEARS
@@ -937,7 +841,6 @@ abnar:
 
 elle:
   name: Elle
-  url: elle
   pic: elle.jpg
   sex: FEMALE
   age: 18 MONTHS
@@ -947,7 +850,6 @@ elle:
 
 opal:
   name: Opal
-  url: opal
   pic: opal.jpg
   sex: FEMALE
   age: 9 YEARS
@@ -956,7 +858,6 @@ opal:
 
 batman:
   name: Batman
-  url: batman
   pic: batman.jpg
   sex: MALE
   age: October 3, 2014
@@ -967,7 +868,6 @@ batman:
 
 harmony:
   name: Harmony
-  url: harmony
   pic: harmony.jpg
   sex: FEMALE
   color: BRINDLE
@@ -976,7 +876,6 @@ harmony:
 
 backwoodstyson:
   name: Tyson
-  url: backwoodstyson
   pic: backwoodstyson.jpg
   sex: MALE
   age: 14 MONTHS
@@ -986,7 +885,6 @@ backwoodstyson:
 
 bingo:
   name: Bingo
-  url: bingo
   pic: bingo.jpg
   sex: MALE
   age: 4 MONTHS
@@ -994,7 +892,6 @@ bingo:
 
 angelo:
   name: Angelo
-  url: angelo
   pic: angelo.jpg
   sex: MALE
   age: 3 YEARS
@@ -1004,7 +901,6 @@ angelo:
 
 backwoodsalaska:
   name: Alaska
-  url: backwoodsalaska
   pic: backwoodsalaska.jpg
   sex: MALE
   age: 12 MONTHS
@@ -1012,7 +908,6 @@ backwoodsalaska:
 
 limoncello:
   name: Limoncello
-  url: limoncello
   pic: limoncello.jpg
   sex: MALE
   age: 17 MONTHS
@@ -1022,7 +917,6 @@ limoncello:
 
 sheila:
   name: Sheila
-  url: sheila
   pic: sheila.jpg
   sex: FEMALE
   age: 6 YEARS
@@ -1031,7 +925,6 @@ sheila:
 
 backwoodstimothy:
   name: Timothy
-  url: backwoodstimothy
   pic: backwoodstimothy.jpg
   sex: MALE
   age: 12 MONTHS
@@ -1039,7 +932,6 @@ backwoodstimothy:
 
 jet:
   name: Jet
-  url: jet
   pic: jet.jpg
   sex: MALE
   age: 3 YEARS
@@ -1048,7 +940,6 @@ jet:
 
 pepper:
   name: Pepper
-  url: pepper
   pic: pepper.jpg
   sex: FEMALE
   age: 12 YEARS
@@ -1058,7 +949,6 @@ pepper:
 
 lily2:
   name: Lily
-  url: lily2
   pic: lily2.jpg
   sex: FEMALE
   age: 8 YEARS
@@ -1068,7 +958,6 @@ lily2:
 
 cathy:
   name: Cathy
-  url: cathy
   pic: cathy.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1077,7 +966,6 @@ cathy:
 
 gidget:
   name: Gidget
-  url: gidget
   pic: gidget.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1087,7 +975,6 @@ gidget:
 
 fiona:
   name: Fiona
-  url: fiona
   pic: fiona.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1096,7 +983,6 @@ fiona:
 
 cora:
   name: Cora
-  url: cora
   pic: cora.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1105,7 +991,6 @@ cora:
 
 daniel:
   name: Daniel
-  url: daniel
   pic: daniel.jpg
   sex: MALE
   age: 2 YEARS
@@ -1114,7 +999,6 @@ daniel:
 
 dynomite:
   name: Dynomite
-  url: dynomite
   pic: dynomite.jpg
   sex: MALE
   age: 3 YEARS
@@ -1123,7 +1007,6 @@ dynomite:
 
 breezy:
   name: Breezy
-  url: breezy
   pic: breezy.jpg
   sex: MALE
   age: 4 YEARS
@@ -1133,7 +1016,6 @@ breezy:
 
 vegas:
   name: Vegas
-  url: vegas
   pic: vegas.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1142,7 +1024,6 @@ vegas:
 
 luna:
   name: Luna
-  url: luna
   pic: luna.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1151,7 +1032,6 @@ luna:
 
 chrissie:
   name: Chrissie
-  url: chrissie
   pic: chrissie.jpg
   sex: FEMALE
   color: BRINDLE
@@ -1160,7 +1040,6 @@ chrissie:
 
 nantucket:
   name: Nantucket
-  url: nantucket
   pic: nantucket.jpg
   sex: MALE
   age: 6 YEARS
@@ -1169,7 +1048,6 @@ nantucket:
 
 montezuma:
   name: Montezuma
-  url: montezuma
   pic: montezuma.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1178,7 +1056,6 @@ montezuma:
 
 jediwarrior:
   name: Jedi
-  url: jediwarrior
   pic: jediwarrior.jpg
   sex: MALE
   age: 3 YEARS
@@ -1187,7 +1064,6 @@ jediwarrior:
 
 nitedesign:
   name: Nite
-  url: nitedesign
   pic: nitedesign.jpg
   sex: MALE
   age: 3 YEARS
@@ -1196,7 +1072,6 @@ nitedesign:
 
 highnoonmotive:
   name: Motive
-  url: highnoonmotive
   pic: highnoonmotive.jpg
   sex: FEMALE
   age: 4 YEARS
@@ -1205,7 +1080,6 @@ highnoonmotive:
 
 carmelo:
   name: Carmelo
-  url: carmelo
   pic: carmelo.jpg
   sex: MALE
   age: 18 MONTHS
@@ -1214,7 +1088,6 @@ carmelo:
 
 blackjackmongo:
   name: Blackjack
-  url: blackjackmongo
   pic: blackjackmongo.jpg
   sex: FEMALE
   age: 4 YEARS
@@ -1223,7 +1096,6 @@ blackjackmongo:
 
 alfie:
   name: Alfie
-  url: alfie
   pic: alfie.jpg
   sex: MALE
   age: 2 YEARS
@@ -1232,7 +1104,6 @@ alfie:
 
 iceman:
   name: Ice Man
-  url: iceman
   pic: iceman.jpg
   sex: MALE
   age: 6 YEARS
@@ -1242,7 +1113,6 @@ iceman:
 
 hotkisses:
   name: Hotkisses
-  url: hotkisses
   pic: hotkisses.jpg
   sex: FEMALE
   color: RED BRINDLE
@@ -1251,7 +1121,6 @@ hotkisses:
 
 dutchess:
   name: Dutchess
-  url: dutchess
   pic: dutchess.jpg
   sex: FEMALE
   age: 7 YEARS
@@ -1260,7 +1129,6 @@ dutchess:
 
 justin:
   name: Justin
-  url: justin
   pic: justin.jpg
   sex: MALE
   age: 2 YEARS
@@ -1269,7 +1137,6 @@ justin:
 
 erin:
   name: Erin
-  url: erin
   pic: erin.jpg
   sex: FEMALE
   age: 5 YEARS
@@ -1279,7 +1146,6 @@ erin:
 
 nick:
   name: Nick
-  url: nick
   pic: nick.jpg
   sex: MALE
   age: 4 YEARS
@@ -1289,7 +1155,6 @@ nick:
 
 brianna:
   name: Brianna
-  url: brianna
   pic: brianna.jpg
   sex: FEMALE
   age: 8 YEARS
@@ -1297,7 +1162,6 @@ brianna:
 
 holly:
   name: Holly
-  url: holly
   pic: holly.jpg
   sex: FEMALE
   color: WHITE & BLACK
@@ -1305,7 +1169,6 @@ holly:
 
 twinkle:
   name: Twinkle
-  url: twinkle
   pic: twinkle.jpg
   sex: FEMALE
   color: WHITE & BRINDLE
@@ -1315,7 +1178,6 @@ twinkle:
 
 blue:
   name: Blue
-  url: blue
   pic: blue.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1325,7 +1187,6 @@ blue:
 
 nadia:
   name: Nadia
-  url: nadia
   pic: nadia.jpg
   sex: FEMALE
   age: 5 YEARS
@@ -1335,7 +1196,6 @@ nadia:
 
 bette:
   name: Bette
-  url: bette
   pic: bette.jpg
   sex: FEMALE
   age: 3 YEARS
@@ -1344,7 +1204,6 @@ bette:
 
 carlos:
   name: Carlos
-  url: carlos
   pic: carlos.jpg
   sex: MALE
   age: 4 YEARS
@@ -1354,7 +1213,6 @@ carlos:
 
 monanicole:
   name: Nicole
-  url: monanicole
   pic: monanicole.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1364,14 +1222,12 @@ monanicole:
 
 sandy:
   name: Sandy
-  url: sandy
   pic: gpa_logo_blue_150.jpg
   sex: FEMALE
   available: no
 
 lindamcpike:
   name: Linda
-  url: lindamcpike
   pic: lindamcpike.jpg
   sex: FEMALE
   age: 2 YEARS
@@ -1381,7 +1237,6 @@ lindamcpike:
 
 jimmy:
   name: Jimmy
-  url: jimmy
   pic: jimmy.jpg
   sex: MALE
   age: 16 MONTHS
@@ -1391,7 +1246,6 @@ jimmy:
 
 coal:
   name: Coal
-  url: coal
   pic: coal.jpg
   sex: MALE
   age: 2 YEARS
@@ -1401,7 +1255,6 @@ coal:
 
 stormy:
   name: Stormy
-  url: stormy
   pic: stormy.jpg
   sex: FEMALE
   age: April 13, 2002 - May 14, 2014
@@ -1412,7 +1265,6 @@ stormy:
 
 alyann:
   name: Alyann
-  url: alyann
   pic: alyann.jpg
   sex: FEMALE
   color: BRINDLE
@@ -1420,7 +1272,6 @@ alyann:
 
 ballymac:
   name: Ballymac
-  url: ballymac
   pic: ballymac.jpg
   sex: MALE
   age: 7 YEARS
@@ -1430,7 +1281,6 @@ ballymac:
 
 hully:
   name: Hully
-  url: hully
   pic: hully.jpg
   sex: MALE
   age: 2 YEARS
@@ -1440,7 +1290,6 @@ hully:
 
 shiner:
   name: Shiner
-  url: shiner
   pic: shiner.jpg
   sex: MALE
   age: 4 YEARS
@@ -1450,7 +1299,6 @@ shiner:
 
 easy:
   name: Easy
-  url: easy
   pic: easy.jpg
   sex: MALE
   age: 4 YEARS
@@ -1460,7 +1308,6 @@ easy:
 
 peach:
   name: Peach
-  url: peach
   pic: peach.jpg
   sex: FEMALE
   age: 6 YEARS
@@ -1469,7 +1316,6 @@ peach:
 
 lily:
   name: Lily
-  url: lily
   pic: lily.jpg
   sex: FEMALE
   age: 6 YEARS
@@ -1478,7 +1324,6 @@ lily:
 
 hope:
   name: Hope
-  url: hope
   pic: hope.jpg
   sex: FEMALE
   age: 1 YEAR
@@ -1487,7 +1332,6 @@ hope:
 
 piper:
   name: Piper
-  url: piper
   pic: piper.jpg
   sex: FEMALE
   age: 1 YEAR
