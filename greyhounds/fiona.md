@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Fiona
-pic: fiona.jpg
-sex: FEMALE
-age: 2 YEARS
-color: WHITE & BRINDLE
+greyhound: fiona
 permalink: /greyhounds/fiona/
 ---
 

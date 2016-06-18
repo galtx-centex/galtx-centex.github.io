@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Vicki
-pic: vicki.jpg
-sex: FEMALE
-color: FAWN
-age: 2015
+greyhound: vicki
 permalink: /greyhounds/vicki/
 ---
 

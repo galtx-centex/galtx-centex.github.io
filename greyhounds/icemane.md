@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Ice Man
-pic: iceman.jpg
-sex: MALE
-age: 6 YEARS
-color: WHITE & BRINDLE
-cats: yes
+greyhound: iceman
 permalink: /greyhounds/iceman/
 ---
 

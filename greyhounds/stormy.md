@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Stormy
-pic: stormy.jpg
-sex: FEMALE
-age: April 13, 2002 - May 14, 2014
-color: DARK BRINDLE
-cats: no
+greyhound: stormy
 permalink: /greyhounds/stormy/
 ---
 

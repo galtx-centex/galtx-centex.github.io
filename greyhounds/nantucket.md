@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Nantucket
-pic: nantucket.jpg
-sex: MALE
-age: 6 YEARS
-color: BRINDLE
+greyhound: nantucket
 permalink: /greyhounds/nantucket/
 ---
 

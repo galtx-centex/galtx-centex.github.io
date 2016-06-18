@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Linda McPike
-pic: lindamcpike.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BRINDLE & WHITE
-cats: yes
+greyhound: lindamcpike
 permalink: /greyhounds/lindamcpike/
 ---
 

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: High Noon Motive
-pic: highnoonmotive.jpg
-sex: FEMALE
-age: 4 YEARS
-color: BRINDLE
+greyhound: highnoonmotive
 permalink: /greyhounds/highnoonmotive/
 ---
 

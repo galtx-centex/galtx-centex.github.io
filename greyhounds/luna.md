@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Luna
-pic: luna.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BLACK
+greyhound: luna
 permalink: /greyhounds/luna/
 ---
 

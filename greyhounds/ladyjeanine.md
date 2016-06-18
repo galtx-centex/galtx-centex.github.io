@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Lady Jeanine
-pic: ladyjeanine.jpg
-sex: FEMALE
-color: BLACK & WHITE
-cats: yes
+greyhound: ladyjeanine
 permalink: /greyhounds/ladyjeanine/
 ---
 

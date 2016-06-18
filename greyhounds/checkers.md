@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Checkers
-pic: checkers.jpg
-sex: FEMALE
-color: BLACK & WHITE
-cats: yes
-age: 2006 - 2015
+greyhound: checkers
 permalink: /greyhounds/checkers/
 ---
 

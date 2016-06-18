@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Alfie
-pic: alfie.jpg
-sex: MALE
-age: 2 YEARS
-color: RED
+greyhound: alfie
 permalink: /greyhounds/alfie/
 ---
 

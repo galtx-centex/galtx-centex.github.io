@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Doc
-pic: doc.jpg
-sex: MALE
-age: 2002 - 2015
-color: BRINDLE
-cats: YES
+greyhound: doc
 permalink: /greyhounds/doc/
 ---
 

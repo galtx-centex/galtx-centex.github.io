@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Dutchess
-pic: dutchess.jpg
-sex: FEMALE
-age: 7 YEARS
-color: BLACK & WHITE
+greyhound: dutchess
 permalink: /greyhounds/dutchess/
 ---
 

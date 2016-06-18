@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Erin
-pic: erin.jpg
-sex: FEMALE
-age: 5 YEARS
-color: WHITE & BRINDLE
-cats: no
+greyhound: erin
 permalink: /greyhounds/erin/
 ---
 

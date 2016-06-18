@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Shiner
-pic: shiner.jpg
-sex: MALE
-age: 4 YEARS
-color: WHITE & BRINDLE
-cats: yes
+greyhound: shiner
 permalink: /greyhounds/shiner/
 ---
 

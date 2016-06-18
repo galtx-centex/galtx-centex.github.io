@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Flower
-pic: flower.jpg
-sex: FEMALE
-age: 3 YEARS
-color: BLACK
-cats: YES
+greyhound: flower
 permalink: /greyhounds/flower/
 ---
 

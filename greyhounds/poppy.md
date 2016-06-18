@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Poppy
-pic: poppy.jpg
-sex: FEMALE
-cats: YES
-color: RED
-age: 5 YEARS
+greyhound: poppy
 permalink: /greyhounds/poppy/
 ---
 

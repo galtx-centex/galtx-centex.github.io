@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Sage
-pic: sage.png
-sex: FEMALE
-age: 4 YEARS
-color: FAWN
-cats:
+greyhound: sage
 permalink: /greyhounds/sage/
 ---
 

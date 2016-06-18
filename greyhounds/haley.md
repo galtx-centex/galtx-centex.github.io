@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Haley
-pic: haley.jpg
-sex: FEMALE
-color: RED FAWN
-cats: no
+greyhound: haley
 permalink: /greyhounds/haley/
 ---
 

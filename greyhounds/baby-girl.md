@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Baby Girl
-pic: baby-girl.jpg
-sex: FEMALE
-color: WHITE & BLACK
-age: 6 YEARS
-cats: yes
+greyhound: baby-girl
 permalink: /greyhounds/baby-girl/
 ---
 

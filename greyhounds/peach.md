@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Peach
-pic: peach.jpg
-sex: FEMALE
-age: 6 YEARS
-color: LIGHT FAWN
+greyhound: peach
 permalink: /greyhounds/peach/
 ---
 

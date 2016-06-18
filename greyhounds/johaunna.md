@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Johaunna
-pic: johaunna.jpg
-sex: FEMALE
-age: 3 YEARS
-color: BLACK
-cats: NO
+greyhound: johaunna
 permalink: /greyhounds/johaunna/
 ---
 

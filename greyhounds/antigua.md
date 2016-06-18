@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Antigua Tia
-pic: antigua.jpg
-sex: FEMALE
-color: BRINDLE
-cats: yes
+greyhound: antigua
 permalink: /greyhounds/antigua/
 ---
 

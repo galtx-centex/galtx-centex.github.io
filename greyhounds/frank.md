@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Frank
-pic: frank.JPG
-sex: MALE
-age: 5 YEARS
-color: BRINDLE
-cats:
+greyhound: frank
 permalink: /greyhounds/frank/
 ---
 

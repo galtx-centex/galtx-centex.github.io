@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Timothy
-pic: backwoodstimothy.jpg
-sex: MALE
-age: 12 MONTHS
+greyhound: backwoodstimothy
 permalink: /greyhounds/backwoodstimothy/
 ---
 

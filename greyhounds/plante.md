@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Plante
-pic: plante.jpg
-sex: FEMALE
-age: 2 YEARS
-color: WHITE/BLACK
-cats: YES
+greyhound: plante
 permalink: /greyhounds/plante/
 ---
 

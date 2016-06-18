@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Poncho
-pic: poncho.jpg
-sex: MALE
-age: 4 YEARS
-color: RED
-cats:
+greyhound: poncho
 permalink: /greyhounds/poncho/
 ---
 

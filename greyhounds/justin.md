@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Justin
-pic: justin.jpg
-sex: MALE
-age: 2 YEARS
-color: RED FAWN
+greyhound: justin
 permalink: /greyhounds/justin/
 ---
 

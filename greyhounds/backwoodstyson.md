@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Tyson
-pic: backwoodstyson.jpg
-sex: MALE
-age: 14 MONTHS
-color: RED BRINDLE
-cats: yes
+greyhound: backwoodstyson
 permalink: /greyhounds/backwoodstyson/
 ---
 

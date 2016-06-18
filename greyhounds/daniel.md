@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Daniel
-pic: daniel.jpg
-sex: MALE
-age: 2 YEARS
-color: BLACK & WHITE
+greyhound: daniel
 permalink: /greyhounds/daniel/
 ---
 

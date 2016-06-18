@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Colt
-pic: colt.jpg
-sex: FEMALE
-age: 1 YEAR
-color: BLACK
-cats:
+greyhound: colt
 permalink: /greyhounds/colt/
 ---
 

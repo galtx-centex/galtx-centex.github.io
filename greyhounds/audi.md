@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Audi
-pic: audi.jpg
-sex: MALE
-age: 18 MONTHS
-color: WHITE & BLACK
-cats: yes
+greyhound: audi
 permalink: /greyhounds/audi/
 ---
 

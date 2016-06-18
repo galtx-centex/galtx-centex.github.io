@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Valkyrie
-pic: valkyrie.jpg
-sex: MALE
-color: BRINDLE
-age: 2015
+greyhound: valkyrie
 permalink: /greyhounds/valkyrie/
 ---
 

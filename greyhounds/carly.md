@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Carly
-pic: carly.png
-sex: FEMALE
-color: BRINDLE
-age: 6 YEARS
+greyhound: carly
 permalink: /greyhounds/carly/
 ---
 

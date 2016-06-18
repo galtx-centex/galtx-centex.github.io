@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Taz
-pic: taz.jpg
-sex: MALE
-age: 2 YEARS
-color: FAWN
-cats:
+greyhound: taz
 permalink: /greyhounds/taz/
 ---
 

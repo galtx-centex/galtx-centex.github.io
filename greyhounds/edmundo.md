@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Edmundo
-pic: edmundo.png
-sex: MALE
-age: 4 YEARS
-color: WHITE/RED
-cats: 
+greyhound: edmundo
 permalink: /greyhounds/edmundo/
 ---
 

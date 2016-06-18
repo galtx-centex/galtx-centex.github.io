@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: James Bond
-pic: jamesbond.JPG
-sex: MALE
-age: 2 YEARS
-color: BLACK
-cats: YES
+greyhound: jamesbond
 permalink: /greyhounds/jamesbond/
 ---
 

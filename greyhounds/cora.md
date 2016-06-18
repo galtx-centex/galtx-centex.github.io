@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Cora
-pic: cora.jpg
-sex: FEMALE
-age: 2 YEARS
-color: DARK BRINDLE
+greyhound: cora
 permalink: /greyhounds/cora/
 ---
 

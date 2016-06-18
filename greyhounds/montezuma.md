@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Montezuma
-pic: montezuma.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BRINDLE
+greyhound: montezuma
 permalink: /greyhounds/montezuma/
 ---
 

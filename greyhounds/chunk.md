@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Chunk
-pic: chunk.jpg
-sex: FEMALE
-age: 6 MONTHS
-color: WHITE/BRINDLE
-cats:
+greyhound: chunk
 permalink: /greyhounds/chunk/
 ---
 

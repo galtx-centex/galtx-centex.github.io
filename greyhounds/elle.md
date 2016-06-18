@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Elle
-pic: elle.jpg
-sex: FEMALE
-age: 18 MONTHS
-color: BROWN BRINDLE
-cats: yes
+greyhound: elle
 permalink: /greyhounds/elle/
 ---
 

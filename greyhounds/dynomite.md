@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Dynomite
-pic: dynomite.jpg
-sex: MALE
-age: 3 YEARS
-color: BLACK & WHITE
+greyhound: dynomite
 permalink: /greyhounds/dynomite/
 ---
 

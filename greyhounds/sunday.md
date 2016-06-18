@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Sunday
-pic: sunday.jpg
-sex: FEMALE
-age: 2 YEARS
-color: FAWN
+greyhound: sunday
 permalink: /greyhounds/sunday/
 ---
 

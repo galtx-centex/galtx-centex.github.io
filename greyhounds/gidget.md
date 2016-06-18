@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Gidget
-pic: gidget.jpg
-sex: FEMALE
-age: 2 YEARS
-color: FAWN
-cats: yes
+greyhound: gidget
 permalink: /greyhounds/gidget/
 ---
 

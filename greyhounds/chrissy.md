@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Chrissy
-pic: chrissy.jpg
-sex: FEMALE
-age: 4 YEARS
-color: WHITE & BLACK
-cats: yes
+greyhound: chrissy
 permalink: /greyhounds/chrissy/
 ---
 

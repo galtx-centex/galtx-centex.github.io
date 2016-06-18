@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Cathy
-pic: cathy.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BLACK
+greyhound: cathy
 permalink: /greyhounds/cathy/
 ---
 

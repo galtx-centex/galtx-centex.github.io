@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Nick
-pic: nick.jpg
-sex: MALE
-age: 4 YEARS
-color: BLACK & WHITE
-cats: yes
+greyhound: nick
 permalink: /greyhounds/nick/
 ---
 

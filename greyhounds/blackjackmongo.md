@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Blackjack Mongo
-pic: blackjackmongo.jpg
-sex: FEMALE
-age: 4 YEARS
-color: DARK BRINDLE
+greyhound: blackjackmongo
 permalink: /greyhounds/blackjackmongo/
 ---
 

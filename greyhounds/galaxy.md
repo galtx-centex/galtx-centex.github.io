@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Galaxy
-pic: galaxy.jpg
-sex: FEMALE
-age: 3 YEARS
-color: FAWN
-cats:
+greyhound: galaxy
 permalink: /greyhounds/galaxy/
 ---
 

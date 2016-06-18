@@ -2,9 +2,11 @@
 layout: page
 ---
 
+{% assign greyhound = site.data.greyhounds[page.greyhound] %}
+
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/{{ page.pic }}"></img>
+    <img src="/img/{{ greyhound.pic }}"></img>
   </div>
   <div class="post-content">
     {{ content }}
@@ -21,26 +23,26 @@ layout: page
     </div>
     <div class="col-md-6 align-right">
 
-      {% if page.sex == "MALE" %}
-        <span class="label label-primary">{{ page.sex }}</span>
-      {% elsif page.sex == "FEMALE" %}
-        <span class="label label-info">{{ page.sex }}</span>
+      {% if greyhound.sex == "MALE" %}
+        <span class="label label-primary">{{ greyhound.sex }}</span>
+      {% elsif greyhound.sex == "FEMALE" %}
+        <span class="label label-info">{{ greyhound.sex }}</span>
       {% endif %}
 
-      {% if page.cats == null %}
+      {% if greyhound.cats == null %}
         <span class="label label-warning">CATS TBD</span>
-      {% elsif page.cats %}
+      {% elsif greyhound.cats %}
         <span class="label label-success">CATS OK</span>
       {% else %}
         <span class="label label-danger">NO CATS</span>
       {% endif %}
 
-      {% if page.color %}
-        <span class="label label-default">{{ page.color }}</span>
+      {% if greyhound.color %}
+        <span class="label label-default">{{ greyhound.color }}</span>
       {% endif %}
 
-      {% if page.age %}
-        <span class="label label-default">{{ page.age }}</span>
+      {% if greyhound.age %}
+        <span class="label label-default">{{ greyhound.age }}</span>
       {% endif %}
 
     </div>

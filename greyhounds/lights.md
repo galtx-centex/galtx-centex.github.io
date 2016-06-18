@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Lights
-pic: lights.jpg
-sex: FEMALE
-age:  6 YEARS
-color: WHITE/BLACK
+greyhound: lights
 permalink: /greyhounds/lights/
 ---
 

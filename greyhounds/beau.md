@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Beau
-pic: beau.jpg
-sex: MALE
-age: 8 MONTHS
-color: FAWN
-cat: yes
+greyhound: beau
 permalink: /greyhounds/beau/
 ---
 Beau is about eight months old. He is playful, energetic, affectionate and smart. He will do anything for a treat and

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Sheila
-pic: sheila.jpg
-sex: FEMALE
-age: 6 YEARS
-color: LIGHT BRINDLE
+greyhound: sheila
 permalink: /greyhounds/sheila/
 ---
 

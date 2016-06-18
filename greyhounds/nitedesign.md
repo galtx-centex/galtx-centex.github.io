@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Nite Design
-pic: nitedesign.jpg
-sex: MALE
-age: 3 YEARS
-color: BLACK
+greyhound: nitedesign
 permalink: /greyhounds/nitedesign/
 ---
 

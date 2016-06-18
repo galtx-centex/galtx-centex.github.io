@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Alcide
-pic: alcide.jpg
-sex: MALE
-age:  1 YEARS
-color: WHITE/BRINDLE
+greyhound: alcide
 permalink: /greyhounds/alcide/
 ---
 

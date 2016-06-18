@@ -1,784 +1,1494 @@
-- name: Victor
-  thumbnail: victor.jpg
-  available: yes
+victor:
+  name: Victor
   url: victor
-
-- name: Plante
-  thumbnail: plante.jpg
+  pic: victor.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: BRINDLE
+  cats: no
   available: yes
+
+plante:
+  name: Plante
   url: plante
-
-- name: James Bond
-  thumbnail: jamesbond.JPG
+  pic: plante.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: WHITE/BLACK
+  cats: yes
   available: yes
+
+jamesbond:
+  name: James Bond
   url: jamesbond
-
-- name: Gregory
-  thumbnail: gregory.jpg
+  pic: jamesbond.JPG
+  sex: MALE
+  age: 2 YEARS
+  color: BLACK
+  cats: yes
   available: yes
+
+gregory:
+  name: Gregory
   url: gregory
-
-- name: Flower
-  thumbnail: flower.jpg
+  pic: gregory.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: BLACK
+  cats: yes
   available: yes
+
+flower:
+  name: Flower
   url: flower
-
-- name: Johaunna
-  thumbnail: johaunna.jpg
+  pic: flower.jpg
+  sex: FEMALE
+  age: 3 YEARS
+  color: BLACK
+  cats: yes
   available: yes
+
+johaunna:
+  name: Johaunna
   url: johaunna
-
-- name: Ballatore
-  thumbnail: ballatore.jpg
+  pic: johaunna.jpg
+  sex: FEMALE
+  age: 3 YEARS
+  color: BLACK
+  cats: no
   available: yes
+
+ballatore:
+  name: Ballatore
   url: ballatore
-
-- name: Judge
-  thumbnail: judge.jpg
+  pic: ballatore.jpg
+  sex: FEMALE
+  age: 3 YEARS
+  color: RED
+  cats: yes
   available: yes
+
+judge:
+  name: Judge
   url: judge
-
-- name: Poncho
-  thumbnail: poncho.jpg
+  pic: judge.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: ORANGE/WHITE
+  cats:
   available: yes
+
+poncho:
+  name: Poncho
   url: poncho
+  pic: poncho.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: RED
+  cats:
+  available: yes
 
-- name: Jamie
-  thumbnail: jamie.JPG
-  available: no
+jamie:
+  name: Jamie
   url: jamie
+  pic: jamie.JPG
+  sex: MALE
+  age: 2 YEARS
+  color: WHITE/BRINDLE
+  cats:
+  available: no
 
-- name: Butterfinger
-  thumbnail: butterfinger.JPG
-  available: yes
+butterfinger:
+  name: Butterfinger
   url: butterfinger
+  pic: butterfinger.JPG
+  sex: FEMALE
+  age: 3 YEARS
+  color: WHITE/BLACK
+  cats:
+  available: yes
 
-- name: Denise
-  thumbnail: denise.JPG
-  available: no
+denise:
+  name: Denise
   url: denise
-
-- name: Colt
-  thumbnail: colt.jpg
+  pic: denise.JPG
+  sex: FEMALE
+  age: 2 YEARS
+  color: BLACK
+  cats:
   available: no
+
+colt:
+  name: Colt
   url: colt
-
-- name: Dayce
-  thumbnail: dayce.JPG
+  pic: colt.jpg
+  sex: FEMALE
+  age: 1 YEAR
+  color: BLACK
+  cats:
   available: no
+
+dayce:
+  name: Dayce
   url: dayce
-
-- name: Phoebe
-  thumbnail: phoebe.jpg
+  pic: dayce.JPG
+  sex: MALE
+  age: 2 YEARS
+  color: FAWN
+  cats:
   available: no
+
+phoebe:
+  name: Phoebe
   url: phoebe
-
-- name: Pearl
-  thumbnail: pearl.jpg
+  pic: phoebe.jpg
+  sex: FEMALE
+  age: 1 YEARS
+  color: FAWN
+  cats: yes
   available: no
+
+pearl:
+  name: Pearl
   url: pearl
-
-- name: Taz
-  thumbnail: taz.jpg
+  pic: pearl.jpg
+  sex: FEMALE
+  age: 1.5 YEARS
+  color: WHITE
+  cats:
   available: no
+
+taz:
+  name: Taz
   url: taz
-
-- name: Chunk
-  thumbnail: chunk.jpg
+  pic: taz.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: FAWN
+  cats:
   available: no
+
+chunk:
+  name: Chunk
   url: chunk
-
-- name: Bear
-  thumbnail: bear.jpg
+  pic: chunk.jpg
+  sex: FEMALE
+  age: 6 MONTHS
+  color: WHITE/BRINDLE
+  cats:
   available: no
+
+bear:
+  name: Bear
   url: bear
-
-- name: Aine
-  thumbnail: aine.jpg
+  pic: bear.jpg
+  sex: MALE
+  age: 6 MONTHS
+  color: BLACK
+  cats: yes
   available: no
+
+aine:
+  name: Aine
   url: aine
-
-- name: Siggie
-  thumbnail: siggie.jpg
+  pic: aine.jpg
+  sex: FEMALE
+  age: 6 MONTHS
+  color: BLACK/WHITE
+  cats:
   available: no
+
+siggie:
+  name: Siggie
   url: siggie
-
-- name: Galaxy
-  thumbnail: galaxy.jpg
+  pic: siggie.jpg
+  sex: FEMALE
+  age: 8 YEARS
+  color: BRINDLE
+  cats: yes
   available: no
+
+galaxy:
+  name: Galaxy
   url: galaxy
-
-- name: Demi
-  thumbnail: demi.jpg
+  pic: galaxy.jpg
+  sex: FEMALE
+  age: 3 YEARS
+  color: FAWN
+  cats:
   available: no
+
+demi:
+  name: Demi
   url: demi
-
-- name: Karo
-  thumbnail: karo.jpg
+  pic: demi.jpg
+  sex: FEMALE
+  age: 7 YEARS
+  color: BRINDLE
+  cats:
   available: no
+
+karo:
+  name: Karo
   url: karo
-
-- name: Teresa
-  thumbnail: teresa.JPG
+  pic: karo.jpg
+  sex: FEMALE
+  age: 4 YEARS
+  color: BRINDLE
+  cats: no
   available: no
+
+teresa:
+  name: Teresa
   url: teresa
-
-- name: Frank
-  thumbnail: frank.JPG
+  pic: teresa.JPG
+  sex: FEMALE
+  age: 3 YEARS
+  color: BLACK
+  cats: no
   available: no
+
+frank:
+  name: Frank
   url: frank
-
-- name: Pettee
-  thumbnail: pettee.jpg
+  pic: frank.JPG
+  sex: MALE
+  age: 5 YEARS
+  color: BRINDLE
+  cats:
   available: no
+
+pettee:
+  name: Pettee
   url: pettee
-
-- name: Hurst
-  thumbnail: hurst.jpg
+  pic: pettee.jpg
+  sex: MALE
+  age:  YEARS
+  color: FAWN
+  cats: no
   available: no
+
+hurst:
+  name: Hurst
   url: hurst
+  pic: hurst.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: BLACK
+  cats: no
+  available: no
 
-- name: Lexi
-  thumbnail: lexi.jpg
-  available: yes
+lexi:
+  name: Lexi
   url: lexi
-
-- name: Noosa
-  thumbnail: noosa.jpg
-  available: no
-  url: noosa
-
-- name: Greycie
-  thumbnail: greycie.jpg
-  available: no
-  url: greycie
-
-- name: Bella
-  thumbnail: bella1.png
-  available: no
-  url: bella1
-
-- name: Breeze
-  thumbnail: breeze.JPG
+  pic: lexi.jpg
+  sex: FEMALE
+  age:  2 YEARS
+  color: FAWN
+  cats:
   available: yes
+
+noosa:
+  name: Noosa
+  url: noosa
+  pic: noosa.JPG
+  sex: FEMALE
+  age:  4 YEARS
+  color: BLACK
+  cats: yes
+  available: no
+
+greycie:
+  name: Greycie
+  url: greycie
+  pic: greycie.JPG
+  sex: FEMALE
+  age:  7 YEARS
+  color: BRINDLE
+  cats: yes
+  available: no
+
+bella1:
+  name: Bella
+  url: bella1
+  pic: bella1.JPG
+  sex: FEMALE
+  age:  6 YEARS
+  color: WHITE/BLACK
+  cats: yes
+  available: no
+
+breeze:
+  name: Breeze
   url: breeze
+  pic: breeze.JPG
+  sex: FEMALE
+  age:  6 YEARS
+  color: BLACK
+  cats: no
+  available: yes
 
-- name: Valkyrie
-  thumbnail: valkyrie.png
-  deceased: yes
+valkyrie:
+  name: Valkyrie
   url: valkyrie
-
-- name: Vicki
-  thumbnail: vicki.png
+  pic: valkyrie.jpg
+  sex: MALE
+  color: BRINDLE
+  age: 2015
   deceased: yes
+
+vicki:
+  name: Vicki
   url: vicki
+  pic: vicki.jpg
+  sex: FEMALE
+  color: FAWN
+  age: 2015
+  deceased: yes
 
-- name: Pepper
-  thumbnail: pepper1.png
-  available: no
+pepper1:
+  name: Pepper
   url: pepper1
-
-- name: Alcide
-  thumbnail: alcide.png
+  pic: pepper1.jpg
+  sex: FEMALE
+  age:  9 YEARS
+  color: FAWN
+  cats: no
   available: no
+
+alcide:
+  name: Alcide
   url: alcide
-
-- name: Tia
-  thumbnail: tia.png
+  pic: alcide.jpg
+  sex: MALE
+  age: 1 YEARS
+  color: WHITE/BRINDLE
   available: no
+
+tia:
+  name: Tia
   url: tia
-
-- name: Rocket
-  thumbnail: rocket.png
+  pic: tia.jpg
+  sex: FEMALE
+  age:  2 YEARS
+  color: BLACK
+  cats: yes
   available: no
+
+rocket:
+  name: Rocket
   url: rocket
-
-- name: Tyler
-  thumbnail: tyler.png
+  pic: rocket.jpg
+  sex: MALE
+  age:  3 YEARS
+  color: FAWN
   available: no
+
+tyler:
+  name: Tyler
   url: tyler
-
-- name: Eleanor
-  thumbnail: eleanor.jpg
+  pic: tyler.jpg
+  sex: MALE
+  age:  4 YEARS
+  color: BRINDLE
   available: no
+
+eleanor:
+  name: Eleanor
   url: eleanor
-
-- name: Cortez
-  thumbnail: cortez.jpg
+  pic: eleanor.jpg
+  sex: FEMALE
+  age:  5 YEARS
+  color: BRINDLE
   available: no
+
+cortez:
+  name: Cortez
   url: cortez
-
-- name: Homer
-  thumbnail: homer.jpg
+  pic: cortez.jpg
+  sex: FEMALE
+  cats: no
+  age:  7 YEARS
+  color: WHITE/BLACK
   available: no
+
+homer:
+  name: Homer
   url: homer
-
-- name: Concho
-  thumbnail: concho.jpg
+  pic: homer.jpg
+  sex: MALE
+  age:  7 YEARS
+  color: FAWN
   available: no
+
+concho:
+  name: Concho
   url: concho
-
-- name: Lights
-  thumbnail: lights.jpg
+  pic: concho.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: FAWN
   available: no
+
+lights:
+  name: Lights
   url: lights
-
-- name: Prince
-  thumbnail: prince.jpg
+  pic: lights.jpg
+  sex: FEMALE
+  age:  6 YEARS
+  color: WHITE/BLACK
   available: no
+
+prince:
+  name: Prince
   url: prince
-
-- name: Sunday
-  thumbnail: sunday.jpg
+  pic: prince.jpg
+  sex: MALE
+  age: 1.5 YEARS
+  color: FAWN
+  cats: yes
   available: no
+
+sunday:
+  name: Sunday
   url: sunday
-
-- name: Jill
-  thumbnail: jill.jpg
+  pic: sunday.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: FAWN
   available: no
+
+jill:
+  name: Jill
   url: jill
-
-- name: Jack
-  thumbnail: jack2.jpg
+  pic: jill.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: FAWN
   available: no
+
+jack2:
+  name: Jack
   url: jack2
-
-- name: Felix
-  thumbnail: felix.jpg
+  pic: jack2.jpg
+  sex: MALE
+  age: 6 YEARS
+  color: BRINDLE
   available: no
+
+felix:
+  name: Felix
   url: felix
-
-- name: Doc
-  thumbnail: doc.jpg
+  pic: felix.jpg
+  sex: MALE
+  age: 6 YEARS
+  color: BLACK
+  cats: yes
   available: no
-  deceased: yes
+
+doc:
+  name: Doc
   url: doc
-
-- name: Mary
-  thumbnail: mary.png
+  pic: doc.jpg
+  sex: MALE
+  age: 2002 - 2015
+  color: BRINDLE
+  cats: yes
   available: no
+  deceased: yes
+
+mary:
+  name: Mary
   url: mary
-
-- name: Edmundo
-  thumbnail: edmundo.png
+  pic: mary.png
+  sex: FEMALE
+  age: 6 YEARS
+  color: FAWN
+  cats: no
   available: no
+
+edmundo:
+  name: Edmundo
   url: edmundo
-
-- name: Horace
-  thumbnail: horace.png
+  pic: edmundo.png
+  sex: MALE
+  age: 4 YEARS
+  color: WHITE/RED
   available: no
+
+horace:
+  name: Horace
   url: horace
-
-- name: Sage
-  thumbnail: sage.png
+  pic: horace.jpg
+  sex: MALE
+  age: 1 YEAR
+  color: FAWN
+  cats: no
   available: no
+
+sage:
+  name: Sage
   url: sage
-
-- name: Buckley
-  thumbnail: buckley.png
+  pic: sage.png
+  sex: FEMALE
+  age: 4 YEARS
+  color: FAWN
+  cats:
   available: no
+
+buckley:
+  name: Buckley
   url: buckley
-
-- name: Tamara
-  thumbnail: tamara.png
+  pic: buckley.png
+  sex: MALE
+  age: 4 YEARS
+  color: BLACK
+  cats: yes
   available: no
+
+tamara:
+  name: Tamara
   url: tamara
-
-- name: Gracie
-  thumbnail: gracie.png
+  pic: tamara.png
+  sex: FEMALE
+  age: 7 YEARS
+  color: BLACK
+  cats:
   available: no
+
+gracie:
+  name: Gracie
   url: gracie
-
-- name: Bristol
-  thumbnail: bristol.png
+  pic: gracie.png
+  sex: FEMALE
+  age: 1 1/2 YEARS
+  color: FAWN
+  cats: yes
   available: no
+
+bristol:
+  name: Bristol
   url: bristol
-
-- name: Raven
-  thumbnail: raven.png
+  pic: bristol.png
+  sex: FEMALE
+  age: 6 YEARS
+  color: BRINDLE
+  cats:
   available: no
+
+raven:
+  name: Raven
   url: raven
-
-- name: Baby Girl
-  thumbnail: baby-girl.jpg
+  pic: raven.png
+  sex: FEMALE
+  age: 5 YEARS
+  color: RED
+  cats:
   available: no
+
+baby-girl:
+  name: Baby Girl
   url: baby-girl
-
-- name: Carly
-  thumbnail: carly.png
+  pic: baby-girl.jpg
+  sex: FEMALE
+  color: WHITE & BLACK
+  age: 6 YEARS
+  cats: yes
   available: no
+
+carly:
+  name: Carly
   url: carly
-
-- name: Lady
-  thumbnail: lady.png
+  pic: carly.png
+  sex: FEMALE
+  color: BRINDLE
+  age: 6 YEARS
   available: no
+
+lady:
+  name: Lady
   url: lady
-
-- name: Bella
-  thumbnail: bella.png
+  pic: lady.png
+  sex: FEMALE
+  age: 4 YEARS
+  color: RED
   available: no
+
+bella:
+  name: Bella
   url: bella
-
-- name: Alex
-  thumbnail: alex.jpg
+  pic: bella.png
+  sex: FEMALE
+  age: 1 YEAR
+  color: WHITE & BLACK
+  cats: no
   available: no
+
+alex:
+  name: Alex
   url: alex
-
-- name: Summer
-  thumbnail: summer.jpg
+  pic: alex.jpg
+  sex: MALE
+  cats: no
+  color: BRINDLE
+  age: 6 YEARS
   available: no
+
+summer:
+  name: Summer
   url: summer
-
-- name: Cowboy
-  thumbnail: cowboy.jpg
+  pic: summer.jpg
+  sex: FEMALE
+  cats: no
+  color: FAWN
+  age: 8 YEARS
   available: no
+
+cowboy:
+  name: Cowboy
   url: cowboy
-
-- name: Hannah
-  thumbnail: hannah.jpg
+  pic: cowboy.jpg
+  sex: MALE
+  cats: no
+  color: LARGER BRINDLE
+  age: 7 YEARS
   available: no
+
+hannah:
+  name: Hannah
   url: hannah
-
-- name: Nicole
-  thumbnail: nicole.jpg
+  pic: hannah.jpg
+  sex: FEMALE
+  cats: yes
+  color: FAWN
+  age: 8 YEARS
   available: no
+
+nicole:
+  name: Nicole
   url: nicole
-
-- name: Poppy
-  thumbnail: poppy.jpg
+  pic: nicole.jpg
+  sex: FEMALE
+  cats: no
+  color: FAWN
+  age: 7 YEARS
   available: no
+
+poppy:
+  name: Poppy
   url: poppy
-
-- name: Zander
-  thumbnail: zoolander.jpg
+  pic: poppy.jpg
+  sex: FEMALE
+  cats: yes
+  color: RED
+  age: 5 YEARS
   available: no
+
+zoolander:
+  name: Zander
   url: zoolander
+  pic: zoolander.jpg
+  sex: MALE
+  cats: no
+  color: RED FAWN
+  age: 1 YEAR
+  available: no
 
-- name: Antigua
-  thumbnail: antigua.jpg
+antigua:
+  name: Antigua
   url: antigua
+  pic: antigua.jpg
+  sex: FEMALE
+  color: BRINDLE
+  cats: yes
   available: no
 
-- name: Barley
-  thumbnail: barley.jpg
+barley:
+  name: Barley
   url: barley
+  pic: barley.jpg
+  sex: MALE
+  color: RED
+  cats: no
   available: no
 
-- name: Anastasia
-  thumbnail: anastasia.jpg
+anastasia:
+  name: Anastasia
   url: anastasia
+  pic: anastasia.jpg
+  sex: FEMALE
+  color: WHITE & RED
+  cats: yes
+  age: 2 YEARS
   available: no
 
-- name: Silvia
-  thumbnail: silvia.png
-  url: silversloan
+silversloan:
+  name: Silvia
+  url: silviasloan
+  pic: silvia.jpg
+  sex: FEMALE
+  color: BRINDLE
+  cats: yes
+  age: Feb 6, 2006 - Nov 18, 2015
   available: no
   deceased: yes
 
-- name: Jeanine
-  thumbnail: ladyjeanine.jpg
+ladyjeanine:
+  name: Jeanine
   url: ladyjeanine
+  pic: ladyjeanine.jpg
+  sex: FEMALE
+  color: BLACK & WHITE
+  cats: yes
   available: no
 
-- name: Haley
-  thumbnail: haley.jpg
+haley:
+  name: Haley
   url: haley
+  pic: haley.jpg
+  sex: FEMALE
+  color: RED FAWN
+  cats: no
   available: no
 
-- name: Dolly
-  thumbnail: dolly.jpg
+dolly:
+  name: Dolly
   url: dolly
+  pic: dolly.jpg
+  sex: FEMALE
+  color: DARK BRINDLE
+  cats: yes
   available: no
 
-- name: Checkers
-  thumbnail: checkers.jpg
+checkers:
+  name: Checkers
   url: checkers
+  pic: checkers.jpg
+  sex: FEMALE
+  color: BLACK & WHITE
+  cats: yes
+  age: 2006 - 2015
   available: no
   deceased: yes
 
-- name: Jazz
-  thumbnail: happyjazz.jpg
+happyjazz:
+  name: Jazz
   url: happyjazz
+  pic: happyjazz.jpg
+  sex: FEMALE
+  color: RED & WHITE
+  cats: yes
   available: no
 
-- name: Robin
-  thumbnail: robin.jpg
+robin:
+  name: Robin
   url: robin
+  pic: robin.jpg
+  sex: FEMALE
+  age: April 26, 2016
+  color: BRINDLE
+  cats: no
   deceased: yes
 
-- name: Casey
-  thumbnail: casey.jpg
+casey:
+  name: Casey
   url: casey
+  pic: casey.jpg
+  sex: MALE
+  color: RED FAWN
+  cats: no
   available: no
 
-- name: Penny
-  thumbnail: hennypenny.jpg
+hennypenny:
+  name: Penny
   url: hennypenny
+  pic: hennypenny.jpg
+  sex: FEMALE
+  color: BLACK
+  cats: no
   available: no
 
-- name: Justice
-  thumbnail: backwoodsjustice.jpg
+backwoodsjustice:
+  name: Justice
   url: backwoodsjustice
+  pic: backwoodsjustice.jpg
+  sex: MALE
+  color: RED BRINDLE
+  cats: no
+  age: 18 MONTHS
   available: no
 
-- name: Baxter
-  thumbnail: baxter.jpg
+baxter:
+  name: Baxter
   url: baxter
+  pic: baxter.jpg
+  sex: MALE
+  cats: no
+  age: 10 WEEKS
+  color: BLUE BRINDLE
   available: no
 
-- name: Beau
-  thumbnail: beau.jpg
+beau:
+  name: Beau
   url: beau
+  pic: beau.jpg
+  sex: MALE
+  age: 8 MONTHS
+  color: FAWN
+  cat: yes
   available: no
 
-- name: Giselle
-  thumbnail: giselle.jpg
+giselle:
+  name: Giselle
   url: giselle
+  pic: giselle.jpg
+  sex: FEMALE
+  color: RED FAWN
+  cats: no
   available: no
 
-- name: Paco
-  thumbnail: paco.jpg
+paco:
+  name: Paco
   url: paco
+  pic: paco.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: FAWN
+  cats: yes
   available: no
 
-- name: Sunflower
-  thumbnail: sunflower.jpg
+sunflower:
+  name: Sunflower
   url: sunflower
+  pic: sunflower.jpg
+  sex: FEMALE
+  age: 18 MONTHS
+  color: FAWN
+  cats: yes
   available: no
 
-- name: Chrissy
-  thumbnail: chrissy.jpg
+chrissy:
+  name: Chrissy
   url: chrissy
+  pic: chrissy.jpg
+  sex: FEMALE
+  age: 4 YEARS
+  color: WHITE & BLACK
+  cats: yes
   available: no
 
-- name: Jacy
-  thumbnail: jacy.jpg
+jacy:
+  name: Jacy
   url: jacy
+  pic: jacy.jpg
+  sex: FEMALE
+  age: 15 MONTHS
+  color: BLUE FAWN
+  cats: no
   available: no
 
-- name: Santana
-  thumbnail: gpa_logo_blue_150.jpg
+santana:
+  name: Santana
   url: santana
+  pic: gpa_logo_blue_150.jpg
+  sex: FEMALE
+  age: 5 YEARS
+  cats: no
   available: no
 
-- name: Jack
-  thumbnail: jack.jpg
+jack:
+  name: Jack
   url: jack
+  pic: jack.jpg
+  sex: MALE
+  age: 6 MONTHS
+  color: RED FAWN
   available: no
 
-- name: Warrior
-  thumbnail: chargingwarrior.jpg
+chargingwarrior:
+  name: Warrior
   url: chargingwarrior
+  pic: chargingwarrior.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: BRINDLE
+  cats: yes
   available: no
 
-- name: Audi
-  thumbnail: audi.jpg
+audi:
+  name: Audi
   url: audi
+  pic: audi.jpg
+  sex: MALE
+  age: 18 MONTHS
+  color: WHITE & BLACK
+  cats: yes
   available: no
 
-- name: Abnar
-  thumbnail: abnar.jpg
+abnar:
+  name: Abnar
   url: abnar
+  pic: abnar.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: BLACK
+  cats: yes
   available: no
 
-- name: Elle
-  thumbnail: elle.jpg
+elle:
+  name: Elle
   url: elle
+  pic: elle.jpg
+  sex: FEMALE
+  age: 18 MONTHS
+  color: BROWN BRINDLE
+  cats: yes
   available: no
 
-- name: Opal
-  thumbnail: opal.jpg
+opal:
+  name: Opal
   url: opal
+  pic: opal.jpg
+  sex: FEMALE
+  age: 9 YEARS
+  color: FAWN
   available: no
 
-- name: Batman
-  thumbnail: batman.jpg
+batman:
+  name: Batman
   url: batman
+  pic: batman.jpg
+  sex: MALE
+  age: October 3, 2014
+  color: BLACK & WHITE
+  cats: no
   available: no
   deceased: yes
 
-- name: Harmony
-  thumbnail: harmony.jpg
+harmony:
+  name: Harmony
   url: harmony
+  pic: harmony.jpg
+  sex: FEMALE
+  color: BRINDLE
+  cats: no
   available: no
 
-- name: Tyson
-  thumbnail: backwoodstyson.jpg
+backwoodstyson:
+  name: Tyson
   url: backwoodstyson
+  pic: backwoodstyson.jpg
+  sex: MALE
+  age: 14 MONTHS
+  color: RED BRINDLE
+  cats: yes
   available: no
 
-- name: Bingo
-  thumbnail: bingo.jpg
+bingo:
+  name: Bingo
   url: bingo
+  pic: bingo.jpg
+  sex: MALE
+  age: 4 MONTHS
   available: no
 
-- name: Angelo
-  thumbnail: angelo.jpg
+angelo:
+  name: Angelo
   url: angelo
+  pic: angelo.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: WHITE & BRINDLE
+  cats: no
   available: no
 
-- name: Alaska
-  thumbnail: backwoodsalaska.jpg
+backwoodsalaska:
+  name: Alaska
   url: backwoodsalaska
+  pic: backwoodsalaska.jpg
+  sex: MALE
+  age: 12 MONTHS
   available: no
 
-- name: Limoncello
-  thumbnail: limoncello.jpg
+limoncello:
+  name: Limoncello
   url: limoncello
+  pic: limoncello.jpg
+  sex: MALE
+  age: 17 MONTHS
+  color: FAWN BRINDLE
+  cats: yes
   available: no
 
-- name: Sheila
-  thumbnail: sheila.jpg
+sheila:
+  name: Sheila
   url: sheila
+  pic: sheila.jpg
+  sex: FEMALE
+  age: 6 YEARS
+  color: LIGHT BRINDLE
   available: no
 
-- name: Timothy
-  thumbnail: backwoodstimothy.jpg
+backwoodstimothy:
+  name: Timothy
   url: backwoodstimothy
+  pic: backwoodstimothy.jpg
+  sex: MALE
+  age: 12 MONTHS
   available: no
 
-- name: Jet
-  thumbnail: jet.jpg
+jet:
+  name: Jet
   url: jet
+  pic: jet.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: RED FAWN
   available: no
 
-- name: Pepper
-  thumbnail: pepper.jpg
+pepper:
+  name: Pepper
   url: pepper
+  pic: pepper.jpg
+  sex: FEMALE
+  age: 12 YEARS
+  color: LIGHT FAWN
+  cats: no
   available: no
 
-- name: Lily
-  thumbnail: lily2.jpg
+lily2:
+  name: Lily
   url: lily2
+  pic: lily2.jpg
+  sex: FEMALE
+  age: 8 YEARS
+  color: BRINDLE
+  cats: no
   available: no
 
-- name: Cathy
-  thumbnail: cathy.jpg
+cathy:
+  name: Cathy
   url: cathy
+  pic: cathy.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BLACK
   available: no
 
-- name: Gidget
-  thumbnail: gidget.jpg
+gidget:
+  name: Gidget
   url: gidget
+  pic: gidget.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: FAWN
+  cats: yes
   available: no
 
-- name: Fiona
-  thumbnail: fiona.jpg
+fiona:
+  name: Fiona
   url: fiona
+  pic: fiona.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: WHITE & BRINDLE
   available: no
 
-- name: Cora
-  thumbnail: cora.jpg
+cora:
+  name: Cora
   url: cora
+  pic: cora.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: DARK BRINDLE
   available: no
 
-- name: Daniel
-  thumbnail: daniel.jpg
+daniel:
+  name: Daniel
   url: daniel
+  pic: daniel.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: BLACK & WHITE
   available: no
 
-- name: Dynomite
-  thumbnail: dynomite.jpg
+dynomite:
+  name: Dynomite
   url: dynomite
+  pic: dynomite.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: BLACK & WHITE
   available: no
 
-- name: Breezy
-  thumbnail: breezy.jpg
+breezy:
+  name: Breezy
   url: breezy
+  pic: breezy.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: WHITE & BRINDLE
+  cats: no
   available: no
 
-- name: Vegas
-  thumbnail: vegas.jpg
+vegas:
+  name: Vegas
   url: vegas
+  pic: vegas.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: FAWN
   available: no
 
-- name: Luna
-  thumbnail: luna.jpg
+luna:
+  name: Luna
   url: luna
+  pic: luna.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BLACK
   available: no
 
-- name: Chrissie
-  thumbnail: chrissie.jpg
+chrissie:
+  name: Chrissie
   url: chrissie
+  pic: chrissie.jpg
+  sex: FEMALE
+  color: BRINDLE
+  age: 2 YEARS
   available: no
 
-- name: Nantucket
-  thumbnail: nantucket.jpg
+nantucket:
+  name: Nantucket
   url: nantucket
+  pic: nantucket.jpg
+  sex: MALE
+  age: 6 YEARS
+  color: BRINDLE
   available: no
 
-- name: Montezuma
-  thumbnail: montezuma.jpg
+montezuma:
+  name: Montezuma
   url: montezuma
+  pic: montezuma.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BRINDLE
   available: no
 
-- name: Jedi
-  thumbnail: jediwarrior.jpg
+jediwarrior:
+  name: Jedi
   url: jediwarrior
+  pic: jediwarrior.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: BLACK
   available: no
 
-- name: Nite
-  thumbnail: nitedesign.jpg
+nitedesign:
+  name: Nite
   url: nitedesign
+  pic: nitedesign.jpg
+  sex: MALE
+  age: 3 YEARS
+  color: BLACK
   available: no
 
-- name: Motive
-  thumbnail: highnoonmotive.jpg
+highnoonmotive:
+  name: Motive
   url: highnoonmotive
+  pic: highnoonmotive.jpg
+  sex: FEMALE
+  age: 4 YEARS
+  color: BRINDLE
   available: no
 
-- name: Carmelo
-  thumbnail: carmelo.jpg
+carmelo:
+  name: Carmelo
   url: carmelo
+  pic: carmelo.jpg
+  sex: MALE
+  age: 18 MONTHS
+  color: BROWN & WHITE
   available: no
 
-- name: Blackjack
-  thumbnail: blackjackmongo.jpg
+blackjackmongo:
+  name: Blackjack
   url: blackjackmongo
+  pic: blackjackmongo.jpg
+  sex: FEMALE
+  age: 4 YEARS
+  color: DARK BRINDLE
   available: no
 
-- name: Alfie
-  thumbnail: alfie.jpg
+alfie:
+  name: Alfie
   url: alfie
+  pic: alfie.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: RED
   available: no
 
-- name: Ice Man
-  thumbnail: iceman.jpg
+iceman:
+  name: Ice Man
   url: iceman
+  pic: iceman.jpg
+  sex: MALE
+  age: 6 YEARS
+  color: WHITE & BRINDLE
+  cats: yes
   available: no
 
-- name: Hotkisses
-  thumbnail: hotkisses.jpg
+hotkisses:
+  name: Hotkisses
   url: hotkisses
+  pic: hotkisses.jpg
+  sex: FEMALE
+  color: RED BRINDLE
+  age: 6 YEARS
   available: no
 
-- name: Dutchess
-  thumbnail: dutchess.jpg
+dutchess:
+  name: Dutchess
   url: dutchess
+  pic: dutchess.jpg
+  sex: FEMALE
+  age: 7 YEARS
+  color: BLACK & WHITE
   available: no
 
-- name: Justin
-  thumbnail: justin.jpg
+justin:
+  name: Justin
   url: justin
+  pic: justin.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: RED FAWN
   available: no
 
-- name: Erin
-  thumbnail: erin.jpg
+erin:
+  name: Erin
   url: erin
+  pic: erin.jpg
+  sex: FEMALE
+  age: 5 YEARS
+  color: WHITE & BRINDLE
+  cats: no
   available: no
 
-- name: Nick
-  thumbnail: nick.jpg
+nick:
+  name: Nick
   url: nick
+  pic: nick.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: BLACK & WHITE
+  cats: yes
   available: no
 
-- name: Brianna
-  thumbnail: brianna.jpg
+brianna:
+  name: Brianna
   url: brianna
+  pic: brianna.jpg
+  sex: FEMALE
+  age: 8 YEARS
   available: no
 
-- name: Holly
-  thumbnail: holly.jpg
+holly:
+  name: Holly
   url: holly
+  pic: holly.jpg
+  sex: FEMALE
+  color: WHITE & BLACK
   available: no
 
-- name: Twinkle
-  thumbnail: twinkle.jpg
+twinkle:
+  name: Twinkle
   url: twinkle
+  pic: twinkle.jpg
+  sex: FEMALE
+  color: WHITE & BRINDLE
+  age: 1 YEAR
+  cats: yes
   available: no
 
-- name: Blue
-  thumbnail: blue.jpg
+blue:
+  name: Blue
   url: blue
+  pic: blue.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BLUE & WHITE
+  cats: no
   available: no
 
-- name: Nadia
-  thumbnail: nadia.jpg
+nadia:
+  name: Nadia
   url: nadia
+  pic: nadia.jpg
+  sex: FEMALE
+  age: 5 YEARS
+  color: FAWN
+  cats: no
   available: no
 
-- name: Bette
-  thumbnail: bette.jpg
+bette:
+  name: Bette
   url: bette
+  pic: bette.jpg
+  sex: FEMALE
+  age: 3 YEARS
+  color: BLACK
   available: no
 
-- name: Carlos
-  thumbnail: carlos.jpg
+carlos:
+  name: Carlos
   url: carlos
+  pic: carlos.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: FAWN
+  cats: yes
   available: no
 
-- name: Nicole
-  thumbnail: monanicole.jpg
+monanicole:
+  name: Nicole
   url: monanicole
+  pic: monanicole.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BLACK
+  cats: yes
   available: no
 
-- name: Sandy
-  thumbnail: gpa_logo_blue_150.jpg
+sandy:
+  name: Sandy
   url: sandy
+  pic: gpa_logo_blue_150.jpg
+  sex: FEMALE
   available: no
 
-- name: Linda
-  thumbnail: lindamcpike.jpg
+lindamcpike:
+  name: Linda
   url: lindamcpike
+  pic: lindamcpike.jpg
+  sex: FEMALE
+  age: 2 YEARS
+  color: BRINDLE & WHITE
+  cats: yes
   available: no
 
-- name: Jimmy
-  thumbnail: jimmy.jpg
+jimmy:
+  name: Jimmy
   url: jimmy
+  pic: jimmy.jpg
+  sex: MALE
+  age: 16 MONTHS
+  color: BLACK
+  cats: yes
   available: no
 
-- name: Coal
-  thumbnail: coal.jpg
+coal:
+  name: Coal
   url: coal
+  pic: coal.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: BLACK
+  cats: no
   available: no
 
-- name: Stormy
-  thumbnail: stormy.jpg
+stormy:
+  name: Stormy
   url: stormy
+  pic: stormy.jpg
+  sex: FEMALE
+  age: April 13, 2002 - May 14, 2014
+  color: DARK BRINDLE
+  cats: no
   available: no
   deceased: yes
 
-- name: Alyann
-  thumbnail: alyann.jpg
+alyann:
+  name: Alyann
   url: alyann
+  pic: alyann.jpg
+  sex: FEMALE
+  color: BRINDLE
   available: no
 
-- name: Ballymac
-  thumbnail: ballymac.jpg
+ballymac:
+  name: Ballymac
   url: ballymac
+  pic: ballymac.jpg
+  sex: MALE
+  age: 7 YEARS
+  color: BLACK & WHITE
+  cats: yes
   available: no
 
-- name: Hully
-  thumbnail: hully.jpg
+hully:
+  name: Hully
   url: hully
+  pic: hully.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: RED BRINDLE
+  cats: no
   available: no
 
-- name: Shiner
-  thumbnail: shiner.jpg
+shiner:
+  name: Shiner
   url: shiner
+  pic: shiner.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: WHITE & BRINDLE
+  cats: yes
   available: no
 
-- name: Easy
-  thumbnail: easy.jpg
+easy:
+  name: Easy
   url: easy
+  pic: easy.jpg
+  sex: MALE
+  age: 4 YEARS
+  color: FAWN
+  cats: yes
   available: no
 
-- name: Peach
-  thumbnail: peach.jpg
+peach:
+  name: Peach
   url: peach
+  pic: peach.jpg
+  sex: FEMALE
+  age: 6 YEARS
+  color: LIGHT FAWN
   available: no
 
-- name: Lily
-  thumbnail: lily.jpg
+lily:
+  name: Lily
   url: lily
+  pic: lily.jpg
+  sex: FEMALE
+  age: 6 YEARS
+  color: WHITE & BRINDLE
   available: no
 
-- name: Hope
-  thumbnail: hope.jpg
+hope:
+  name: Hope
   url: hope
+  pic: hope.jpg
+  sex: FEMALE
+  age: 1 YEAR
+  color: FAWN
   available: no
 
-- name: Piper
-  thumbnail: piper.jpg
+piper:
+  name: Piper
   url: piper
+  pic: piper.jpg
+  sex: FEMALE
+  age: 1 YEAR
   available: no

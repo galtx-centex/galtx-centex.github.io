@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Chrissie
-pic: chrissie.jpg
-sex: FEMALE
-color: BRINDLE
-age: 2 YEARS
+greyhound: chrissie
 permalink: /greyhounds/chrissie/
 ---
 

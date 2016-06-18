@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Henny Penny
-pic: hennypenny.jpg
-sex: FEMALE
-color: BLACK
-cats: no
+greyhound: hennypenny
 permalink: /greyhounds/hennypenny/
 ---
 Penny is a lover/leaner with adults and kids and even the veterinary staff. She has a soft coat that just begs to be

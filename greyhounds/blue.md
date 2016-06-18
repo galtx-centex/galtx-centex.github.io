@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Blue
-pic: blue.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BLUE & WHITE
-cats: no
+greyhound: blue
 permalink: /greyhounds/blue/
 ---
 

@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Ballymac
-pic: ballymac.jpg
-sex: MALE
-age: 7 YEARS
-color: BLACK & WHITE
-cats: yes
+greyhound: ballymac
 permalink: /greyhounds/ballymac/
 ---
 

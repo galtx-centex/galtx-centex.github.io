@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Jimmy
-pic: jimmy.jpg
-sex: MALE
-age: 16 MONTHS
-color: BLACK
-cats: yes
+greyhound: jimmy
 permalink: /greyhounds/jimmy/
 ---
 

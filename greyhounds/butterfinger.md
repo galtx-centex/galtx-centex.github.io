@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Butterfinger
-pic: butterfinger.JPG
-sex: FEMALE
-age: 3 YEARS
-color: WHITE/BLACK
-cats:
+greyhound: butterfinger
 permalink: /greyhounds/butterfinger/
 ---
 

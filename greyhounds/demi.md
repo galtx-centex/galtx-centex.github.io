@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Demi
-pic: demi.jpg
-sex: FEMALE
-age: 7 YEARS
-color: BRINDLE
-cats:
+greyhound: demi
 permalink: /greyhounds/demi/
 ---
 

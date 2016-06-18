@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Ballatore
-pic: ballatore.jpg
-sex: FEMALE
-age: 3 YEARS
-color: RED
-cats: YES
+greyhound: ballatore
 permalink: /greyhounds/ballatore/
 ---
 

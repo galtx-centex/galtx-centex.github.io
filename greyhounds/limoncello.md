@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Limoncello
-pic: limoncello.jpg
-sex: MALE
-age: 17 MONTHS
-color: FAWN BRINDLE
-cats: yes
+greyhound: limoncello
 permalink: /greyhounds/limoncello/
 ---
 

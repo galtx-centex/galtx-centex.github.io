@@ -7,14 +7,15 @@ title: Happy Tails
 
   <div class="row">
 
-    {% for greyhound in site.data.greyhounds %}
+    {% for hash in site.data.greyhounds %}
+    {% assign greyhound = hash[1] %}
 
     {% if greyhound.deceased %}
     {% elsif greyhound.available %}
     {% else %}
       <div class="col-md-2">
         <a href="/greyhounds/{{ greyhound.url }}" class="thumbnail">
-          <img src="/img/thm/{{ greyhound.thumbnail }}">
+          <img src="/img/thm/{{ greyhound.pic }}">
           <div class="text-center">
           <h3>{{ greyhound.name }}</h3>
           </div>

@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Alex
-pic: alex.jpg
-sex: MALE
-cats: NO
-color: BRINDLE
-age: 6 YEARS
+greyhound: alex
 permalink: /greyhounds/alex/
 ---
 

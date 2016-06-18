@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jedi Warrior
-pic: jediwarrior.jpg
-sex: MALE
-age: 3 YEARS
-color: BLACK
+greyhound: jediwarrior
 permalink: /greyhounds/jediwarrior/
 ---
 

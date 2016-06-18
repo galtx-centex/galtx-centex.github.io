@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Nicole
-pic: nicole.jpg
-sex: FEMALE
-cats: NO
-color: FAWN
-age: 7 YEARS
+greyhound: nicole
 permalink: /greyhounds/nicole/
 ---
 

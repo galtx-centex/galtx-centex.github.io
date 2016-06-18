@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Carmelo
-pic: carmelo.jpg
-sex: MALE
-age: 18 MONTHS
-color: BROWN & WHITE
+greyhound: carmelo
 permalink: /greyhounds/carmelo/
 ---
 

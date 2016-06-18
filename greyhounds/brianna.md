@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Brianna
-pic: brianna.jpg
-sex: FEMALE
-age: 8 YEARS
+greyhound: brianna
 permalink: /greyhounds/brianna/
 ---
 This eight-year-old former brood mama had a successful racing career. She is a golden gal, calm, sweet, unimposing and

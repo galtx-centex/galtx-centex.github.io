@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Hope
-pic: hope.jpg
-sex: FEMALE
-age: 1 YEAR
-color: FAWN
+greyhound: hope
 permalink: /greyhounds/hope/
 ---
 Hope: The perfect name for a Greyhound making a Greyt recovery! This one-year-old was on track to become a racing

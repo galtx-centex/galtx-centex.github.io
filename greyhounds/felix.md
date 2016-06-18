@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Felix
-pic: felix.jpg
-sex: MALE
-age: 6 YEARS
-color: BLACK
-cats: yes
+greyhound: felix
 permalink: /greyhounds/felix/
 ---
 
