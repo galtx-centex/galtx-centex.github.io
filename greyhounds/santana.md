@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Santana
-pic: gpa_logo_blue_150.jpg
-sex: FEMALE
-age: 5 YEARS
-cats: no
+greyhound: santana
 permalink: /greyhounds/santana/
 ---
 

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jet
-pic: jet.jpg
-sex: MALE
-age: 3 YEARS
-color: RED FAWN
+greyhound: jet
 permalink: /greyhounds/jet/
 ---
 

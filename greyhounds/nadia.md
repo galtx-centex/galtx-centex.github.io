@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Nadia
-pic: nadia.jpg
-sex: FEMALE
-age: 5 YEARS
-color: FAWN
-cats: no
+greyhound: nadia
 permalink: /greyhounds/nadia/
 ---
 

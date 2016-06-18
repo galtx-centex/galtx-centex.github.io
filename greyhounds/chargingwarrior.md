@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Charging Warrior "Charlie"
-pic: chargingwarrior.jpg
-sex: MALE
-age: 3 YEARS
-color: BRINDLE
-cats: yes
+greyhound: chargingwarrior
 permalink: /greyhounds/chargingwarrior/
 ---
 Race name Charging Warrior, Charlie is an active, handsome brindle boy who is returning to GPA through no fault of his

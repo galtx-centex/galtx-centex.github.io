@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Greycie
-pic: greycie.JPG
-sex: FEMALE
-age:  7 YEARS
-color: BRINDLE
-cats: YES
+greyhound: greycie
 permalink: /greyhounds/greycie/
 ---
 

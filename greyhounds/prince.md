@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Prince
-pic: prince.jpg
-sex: MALE
-age: 1.5 YEARS
-color: FAWN
-cats: YES
+greyhound: prince
 permalink: /greyhounds/prince/
 ---
 

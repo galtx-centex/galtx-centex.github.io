@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Batman
-pic: batman.jpg
-sex: MALE
-age: October 3, 2014
-color: BLACK & WHITE
-cats: no
+greyhound: batman
 permalink: /greyhounds/batman/
 ---
 

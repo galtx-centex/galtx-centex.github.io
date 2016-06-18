@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Bristol
-pic: bristol.png
-sex: FEMALE
-age: 6 YEARS
-color: BRINDLE
-cats:
+greyhound: bristol
 permalink: /greyhounds/bristol/
 ---
 

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Opal
-pic: opal.jpg
-sex: FEMALE
-age: 9 YEARS
-color: FAWN
+greyhound: opal
 permalink: /greyhounds/opal/
 ---
 

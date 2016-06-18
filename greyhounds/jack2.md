@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jack
-pic: jack2.jpg
-sex: MALE
-age: 6 YEARS
-color: BRINDLE
+greyhound: jack2
 permalink: /greyhounds/jack2/
 ---
 

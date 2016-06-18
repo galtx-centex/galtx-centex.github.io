@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Siggie
-pic: siggie.jpg
-sex: FEMALE
-age: 8 YEARS
-color: BRINDLE
-cats: YES
+greyhound: siggie
 permalink: /greyhounds/siggie/
 ---
 

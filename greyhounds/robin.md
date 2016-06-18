@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Robin
-pic: robin.jpg
-sex: FEMALE
-age: April 26, 2016
-color: BRINDLE
-cats: no
+greyhound: robin
 permalink: /greyhounds/robin/
 ---
 

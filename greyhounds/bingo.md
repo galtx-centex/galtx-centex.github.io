@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Bingo
-pic: bingo.jpg
-sex: MALE
-age: 4 MONTHS
+greyhound: bingo
 permalink: /greyhounds/bingo/
 ---
 

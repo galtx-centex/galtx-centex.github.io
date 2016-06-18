@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Raven
-pic: raven.png
-sex: FEMALE
-age: 5 YEARS
-color: RED
-cats:
+greyhound: raven
 permalink: /greyhounds/raven/
 ---
 

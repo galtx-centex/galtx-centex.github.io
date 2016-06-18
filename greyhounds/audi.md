@@ -1,15 +1,11 @@
 ---
 layout: greyhound
 title: Audi
-pic: audi.jpg
-sex: MALE
-age: 18 MONTHS
-color: WHITE & BLACK
-cats: yes
+greyhound: audi
 permalink: /greyhounds/audi/
 ---
 
-An 18 month old cat-curious male, white with black brindle ticking and a spot on his head, has a very goodappetite and
+An 18 month old cat-curious male, white with black brindle ticking and a spot on his head, has a very good appetite and
 enjoys a short walk every day.  He has learned how to signal that he needs to go out and has steadily improved with his
 housetraining.  His foster said "he is still a puppy from time to time and managing that is fun."  Audi enjoys the Kong
 stuffed with a treat, and is curious about a running cat, but submissive to the dominant cat.  Audi loves to go for car

@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Pepper
-pic: pepper1.jpg
-sex: FEMALE
-age:  9 YEARS
-color: FAWN
-cats: NO
+greyhound: pepper1
 permalink: /greyhounds/pepper1/
 ---
 

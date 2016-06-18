@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Baxter
-pic: baxter.jpg
-sex: MALE
-cats: no
-age: 10 WEEKS
-color: BLUE BRINDLE
+greyhound: baxter
 permalink: /greyhounds/baxter/
 ---
 

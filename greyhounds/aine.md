@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Aine
-pic: aine.jpg
-sex: FEMALE
-age: 6 MONTHS
-color: BLACK/WHITE
-cats:
+greyhound: aine
 permalink: /greyhounds/aine/
 ---
 

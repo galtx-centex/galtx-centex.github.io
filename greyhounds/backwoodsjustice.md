@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Justice
-pic: backwoodsjustice.jpg
-sex: MALE
-color: RED BRINDLE
-cats: no
-age: 18 MONTHS
+greyhound: backwoodsjustice
 permalink: /greyhounds/backwoodsjustice/
 ---
 18 months old, cat-curious red brindle with white chest and feet, dark muzzle: Justice is a diamond in the rough. A

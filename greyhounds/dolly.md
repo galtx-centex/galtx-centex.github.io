@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Dolly
-pic: dolly.jpg
-sex: FEMALE
-color: DARK BRINDLE
-cats: yes
+greyhound: dolly
 permalink: /greyhounds/dolly/
 ---
 

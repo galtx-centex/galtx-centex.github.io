@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Teresa
-pic: teresa.JPG
-sex: FEMALE
-age: 3 YEARS
-color: BLACK
-cats: NO
+greyhound: teresa
 permalink: /greyhounds/teresa/
 ---
 

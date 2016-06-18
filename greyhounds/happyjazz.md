@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jazzy (Happy Jazz)
-pic: happyjazz.jpg
-sex: FEMALE
-color: RED & WHITE
-cats: yes
+greyhound: happyjazz
 permalink: /greyhounds/happyjazz/
 ---
 At only 57 lbs, Red & White-Ticked CL Happy Jazz was a strong racer and after she hung up her track shoes, she became

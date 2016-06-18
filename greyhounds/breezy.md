@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Breezy
-pic: breezy.jpg
-sex: MALE
-age: 4 YEARS
-color: WHITE & BRINDLE
-cats: no
+greyhound: breezy
 permalink: /greyhounds/breezy/
 ---
 

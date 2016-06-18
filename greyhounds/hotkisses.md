@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Hotkisses
-pic: hotkisses.jpg
-sex: FEMALE
-color: RED BRINDLE
-age: 6 YEARS
+greyhound: hotkisses
 permalink: /greyhounds/hotkisses/
 ---
 

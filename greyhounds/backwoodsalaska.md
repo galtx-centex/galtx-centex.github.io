@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Alaska
-pic: backwoodsalaska.jpg
-sex: MALE
-age: 12 MONTHS
+greyhound: backwoodsalaska
 permalink: /greyhounds/backwoodsalaska/
 ---
 

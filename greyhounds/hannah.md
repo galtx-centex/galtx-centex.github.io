@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Hannah
-pic: hannah.jpg
-sex: FEMALE
-cats: YES
-color: FAWN
-age: 8 YEARS
+greyhound: hannah
 permalink: /greyhounds/hannah/
 ---
 

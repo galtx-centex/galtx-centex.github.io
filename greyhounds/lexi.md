@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Lexi
-pic: lexi.jpg
-sex: FEMALE
-age:  2 YEARS
-color: FAWN
-cats:
+greyhound: lexi
 permalink: /greyhounds/lexi/
 ---
 

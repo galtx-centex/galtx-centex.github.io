@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Holly
-pic: holly.jpg
-sex: FEMALE
-color: WHITE & BLACK
+greyhound: holly
 permalink: /greyhounds/holly/
 ---
 

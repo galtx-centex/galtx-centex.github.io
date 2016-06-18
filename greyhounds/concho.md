@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Concho
-pic: concho.jpg
-sex: MALE
-age: 4 YEARS
-color: FAWN
+greyhound: concho
 permalink: /greyhounds/concho/
 ---
 

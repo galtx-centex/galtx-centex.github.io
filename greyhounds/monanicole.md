@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Mona Nicole
-pic: monanicole.jpg
-sex: FEMALE
-age: 2 YEARS
-color: BLACK
-cats: yes
+greyhound: monanicole
 permalink: /greyhounds/monanicole/
 ---
 

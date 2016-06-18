@@ -8,7 +8,8 @@ module Spellcheck
     def addnames
       names = []
       File.read("_data/greyhounds.yml").lines do |line|
-        names << line[/(name|url):\s(.*)$/, 2]
+        names << line[/name:\s(.*)$/, 1]
+        names << line[/^(.*):$/, 1]
       end
       File.read("_data/contacts.yml").lines do |line|
         if l = line[/name:\s(.*)$/, 1]

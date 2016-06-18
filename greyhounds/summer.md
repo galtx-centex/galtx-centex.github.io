@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Summer
-pic: summer.jpg
-sex: FEMALE
-cats: NO
-color: FAWN
-age: 8 YEARS
+greyhound: summer
 permalink: /greyhounds/summer/
 ---
 

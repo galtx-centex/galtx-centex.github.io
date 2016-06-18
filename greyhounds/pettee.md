@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Pettee
-pic: pettee.jpg
-sex: MALE
-age:  YEARS
-color: FAWN
-cats: NO
+greyhound: pettee
 permalink: /greyhounds/pettee/
 ---
 

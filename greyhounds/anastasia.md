@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Anastasia (Ana)
-pic: anastasia.jpg
-sex: FEMALE
-color: WHITE & RED
-cats: yes
-age: 2 YEARS
+greyhound: anastasia
 permalink: /greyhounds/anastasia/
 ---
 

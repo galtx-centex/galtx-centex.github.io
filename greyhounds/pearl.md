@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Pearl
-pic: pearl.jpg
-sex: FEMALE
-age: 1.5 YEARS
-color: WHITE
-cats:
+greyhound: pearl
 permalink: /greyhounds/pearl/
 ---
 

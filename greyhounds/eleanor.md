@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Eleanor
-pic: eleanor.jpg
-sex: FEMALE
-age:  5 YEARS
-color: BRINDLE
+greyhound: eleanor
 permalink: /greyhounds/eleanor/
 ---
 

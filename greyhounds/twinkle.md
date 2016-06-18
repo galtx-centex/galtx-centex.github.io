@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Twinkle
-pic: twinkle.jpg
-sex: FEMALE
-color: WHITE & BRINDLE
-age: 1 YEAR
-cats: yes
+greyhound: twinkle
 permalink: /greyhounds/twinkle/
 ---
 

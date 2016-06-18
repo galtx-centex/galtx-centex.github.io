@@ -1,8 +1,7 @@
 ---
 layout: greyhound
 title: Sandy
-pic: gpa_logo_blue_150.jpg
-sex: FEMALE
+greyhound: sandy
 permalink: /greyhounds/sandy/
 ---
 

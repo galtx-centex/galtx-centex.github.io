@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Cowboy
-pic: cowboy.jpg
-sex: MALE
-cats: NO
-color: LARGER BRINDLE
-age: 7 YEARS
+greyhound: cowboy
 permalink: /greyhounds/cowboy/
 ---
 

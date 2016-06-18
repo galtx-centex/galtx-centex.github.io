@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Abnar
-pic: abnar.jpg
-sex: MALE
-age: 3 YEARS
-color: BLACK
-cats: yes
+greyhound: abnar
 permalink: /greyhounds/abnar/
 ---
 

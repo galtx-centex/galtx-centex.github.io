@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Easy
-pic: easy.jpg
-sex: MALE
-age: 4 YEARS
-color: FAWN
-cats: yes
+greyhound: easy
 permalink: /greyhounds/easy/
 ---
 

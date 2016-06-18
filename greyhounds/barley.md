@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Barley
-pic: barley.jpg
-sex: MALE
-color: RED
-cats: no
+greyhound: barley
 permalink: /greyhounds/barley/
 ---
 

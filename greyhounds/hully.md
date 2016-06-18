@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Hully
-pic: hully.jpg
-sex: MALE
-age: 2 YEARS
-color: RED BRINDLE
-cats: no
+greyhound: hully
 permalink: /greyhounds/hully/
 ---
 

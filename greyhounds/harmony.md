@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Harmony
-pic: harmony.jpg
-sex: FEMALE
-color: BRINDLE
-cats: no
+greyhound: harmony
 permalink: /greyhounds/harmony/
 ---
 

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Lily
-pic: lily.jpg
-sex: FEMALE
-age: 6 YEARS
-color: WHITE & BRINDLE
+greyhound: lily
 permalink: /greyhounds/lily/
 ---
 

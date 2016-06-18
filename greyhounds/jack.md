@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jack
-pic: jack.jpg
-sex: MALE
-age: 6 MONTHS
-color: RED FAWN
+greyhound: jack
 permalink: /greyhounds/jack/
 ---
 49 lbs of bouncing boy and growing, Jack is a red-coated 6 month old who is still growing into his big floppy ears and

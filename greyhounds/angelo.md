@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Angelo
-pic: angelo.jpg
-sex: MALE
-age: 3 YEARS
-color: WHITE & BRINDLE
-cats: no
+greyhound: angelo
 permalink: /greyhounds/angelo/
 ---
 Angelo is a very special greyhound.  He is a bright, affectionate, outgoing male with a sweet puppyish curiosity

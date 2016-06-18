@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Hurst
-pic: hurst.jpg
-sex: MALE
-age:  4 YEARS
-color: BLACK
-cats: NO
+greyhound: hurst
 permalink: /greyhounds/hurst/
 ---
 

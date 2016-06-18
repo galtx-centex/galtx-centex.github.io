@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Rocket
-pic: rocket.jpg
-sex: MALE
-age:  3 YEARS
-color: FAWN
+greyhound: rocket
 permalink: /greyhounds/rocket/
 ---
 

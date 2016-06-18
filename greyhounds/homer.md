@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Homer
-pic: homer.jpg
-sex: MALE
-age:  7 YEARS
-color: FAWN
+greyhound: homer
 permalink: /greyhounds/homer/
 ---
 

@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Gregory
-pic: gregory.jpg
-sex: MALE
-age: 4 YEARS
-color: BLACK
-cats: YES
+greyhound: gregory
 permalink: /greyhounds/gregory/
 ---
 

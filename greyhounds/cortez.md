@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Cortez
-pic: cortez.jpg
-sex: FEMALE
-cats: NO
-age:  7 YEARS
-color: WHITE/BLACK
+greyhound: cortez
 permalink: /greyhounds/cortez/
 ---
 

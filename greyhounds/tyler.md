@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Tyler
-pic: tyler.jpg
-sex: MALE
-age:  4 YEARS
-color: BRINDLE
+greyhound: tyler
 permalink: /greyhounds/tyler/
 ---
 

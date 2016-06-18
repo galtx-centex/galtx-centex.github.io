@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Alyann
-pic: alyann.jpg
-sex: FEMALE
-color: BRINDLE
+greyhound: alyann
 permalink: /greyhounds/alyann/
 ---
 

@@ -1,9 +1,7 @@
 ---
 layout: greyhound
 title: Piper
-pic: piper.jpg
-sex: FEMALE
-age: 1 YEAR
+greyhound: piper
 permalink: /greyhounds/piper/
 ---
 

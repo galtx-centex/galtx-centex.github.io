@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Jill
-pic: jill.jpg
-sex: FEMALE
-age: 2 YEARS
-color: FAWN
+greyhound: jill
 permalink: /greyhounds/jill/
 ---
 

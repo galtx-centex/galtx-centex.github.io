@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Giselle
-pic: giselle.jpg
-sex: FEMALE
-color: RED FAWN
-cats: no
+greyhound: giselle
 permalink: /greyhounds/giselle/
 ---
 Currently fostered with two female greyhounds, gorgeous Giselle is a 3-year-old "strawberry blond" who is ready for true

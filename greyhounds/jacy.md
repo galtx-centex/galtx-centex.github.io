@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Jacy
-pic: jacy.jpg
-sex: FEMALE
-age: 15 MONTHS
-color: BLUE FAWN
-cats: no
+greyhound: jacy
 permalink: /greyhounds/jacy/
 ---
 

@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Lady
-pic: lady.png
-sex: FEMALE
-age: 4 YEARS
-color: RED
+greyhound: lady
 permalink: /greyhounds/lady/
 ---
 

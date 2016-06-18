@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Carlos
-pic: carlos.jpg
-sex: MALE
-age: 4 YEARS
-color: FAWN
-cats: yes
+greyhound: carlos
 permalink: /greyhounds/carlos/
 ---
 

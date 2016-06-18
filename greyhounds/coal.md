@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Coal
-pic: coal.jpg
-sex: MALE
-age: 2 YEARS
-color: BLACK
-cats: no
+greyhound: coal
 permalink: /greyhounds/coal/
 ---
 

@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Bella
-pic: bella1.JPG
-sex: FEMALE
-age:  6 YEARS
-color: WHITE/BLACK
-cats: YES
+greyhound: bella1
 permalink: /greyhounds/bella1/
 ---
 

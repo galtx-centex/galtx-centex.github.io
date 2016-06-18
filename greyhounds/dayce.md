@@ -1,11 +1,7 @@
 ---
 layout: greyhound
 title: Dayce
-pic: dayce.JPG
-sex: MALE
-age: 2 YEARS
-color: FAWN
-cats:
+greyhound: dayce
 permalink: /greyhounds/dayce/
 ---
 

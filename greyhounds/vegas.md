@@ -1,10 +1,7 @@
 ---
 layout: greyhound
 title: Vegas
-pic: vegas.jpg
-sex: FEMALE
-age: 2 YEARS
-color: FAWN
+greyhound: vegas
 permalink: /greyhounds/vegas/
 ---
 
