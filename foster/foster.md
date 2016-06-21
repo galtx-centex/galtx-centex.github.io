@@ -32,8 +32,9 @@ email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex
 
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/Adoption_Foster_Application.pdf" role="button">Download Application!</a>
-  <p>
+  <p></p>
 
   <div class="panel-footer">
     <a href="/docs/Foster_Guidelines.pdf">Foster Guidelines & FAQs</a>
   </div>
+</div>
