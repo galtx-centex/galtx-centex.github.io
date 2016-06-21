@@ -30,6 +30,50 @@ retired racing greyhound, please review the Foster FAQs below.
 
 email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex.org)
 
+* * *
+
+<div class="row">
+<div class="col-md-2"></div>
+<div class="col-md-8">
+  <div class="text-center">
+    <h2>Testimonials from Foster Families:</h2>
+
+    <i>
+    <blockquote>
+    "What a rewarding experience!  There's just something amazing about giving a greyhound their
+    first off-track experience, and showing them what family and home are all about.  Their soulful
+    eyes and the appreciation they show is beyond gratitude.  After a couple of days, they adapt to
+    life as a pet so quickly -- like they were born to live with you.  If you're reading this, take
+    the first step and become a foster and see for yourself."
+    <br>
+    <b>—Amy, Greg, and Ella</b>
+    </blockquote>
+
+    <blockquote>
+    "I have had so much fun fostering greyhounds. I love to see them take their first steps in a house.
+    I would imagine the thrill I have in seeing them play with a toy for the first time in their lives,
+    conquer going up and down stairs, or finally being able to enter a room without being spooked by
+    the ceiling fan, is probably a little like seeing your child take their first steps. They just
+    seem to find such joy in the little things. I never get tired of watching that transition."
+    <br>
+    <b>—Lisa</b>
+    </blockquote>
+
+    <blockquote>
+    "It was such a joy to watch my timid little foster become a confident, happy girl. Helping
+    this beautiful animal adjust to life off the track has been an incredibly gratifying experience."
+    <br>
+    <b>—Shannon</b>
+    </blockquote>
+    </i>
+
+  </div>
+</div>
+<div class="col-md-2"></div>
+</div>
+
+* * *
+
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/Adoption_Foster_Application.pdf" role="button">Download Application!</a>
   <p></p>
