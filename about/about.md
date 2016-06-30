@@ -26,9 +26,9 @@ P.O. Box 10069
 <br>
 Austin, TX 78766
 <br>
-(855) 4-GOFAST (446-3278)
+<a href="tel:855-446-3278">(855) 4-GOFAST</a>
 <br>
-<a href="mailto:president@gpa-centex.org">president@gpa-centex.org</a>
+<a href="mailto:info@gpa-centex.org">info@gpa-centex.org</a>
 
 <h2>Board of Directors Meetings</h2>
 
