@@ -1,3 +1,12 @@
+georgie:
+  name: Georgie
+  pic: georgie.png
+  sex: FEMALE
+  age: 8 YEARS
+  color: BRINDLE
+  cats: no
+  available: yes
+
 victor:
   name: Victor
   pic: victor.jpg
@@ -59,7 +68,7 @@ ballatore:
   age: 3 YEARS
   color: RED
   cats: yes
-  available: yes
+  available: no
 
 judge:
   name: Judge
@@ -95,7 +104,7 @@ butterfinger:
   age: 3 YEARS
   color: WHITE/BLACK
   cats:
-  available: yes
+  available: no
 
 denise:
   name: Denise
