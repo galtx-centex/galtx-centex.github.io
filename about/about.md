@@ -26,7 +26,7 @@ P.O. Box 10069
 <br>
 Austin, TX 78766
 <br>
-<a href="tel:855-446-3278">(855) 4-GOFAST</a>
+<a href="tel:855-446-3278">(855) 4-GO-FAST</a>
 <br>
 <a href="mailto:info@gpa-centex.org">info@gpa-centex.org</a>
 
