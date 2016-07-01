@@ -107,7 +107,7 @@ foster experience. Resources loaned to foster dogs and foster families include:
 * GPA Central Texas Website
 * The publication "Children and Greyhounds"
 * Weekly Meet and Greet Events--socialize and show your foster dog to potential adopters
-* Continuous, ongoing QandA support from Foster and Adoption Coordinator: local, trained
+* Continuous, ongoing Q&A support from Foster and Adoption Coordinator: local, trained
   and experienced volunteer knowledgeable in intricacies of the Greyhound breed Experienced
   in fostering and well connected to resources of GPA; assists in recruiting, assessing and
   orienting foster families, scheduling veterinary appointments, providing ongoing advice and
