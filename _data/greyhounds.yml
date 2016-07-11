@@ -14,7 +14,7 @@ victor:
   age: 4 YEARS
   color: BRINDLE
   cats: no
-  available: yes
+  available: no
 
 plante:
   name: Plante
@@ -77,7 +77,7 @@ judge:
   age: 4 YEARS
   color: ORANGE/WHITE
   cats:
-  available: yes
+  available: no
 
 poncho:
   name: Poncho
