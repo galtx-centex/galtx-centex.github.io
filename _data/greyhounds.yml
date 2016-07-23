@@ -23,7 +23,7 @@ plante:
   age: 2 YEARS
   color: WHITE/BLACK
   cats: yes
-  available: yes
+  available: no
 
 jamesbond:
   name: James Bond
@@ -50,7 +50,7 @@ flower:
   age: 3 YEARS
   color: BLACK
   cats: yes
-  available: yes
+  available: no
 
 johaunna:
   name: Johaunna
@@ -360,7 +360,7 @@ tyler:
   sex: MALE
   age:  4 YEARS
   color: BRINDLE
-  available: no
+  available: yes
 
 eleanor:
   name: Eleanor
