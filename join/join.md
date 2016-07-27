@@ -26,7 +26,7 @@ for GPA-CT your dues are waived during the calendar year(s) that you foster.
 
 To become a member, complete the
 [membership application](https://docs.google.com/forms/d/1HGN69_7btJvldsldQ3vuew0r7k84d4UvpLB76rIO8IQ/viewform)
-and click the PayPal _Donate_ button below to begin your $30 annual membership dues
+and click the _Join_ button below to begin your $30 annual membership dues
 
 Thank you for supporting GPA-CT!
 
