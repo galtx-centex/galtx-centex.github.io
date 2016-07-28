@@ -26,6 +26,10 @@ If you are on the GPA-CTX team:
 
 4. Done!
 
+## How to Build the Website
+
+See the wiki post [How to Build the Website](https://github.com/gpa-centex/gpa-centex.github.io/wiki/How-to-Build-the-Website)
+
 ## License
 
 The MIT License (MIT)
