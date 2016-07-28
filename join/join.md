@@ -35,10 +35,9 @@ Thank you for supporting GPA-CT!
 Email the Membership Coordinator at [join@gpa-centex.org](mailto:join@gpa-centex.org)
 
 <div class="text-center">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
-  <input type="hidden" name="hosted_button_id" value="3594444">
-  <input type="hidden" name="item_name" value="Membership Dues">
+  <input type="hidden" name="hosted_button_id" value="PFJY2L5WE82U8">
   <input type="submit" name="submit" value="Join GPA-Central Texas!" class="btn btn-lg btn-success">
 </form>
 </div>
