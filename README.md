@@ -4,7 +4,7 @@ Greyhound Pets of America, Central Texas website
 
 Hosted on [GitHub Pages](https://pages.github.com/).
 
-And built with [Jekyll](http://jekyllrb.com/).
+Built by [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
 [![Build Status](https://travis-ci.org/gpa-centex/gpa-centex.github.io.svg?branch=master)](https://travis-ci.org/gpa-centex/gpa-centex.github.io)
