@@ -1,3 +1,30 @@
+philly:
+  name: Philly
+  pic: Philly.JPG
+  sex: FEMALE
+  age: 8 YEARS
+  color: WHITE
+  cats:
+  available: yes
+
+isabelle:
+  name: Isabelle
+  pic: Isabelle.JPG
+  sex: FEMALE
+  age: 8 YEARS
+  color: FAWN
+  cats:
+  available: yes
+
+waco:
+  name: Waco
+  pic: Waco.jpg
+  sex: MALE
+  age: 8 YEARS
+  color: BRINDLE
+  cats: yes
+  available: yes
+
 georgie:
   name: Georgie
   pic: georgie.png
@@ -86,7 +113,7 @@ poncho:
   age: 4 YEARS
   color: RED
   cats:
-  available: yes
+  available: no
 
 jamie:
   name: Jamie
