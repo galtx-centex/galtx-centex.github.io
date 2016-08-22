@@ -32,7 +32,7 @@ georgie:
   age: 8 YEARS
   color: BRINDLE
   cats: no
-  available: yes
+  available: no
 
 victor:
   name: Victor
