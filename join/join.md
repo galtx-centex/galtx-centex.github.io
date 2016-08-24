@@ -40,4 +40,12 @@ Email the Membership Coordinator at [join@gpa-centex.org](mailto:join@gpa-centex
   <input type="hidden" name="hosted_button_id" value="PFJY2L5WE82U8">
   <input type="submit" name="submit" value="Join GPA-Central Texas!" class="btn btn-lg btn-success">
 </form>
+
+<p/>
+
+<div class="panel-footer">
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3XCT64G66L8US">
+    Leave GPA
+  </a>
+</div>
 </div>
