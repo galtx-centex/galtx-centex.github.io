@@ -24,3 +24,6 @@ _site/
 Gemfile.lock
 .ruby-version
 .ruby-gemset
+
+# macOS
+.DS_Store
