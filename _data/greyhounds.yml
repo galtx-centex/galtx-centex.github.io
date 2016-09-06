@@ -1,3 +1,12 @@
+simmons:
+  name: Simmons
+  pic: simmons.jpg
+  sex: MALE
+  age: 2 YEARS
+  color: FAWN
+  cats:
+  available: yes
+
 philly:
   name: Philly
   pic: Philly.JPG
