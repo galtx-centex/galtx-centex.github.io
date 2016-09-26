@@ -1,3 +1,21 @@
+snowwhite:
+  name: Snow White
+  pic: snowwhite.jpg
+  sex: FEMALE
+  age: 6 YEARS
+  color: BLACK
+  cats:
+  available: yes
+
+jay:
+  name: Jay
+  pic: jay.jpg
+  sex: MALE
+  age: 1 YEARS
+  color: BLACK
+  cats: no
+  available: yes
+
 simmons:
   name: Simmons
   pic: simmons.jpg
@@ -5,7 +23,7 @@ simmons:
   age: 2 YEARS
   color: FAWN
   cats:
-  available: yes
+  available: no
 
 philly:
   name: Philly
@@ -77,7 +95,7 @@ gregory:
   age: 4 YEARS
   color: BLACK
   cats: yes
-  available: yes
+  available: no
 
 flower:
   name: Flower
@@ -396,7 +414,7 @@ tyler:
   sex: MALE
   age:  4 YEARS
   color: BRINDLE
-  available: yes
+  available: no
 
 eleanor:
   name: Eleanor
