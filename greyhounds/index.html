@@ -39,7 +39,7 @@ title: Available Greyhounds
     {% assign greyhound = grey_hash[1] %}
 
       {% if greyhound.deceased %}
-      {% elsif greyhound.available and greyhound.age contains 'YEARS' %}
+      {% elsif greyhound.available and greyhound.age contains 'YEAR' %}
         {% assign age_int = greyhound.age | to_integer %}
         {% if age_int > 6 %}
           <div class="col-md-3">
