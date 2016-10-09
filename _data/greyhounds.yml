@@ -34,6 +34,15 @@ philly:
   cats:
   available: yes
 
+breeze:
+  name: Breeze
+  pic: breeze.JPG
+  sex: FEMALE
+  age:  6 YEARS
+  color: BLACK
+  cats: no
+  available: yes
+
 isabelle:
   name: Isabelle
   pic: Isabelle.JPG
@@ -348,15 +357,6 @@ bella1:
   color: WHITE/BLACK
   cats: yes
   available: no
-
-breeze:
-  name: Breeze
-  pic: breeze.JPG
-  sex: FEMALE
-  age:  6 YEARS
-  color: BLACK
-  cats: no
-  available: yes
 
 valkyrie:
   name: Valkyrie
