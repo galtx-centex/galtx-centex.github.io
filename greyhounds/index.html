@@ -5,28 +5,111 @@ title: Available Greyhounds
 
 <div class="container-fluid">
 
-  <div class="row">
+  {% assign puppies = false %}
+  {% assign adults  = false %}
+  {% assign seniors = false %}
+  <!-- Find if we have any available seniors, adults, or puppies -->
+  {% for grey_hash in site.data.greyhounds %}
+    {% assign greyhound = grey_hash[1] %}
+      {% if greyhound.deceased %}
+        <!-- Skip deceased greyhounds -->
+      {% elsif greyhound.available %}
+        <!-- Puppies are months old -->
+        {% if greyhound.age contains 'MONTH' %}
+          {% assign puppies = true %}
+        <!-- Seniors and Adults are years old -->
+        {% elsif greyhound.age contains 'YEAR' %}
+          {% assign age_int = greyhound.age | to_integer %}
+          {% if age_int > 6 %}
+            <!-- Seniors are 7 years or older -->
+            {% assign seniors = true %}
+          {% else %}
+            <!-- Adults are 6 years or younger -->
+            {% assign adults = true %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+  {% endfor %}
 
+  {% if seniors %}
+  <h2 class="text-center">Seniors</h2>
+  <div class="row">
     {% for grey_hash in site.data.greyhounds %}
     {% assign grey_key = grey_hash[0] %}
     {% assign greyhound = grey_hash[1] %}
 
-    {% if greyhound.deceased %}
-    {% elsif greyhound.available %}
-      <div class="col-md-3">
-        <a href="/greyhounds/{{ grey_key }}">
-        <div class="thumbnail">
-          <img src="/img/thm/{{ greyhound.pic }}">
-          <div class="text-center">
-          <h3>{{ greyhound.name }}</h3>
+      {% if greyhound.deceased %}
+      {% elsif greyhound.available and greyhound.age contains 'YEAR' %}
+        {% assign age_int = greyhound.age | to_integer %}
+        {% if age_int > 6 %}
+          <div class="col-md-3">
+            <a href="/greyhounds/{{ grey_key }}">
+            <div class="thumbnail">
+              <img src="/img/thm/{{ greyhound.pic }}">
+              <div class="text-center">
+              <h3>{{ greyhound.name }}</h3>
+              </div>
+            </div>
+            </a>
           </div>
-        </div>
-        </a>
-      </div>
-    {% endif %}
+        {% endif %}
+      {% endif %}
 
     {% endfor %}
-
   </div>
+  {% endif %}
+
+  {% if adults %}
+  <h2 class="text-center">Adults</h2>
+  <div class="row">
+    {% for grey_hash in site.data.greyhounds %}
+    {% assign grey_key = grey_hash[0] %}
+    {% assign greyhound = grey_hash[1] %}
+
+      {% if greyhound.deceased %}
+      {% elsif greyhound.available and greyhound.age contains 'YEAR' %}
+        {% assign age_int = greyhound.age | to_integer %}
+        {% if age_int <= 6 %}
+          <div class="col-md-3">
+            <a href="/greyhounds/{{ grey_key }}">
+            <div class="thumbnail">
+              <img src="/img/thm/{{ greyhound.pic }}">
+              <div class="text-center">
+              <h3>{{ greyhound.name }}</h3>
+              </div>
+            </div>
+            </a>
+          </div>
+        {% endif %}
+      {% endif %}
+
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if puppies %}
+  <h2 class="text-center">Puppies</h2>
+  <div class="row">
+    {% for grey_hash in site.data.greyhounds %}
+    {% assign grey_key = grey_hash[0] %}
+    {% assign greyhound = grey_hash[1] %}
+
+      {% if greyhound.deceased %}
+      {% elsif greyhound.available and greyhound.age contains 'MONTH' %}
+        <div class="col-md-3">
+          <a href="/greyhounds/{{ grey_key }}">
+          <div class="thumbnail">
+            <img src="/img/thm/{{ greyhound.pic }}">
+            <div class="text-center">
+            <h3>{{ greyhound.name }}</h3>
+            </div>
+          </div>
+          </a>
+        </div>
+      {% endif %}
+
+    {% endfor %}
+  </div>
+  {% endif %}
 
 </div>
