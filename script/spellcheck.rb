@@ -26,7 +26,7 @@ module Spellcheck
     def spellcheck
       rval = 0
       md = Redcarpet::Markdown.new(Redcarpet::Render::StripDown)
-      files = `git ls-files`.split.select { |v| v =~ /(\.html|\.md)/ }
+      files = `git ls-files`.split.select { |file| file =~ /(\.html|\.md)/ and file !~ /^(_layouts|_includes)/ }
       files.each do |file|
         tmpfile = "#{file}.tmp"
         File.write(tmpfile, md.render(File.read(file)))
