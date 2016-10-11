@@ -62,8 +62,41 @@ layout: page
         <span class="label label-default">{{ greyhound.color }}</span>
       {% endif %}
 
-      {% if greyhound.age %}
-        <span class="label label-default">{{ greyhound.age }}</span>
+      <!-- Deceased Greyhounds -->
+      {% if greyhound.deceased %}
+        {% if greyhound.dob and greyhound.dod %}
+            {% assign born = greyhound.dob | date_to_string %}
+            {% assign died = greyhound.dod | date_to_string %}
+            <span class="label label-default">{{ born }} - {{ died }}</span>
+        {% elsif greyhound.dod %}
+            <span class="label label-default">Died {{ greyhound.dod | date_to_string }}</span>
+        {% else %}
+            <span class="label label-default">Deceased</span>
+        {% endif %}
+      <!-- Available Greyhounds -->
+      {% elsif greyhound.available %}
+        {% if greyhound.dob %}
+          {% assign years = greyhound.dob | date: '%Y' %}
+          {% assign age = site.time | date: '%Y' | minus: years %}
+          {% if age > 1 %}
+            <span class="label label-default">{{ age }} YEARS</span>
+          {% elsif age != 0 %}
+            <span class="label label-default">{{ age }} YEAR</span>
+          {% else %}
+            {% assign months = greyhound.dob | date: '%m' %}
+            {% assign age = site.time | date: '%m' | minus: months %}
+            <span class="label label-default">{{ age }} MONTHS</span>
+          {% endif %}
+        {% elsif greyhound.age %}
+            <span class="label label-default">{{ greyhound.age }}</span>
+        {% endif %}
+      <!-- Adopted Greyhounds -->
+      {% else %}
+        {% if greyhound.dob %}
+          <span class="label label-default">Born {{ greyhound.dob | date_to_string }}</span>
+        {% elsif greyhound.age %}
+            <span class="label label-default">{{ greyhound.age }}</span>
+        {% endif %}
       {% endif %}
 
     </div>
