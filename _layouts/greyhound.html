@@ -4,6 +4,12 @@ layout: page
 
 {% assign greyhound = site.data.greyhounds[page.greyhound] %}
 
+{% if greyhound.available != true %}
+  <div class="text-center alert alert-success" role="alert">
+    <span style="font-size:2em">&hearts; ADOPTED &hearts;</span>
+  </div>
+{% endif %}
+
 <div class="row">
   <div class="col-md-6">
     <img src="/img/{{ greyhound.pic }}"></img>
@@ -37,10 +43,6 @@ layout: page
       <div class="fb-like" data-href="{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
     </div>
     <div class="col-md-6 align-right">
-
-      {% if greyhound.available != true %}
-        <span class="label label-success">ADOPTED</span>
-      {% endif %}
 
       {% if greyhound.sex == "MALE" %}
         <span class="label label-primary">{{ greyhound.sex }}</span>
