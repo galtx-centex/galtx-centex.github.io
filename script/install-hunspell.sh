@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 sudo echo "DGET_VERIFY=no" > ~/.devscripts
-sudo apt-get install -y dpkg-dev devscripts dh-autoreconf
 sudo dget -x --build http://http.debian.net/debian/pool/main/h/hunspell/hunspell_1.3.3-3.dsc
 sudo dpkg -i -R .
 

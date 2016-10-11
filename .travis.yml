@@ -1,9 +1,14 @@
 language: ruby
 cache: bundler
 rvm: 2.2
+sudo: required
+
+services:
+  - docker
 
 before_install:
-  - sudo apt-get update -qq
+  - sudo apt-get update -q
+  - sudo apt-get install -y dpkg-dev devscripts dh-autoreconf
   - script/install-hunspell.sh
 
 before_script:
