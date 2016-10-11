@@ -38,6 +38,10 @@ layout: page
     </div>
     <div class="col-md-6 align-right">
 
+      {% if greyhound.available != true %}
+        <span class="label label-success">ADOPTED</span>
+      {% endif %}
+
       {% if greyhound.sex == "MALE" %}
         <span class="label label-primary">{{ greyhound.sex }}</span>
       {% elsif greyhound.sex == "FEMALE" %}
