@@ -1,3 +1,30 @@
+isabelle:
+  name: Isabelle
+  pic: Isabelle.JPG
+  sex: FEMALE
+  age: 8 YEARS
+  color: FAWN
+  cats:
+  available: yes
+
+philly:
+  name: Philly
+  pic: Philly.JPG
+  sex: FEMALE
+  age: 8 YEARS
+  color: WHITE
+  cats:
+  available: yes
+
+waco:
+  name: Waco
+  pic: Waco.jpg
+  sex: MALE
+  age: 8 YEARS
+  color: BRINDLE
+  cats: yes
+  available: yes
+
 snowwhite:
   name: Snow White
   pic: snowwhite.jpg
@@ -25,15 +52,6 @@ simmons:
   cats:
   available: no
 
-philly:
-  name: Philly
-  pic: Philly.JPG
-  sex: FEMALE
-  age: 8 YEARS
-  color: WHITE
-  cats:
-  available: yes
-
 breeze:
   name: Breeze
   pic: breeze.JPG
@@ -41,24 +59,6 @@ breeze:
   age:  6 YEARS
   color: BLACK
   cats: no
-  available: yes
-
-isabelle:
-  name: Isabelle
-  pic: Isabelle.JPG
-  sex: FEMALE
-  age: 8 YEARS
-  color: FAWN
-  cats:
-  available: yes
-
-waco:
-  name: Waco
-  pic: Waco.jpg
-  sex: MALE
-  age: 8 YEARS
-  color: BRINDLE
-  cats: yes
   available: yes
 
 georgie:
