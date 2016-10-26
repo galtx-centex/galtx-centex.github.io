@@ -2,7 +2,7 @@ isabelle:
   name: Isabelle
   pic: Isabelle.JPG
   sex: FEMALE
-  age: 8 YEARS
+  dob: 2008-07-01
   color: FAWN
   cats:
   available: yes
@@ -11,7 +11,7 @@ philly:
   name: Philly
   pic: Philly.JPG
   sex: FEMALE
-  age: 8 YEARS
+  dob: 2008-06-12
   color: WHITE
   cats:
   available: yes
@@ -20,7 +20,7 @@ waco:
   name: Waco
   pic: Waco.jpg
   sex: MALE
-  age: 8 YEARS
+  dob: 2007-07-31
   color: BRINDLE
   cats: yes
   available: yes
@@ -29,7 +29,7 @@ snowwhite:
   name: Snow White
   pic: snowwhite.jpg
   sex: FEMALE
-  age: 6 YEARS
+  dob: 2011-01-16
   color: BLACK
   cats:
   available: yes
@@ -38,7 +38,7 @@ jay:
   name: Jay
   pic: jay.jpg
   sex: MALE
-  age: 1 YEARS
+  dob: 2014-11-22
   color: BLACK
   cats: no
   available: yes
@@ -47,7 +47,7 @@ breeze:
   name: Breeze
   pic: breeze.JPG
   sex: FEMALE
-  age:  6 YEARS
+  dob: 2009-08-28
   color: BLACK
   cats: no
   available: yes
@@ -56,7 +56,7 @@ lexi:
   name: Lexi
   pic: lexi.jpg
   sex: FEMALE
-  age:  2 YEARS
+  dob: 2014-10-31
   color: FAWN
   cats:
   available: yes
@@ -65,7 +65,7 @@ jamesbond:
   name: James Bond
   pic: jamesbond.jpeg
   sex: MALE
-  age: 2 YEARS
+  dob: 2014-03-12
   color: BLACK
   cats: yes
   available: yes
@@ -74,7 +74,7 @@ johaunna:
   name: Johaunna
   pic: johaunna.jpg
   sex: FEMALE
-  age: 3 YEARS
+  dob: 2013-10-03
   color: BLACK
   cats: no
   available: yes
