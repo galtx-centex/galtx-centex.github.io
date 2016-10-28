@@ -61,6 +61,15 @@ img {
   max-width: 100%;
 }
 
+a.thumbnail:hover {
+  text-decoration: none;
+}
+
+.thumbnail .caption {
+  text-align: center;
+  padding: 0px;
+}
+
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
   margin-bottom: 20px;
