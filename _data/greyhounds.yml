@@ -36,12 +36,13 @@ isabelle:
 
 philly:
   name: Philly
-  pic: Philly.JPG
+  pic: philly.jpeg
   sex: FEMALE
   dob: 2008-06-12
   color: WHITE
   cats:
   available: yes
+  permafoster: yes
 
 waco:
   name: Waco
