@@ -1,3 +1,30 @@
+olivia:
+  name: Olivia
+  pic: olivia.jpg
+  sex: FEMALE
+  dob: 2014-10-20
+  color: BRINDLE
+  cats:
+  available: yes
+
+willow:
+  name: Willow
+  pic: willow.jpg
+  sex: FEMALE
+  dob: 2011-04-10
+  color: RED
+  cats:
+  available: yes
+
+zella:
+  name: Zella
+  pic: zella.jpg
+  sex: FEMALE
+  dob: 2015-08-20
+  color: BRINDLE
+  cats:
+  available: yes
+
 isabelle:
   name: Isabelle
   pic: Isabelle.JPG
