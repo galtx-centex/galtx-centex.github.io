@@ -60,7 +60,7 @@ snowwhite:
   dob: 2011-01-16
   color: BLACK
   cats:
-  available: yes
+  available: no
 
 jay:
   name: Jay
@@ -87,7 +87,7 @@ lexi:
   dob: 2014-10-31
   color: FAWN
   cats:
-  available: yes
+  available: no
 
 jamesbond:
   name: James Bond
