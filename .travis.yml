@@ -1,18 +1,17 @@
 language: ruby
-cache: bundler
 rvm: 2.2
 sudo: required
 
-services:
-  - docker
-
 before_install:
-  - sudo apt-get update -q
-  - sudo apt-get install -y dpkg-dev devscripts dh-autoreconf
-  - script/install-hunspell.sh
+  - wget http://http.us.debian.org/debian/pool/main/h/hunspell/hunspell_1.3.3-3_amd64.deb
+  - wget http://http.us.debian.org/debian/pool/main/h/hunspell/libhunspell-1.3-0_1.3.3-3_amd64.deb
+  - sudo apt-get update -qq
 
-before_script:
-  - sudo git clean -df
+install:
+  - bundle install
+  - sudo apt-get install hunspell-en-us
+  - sudo dpkg -i libhunspell-1.3-0_1.3.3-3_amd64.deb
+  - sudo dpkg -i hunspell_1.3.3-3_amd64.deb
 
 script:
   - bundle exec rake test

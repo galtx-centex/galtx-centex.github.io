@@ -13,4 +13,4 @@ The best times of the day for me are mealtimes. I will escort you to pick up the
  
 If you have a nice soft dog bed, a steady supply of dog food and want someone to love, I’m the girl for you.
 
-![alttext](/img/carly1.png "Carly")
+![Carly](/img/carly1.png "Carly")
