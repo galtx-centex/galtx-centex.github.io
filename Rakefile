@@ -7,8 +7,3 @@ task :test do
   HTMLProofer.check_directory("./_site", {:alt_ignore => [/.*/], :url_ignore => ['#']}).run
   Spellcheck.run
 end
-
-task :clean do
-  print `git checkout -- words.txt`
-  print `git clean -dfx`
-end

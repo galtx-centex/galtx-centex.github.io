@@ -12,4 +12,4 @@ She loves being in her crate with the door open during the day and she comes and
 Late at night the crate is her safe place and that’s where you will find her.  She has mastered
 stairs, and flies up and down them with ease.  She also likes to be in whatever room you are in.
 She will usually find a cozy corner and lay down in the living room while you watch TV.
-![alttext](/img/raven1.png "Raven")
+![Raven](/img/raven1.png "Raven")

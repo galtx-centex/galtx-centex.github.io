@@ -97,7 +97,7 @@ foster experience. Resources loaned to foster dogs and foster families include:
 * Dog Coat (loan, for winter)
 * “Greyhounds for Dummies” Guidebook (loan)
 * Foster dog’s veterinary care
-* Pre-approved local veterinarian support
+* Preapproved local veterinarian support
 * Monthly protection from heartworm, flea and ticks
 * Foster Manual and Guidelines
 * 24-7 Toll Free GPA-CT Hotline [(855) 4-GO-FAST](tel:855-446-3278)
