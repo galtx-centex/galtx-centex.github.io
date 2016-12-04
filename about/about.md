@@ -43,9 +43,11 @@ GPA-CT's membership meetings are held quarterly
 <br>(tentatively in March, June, September, and December)
 <br>at various locations around the Austin area.
 
-<h2>Officers & Board of Directors</h2>
+<h2>Officers and Volunteers</h2>
 
+<div class="row">
 {% for contact in site.data.contacts %}
+<div class="col-md-4">
 <h3>{{ contact.title }}</h3>
 
 {{ contact.name }}
@@ -59,7 +61,9 @@ GPA-CT's membership meetings are held quarterly
 <br>
 <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
 {% endif %}
+</div>
 {% endfor %}
+</div>
 
 <p>
 <h2><i>We need You!</i></h2>
