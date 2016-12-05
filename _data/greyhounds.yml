@@ -1,3 +1,12 @@
+canaan:
+  name: Canaan
+  pic: canaan.jpg
+  sex: MALE
+  dob: 2014-12-13
+  color: FAWN
+  cats: yes
+  available: yes
+
 olivia:
   name: Olivia
   pic: olivia.jpg
@@ -23,7 +32,7 @@ zella:
   dob: 2015-08-20
   color: BRINDLE
   cats:
-  available: yes
+  available: no
 
 isabelle:
   name: Isabelle
@@ -54,7 +63,7 @@ waco:
   available: yes
 
 snowwhite:
-  name: Snow White
+  name: Snow W.
   pic: snowwhite.jpg
   sex: FEMALE
   dob: 2011-01-16
@@ -90,13 +99,13 @@ lexi:
   available: no
 
 jamesbond:
-  name: James Bond
+  name: James B.
   pic: jamesbond.jpeg
   sex: MALE
   dob: 2014-03-12
   color: BLACK
   cats: yes
-  available: yes
+  available: no
 
 johaunna:
   name: Johaunna
