@@ -47,20 +47,22 @@ GPA-CT's membership meetings are held quarterly
 
 <div class="row">
 {% for contact in site.data.contacts %}
-<div class="col-md-4">
-<h3>{{ contact.title }}</h3>
+    <div class="col-md-4">
+    <h3>{{ contact.title }}</h3>
 
-{{ contact.name }}
+    {% if contact.name %}
+        {{ contact.name }}
+        <br>
+    {% endif %}
 
-{% if contact.phone %}
-<br>
-{{ contact.phone }}
-{% endif %}
+    {% if contact.phone %}
+        {{ contact.phone }}
+        <br>
+    {% endif %}
 
-{% if contact.email %}
-<br>
-<a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
-{% endif %}
+    {% if contact.email %}
+        <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+    {% endif %}
 </div>
 {% endfor %}
 </div>
