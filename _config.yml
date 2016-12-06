@@ -9,4 +9,4 @@ twitter_username: GPA_CenTex
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: [vendor, dict]
+exclude: [vendor, dict, script]
