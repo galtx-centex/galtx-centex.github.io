@@ -4,7 +4,11 @@ layout: page
 
 {% assign greyhound = site.data.greyhounds[page.greyhound] %}
 
-{% if greyhound.available != true %}
+{% if greyhound.deceased %}
+  <div class="text-center alert alert-info" role="alert">
+    <span style="font-size:2em"><b>🌈 Running on Rainbow Bridge 🌈</b></span>
+  </div>
+{% elsif greyhound.available != true %}
   <div class="text-center alert alert-success" role="alert">
     <span style="font-size:2em">&hearts; <b>ADOPTED</b> &hearts;</span>
   </div>
