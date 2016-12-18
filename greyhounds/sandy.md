@@ -1,6 +1,6 @@
 ---
 layout: greyhound
-title: Sandy
+title: Swee’Pea (Sandy)
 greyhound: sandy
 permalink: /greyhounds/sandy/
 ---

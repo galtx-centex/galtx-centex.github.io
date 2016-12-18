@@ -404,6 +404,14 @@ bella1:
   cats: yes
   available: no
 
+sandy:
+  name: Swee’Pea
+  pic: sweepea.jpg
+  sex: FEMALE
+  available: no
+  deceased: yes
+  dod: 2016-12-17
+
 valkyrie:
   name: Valkyrie
   pic: valkyrie.jpg
@@ -1328,12 +1336,6 @@ monanicole:
   age: 2 YEARS
   color: BLACK
   cats: yes
-  available: no
-
-sandy:
-  name: Sandy
-  pic: gpa_logo_blue_150.jpg
-  sex: FEMALE
   available: no
 
 lindamcpike:
