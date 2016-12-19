@@ -56,6 +56,17 @@
   color: #818181;
 }
 
+/* banners */
+
+.banner {
+  font-size:1.4em;
+}
+@media (min-width: 992px) {
+  .banner {
+    font-size:2em;
+  }
+}
+
 /* images */
 img {
   max-width: 100%;
