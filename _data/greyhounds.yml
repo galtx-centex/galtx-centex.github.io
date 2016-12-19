@@ -14,7 +14,7 @@ canaan:
   dob: 2014-12-13
   color: FAWN
   cats: yes
-  available: yes
+  available: no
 
 olivia:
   name: Olivia
@@ -87,7 +87,7 @@ jay:
   dob: 2014-11-22
   color: BLACK
   cats: no
-  available: yes
+  available: no
 
 breeze:
   name: Breeze
