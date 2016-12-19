@@ -6,7 +6,7 @@ module Spellcheck
     def spellcheck
       rval = 0
       Dir["_site/**/*.html"].each do |file|
-        errstr = `hunspell -d dict/en_US-gpa-centex -p dict/words.txt -H -u #{file}`
+        errstr = `hunspell -d dict/en_US-gpa-centex -p dict/words.txt -H -u #{file} 2>/dev/null`
         if not errstr.empty?
           rval += 1
           puts "#{file}\n#{errstr}\n"
