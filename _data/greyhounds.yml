@@ -404,6 +404,16 @@ bella1:
   cats: yes
   available: no
 
+carly:
+  name: Carly
+  pic: carly.png
+  sex: FEMALE
+  color: BRINDLE
+  age: 6 YEARS
+  available: no
+  dod: 2016-12-20
+  deceased: yes
+
 sandy:
   name: Swee’Pea
   pic: sweepea.jpg
@@ -650,14 +660,6 @@ baby-girl:
   color: WHITE & BLACK
   age: 6 YEARS
   cats: yes
-  available: no
-
-carly:
-  name: Carly
-  pic: carly.png
-  sex: FEMALE
-  color: BRINDLE
-  age: 6 YEARS
   available: no
 
 lady:
