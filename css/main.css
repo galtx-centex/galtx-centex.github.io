@@ -15,8 +15,9 @@
 .navbar-nav.nav-justified > li {
   float: none;
 }
+
 .nav-justified {
-  width: 0%;
+  width: auto;
 }
 @media (min-width: 768px) {
   .nav-justified {
