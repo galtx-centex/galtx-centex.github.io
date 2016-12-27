@@ -13,7 +13,15 @@
 }
 
 .navbar-nav.nav-justified > li {
-  float:none;
+  float: none;
+}
+.nav-justified {
+  width: 0%;
+}
+@media (min-width: 768px) {
+  .nav-justified {
+    width: 100%;
+  }
 }
 
 /* Mast head */
