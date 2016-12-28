@@ -12,16 +12,23 @@
   margin-bottom: 20px;
 }
 
-.navbar-nav.nav-justified > li {
-  float: none;
-}
-
 .nav-justified {
   width: auto;
 }
+
+.nav-justified > li {
+  float: none;
+}
 @media (min-width: 768px) {
-  .nav-justified {
-    width: 100%;
+  .nav-justified > li {
+    width: auto;
+    display: block;
+  }
+}
+@media (min-width: 992px) {
+  .nav-justified > li {
+    display: table-cell;
+    width: 1%;
   }
 }
 
