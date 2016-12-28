@@ -15,7 +15,6 @@
 .nav-justified {
   width: auto;
 }
-
 .nav-justified > li {
   float: none;
 }
@@ -26,6 +25,9 @@
   }
 }
 @media (min-width: 992px) {
+  .nav-justified {
+    width: 100%;
+  }
   .nav-justified > li {
     display: table-cell;
     width: 1%;
