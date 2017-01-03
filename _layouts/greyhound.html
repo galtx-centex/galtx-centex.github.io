@@ -77,13 +77,11 @@ layout: page
       <!-- Deceased Greyhounds -->
       {% if greyhound.deceased %}
         {% if greyhound.dob and greyhound.dod %}
-            {% assign born = greyhound.dob | date_to_string %}
-            {% assign died = greyhound.dod | date_to_string %}
+            {% assign born = greyhound.dob | date: '%b %d, %Y' %}
+            {% assign died = greyhound.dod | date: '%b %d, %Y' %}
             <span class="label label-default">{{ born }} - {{ died }}</span>
         {% elsif greyhound.dod %}
-            <span class="label label-default">Died {{ greyhound.dod | date_to_string }}</span>
-        {% else %}
-            <span class="label label-default">Deceased</span>
+            <span class="label label-default">?? - {{ greyhound.dod | date: '%b %d, %Y' }}</span>
         {% endif %}
       <!-- Available Greyhounds -->
       {% elsif greyhound.available %}
@@ -105,7 +103,7 @@ layout: page
       <!-- Adopted Greyhounds -->
       {% else %}
         {% if greyhound.dob %}
-          <span class="label label-default">Born {{ greyhound.dob | date_to_string }}</span>
+          <span class="label label-default">{{ greyhound.dob | date: '%b %d, %Y' }}</span>
         {% elsif greyhound.age %}
             <span class="label label-default">{{ greyhound.age }}</span>
         {% endif %}
