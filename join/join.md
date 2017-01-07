@@ -153,8 +153,8 @@ Thank you for supporting GPA-Central Texas!
   </div>
 </div>
 
+Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3XCT64G66L8US">here</a> to end membership.
+
 ### Questions?
 
 Email the Membership Coordinator at [join@gpa-centex.org](mailto:join@gpa-centex.org)
-
-Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3XCT64G66L8US">here</a> to end membership.
