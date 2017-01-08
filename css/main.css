@@ -83,6 +83,28 @@
   color: #818181;
 }
 
+/* greyhound share buttons */
+
+.share-btns {
+  padding-bottom: 10px;
+}
+@media (min-width: 768px) {
+  .share-btns {
+    padding-bottom: 0px;
+  }
+}
+
+/* greyhound info labels */
+
+.info-labels {
+  text-align: left;
+}
+@media (min-width: 768px) {
+  .info-labels {
+    text-align: right;
+  }
+}
+
 /* banners */
 
 .banner {
