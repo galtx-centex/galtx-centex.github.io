@@ -1,3 +1,12 @@
+romeo:
+  name: Romeo
+  pic: romeo.jpg
+  sex: MALE
+  dob: 2012-12-29
+  color: WHITE/ORANGE
+  cats: 
+  available: yes
+
 layton:
   name: Layton
   pic: layton.jpg
