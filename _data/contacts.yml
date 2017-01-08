@@ -1,40 +1,67 @@
-- title: President
-  name: Tommi Howell
+- name: Tommi Howell
+  title:
+    - President
+    - Director
   phone: (855) 446-3278, ext 1
   email: president@gpa-centex.org
 
-- title: Vice President
-  name: Kim Frost
+- name: Kim Frost
+  title:
+    - Vice President
+    - Membership Coordinator
+    - Director
   phone: (855) 446-3278
   email: vp@gpa-centex.org
 
-- title: Secretary
-  name: Jean Flahive
+- name: Jean Flahive
+  title:
+    - Secretary
+    - Director
   phone: (855) 446-3278, ext. 704
   email: secretary@gpa-centex.org
 
-- title: Treasurer
-  name: Mark Darholt
+- name: Mark Darholt
+  title:
+    - Treasurer
+    - Director
   phone: (855) 446-3278, ext. 703
   email: treasurer@gpa-centex.org
 
-- title: Foster Coordinator
-  name: Catelyn Silapachai
+- name: Catelyn Silapachai
+  title:
+    - Foster Coordinator
+    - Director
   phone: (855) 446-3278, ext. 3
   email: foster@gpa-centex.org
 
-- title: Adoption Coordinator
-  name: Rozalind Weil
+- name: Rozalind Weil
+  title:
+    - Adoption Coordinator
+    - Director
   phone: (855) 446-3278, ext. 2
   email: adopt@gpa-centex.org
 
-- title: Membership Coordinator
-  name: Kim Frost
-  email: join@gpa-centex.org
+- name: Amy Garcia
+  title:
+    - Director
+  email: amy@gpa-centex.org
 
-- title: Event Planner
-  email: events@gpa-centex.org
+- name: Dona Ghadimi
+  title:
+    - Director
+  email: dona@gpa-centex.org
 
-- title: Website Admin
-  name: Zach Whaley
+- name: Jane Troyer
+  title:
+    - Director
+  email: jane@gpa-centex.org
+
+- name: Rhonda Darholt
+  title:
+    - Director
+  email: rhonda@gpa-centex.org
+
+- name: Zach Whaley
+  title:
+    - Website Admin
   email: website@gpa-centex.org
