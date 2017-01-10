@@ -1,3 +1,12 @@
+lani:
+  name: Lani
+  pic: lani.jpg
+  sex: FEMALE
+  dob: 2015-05-01
+  color: BLACK
+  cats: 
+  available: yes
+
 romeo:
   name: Romeo
   pic: romeo.jpg
