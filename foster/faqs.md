@@ -113,6 +113,6 @@ foster experience. Resources loaned to foster dogs and foster families include:
   orienting foster families, scheduling veterinary appointments, providing ongoing advice and
   helpful suggestions on day-to-day challenges, behavioral/health, etc.
 
-### Problems or Questions?
+### More Questions?
 
 Email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex.org)
