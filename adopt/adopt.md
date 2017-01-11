@@ -4,6 +4,43 @@ title: Adoption
 permalink: /adopt/
 ---
 
+<div class="text-center">
+  <img src="/img/sponsors/PetFinderFoundation.png" alt="The Petfinder Foundation">
+</div>
+<p>
+Thanks to the generosity of <a href="http://www.petfinderfoundation.com/">The Petfinder Foundation</a>,
+senior hounds adopted in January and February of 2017 will be gifted a luxurious Orthopedic bed and several months worth of medications they may need.
+See below for more about adopting one of our spectacular seniors!
+</p>
+<div class="row">
+  <div class="col-sm-4 col-md-4">
+    <a class="thumbnail" href="/greyhounds/isabelle/">
+      <img src="/img/thm/Isabelle.JPG">
+      <div class="caption">
+        <h3>Isabelle</h3>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-md-4">
+    <a class="thumbnail" href="/greyhounds/waco/">
+      <img src="/img/thm/Waco.jpg">
+      <div class="caption">
+        <h3>Waco</h3>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-md-4">
+    <a class="thumbnail" href="/greyhounds/breeze/">
+      <img src="/img/thm/breeze.JPG">
+      <div class="caption">
+        <h3>Breeze</h3>
+      </div>
+    </a>
+  </div>
+</div>
+
+<hr>
+
 Adopting a Greyhound from GPA, Central Texas
 --------------------------------------------
 
