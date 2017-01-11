@@ -1,3 +1,12 @@
+gumdrop:
+  name: Gumdrop
+  pic: gumdrop.jpg
+  sex: FEMALE
+  dob: 2015-05-08
+  color: BLACK
+  cats:
+  available: yes
+
 lani:
   name: Lani
   pic: lani.jpg
