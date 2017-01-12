@@ -11,7 +11,7 @@ Please make your selections to guarantee your membership and your commitment to 
 We couldn't do what we do without your consistent support.
 
 To become a member, complete the
-[membership application](https://docs.google.com/forms/d/1HGN69_7btJvldsldQ3vuew0r7k84d4UvpLB76rIO8IQ/viewform)
+[membership application](https://docs.google.com/forms/d/1FUWg9mhKYeA7M4qznQ1XABPKporDrMIUw3_hxJf6C1g/viewform)
 and click the _Join_ button for the membership you've chosen.
 
 <h3 class="text-center">
