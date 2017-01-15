@@ -76,17 +76,80 @@ a.thumbnail:hover {
   padding: 0px;
 }
 
-.bubbles {
-  padding-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
+/* welcome text */
+.welcome > h1 {
+  display: inline-block;
+  font-family:'Dancing Script',cursive;
+  font-size: 4rem;
+  background: darkred;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
-.bubbles h2 {
-  font-weight: normal;
+@media (min-width: 768px) {
+.welcome {
+  top:0;
+  bottom:auto;
 }
-.bubbles p {
-  margin-right: 10px;
-  margin-left: 10px;
+.welcome > h1 {
+  display: table;
+  font-size: 7rem;
+}
+}
+
+.our-greyhounds h1 {
+  display: inline-block;
+  font-family: 'Dancing Script',cursive;
+  font-size: 4rem;
+  background: mediumaquamarine;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 6px;
+}
+.our-greyhounds p {
+  display: inline-block;
+  font-family: 'Dancing Script',cursive;
+  font-size: 3rem;
+  background: lightcoral;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.carousel-inner > .item > .our-greyhounds > img {
+  max-height: 100%;
+  max-width: none;
+}
+@media (min-width: 992px) {
+.carousel-inner > .item > .our-greyhounds > img {
+  max-height: none;
+  max-width: 100%;
+}
+.our-greyhounds h1 {
+  font-size: 7rem;
+}
+}
+
+/* carousel */
+.carousel {
+  height: 270px;
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) {
+.carousel {
+  height: 500px;
+  margin-bottom: 30px;
+}
+}
+
+.carousel .item {
+  height: 270px;
+}
+@media (min-width: 768px) {
+.carousel .item {
+  height: 500px;
+}
+}
+
+.carousel-inner > .item > img {
+  max-width: 100%;
 }
 
 /* button margins */

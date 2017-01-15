@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join GPA - Central Texas!
+title: Join GPA-Central Texas!
 permalink: /join/
 ---
 
