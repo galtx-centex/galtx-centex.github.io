@@ -15,4 +15,6 @@ We have enjoyed having her as our house guest.
 
 <img class="img-rounded" src="/img/lani2.jpg">
 
+<div class="facebook-post">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgreyhoundpetscentraltexas%2Fposts%2F10155610838833572&width=500" width="500" height="646" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>

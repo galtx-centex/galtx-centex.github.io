@@ -474,6 +474,23 @@ a.thumbnail:hover {
   height: 100%;
 }
 
+/* Facebook Posts */
+.facebook-post {
+  position: relative;
+  /* (300 / 400 = 0.75 = 75%) */
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+
+.facebook-post iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* Follow Instagram style */
 .ig-b- {
   display: inline-block;
