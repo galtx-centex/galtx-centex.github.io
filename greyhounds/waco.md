@@ -9,7 +9,7 @@ I'm a gentle gentleman named Waco. I was found as a stray in the Waco, Texas are
 
 **Update:**
 
-Thanks to a generous grant from [The Petfinder Foundation](http://www.petfinderfoundation.com/), Waco will receive a plush orthopedic bed and a one year supply of Heartworm prevention with his adoption.
+Thanks to a generous grant from [The Petfinder Foundation](http://www.petfinderfoundation.com/), Waco will receive a plush orthopedic bed and a one year supply of Heartworm prevention with his adoption!
 
 <div class="col-md-6">
 <div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/photos/a.10151908214063572.1073741835.100961113571/10155051590423572/?type=3" data-width="auto" data-show-text="true"></div>
