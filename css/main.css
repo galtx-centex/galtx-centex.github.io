@@ -2,12 +2,19 @@
 /* ----------------------------------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
 
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
 .page-content {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
 }
 
+/* navbar */
 .navbar {
   margin-bottom: 20px;
 }
@@ -55,6 +62,33 @@
   margin-bottom: 10px;
 }
 
+/* images */
+img {
+  max-width: 100%;
+}
+
+a.thumbnail:hover {
+  text-decoration: none;
+}
+
+.thumbnail .caption {
+  text-align: center;
+  padding: 0px;
+}
+
+.bubbles {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.bubbles h2 {
+  font-weight: normal;
+}
+.bubbles p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 /* button margins */
 .btn {
   margin-top: 10px;
@@ -83,8 +117,7 @@
   color: #818181;
 }
 
-/* greyhound share buttons */
-
+/* share buttons */
 .share-btns {
   padding-bottom: 10px;
 }
@@ -94,8 +127,7 @@
   }
 }
 
-/* greyhound info labels */
-
+/* info labels */
 .info-labels {
   text-align: left;
 }
@@ -106,7 +138,6 @@
 }
 
 /* banners */
-
 .banner {
   font-size:1.4em;
 }
@@ -116,8 +147,29 @@
   }
 }
 
-/* membership panels */
+/* profile content */
+.profile-content {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.profile-content > p {
+  margin-top: 10px;
+}
+@media (min-width: 768px) {
+.profile-content {
+  font-size: 24px;
+}
+.profile-content > p {
+  margin-top: inherit;
+}
+}
 
+.row .profile-content {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* membership panels */
 .panel-platinum {
   border-color: #1a1a1a;
 }
@@ -268,182 +320,6 @@
     position: absolute;
     width: 100%;
     bottom: 0;
-  }
-}
-
-/* images */
-img {
-  max-width: 100%;
-}
-
-a.thumbnail:hover {
-  text-decoration: none;
-}
-
-.thumbnail .caption {
-  text-align: center;
-  padding: 0px;
-}
-
-.bubbles {
-  padding-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-.bubbles h2 {
-  font-weight: normal;
-}
-.bubbles p {
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-/* Post styles */
-.post-header {
-  margin: 10px 0 30px;
-}
-
-.post-header h1 {
-  font-size: 42px;
-  letter-spacing: -1.75px;
-  line-height: 1;
-  font-weight: 300;
-}
-
-.post-header .meta {
-  font-size: 15px;
-  color: #818181;
-  margin-top: 5px;
-}
-
-.post-content {
-  margin: 0 0 30px;
-  font-size: 18px;
-  line-height: 1.4;
-}
-@media (min-width: 768px) {
-.post-content {
-  font-size: 24px;
-}
-}
-
-.post-content > * {
-  margin: 20px 0;
-}
-
-.post-content h1,
-.post-content h2,
-.post-content h3,
-.post-content h4,
-.post-content h5,
-.post-content h6 {
-  line-height: 1;
-  font-weight: 300;
-  margin: 40px 0 20px;
-}
-
-.post-content h2 {
-  font-size: 32px;
-  letter-spacing: -1.25px;
-}
-
-.post-content h3 {
-  font-size: 26px;
-  letter-spacing: -1px;
-}
-
-.post-content h4 {
-  font-size: 20px;
-  letter-spacing: -1px;
-}
-
-.post-content blockquote {
-  border-left: 4px solid #e8e8e8;
-  padding-left: 20px;
-  font-size: 18px;
-  opacity: .6;
-  letter-spacing: -1px;
-  font-style: italic;
-  margin: 30px 0;
-}
-
-.post-content ul,
-.post-content ol {
-  padding-left: 20px;
-}
-
-.row .post-content {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-.post ul,
-.post ol {
-  margin-left: 1.35em;
-}
-
-.posts {
-  list-style-type: none;
-  padding: 0;
-}
-
-.posts li {
-  margin-bottom: 30px;
-}
-
-.posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
-.posts .post-date {
-  display: block;
-  font-size: 15px;
-  color: #818181;
-}
-
-/* Event styles */
-
-.events {
-  list-style-type: none;
-  padding: 0;
-}
-
-.events li {
-  margin-bottom: 30px;
-}
-
-.events .event-date {
-  display: block;
-  font-size: 15px;
-  color: #818181;
-}
-
-.events .event-link {
-  display: block;
-  font-size: 28px;
-  line-height: 1;
-}
-
-.events .event-location a {
-  text-decoration: none;
-  color: #818181;
-}
-
-.events .event-location a:hover {
-  color: #818181;
-  text-decoration: underline;
-}
-
-.events .event-content {
-  margin: 0 0 30px;
-  font-size: 130%;
-}
-
-@media (min-width: 1200px) {
-  .container {
-    width: 970px;
   }
 }
 
