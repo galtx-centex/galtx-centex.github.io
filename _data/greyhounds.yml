@@ -1,3 +1,12 @@
+jedi:
+  name: Jedi
+  pic: jedi.jpg
+  sex: FEMALE
+  dob: 2008-11-01
+  color: FAWN
+  cats:
+  available: yes
+
 gumdrop:
   name: Gumdrop
   pic: gumdrop.jpg
