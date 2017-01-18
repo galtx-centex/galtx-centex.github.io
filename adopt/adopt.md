@@ -30,10 +30,10 @@ See below for more about adopting one of our spectacular seniors!
     </a>
   </div>
   <div class="col-sm-4 col-md-4">
-    <a class="thumbnail" href="/greyhounds/breeze/">
-      <img src="/img/thm/breeze.JPG">
+    <a class="thumbnail" href="/greyhounds/jedi/">
+      <img src="/img/thm/jedi.jpg">
       <div class="caption">
-        <h3>Breeze</h3>
+        <h3>Jedi</h3>
       </div>
     </a>
   </div>
