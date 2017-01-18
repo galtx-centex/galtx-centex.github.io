@@ -141,7 +141,7 @@ breeze:
   dob: 2009-08-28
   color: BLACK
   cats: no
-  available: yes
+  available: no
 
 lexi:
   name: Lexi
