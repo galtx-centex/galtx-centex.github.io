@@ -10,11 +10,15 @@ layout: page
   </div>
 {% elsif greyhound.available != true %}
   <div class="text-center alert alert-success" role="alert">
-    <span class="banner">&hearts; <b>ADOPTED</b> &hearts;</span>
+    <span class="banner">&hearts; <b>ADOPTED!</b> &hearts;</span>
   </div>
 {% elsif greyhound.permafoster %}
   <div class="text-center alert alert-danger" role="alert">
     <span class="banner"><b>Permanent Foster</b></span>
+  </div>
+{% elsif greyhound.pending %}
+  <div class="text-center alert alert-success" role="alert">
+    <span class="banner">&hearts; <b>Adoption Pending!</b> &hearts;</span>
   </div>
 {% elsif greyhound.available %}
   <div class="text-center alert alert-info" role="alert">
