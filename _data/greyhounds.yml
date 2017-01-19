@@ -42,6 +42,7 @@ romeo:
   color: WHITE/ORANGE
   cats: 
   available: yes
+  pending: yes
 
 layton:
   name: Layton
