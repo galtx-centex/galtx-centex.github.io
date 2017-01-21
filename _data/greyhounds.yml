@@ -103,6 +103,7 @@ philly:
   pic: philly.jpg
   sex: FEMALE
   dob: 2008-06-12
+  dod: 2017-01-21
   color: WHITE
   cats:
   available: yes
