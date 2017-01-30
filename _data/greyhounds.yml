@@ -1,3 +1,12 @@
+hurley:
+  name: Hurley
+  pic: hurley.jpg
+  sex: MALE
+  dob: 2011-10-02
+  color: RED
+  cats: no
+  available: yes
+
 annie:
   name: Annie
   pic: annie.jpg
@@ -796,14 +805,6 @@ antigua:
   sex: FEMALE
   color: BRINDLE
   cats: yes
-  available: no
-
-barley:
-  name: Barley
-  pic: barley.jpg
-  sex: MALE
-  color: RED
-  cats: no
   available: no
 
 anastasia:
