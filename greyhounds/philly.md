@@ -11,4 +11,9 @@ Sadly, Philly had been diagnosed with Cancer in her shoulder.  Surgery was not a
 
 Goodbye, Philly.
 
+<div class="col-md-6">
 <img class="img-rounded" src="/img/philly.jpeg">
+</div>
+<div class="col-md-6">
+<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155684726883572:0" data-width="auto" data-show-text="true"></div>
+</div>
