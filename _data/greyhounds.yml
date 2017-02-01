@@ -50,7 +50,7 @@ romeo:
   dob: 2012-12-29
   color: WHITE/ORANGE
   cats: 
-  available: yes
+  available: no
   pending: yes
 
 layton:
@@ -60,7 +60,7 @@ layton:
   dob: 2015-05-01
   color: FAWN
   cats: yes
-  available: yes
+  available: no
 
 canaan:
   name: Canaan
