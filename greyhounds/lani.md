@@ -1,12 +1,12 @@
 ---
 layout: greyhound
-title: Lani
+title: Laney
 greyhound: lani
 permalink: /greyhounds/lani/
 ---
 
 
-Lani is super sweet and gentle.  She comes with a few battle scars but nothing that takes away from her natural greyhound beauty.  Unlike most greyhounds, she will bark to let you know that someone is at your door. Not incessant barking, just the warning to let you know your FedEx package has arrived.
+Laney is super sweet and gentle.  She comes with a few battle scars but nothing that takes away from her natural greyhound beauty.  Unlike most greyhounds, she will bark to let you know that someone is at your door. Not incessant barking, just the warning to let you know your FedEx package has arrived.
 
 If you need to know where she is, it's never far. She likes to see her people and lay nearby. She's the perfect office mate.
 
