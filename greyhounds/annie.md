@@ -19,3 +19,7 @@ Stay tuned for updates including "trip to the dog park" and "walks on a leash wh
 <div class="col-md-6">
 <div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155661536013572:0" data-width="auto" data-show-text="true"></div>
 </div>
+
+<div class="col-md-6">
+<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792948883572" data-width="auto" data-show-text="true"></div>
+</div>
