@@ -1,3 +1,21 @@
+caruso:
+  name: Caruso
+  pic: caruso.jpg
+  sex: MALE
+  dob: 2014-03-13
+  color: RED BRINDLE
+  cats:
+  available: yes
+
+soho:
+  name: Soho
+  pic: soho.jpg
+  sex: FEMALE
+  dob: 2015-10-01
+  color: WHITE AND BRINDLE
+  cats:
+  available: yes
+
 preston:
   name: Preston
   pic: preston.jpg
