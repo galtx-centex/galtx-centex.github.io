@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jedda
-greyhound: jedi
+greyhound: jedda
 permalink: /greyhounds/jedda/
 ---
 
