@@ -68,7 +68,7 @@ gumdrop:
   dob: 2015-05-08
   color: BLACK
   cats:
-  available: yes
+  available: no
 
 lani:
   name: Laney
@@ -141,7 +141,7 @@ isabelle:
   dob: 2008-07-01
   color: FAWN
   cats:
-  available: yes
+  available: no
 
 philly:
   name: Philly
