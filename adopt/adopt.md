@@ -9,8 +9,8 @@ permalink: /adopt/
 </div>
 <p>
 Thanks to the generosity of <a href="http://www.petfinderfoundation.com/">The Petfinder Foundation</a>,
-senior hounds adopted in January and February of 2017 will be gifted a luxurious Orthopedic bed and several months worth of medications they may need.
-See below for more about adopting one of our spectacular seniors!
+senior hounds will be gifted a luxurious Orthopedic bed and several months worth of medications they may need with their adoption.  This is a limited program, so if you are looking to adopt one of our spectacular seniors, now is the time to do so!
+See below for more about adopting one of our wonderful Greyhounds!
 </p>
 <div class="row">
   <div class="col-sm-4 col-md-4">
