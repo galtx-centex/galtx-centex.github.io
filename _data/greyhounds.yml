@@ -31,7 +31,7 @@ preston:
   sex: MALE
   dob: 2015-06-23
   color: BRINDLE
-  cats:
+  cats: yes
   available: yes
 
 hurley:
