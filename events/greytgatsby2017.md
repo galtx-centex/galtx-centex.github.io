@@ -7,11 +7,16 @@ permalink: /events/greytgatsby2017/
   <img src="/img/greytgatsby/GreytGatsby2017.jpg" alt="Greyt Gatsby 2017">
   <hr>
   <p>
-    For tickets and more information, visit the <a href="https://www.eventbrite.com/e/greyt-gatsby-2017-tickets-29321667898">Greyt Gatsby 2017</a>
-    event on Eventbrite.
+    Please join us on April 27th for our annual Greyt Gatsby fundraising gala!
+    Guests will enjoy a 1920s themed cocktail party with music, snacks, a silent auction, and a greyhound fashion show.
+    Thanks to our donors and sponsors, all proceeds will go to fund our foster dog's veterinary expenses!
+
+  </p>
+  <p>
+    <a href="https://www.eventbrite.com/e/greyt-gatsby-2017-tickets-29321667898">Reserve your tickets today!</a>
   </p>
 
-  <br>
+  <hr>
   <p>
   Do you work for or know of a company that might be interested in sponsoring The Greyt Gatsby?
   Email <a href="mailto:treasurer@gpa-centex.org">treasurer@gpa-centex.org</a> to support the greyhounds
