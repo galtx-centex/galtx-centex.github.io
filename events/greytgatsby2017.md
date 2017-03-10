@@ -6,8 +6,8 @@ permalink: /events/greytgatsby2017/
 <div class="text-center lead">
   <img src="/img/greytgatsby/GreytGatsby2017.jpg" alt="Greyt Gatsby 2017">
 
-  <br>
   <p>
+  <br>
     Please join us on April 27th for our annual Greyt Gatsby fundraising gala!
     Guests will enjoy a 1920s themed cocktail party with music, snacks, a silent auction, and a greyhound fashion show.
     Thanks to our donors and sponsors, all proceeds will go to fund our foster dog's veterinary expenses!
