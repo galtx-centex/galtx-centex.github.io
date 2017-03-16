@@ -22,3 +22,7 @@ We have enjoyed having her as our house guest.
 <div class="col-md-6">
 <div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792935863572:0" data-width="auto" data-show-text="true"></div>
 </div>
+
+<div class="col-md-6">
+<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155865941653572:0" data-width="auto" data-show-text="true"></div>
+</div>

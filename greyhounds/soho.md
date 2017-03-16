@@ -10,3 +10,7 @@ Soho has taken to family life like she was born for it... and maybe she was! Aft
 This sweet girl is happy to meet new people, of the two- or four-legged variety. She'll willingly wade through the shallow creek to keep up with our daughter or walk the neighborhood with me, and she had fun at the dog park, but her favorite things to do are back at home - following us from room to room and for scratches and kisses, or just taking a nap wherever her people are.
 
 All this cutie pie wants is a confident and affectionate forever family to call her own.
+
+<div class="col-md-6">
+<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155865045988572:0" data-width="auto" data-show-text="true"></div>
+</div>
