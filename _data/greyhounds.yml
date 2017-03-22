@@ -16,6 +16,15 @@ caruso:
   cats:
   available: yes
 
+waco:
+  name: Waco
+  pic: Waco.jpg
+  sex: MALE
+  dob: 2007-07-31
+  color: BRINDLE
+  cats: yes
+  available: yes
+
 soho:
   name: Soho
   pic: soho.jpg
@@ -154,15 +163,6 @@ philly:
   available: yes
   permafoster: yes
   deceased: yes
-
-waco:
-  name: Waco
-  pic: Waco.jpg
-  sex: MALE
-  dob: 2007-07-31
-  color: BRINDLE
-  cats: yes
-  available: yes
 
 snowwhite:
   name: Snow W.
