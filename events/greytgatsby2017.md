@@ -13,8 +13,11 @@ permalink: /events/greytgatsby2017/
     Thanks to our donors and sponsors, all proceeds will go to fund our foster dog's veterinary expenses!
   </p>
   <p>
-    <a href="https://www.eventbrite.com/e/greyt-gatsby-2017-tickets-29321667898">Reserve your tickets today!</a>
+    Visit <a href="http://www.madaboutgreyhounds.com">www.madaboutgreyhounds.com</a> to bid early on silent auction items!
   </p>
+  <h3>
+    <a href="https://www.eventbrite.com/e/greyt-gatsby-2017-tickets-29321667898">Reserve your tickets today!</a>
+  </h3>
 
   <hr>
 
