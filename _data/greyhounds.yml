@@ -15,6 +15,7 @@ caruso:
   color: RED BRINDLE
   cats:
   available: yes
+  pending: yes
 
 waco:
   name: Waco
@@ -42,6 +43,7 @@ preston:
   color: BRINDLE
   cats: yes
   available: yes
+  pending: yes
 
 hurley:
   name: Hurley
