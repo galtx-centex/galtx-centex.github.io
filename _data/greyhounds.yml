@@ -13,7 +13,7 @@ caruso:
   sex: MALE
   dob: 2014-03-13
   color: RED BRINDLE
-  cats:
+  cats: no
   available: yes
   pending: yes
 
