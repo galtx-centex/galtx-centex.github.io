@@ -14,7 +14,7 @@ caruso:
   dob: 2014-03-13
   color: RED BRINDLE
   cats: no
-  available: yes
+  available: no
   pending: yes
 
 waco:
@@ -42,7 +42,7 @@ preston:
   dob: 2015-06-23
   color: BRINDLE
   cats: yes
-  available: yes
+  available: no
   pending: yes
 
 hurley:
