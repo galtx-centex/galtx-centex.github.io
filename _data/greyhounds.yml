@@ -88,7 +88,7 @@ lani:
   dob: 2015-05-01
   color: BLACK
   cats: no
-  available: yes
+  available: no
 
 romeo:
   name: Romeo
