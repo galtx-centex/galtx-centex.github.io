@@ -15,7 +15,7 @@ See below for more about adopting one of our wonderful Greyhounds!
 <div class="row">
   <div class="col-sm-4 col-md-4">
     <a class="thumbnail" href="/greyhounds/isabelle/">
-      <img src="/img/thm/Isabelle.JPG">
+      <img class="img-rounded" src="/img/thm/Isabelle.JPG">
       <div class="caption">
         <h3>Isabelle</h3>
       </div>
@@ -23,7 +23,7 @@ See below for more about adopting one of our wonderful Greyhounds!
   </div>
   <div class="col-sm-4 col-md-4">
     <a class="thumbnail" href="/greyhounds/waco/">
-      <img src="/img/thm/Waco.jpg">
+      <img class="img-rounded" src="/img/thm/Waco.jpg">
       <div class="caption">
         <h3>Waco</h3>
       </div>
@@ -31,7 +31,7 @@ See below for more about adopting one of our wonderful Greyhounds!
   </div>
   <div class="col-sm-4 col-md-4">
     <a class="thumbnail" href="/greyhounds/jedda/">
-      <img src="/img/thm/jedi.jpg">
+      <img class="img-rounded" src="/img/thm/jedi.jpg">
       <div class="caption">
         <h3>Jedda</h3>
       </div>
