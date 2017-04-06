@@ -4,7 +4,7 @@ salsa:
   sex: FEMALE
   dob: 2015-10-01
   color: WHITE AND BRINDLE
-  cats:
+  cats: no
   available: yes
 
 suzy:
