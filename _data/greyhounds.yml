@@ -43,6 +43,7 @@ waco:
   color: BRINDLE
   cats: yes
   available: yes
+  pending: yes
 
 soho:
   name: Soho
@@ -52,6 +53,7 @@ soho:
   color: WHITE AND BRINDLE
   cats: yes
   available: yes
+  pending: yes
 
 preston:
   name: Preston
@@ -70,7 +72,7 @@ hurley:
   dob: 2011-10-02
   color: RED
   cats: no
-  available: yes
+  available: no
 
 annie:
   name: Annie
