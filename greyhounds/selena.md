@@ -18,3 +18,6 @@ Come meet sweet Selena and find out why we think she's just wonderful.
 <div class="col-md-6">
 <img class="img-rounded" src="/img/selena1.jpg">
 </div>
+<div class="col-md-6">
+<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155990693338572:0" data-width="auto" data-show-text="true"></div>
+</div>
