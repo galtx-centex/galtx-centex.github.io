@@ -1,3 +1,12 @@
+tawny:
+  name: Tawny
+  pic: tawny.jpg
+  sex: FEMALE
+  dob: 2009-12-01
+  color: FAWN
+  cats:
+  available: yes
+
 salsa:
   name: Salsa
   pic: salsa.jpg
