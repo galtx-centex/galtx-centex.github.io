@@ -1,3 +1,12 @@
+zoya:
+  name: Zoya
+  pic: zoya.jpeg
+  sex: FEMALE
+  dob: 2009-01-13
+  color: RED
+  cats:
+  available: yes
+
 tawny:
   name: Tawny
   pic: tawny.jpg
