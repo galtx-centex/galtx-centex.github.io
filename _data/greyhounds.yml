@@ -60,8 +60,7 @@ waco:
   dob: 2007-07-31
   color: BRINDLE
   cats: yes
-  available: yes
-  pending: yes
+  available: no
 
 soho:
   name: Soho
