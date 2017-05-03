@@ -14,26 +14,26 @@ See below for more about adopting one of our wonderful Greyhounds!
 </p>
 <div class="row">
   <div class="col-sm-4 col-md-4">
-    <a class="thumbnail" href="/greyhounds/isabelle/">
-      <img class="img-rounded" src="/img/thm/Isabelle.JPG">
-      <div class="caption">
-        <h3>Isabelle</h3>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-4 col-md-4">
-    <a class="thumbnail" href="/greyhounds/waco/">
-      <img class="img-rounded" src="/img/thm/Waco.jpg">
-      <div class="caption">
-        <h3>Waco</h3>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-4 col-md-4">
     <a class="thumbnail" href="/greyhounds/jedda/">
       <img class="img-rounded" src="/img/thm/jedi.jpg">
       <div class="caption">
         <h3>Jedda</h3>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-md-4">
+    <a class="thumbnail" href="/greyhounds/annie/">
+      <img class="img-rounded" src="/img/thm/annie.jpg">
+      <div class="caption">
+        <h3>Annie</h3>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-md-4">
+    <a class="thumbnail" href="/greyhounds/tawny/">
+      <img class="img-rounded" src="/img/thm/tawny.jpg">
+      <div class="caption">
+        <h3>Tawny</h3>
       </div>
     </a>
   </div>
