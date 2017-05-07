@@ -69,8 +69,7 @@ soho:
   dob: 2015-10-01
   color: WHITE AND BRINDLE
   cats: yes
-  available: yes
-  pending: yes
+  available: no
 
 preston:
   name: Preston
@@ -107,7 +106,7 @@ jedda:
   dob: 2008-11-01
   color: FAWN
   cats:
-  available: yes
+  available: no
 
 gumdrop:
   name: Gumdrop
