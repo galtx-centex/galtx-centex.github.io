@@ -20,7 +20,7 @@ For more information, contact [events@gpa-centex.org](mailto:events@gpa-centex.o
 
 # Other Events!
 
-[![SnoutXSnoutwest](/img/snoutxsnoutwest.jpg)](https://www.facebook.com/events/1486089575035397/)
+![SnoutXSnoutwest](/img/snoutxsnoutwest.jpg)
 
 This will be our first appearance at this event celebrating the bond between humans and dogs.
 There will be many rescue groups, live music demonstrations, music, fun & games.
