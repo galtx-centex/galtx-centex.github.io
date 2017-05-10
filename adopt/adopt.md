@@ -14,10 +14,10 @@ See below for more about adopting one of our wonderful Greyhounds!
 </p>
 <div class="row">
   <div class="col-sm-4 col-md-4">
-    <a class="thumbnail" href="/greyhounds/jedda/">
-      <img class="img-rounded" src="/img/thm/jedi.jpg">
+    <a class="thumbnail" href="/greyhounds/zoya/">
+      <img class="img-rounded" src="/img/thm/zoya.jpeg">
       <div class="caption">
-        <h3>Jedda</h3>
+        <h3>Zoya</h3>
       </div>
     </a>
   </div>
