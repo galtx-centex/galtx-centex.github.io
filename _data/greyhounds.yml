@@ -4,7 +4,7 @@ zoya:
   sex: FEMALE
   dob: 2009-01-13
   color: RED
-  cats:
+  cats: no
   available: yes
 
 tawny:
@@ -13,7 +13,7 @@ tawny:
   sex: FEMALE
   dob: 2009-01-12
   color: FAWN
-  cats:
+  cats: no
   available: yes
 
 salsa:
@@ -31,7 +31,7 @@ suzy:
   sex: FEMALE
   dob: 2015-10-01
   color: BRINDLE
-  cats:
+  cats: yes
   available: yes
 
 selena:
@@ -96,7 +96,7 @@ annie:
   sex: FEMALE
   dob: 2009-11-18
   color: RED BRINDLE
-  cats:
+  cats: yes
   available: yes
 
 jedda:
