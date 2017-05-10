@@ -15,4 +15,4 @@ I get a little nervous sometimes when there's a lot of sensory stimulation becau
 
 My perfect forever home would be a house full of people to pet and snuggle me, but that mostly want to watch me sleep. I'd love to join your pre-existing pack of greyhounds or other medium-large size calm dogs. 
 
-My foster parents are pretty obsessed with taking photos of me, so I am thinking of pursuing a modeling career in my retirement. Check out my headshots! 
+My foster parents are pretty obsessed with taking photos of me, so I am thinking of pursuing a modeling career in my retirement. Check out my [headshots](https://flic.kr/s/aHskWp6h8A)! 
