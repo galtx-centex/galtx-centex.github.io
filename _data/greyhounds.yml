@@ -1512,10 +1512,12 @@ ballymac:
   name: Ballymac
   pic: ballymac.jpg
   sex: MALE
-  age: 7 YEARS
+  dob: 2005-05-15
+  dod: 2017-03-13
   color: BLACK & WHITE
   cats: yes
   available: no
+  deceased: yes
 
 hully:
   name: Hully
