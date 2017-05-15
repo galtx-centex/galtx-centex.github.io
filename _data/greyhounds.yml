@@ -14,7 +14,7 @@ tawny:
   dob: 2009-01-12
   color: FAWN
   cats: no
-  available: yes
+  available: no
 
 salsa:
   name: Salsa
@@ -23,7 +23,7 @@ salsa:
   dob: 2015-10-01
   color: WHITE AND BRINDLE
   cats: no
-  available: yes
+  available: no
 
 suzy:
   name: Suzy
