@@ -13,6 +13,8 @@ senior hounds will be gifted a luxurious Orthopedic bed and several months worth
 See below for more about adopting one of our wonderful Greyhounds!
 </p>
 <div class="row">
+  <div class="col-sm-2 col-md-2">
+  </div>
   <div class="col-sm-4 col-md-4">
     <a class="thumbnail" href="/greyhounds/zoya/">
       <img class="img-rounded" src="/img/thm/zoya.jpeg">
@@ -29,13 +31,7 @@ See below for more about adopting one of our wonderful Greyhounds!
       </div>
     </a>
   </div>
-  <div class="col-sm-4 col-md-4">
-    <a class="thumbnail" href="/greyhounds/tawny/">
-      <img class="img-rounded" src="/img/thm/tawny.jpg">
-      <div class="caption">
-        <h3>Tawny</h3>
-      </div>
-    </a>
+  <div class="col-sm-2 col-md-2">
   </div>
 </div>
 
