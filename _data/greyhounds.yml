@@ -16,6 +16,15 @@ poppy2:
   cats: 
   available: yes
 
+mollie:
+  name: Mollie
+  pic: mollie.jpg
+  sex: FEMALE
+  dob: 2009-01-13
+  color: FAWN
+  cats: 
+  available: yes
+
 zoya:
   name: Zoya
   pic: zoya.jpeg
