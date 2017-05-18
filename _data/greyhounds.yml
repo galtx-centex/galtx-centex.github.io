@@ -7,6 +7,15 @@ thea:
   cats: 
   available: yes
 
+poppy2:
+  name: Poppy
+  pic: poppy_2.jpg
+  sex: FEMALE
+  dob: 2009-01-13
+  color: WHITE AND BLACK
+  cats: 
+  available: yes
+
 zoya:
   name: Zoya
   pic: zoya.jpeg
