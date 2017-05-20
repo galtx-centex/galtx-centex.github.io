@@ -525,6 +525,7 @@ pettee:
   color: FAWN
   cats: no
   available: no
+  deceased: yes
 
 hurst:
   name: Hurst
@@ -604,6 +605,7 @@ pepper1:
   color: FAWN
   cats: no
   available: no
+  deceased: yes
 
 alcide:
   name: Alcide
@@ -969,6 +971,7 @@ happyjazz:
   color: RED & WHITE
   cats: yes
   available: no
+  deceased: yes
 
 robin:
   name: Robin
@@ -1216,6 +1219,7 @@ pepper:
   color: LIGHT FAWN
   cats: no
   available: no
+  deceased: yes
 
 lily2:
   name: Lily
@@ -1225,6 +1229,7 @@ lily2:
   color: BRINDLE
   cats: no
   available: no
+  deceased: yes
 
 cathy:
   name: Cathy
@@ -1445,6 +1450,7 @@ twinkle:
   age: 1 YEAR
   cats: yes
   available: no
+  deceased: yes
 
 blue:
   name: Blue
