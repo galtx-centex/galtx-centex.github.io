@@ -70,6 +70,7 @@ suzy:
   color: BRINDLE
   cats: yes
   available: yes
+  pending: yes
 
 selena:
   name: Selena
