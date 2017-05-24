@@ -14,7 +14,7 @@ poppy2:
   dob: 2009-01-13
   color: WHITE AND BLACK
   cats: 
-  available: yes
+  available: no
 
 mollie:
   name: Mollie
