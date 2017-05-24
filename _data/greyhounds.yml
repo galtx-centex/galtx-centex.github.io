@@ -22,8 +22,9 @@ mollie:
   sex: FEMALE
   dob: 2009-01-13
   color: FAWN
-  cats: 
+  cats: yes
   available: yes
+  pending: yes
 
 zoya:
   name: Zoya
