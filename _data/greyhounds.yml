@@ -1,3 +1,12 @@
+tempo:
+  name: Tempo
+  pic: tempo.jpg
+  sex: MALE
+  dob: 2015-07-12
+  color: RED
+  cats: no
+  available: yes
+
 thea:
   name: Thea
   pic: thea.jpeg
