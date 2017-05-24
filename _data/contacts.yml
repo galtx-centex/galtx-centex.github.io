@@ -27,10 +27,9 @@
   phone: (855) 446-3278, ext. 703
   email: treasurer@gpa-centex.org
 
-- name: Catelyn Silapachai
+- name: Keisha French
   title:
     - Foster Coordinator
-    - Director
   phone: (855) 446-3278, ext. 3
   email: foster@gpa-centex.org
 
@@ -41,6 +40,11 @@
   phone: (855) 446-3278, ext. 2
   email: adopt@gpa-centex.org
 
+- name: Catelyn Silapachai
+  title:
+    - Director
+  email: catelyn@gpa-centex.org
+
 - name: Dona Ghadimi
   title:
     - Director
@@ -50,6 +54,11 @@
   title:
     - Director
   email: jane@gpa-centex.org
+
+- name: Sarah Brewster
+  title:
+    - Website Admin
+  email: website@gpa-centex.org
 
 - name: Zach Whaley
   title:
