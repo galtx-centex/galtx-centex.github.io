@@ -6,25 +6,20 @@ tempo:
   color: RED
   cats: no
   available: yes
-
 thea:
   name: Thea
   pic: thea.jpeg
   sex: FEMALE
   dob: 2009-07-19
   color: BLACK
-  cats: 
   available: yes
-
 poppy2:
   name: Poppy
   pic: poppy_2.jpg
   sex: FEMALE
   dob: 2009-01-13
   color: WHITE AND BLACK
-  cats: 
   available: yes
-
 mollie:
   name: Mollie
   pic: mollie.jpg
@@ -34,7 +29,6 @@ mollie:
   cats: yes
   available: yes
   pending: yes
-
 zoya:
   name: Zoya
   pic: zoya.jpeg
@@ -43,7 +37,6 @@ zoya:
   color: RED
   cats: no
   available: yes
-
 tawny:
   name: Tawny
   pic: tawny.jpg
@@ -52,7 +45,6 @@ tawny:
   color: FAWN
   cats: no
   available: no
-
 salsa:
   name: Salsa
   pic: salsa.jpeg
@@ -61,7 +53,6 @@ salsa:
   color: WHITE AND BRINDLE
   cats: no
   available: no
-
 suzy:
   name: Suzy
   pic: suzy.jpeg
@@ -71,16 +62,13 @@ suzy:
   cats: yes
   available: yes
   pending: yes
-
 selena:
   name: Selena
   pic: selena.jpg
   sex: FEMALE
   dob: 2015-10-01
   color: WHITE AND BRINDLE
-  cats:
   available: yes
-
 caruso:
   name: Caruso
   pic: caruso.jpg
@@ -90,7 +78,6 @@ caruso:
   cats: no
   available: no
   pending: yes
-
 waco:
   name: Waco
   pic: Waco.jpg
@@ -99,7 +86,6 @@ waco:
   color: BRINDLE
   cats: yes
   available: no
-
 soho:
   name: Soho
   pic: soho.jpg
@@ -108,7 +94,6 @@ soho:
   color: WHITE AND BRINDLE
   cats: yes
   available: no
-
 preston:
   name: Preston
   pic: preston.jpg
@@ -118,7 +103,6 @@ preston:
   cats: yes
   available: no
   pending: yes
-
 hurley:
   name: Hurley
   pic: hurley.jpg
@@ -127,7 +111,6 @@ hurley:
   color: RED
   cats: no
   available: no
-
 annie:
   name: Annie
   pic: annie.jpg
@@ -136,25 +119,20 @@ annie:
   color: RED BRINDLE
   cats: yes
   available: yes
-
 jedda:
   name: Jedda
   pic: jedi.jpg
   sex: FEMALE
   dob: 2008-11-01
   color: FAWN
-  cats:
   available: no
-
 gumdrop:
   name: Gumdrop
   pic: gumdrop.jpg
   sex: FEMALE
   dob: 2015-05-08
   color: BLACK
-  cats:
   available: no
-
 lani:
   name: Laney
   pic: lani.jpg
@@ -163,17 +141,14 @@ lani:
   color: BLACK
   cats: no
   available: no
-
 romeo:
   name: Romeo
   pic: romeo.jpg
   sex: MALE
   dob: 2012-12-29
   color: WHITE/ORANGE
-  cats: 
   available: no
   pending: yes
-
 layton:
   name: Layton
   pic: layton.jpg
@@ -182,7 +157,6 @@ layton:
   color: FAWN
   cats: yes
   available: no
-
 canaan:
   name: Canaan
   pic: canaan.jpg
@@ -191,43 +165,34 @@ canaan:
   color: FAWN
   cats: yes
   available: no
-
 olivia:
   name: Olivia
   pic: olivia.jpg
   sex: FEMALE
   dob: 2014-10-20
   color: BRINDLE
-  cats:
   available: no
-
 willow:
   name: Willow
   pic: willow.jpg
   sex: FEMALE
   dob: 2011-04-10
   color: RED
-  cats:
   available: no
-
 zella:
   name: Zella
   pic: zella.jpg
   sex: FEMALE
   dob: 2015-08-20
   color: BRINDLE
-  cats:
   available: no
-
 isabelle:
   name: Isabelle
   pic: Isabelle.JPG
   sex: FEMALE
   dob: 2008-07-01
   color: FAWN
-  cats:
   available: no
-
 philly:
   name: Philly
   pic: philly.jpg
@@ -235,20 +200,16 @@ philly:
   dob: 2008-06-12
   dod: 2017-01-21
   color: WHITE
-  cats:
   available: yes
   permafoster: yes
   deceased: yes
-
 snowwhite:
   name: Snow W.
   pic: snowwhite.jpg
   sex: FEMALE
   dob: 2011-01-16
   color: BLACK
-  cats:
   available: no
-
 jay:
   name: Jay
   pic: jay.jpg
@@ -257,7 +218,6 @@ jay:
   color: BLACK
   cats: no
   available: no
-
 breeze:
   name: Breeze
   pic: breeze.JPG
@@ -266,16 +226,13 @@ breeze:
   color: BLACK
   cats: no
   available: no
-
 lexi:
   name: Lexi
   pic: lexi.jpg
   sex: FEMALE
   dob: 2014-10-31
   color: FAWN
-  cats:
   available: no
-
 jamesbond:
   name: James B.
   pic: jamesbond.jpeg
@@ -284,7 +241,6 @@ jamesbond:
   color: BLACK
   cats: yes
   available: no
-
 johaunna:
   name: Johaunna
   pic: johaunna.jpg
@@ -293,16 +249,13 @@ johaunna:
   color: BLACK
   cats: no
   available: no
-
 simmons:
   name: Simmons
   pic: simmons.jpg
   sex: MALE
   age: 2 YEARS
   color: FAWN
-  cats:
   available: no
-
 georgie:
   name: Georgie
   pic: georgie.png
@@ -311,7 +264,6 @@ georgie:
   color: BRINDLE
   cats: no
   available: no
-
 victor:
   name: Victor
   pic: victor.jpg
@@ -320,7 +272,6 @@ victor:
   color: BRINDLE
   cats: no
   available: no
-
 plante:
   name: Plante
   pic: plante.jpg
@@ -329,7 +280,6 @@ plante:
   color: WHITE/BLACK
   cats: yes
   available: no
-
 gregory:
   name: Gregory
   pic: gregory.jpg
@@ -338,7 +288,6 @@ gregory:
   color: BLACK
   cats: yes
   available: no
-
 flower:
   name: Flower
   pic: flower.jpg
@@ -347,7 +296,6 @@ flower:
   color: BLACK
   cats: yes
   available: no
-
 ballatore:
   name: Ballatore
   pic: ballatore.jpg
@@ -356,70 +304,55 @@ ballatore:
   color: RED
   cats: yes
   available: no
-
 judge:
   name: Judge
   pic: judge.jpg
   sex: MALE
   age: 4 YEARS
   color: ORANGE/WHITE
-  cats:
   available: no
-
 poncho:
   name: Poncho
   pic: poncho.jpg
   sex: MALE
   age: 4 YEARS
   color: RED
-  cats:
   available: no
-
 jamie:
   name: Jamie
   pic: jamie.JPG
   sex: MALE
   age: 2 YEARS
   color: WHITE/BRINDLE
-  cats:
   available: no
-
 butterfinger:
   name: Butterfinger
   pic: butterfinger.JPG
   sex: FEMALE
   age: 3 YEARS
   color: WHITE/BLACK
-  cats:
   available: no
-
 denise:
   name: Denise
   pic: denise.JPG
   sex: FEMALE
   age: 2 YEARS
   color: BLACK
-  cats:
   available: no
-
 colt:
   name: Colt
   pic: colt.jpg
   sex: FEMALE
   age: 1 YEAR
   color: BLACK
-  cats:
   available: no
-
 dayce:
   name: Dayce
   pic: dayce.JPG
   sex: MALE
   age: 2 YEARS
   color: FAWN
-  cats:
   available: no
-
 phoebe:
   name: Phoebe
   pic: phoebe.jpg
@@ -428,34 +361,27 @@ phoebe:
   color: FAWN
   cats: yes
   available: no
-
 pearl:
   name: Pearl
   pic: pearl.jpg
   sex: FEMALE
   age: 1.5 YEARS
   color: WHITE
-  cats:
   available: no
-
 taz:
   name: Taz
   pic: taz.jpg
   sex: MALE
   age: 2 YEARS
   color: FAWN
-  cats:
   available: no
-
 chunk:
   name: Chunk
   pic: chunk.jpg
   sex: FEMALE
   age: 6 MONTHS
   color: WHITE/BRINDLE
-  cats:
   available: no
-
 bear:
   name: Bear
   pic: bear.jpg
@@ -464,16 +390,13 @@ bear:
   color: BLACK
   cats: yes
   available: no
-
 aine:
   name: Aine
   pic: aine.jpg
   sex: FEMALE
   age: 6 MONTHS
   color: BLACK/WHITE
-  cats:
   available: no
-
 siggie:
   name: Siggie
   pic: siggie.jpg
@@ -482,25 +405,20 @@ siggie:
   color: BRINDLE
   cats: yes
   available: no
-
 galaxy:
   name: Galaxy
   pic: galaxy.jpg
   sex: FEMALE
   age: 3 YEARS
   color: FAWN
-  cats:
   available: no
-
 demi:
   name: Demi
   pic: demi.jpg
   sex: FEMALE
   age: 7 YEARS
   color: BRINDLE
-  cats:
   available: no
-
 karo:
   name: Karo
   pic: karo.jpg
@@ -509,7 +427,6 @@ karo:
   color: BRINDLE
   cats: no
   available: no
-
 teresa:
   name: Teresa
   pic: teresa.JPG
@@ -518,16 +435,13 @@ teresa:
   color: BLACK
   cats: no
   available: no
-
 frank:
   name: Frank
   pic: frank.JPG
   sex: MALE
   age: 5 YEARS
   color: BRINDLE
-  cats:
   available: no
-
 pettee:
   name: Pettee
   pic: pettee.jpg
@@ -537,7 +451,6 @@ pettee:
   cats: no
   available: no
   deceased: yes
-
 hurst:
   name: Hurst
   pic: hurst.jpg
@@ -546,7 +459,6 @@ hurst:
   color: BLACK
   cats: no
   available: no
-
 noosa:
   name: Noosa
   pic: noosa.JPG
@@ -555,7 +467,6 @@ noosa:
   color: BLACK
   cats: yes
   available: no
-
 greycie:
   name: Greycie
   pic: greycie.JPG
@@ -564,7 +475,6 @@ greycie:
   color: BRINDLE
   cats: yes
   available: no
-
 bella1:
   name: Bella
   pic: bella1.JPG
@@ -573,7 +483,6 @@ bella1:
   color: WHITE/BLACK
   cats: yes
   available: no
-
 carly:
   name: Carly
   pic: carly.png
@@ -583,7 +492,6 @@ carly:
   available: no
   dod: 2016-12-20
   deceased: yes
-
 sandy:
   name: Swee’Pea
   pic: sweepea.jpg
@@ -591,7 +499,6 @@ sandy:
   available: no
   deceased: yes
   dod: 2016-12-17
-
 valkyrie:
   name: Valkyrie
   pic: valkyrie.jpg
@@ -599,7 +506,6 @@ valkyrie:
   color: BRINDLE
   age: 2015
   deceased: yes
-
 vicki:
   name: Vicki
   pic: vicki.jpg
@@ -607,7 +513,6 @@ vicki:
   color: FAWN
   age: 2015
   deceased: yes
-
 pepper1:
   name: Pepper
   pic: pepper1.jpg
@@ -617,7 +522,6 @@ pepper1:
   cats: no
   available: no
   deceased: yes
-
 alcide:
   name: Alcide
   pic: alcide.jpg
@@ -625,7 +529,6 @@ alcide:
   age: 1 YEARS
   color: WHITE/BRINDLE
   available: no
-
 tia:
   name: Tia
   pic: tia.jpg
@@ -634,7 +537,6 @@ tia:
   color: BLACK
   cats: yes
   available: no
-
 rocket:
   name: Rocket
   pic: rocket.jpg
@@ -642,7 +544,6 @@ rocket:
   age:  3 YEARS
   color: FAWN
   available: no
-
 tyler:
   name: Tyler
   pic: tyler.jpg
@@ -650,7 +551,6 @@ tyler:
   age:  4 YEARS
   color: BRINDLE
   available: no
-
 eleanor:
   name: Eleanor
   pic: eleanor.jpg
@@ -658,7 +558,6 @@ eleanor:
   age:  5 YEARS
   color: BRINDLE
   available: no
-
 cortez:
   name: Cortez
   pic: cortez.jpg
@@ -667,7 +566,6 @@ cortez:
   age:  7 YEARS
   color: WHITE/BLACK
   available: no
-
 homer:
   name: Homer
   pic: homer.jpg
@@ -675,7 +573,6 @@ homer:
   age:  7 YEARS
   color: FAWN
   available: no
-
 concho:
   name: Concho
   pic: concho.jpg
@@ -683,7 +580,6 @@ concho:
   age: 4 YEARS
   color: FAWN
   available: no
-
 lights:
   name: Lights
   pic: lights.jpg
@@ -691,7 +587,6 @@ lights:
   age:  6 YEARS
   color: WHITE/BLACK
   available: no
-
 prince:
   name: Prince
   pic: prince.jpg
@@ -700,7 +595,6 @@ prince:
   color: FAWN
   cats: yes
   available: no
-
 sunday:
   name: Sunday
   pic: sunday.jpg
@@ -708,7 +602,6 @@ sunday:
   age: 2 YEARS
   color: FAWN
   available: no
-
 jill:
   name: Jill
   pic: jill.jpg
@@ -716,7 +609,6 @@ jill:
   age: 2 YEARS
   color: FAWN
   available: no
-
 jack2:
   name: Jack
   pic: jack2.jpg
@@ -724,7 +616,6 @@ jack2:
   age: 6 YEARS
   color: BRINDLE
   available: no
-
 felix:
   name: Felix
   pic: felix.jpg
@@ -733,7 +624,6 @@ felix:
   color: BLACK
   cats: yes
   available: no
-
 doc:
   name: Doc
   pic: doc.jpg
@@ -743,7 +633,6 @@ doc:
   cats: yes
   available: no
   deceased: yes
-
 mary:
   name: Mary
   pic: mary.png
@@ -752,7 +641,6 @@ mary:
   color: FAWN
   cats: no
   available: no
-
 edmundo:
   name: Edmundo
   pic: edmundo.png
@@ -760,7 +648,6 @@ edmundo:
   age: 4 YEARS
   color: WHITE/RED
   available: no
-
 horace:
   name: Horace
   pic: horace.jpg
@@ -769,16 +656,13 @@ horace:
   color: FAWN
   cats: no
   available: no
-
 sage:
   name: Sage
   pic: sage.png
   sex: FEMALE
   age: 4 YEARS
   color: FAWN
-  cats:
   available: no
-
 buckley:
   name: Buckley
   pic: buckley.png
@@ -787,16 +671,13 @@ buckley:
   color: BLACK
   cats: yes
   available: no
-
 tamara:
   name: Tamara
   pic: tamara.png
   sex: FEMALE
   age: 7 YEARS
   color: BLACK
-  cats:
   available: no
-
 gracie:
   name: Gracie
   pic: gracie.png
@@ -805,25 +686,20 @@ gracie:
   color: FAWN
   cats: yes
   available: no
-
 bristol:
   name: Bristol
   pic: bristol.png
   sex: FEMALE
   age: 6 YEARS
   color: BRINDLE
-  cats:
   available: no
-
 raven:
   name: Raven
   pic: raven.png
   sex: FEMALE
   age: 5 YEARS
   color: RED
-  cats:
   available: no
-
 baby-girl:
   name: Baby Girl
   pic: baby-girl.jpg
@@ -832,7 +708,6 @@ baby-girl:
   age: 6 YEARS
   cats: yes
   available: no
-
 lady:
   name: Lady
   pic: lady.png
@@ -840,7 +715,6 @@ lady:
   age: 4 YEARS
   color: RED
   available: no
-
 bella:
   name: Bella
   pic: bella.png
@@ -849,7 +723,6 @@ bella:
   color: WHITE & BLACK
   cats: no
   available: no
-
 alex:
   name: Alex
   pic: alex.jpg
@@ -858,7 +731,6 @@ alex:
   color: BRINDLE
   age: 6 YEARS
   available: no
-
 summer:
   name: Summer
   pic: summer.jpg
@@ -867,7 +739,6 @@ summer:
   color: FAWN
   age: 8 YEARS
   available: no
-
 cowboy:
   name: Cowboy
   pic: cowboy.jpg
@@ -876,7 +747,6 @@ cowboy:
   color: LARGER BRINDLE
   age: 7 YEARS
   available: no
-
 hannah:
   name: Hannah
   pic: hannah.jpg
@@ -885,7 +755,6 @@ hannah:
   color: FAWN
   age: 8 YEARS
   available: no
-
 nicole:
   name: Nicole
   pic: nicole.jpg
@@ -894,7 +763,6 @@ nicole:
   color: FAWN
   age: 7 YEARS
   available: no
-
 poppy:
   name: Poppy
   pic: poppy.jpg
@@ -903,7 +771,6 @@ poppy:
   color: RED
   age: 5 YEARS
   available: no
-
 zoolander:
   name: Zander
   pic: zoolander.jpg
@@ -912,7 +779,6 @@ zoolander:
   color: RED FAWN
   age: 1 YEAR
   available: no
-
 antigua:
   name: Antigua
   pic: antigua.jpg
@@ -920,7 +786,6 @@ antigua:
   color: BRINDLE
   cats: yes
   available: no
-
 anastasia:
   name: Anastasia
   pic: anastasia.jpg
@@ -929,7 +794,6 @@ anastasia:
   cats: yes
   age: 2 YEARS
   available: no
-
 silversloan:
   name: Silvia
   pic: silvia.jpg
@@ -940,7 +804,6 @@ silversloan:
   dod: 2015-11-18
   available: no
   deceased: yes
-
 ladyjeanine:
   name: Jeanine
   pic: ladyjeanine.jpg
@@ -948,7 +811,6 @@ ladyjeanine:
   color: BLACK & WHITE
   cats: yes
   available: no
-
 haley:
   name: Haley
   pic: haley.jpg
@@ -956,7 +818,6 @@ haley:
   color: RED FAWN
   cats: no
   available: no
-
 dolly:
   name: Dolly
   pic: dolly.jpg
@@ -964,7 +825,6 @@ dolly:
   color: DARK BRINDLE
   cats: yes
   available: no
-
 checkers:
   name: Checkers
   pic: checkers.jpg
@@ -974,7 +834,6 @@ checkers:
   age: 2006 - 2015
   available: no
   deceased: yes
-
 happyjazz:
   name: Jazz
   pic: happyjazz.jpg
@@ -983,7 +842,6 @@ happyjazz:
   cats: yes
   available: no
   deceased: yes
-
 robin:
   name: Robin
   pic: robin.jpg
@@ -992,7 +850,6 @@ robin:
   color: BRINDLE
   cats: no
   deceased: yes
-
 casey:
   name: Casey
   pic: casey.jpg
@@ -1000,7 +857,6 @@ casey:
   color: RED FAWN
   cats: no
   available: no
-
 hennypenny:
   name: Penny
   pic: hennypenny.jpg
@@ -1008,7 +864,6 @@ hennypenny:
   color: BLACK
   cats: no
   available: no
-
 backwoodsjustice:
   name: Justice
   pic: backwoodsjustice.jpg
@@ -1017,7 +872,6 @@ backwoodsjustice:
   cats: no
   age: 18 MONTHS
   available: no
-
 baxter:
   name: Baxter
   pic: baxter.jpg
@@ -1026,7 +880,6 @@ baxter:
   age: 10 WEEKS
   color: BLUE BRINDLE
   available: no
-
 beau:
   name: Beau
   pic: beau.jpg
@@ -1035,7 +888,6 @@ beau:
   color: FAWN
   cat: yes
   available: no
-
 giselle:
   name: Giselle
   pic: giselle.jpg
@@ -1043,7 +895,6 @@ giselle:
   color: RED FAWN
   cats: no
   available: no
-
 paco:
   name: Paco
   pic: paco.jpg
@@ -1052,7 +903,6 @@ paco:
   color: FAWN
   cats: yes
   available: no
-
 sunflower:
   name: Sunflower
   pic: sunflower.jpg
@@ -1061,7 +911,6 @@ sunflower:
   color: FAWN
   cats: yes
   available: no
-
 chrissy:
   name: Chrissy
   pic: chrissy.jpg
@@ -1070,7 +919,6 @@ chrissy:
   color: WHITE & BLACK
   cats: yes
   available: no
-
 jacy:
   name: Jacy
   pic: jacy.jpg
@@ -1079,7 +927,6 @@ jacy:
   color: BLUE FAWN
   cats: no
   available: no
-
 santana:
   name: Santana
   pic: gpa_logo_blue_150.jpg
@@ -1087,7 +934,6 @@ santana:
   age: 5 YEARS
   cats: no
   available: no
-
 jack:
   name: Jack
   pic: jack.jpg
@@ -1095,7 +941,6 @@ jack:
   age: 6 MONTHS
   color: RED FAWN
   available: no
-
 chargingwarrior:
   name: Warrior
   pic: chargingwarrior.jpg
@@ -1104,7 +949,6 @@ chargingwarrior:
   color: BRINDLE
   cats: yes
   available: no
-
 audi:
   name: Audi
   pic: audi.jpg
@@ -1113,7 +957,6 @@ audi:
   color: WHITE & BLACK
   cats: yes
   available: no
-
 abnar:
   name: Abnar
   pic: abnar.jpg
@@ -1122,7 +965,6 @@ abnar:
   color: BLACK
   cats: yes
   available: no
-
 elle:
   name: Elle
   pic: elle.jpg
@@ -1131,7 +973,6 @@ elle:
   color: BROWN BRINDLE
   cats: yes
   available: no
-
 opal:
   name: Opal
   pic: opal.jpg
@@ -1139,7 +980,6 @@ opal:
   age: 9 YEARS
   color: FAWN
   available: no
-
 batman:
   name: Batman
   pic: batman.jpg
@@ -1149,7 +989,6 @@ batman:
   cats: no
   available: no
   deceased: yes
-
 harmony:
   name: Harmony
   pic: harmony.jpg
@@ -1157,7 +996,6 @@ harmony:
   color: BRINDLE
   cats: no
   available: no
-
 backwoodstyson:
   name: Tyson
   pic: backwoodstyson.jpg
@@ -1166,14 +1004,12 @@ backwoodstyson:
   color: RED BRINDLE
   cats: yes
   available: no
-
 bingo:
   name: Bingo
   pic: bingo.jpg
   sex: MALE
   age: 4 MONTHS
   available: no
-
 angelo:
   name: Angelo
   pic: angelo.jpg
@@ -1182,14 +1018,12 @@ angelo:
   color: WHITE & BRINDLE
   cats: no
   available: no
-
 backwoodsalaska:
   name: Alaska
   pic: backwoodsalaska.jpg
   sex: MALE
   age: 12 MONTHS
   available: no
-
 limoncello:
   name: Limoncello
   pic: limoncello.jpg
@@ -1198,7 +1032,6 @@ limoncello:
   color: FAWN BRINDLE
   cats: yes
   available: no
-
 sheila:
   name: Sheila
   pic: sheila.jpg
@@ -1206,14 +1039,12 @@ sheila:
   age: 6 YEARS
   color: LIGHT BRINDLE
   available: no
-
 backwoodstimothy:
   name: Timothy
   pic: backwoodstimothy.jpg
   sex: MALE
   age: 12 MONTHS
   available: no
-
 jet:
   name: Jet
   pic: jet.jpg
@@ -1221,7 +1052,6 @@ jet:
   age: 3 YEARS
   color: RED FAWN
   available: no
-
 pepper:
   name: Pepper
   pic: pepper.jpg
@@ -1231,7 +1061,6 @@ pepper:
   cats: no
   available: no
   deceased: yes
-
 lily2:
   name: Lily
   pic: lily2.jpg
@@ -1241,7 +1070,6 @@ lily2:
   cats: no
   available: no
   deceased: yes
-
 cathy:
   name: Cathy
   pic: cathy.jpg
@@ -1249,7 +1077,6 @@ cathy:
   age: 2 YEARS
   color: BLACK
   available: no
-
 gidget:
   name: Gidget
   pic: gidget.jpg
@@ -1258,7 +1085,6 @@ gidget:
   color: FAWN
   cats: yes
   available: no
-
 fiona:
   name: Fiona
   pic: fiona.jpg
@@ -1266,7 +1092,6 @@ fiona:
   age: 2 YEARS
   color: WHITE & BRINDLE
   available: no
-
 cora:
   name: Cora
   pic: cora.jpg
@@ -1274,7 +1099,6 @@ cora:
   age: 2 YEARS
   color: DARK BRINDLE
   available: no
-
 daniel:
   name: Daniel
   pic: daniel.jpg
@@ -1282,7 +1106,6 @@ daniel:
   age: 2 YEARS
   color: BLACK & WHITE
   available: no
-
 dynomite:
   name: Dynomite
   pic: dynomite.jpg
@@ -1290,7 +1113,6 @@ dynomite:
   age: 3 YEARS
   color: BLACK & WHITE
   available: no
-
 breezy:
   name: Breezy
   pic: breezy.jpg
@@ -1299,7 +1121,6 @@ breezy:
   color: WHITE & BRINDLE
   cats: no
   available: no
-
 vegas:
   name: Vegas
   pic: vegas.jpg
@@ -1307,7 +1128,6 @@ vegas:
   age: 2 YEARS
   color: FAWN
   available: no
-
 luna:
   name: Luna
   pic: luna.jpg
@@ -1315,7 +1135,6 @@ luna:
   age: 2 YEARS
   color: BLACK
   available: no
-
 chrissie:
   name: Chrissie
   pic: chrissie.jpg
@@ -1323,7 +1142,6 @@ chrissie:
   color: BRINDLE
   age: 2 YEARS
   available: no
-
 nantucket:
   name: Nantucket
   pic: nantucket.jpg
@@ -1331,7 +1149,6 @@ nantucket:
   age: 6 YEARS
   color: BRINDLE
   available: no
-
 montezuma:
   name: Montezuma
   pic: montezuma.jpg
@@ -1339,7 +1156,6 @@ montezuma:
   age: 2 YEARS
   color: BRINDLE
   available: no
-
 jediwarrior:
   name: Jedi
   pic: jediwarrior.jpg
@@ -1347,7 +1163,6 @@ jediwarrior:
   age: 3 YEARS
   color: BLACK
   available: no
-
 nitedesign:
   name: Nite
   pic: nitedesign.jpg
@@ -1355,7 +1170,6 @@ nitedesign:
   age: 3 YEARS
   color: BLACK
   available: no
-
 highnoonmotive:
   name: Motive
   pic: highnoonmotive.jpg
@@ -1363,7 +1177,6 @@ highnoonmotive:
   age: 4 YEARS
   color: BRINDLE
   available: no
-
 carmelo:
   name: Carmelo
   pic: carmelo.jpg
@@ -1371,7 +1184,6 @@ carmelo:
   age: 18 MONTHS
   color: BROWN & WHITE
   available: no
-
 blackjackmongo:
   name: Blackjack
   pic: blackjackmongo.jpg
@@ -1379,7 +1191,6 @@ blackjackmongo:
   age: 4 YEARS
   color: DARK BRINDLE
   available: no
-
 alfie:
   name: Alfie
   pic: alfie.jpg
@@ -1387,7 +1198,6 @@ alfie:
   age: 2 YEARS
   color: RED
   available: no
-
 iceman:
   name: Ice Man
   pic: iceman.jpg
@@ -1396,7 +1206,6 @@ iceman:
   color: WHITE & BRINDLE
   cats: yes
   available: no
-
 hotkisses:
   name: Hotkisses
   pic: hotkisses.jpg
@@ -1404,7 +1213,6 @@ hotkisses:
   color: RED BRINDLE
   age: 6 YEARS
   available: no
-
 dutchess:
   name: Dutchess
   pic: dutchess.jpg
@@ -1412,7 +1220,6 @@ dutchess:
   age: 7 YEARS
   color: BLACK & WHITE
   available: no
-
 justin:
   name: Justin
   pic: justin.jpg
@@ -1420,7 +1227,6 @@ justin:
   age: 2 YEARS
   color: RED FAWN
   available: no
-
 erin:
   name: Erin
   pic: erin.jpg
@@ -1429,7 +1235,6 @@ erin:
   color: WHITE & BRINDLE
   cats: no
   available: no
-
 nick:
   name: Nick
   pic: nick.jpg
@@ -1438,21 +1243,18 @@ nick:
   color: BLACK & WHITE
   cats: yes
   available: no
-
 brianna:
   name: Brianna
   pic: brianna.jpg
   sex: FEMALE
   age: 8 YEARS
   available: no
-
 holly:
   name: Holly
   pic: holly.jpg
   sex: FEMALE
   color: WHITE & BLACK
   available: no
-
 twinkle:
   name: Twinkle
   pic: twinkle.jpg
@@ -1462,7 +1264,6 @@ twinkle:
   cats: yes
   available: no
   deceased: yes
-
 blue:
   name: Blue
   pic: blue.jpg
@@ -1471,7 +1272,6 @@ blue:
   color: BLUE & WHITE
   cats: no
   available: no
-
 nadia:
   name: Nadia
   pic: nadia.jpg
@@ -1480,7 +1280,6 @@ nadia:
   color: FAWN
   cats: no
   available: no
-
 bette:
   name: Bette
   pic: bette.jpg
@@ -1488,7 +1287,6 @@ bette:
   age: 3 YEARS
   color: BLACK
   available: no
-
 carlos:
   name: Carlos
   pic: carlos.jpg
@@ -1497,7 +1295,6 @@ carlos:
   color: FAWN
   cats: yes
   available: no
-
 monanicole:
   name: Nicole
   pic: monanicole.jpg
@@ -1506,7 +1303,6 @@ monanicole:
   color: BLACK
   cats: yes
   available: no
-
 lindamcpike:
   name: Linda
   pic: lindamcpike.jpg
@@ -1515,7 +1311,6 @@ lindamcpike:
   color: BRINDLE & WHITE
   cats: yes
   available: no
-
 jimmy:
   name: Jimmy
   pic: jimmy.jpg
@@ -1524,7 +1319,6 @@ jimmy:
   color: BLACK
   cats: yes
   available: no
-
 coal:
   name: Coal
   pic: coal.jpg
@@ -1533,7 +1327,6 @@ coal:
   color: BLACK
   cats: no
   available: no
-
 stormy:
   name: Stormy
   pic: stormy.jpg
@@ -1544,14 +1337,12 @@ stormy:
   cats: no
   available: no
   deceased: yes
-
 alyann:
   name: Alyann
   pic: alyann.jpg
   sex: FEMALE
   color: BRINDLE
   available: no
-
 ballymac:
   name: Ballymac
   pic: ballymac.jpg
@@ -1562,7 +1353,6 @@ ballymac:
   cats: yes
   available: no
   deceased: yes
-
 hully:
   name: Hully
   pic: hully.jpg
@@ -1571,7 +1361,6 @@ hully:
   color: RED BRINDLE
   cats: no
   available: no
-
 shiner:
   name: Shiner
   pic: shiner.jpg
@@ -1580,7 +1369,6 @@ shiner:
   color: WHITE & BRINDLE
   cats: yes
   available: no
-
 easy:
   name: Easy
   pic: easy.jpg
@@ -1589,7 +1377,6 @@ easy:
   color: FAWN
   cats: yes
   available: no
-
 peach:
   name: Peach
   pic: peach.jpg
@@ -1597,7 +1384,6 @@ peach:
   age: 6 YEARS
   color: LIGHT FAWN
   available: no
-
 lily:
   name: Lily
   pic: lily.jpg
@@ -1605,7 +1391,6 @@ lily:
   age: 6 YEARS
   color: WHITE & BRINDLE
   available: no
-
 hope:
   name: Hope
   pic: hope.jpg
@@ -1613,7 +1398,6 @@ hope:
   age: 1 YEAR
   color: FAWN
   available: no
-
 piper:
   name: Piper
   pic: piper.jpg
