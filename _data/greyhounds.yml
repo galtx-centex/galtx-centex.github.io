@@ -446,7 +446,6 @@ pettee:
   name: Pettee
   pic: pettee.jpg
   sex: MALE
-  age:  YEARS
   color: FAWN
   cats: no
   available: no
@@ -463,7 +462,7 @@ noosa:
   name: Noosa
   pic: noosa.JPG
   sex: FEMALE
-  age:  4 YEARS
+  age: 4 YEARS
   color: BLACK
   cats: yes
   available: no
@@ -471,7 +470,7 @@ greycie:
   name: Greycie
   pic: greycie.JPG
   sex: FEMALE
-  age:  7 YEARS
+  age: 7 YEARS
   color: BRINDLE
   cats: yes
   available: no
@@ -479,7 +478,7 @@ bella1:
   name: Bella
   pic: bella1.JPG
   sex: FEMALE
-  age:  6 YEARS
+  age: 6 YEARS
   color: WHITE/BLACK
   cats: yes
   available: no
@@ -517,7 +516,7 @@ pepper1:
   name: Pepper
   pic: pepper1.jpg
   sex: FEMALE
-  age:  9 YEARS
+  age: 9 YEARS
   color: FAWN
   cats: no
   available: no
@@ -533,7 +532,7 @@ tia:
   name: Tia
   pic: tia.jpg
   sex: FEMALE
-  age:  2 YEARS
+  age: 2 YEARS
   color: BLACK
   cats: yes
   available: no
@@ -541,21 +540,21 @@ rocket:
   name: Rocket
   pic: rocket.jpg
   sex: MALE
-  age:  3 YEARS
+  age: 3 YEARS
   color: FAWN
   available: no
 tyler:
   name: Tyler
   pic: tyler.jpg
   sex: MALE
-  age:  4 YEARS
+  age: 4 YEARS
   color: BRINDLE
   available: no
 eleanor:
   name: Eleanor
   pic: eleanor.jpg
   sex: FEMALE
-  age:  5 YEARS
+  age: 5 YEARS
   color: BRINDLE
   available: no
 cortez:
@@ -563,14 +562,14 @@ cortez:
   pic: cortez.jpg
   sex: FEMALE
   cats: no
-  age:  7 YEARS
+  age: 7 YEARS
   color: WHITE/BLACK
   available: no
 homer:
   name: Homer
   pic: homer.jpg
   sex: MALE
-  age:  7 YEARS
+  age: 7 YEARS
   color: FAWN
   available: no
 concho:
@@ -584,7 +583,7 @@ lights:
   name: Lights
   pic: lights.jpg
   sex: FEMALE
-  age:  6 YEARS
+  age: 6 YEARS
   color: WHITE/BLACK
   available: no
 prince:
