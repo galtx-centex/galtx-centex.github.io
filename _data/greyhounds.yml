@@ -119,6 +119,7 @@ annie:
   color: RED BRINDLE
   cats: yes
   available: yes
+  pending: yes
 jedda:
   name: Jedda
   pic: jedi.jpg
