@@ -69,6 +69,7 @@ selena:
   dob: 2015-10-01
   color: WHITE AND BRINDLE
   available: yes
+  pending: yes
 caruso:
   name: Caruso
   pic: caruso.jpg
