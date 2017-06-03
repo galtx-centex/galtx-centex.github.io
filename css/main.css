@@ -77,9 +77,12 @@ a.thumbnail:hover {
   padding: 0px;
 }
 
-/* welcome text */
+/* Welcome text */
+.welcome .carousel-caption {
+  text-align: left;
+}
 .welcome h1 {
-  display: table;
+  display: inline-block;
   font-family:'Dancing Script',cursive;
   font-size: 4rem;
   background: darkred;
@@ -110,6 +113,7 @@ a.thumbnail:hover {
 }
 }
 
+/* Adopt Me text */
 .adopt-me h1 {
   display: inline-block;
   font-family: 'Dancing Script',cursive;
