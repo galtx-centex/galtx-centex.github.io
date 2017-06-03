@@ -141,6 +141,56 @@ a.thumbnail:hover {
 }
 }
 
+/* Foster Us text */
+.foster-us .carousel-caption {
+  text-align: left;
+  left: 10%;
+  top: 15px;
+}
+.foster-us h1 {
+  display: inline-block;
+  font-family: 'Dancing Script',cursive;
+  font-size: 3.5rem;
+  background: coral;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 6px;
+}
+.foster-us p {
+  display: inline-block;
+  font-family: 'Dancing Script',cursive;
+  font-size: 3rem;
+  background: darkolivegreen;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.carousel-inner > .item.foster-us img {
+  max-height: 100%;
+  max-width: none;
+}
+@media (min-width: 375px) {
+.foster-us h1 {
+  font-size: 4rem;
+}
+.foster-us .carousel-caption {
+  top: 0;
+}
+}
+@media (min-width: 768px) {
+.foster-us .carousel-caption {
+  text-align: left;
+  left: 15%;
+  top: 0;
+}
+.foster-us h1 {
+  font-size: 7rem;
+}
+.carousel-inner > .item.foster-us img {
+  max-height: none;
+  max-width: 100%;
+}
+}
+
 /* carousel */
 .carousel {
   height: 270px;
