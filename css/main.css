@@ -78,22 +78,35 @@ a.thumbnail:hover {
 }
 
 /* welcome text */
-.welcome > h1 {
-  display: inline-block;
+.welcome h1 {
+  display: table;
   font-family:'Dancing Script',cursive;
   font-size: 4rem;
   background: darkred;
   padding-left: 1rem;
   padding-right: 1rem;
 }
-@media (min-width: 768px) {
-.welcome {
-  top:0;
-  bottom:auto;
+.carousel-inner > .item.welcome > img {
+  max-height: 100%;
+  max-width: none;
 }
-.welcome > h1 {
-  display: table;
+@media (min-width: 321px) {
+.carousel-inner > .item.welcome > img {
+  max-height: none;
+  max-width: 100%;
+}
+}
+@media (min-width: 768px) {
+.welcome h1 {
   font-size: 7rem;
+}
+.welcome > .carousel-caption {
+  left: 15%
+}
+}
+@media (min-width: 992px) {
+.welcome h1 {
+  font-size: 9rem;
 }
 }
 
