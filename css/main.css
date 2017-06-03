@@ -110,7 +110,7 @@ a.thumbnail:hover {
 }
 }
 
-.our-greyhounds h1 {
+.adopt-me h1 {
   display: inline-block;
   font-family: 'Dancing Script',cursive;
   font-size: 4rem;
@@ -119,7 +119,7 @@ a.thumbnail:hover {
   padding-right: 1rem;
   padding-bottom: 6px;
 }
-.our-greyhounds p {
+.adopt-me p {
   display: inline-block;
   font-family: 'Dancing Script',cursive;
   font-size: 3rem;
@@ -127,16 +127,16 @@ a.thumbnail:hover {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.carousel-inner > .item > .our-greyhounds > img {
+.carousel-inner > .item.adopt-me img {
   max-height: 100%;
   max-width: none;
 }
 @media (min-width: 992px) {
-.carousel-inner > .item > .our-greyhounds > img {
+.carousel-inner > .item.adopt-me img {
   max-height: none;
   max-width: 100%;
 }
-.our-greyhounds h1 {
+.adopt-me h1 {
   font-size: 7rem;
 }
 }
