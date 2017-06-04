@@ -135,13 +135,25 @@ a.thumbnail:hover {
   max-height: 100%;
   max-width: none;
 }
-@media (min-width: 992px) {
+@media (min-width: 568px) {
 .carousel-inner > .item.adopt-me img {
   max-height: none;
   max-width: 100%;
 }
+}
+@media (min-width: 768px) {
+.carousel-inner > .item.adopt-me img {
+  max-height: 100%;
+  max-width: none;
+}
+}
+@media (min-width: 992px) {
 .adopt-me h1 {
   font-size: 7rem;
+}
+.carousel-inner > .item.adopt-me img {
+  max-height: none;
+  max-width: 100%;
 }
 }
 
@@ -180,6 +192,12 @@ a.thumbnail:hover {
   top: 0;
 }
 }
+@media (min-width: 568px) {
+.carousel-inner > .item.foster-us img {
+  max-height: none;
+  max-width: 100%;
+}
+}
 @media (min-width: 768px) {
 .foster-us .carousel-caption {
   text-align: left;
@@ -189,6 +207,12 @@ a.thumbnail:hover {
 .foster-us h1 {
   font-size: 7rem;
 }
+.carousel-inner > .item.foster-us img {
+  max-height: 100%;
+  max-width: none;
+}
+}
+@media (min-width: 992px) {
 .carousel-inner > .item.foster-us img {
   max-height: none;
   max-width: 100%;
