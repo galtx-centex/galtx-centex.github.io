@@ -3,6 +3,9 @@ layout: greyhound
 title: Annie
 greyhound: annie
 permalink: /greyhounds/annie/
+fb-posts:
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155661536013572:0
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792948883572
 ---
 
 This just in: GPA-CT has a tiger! No. Wait. That isn't a tiger. That's Annie the brindle Greyhound!
@@ -15,11 +18,3 @@ Annie gets along with well mannered children and with her foster family's laid b
 Shepherd mix.
 
 Stay tuned for updates including "trip to the dog park" and "walks on a leash when the deer are out"!
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155661536013572:0" data-width="auto" data-show-text="true"></div>
-</div>
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792948883572" data-width="auto" data-show-text="true"></div>
-</div>

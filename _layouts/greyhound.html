@@ -32,6 +32,16 @@ layout: page
   </div>
   <div class="profile-content">
     {{ content }}
+    {% for pic in page.pics %}
+      <div class="col-md-6">
+        <img class="img-rounded" src="/img/{{ pic }}">
+      </div>
+    {% endfor %}
+    {% for post in page.fb-posts %}
+      <div class="col-md-6">
+        <div class="fb-post" data-href="{{ post }}" data-width="auto" data-show-text="true"></div>
+      </div>
+    {% endfor %}
   </div>
 </div>
 

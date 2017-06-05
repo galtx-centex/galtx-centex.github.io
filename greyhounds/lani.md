@@ -3,6 +3,12 @@ layout: greyhound
 title: Laney
 greyhound: lani
 permalink: /greyhounds/lani/
+pics:
+  - lani2.jpg
+fb-posts:
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155681973893572:0
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792935863572:0
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155865941653572:0
 ---
 
 
@@ -12,17 +18,3 @@ If you need to know where she is, it's never far. She likes to see her people an
 
 She is not a fan of the crate but has proved to be very trustworthy throughout the night. Probably because she likes to see her people.
 We have enjoyed having her as our house guest.
-
-<img class="img-rounded" src="/img/lani2.jpg">
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155681973893572:0" data-width="auto" data-show-text="true"></div>
-</div>
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155792935863572:0" data-width="auto" data-show-text="true"></div>
-</div>
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155865941653572:0" data-width="auto" data-show-text="true"></div>
-</div>

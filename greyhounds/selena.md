@@ -3,6 +3,10 @@ layout: greyhound
 title: Selena
 greyhound: selena
 permalink: /greyhounds/selena/
+pics:
+  - selena1.jpg
+fb-posts:
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155990693338572:0
 ---
 
 This sweet, gorgeous girl is just 18 months old -- she just didn't want to race, so came into the adoption program early.
@@ -14,10 +18,3 @@ She is fantastic with other dogs -- large and small -- and gets along great with
 She's got super cute mannerisms and chatters her jaw when excited.  She can also be cajoled into "rooing", and will tell you when she wants to go out.  
  
 Come meet sweet Selena and find out why we think she's just wonderful.
-
-<div class="col-md-6">
-<img class="img-rounded" src="/img/selena1.jpg">
-</div>
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155990693338572:0" data-width="auto" data-show-text="true"></div>
-</div>

@@ -3,6 +3,8 @@ layout: greyhound
 title: Preston
 greyhound: preston
 permalink: /greyhounds/preston/
+fb-posts:
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155882275768572:0
 ---
 
 Hi, my name is Preston and I’m a lapdog. No, really…I think I need to sit in your lap.
@@ -26,7 +28,3 @@ I’m in a foster home with another grey, three cats and a real boy. I like to r
 I am crate trained, but it’s not my favorite thing.
 
 Did I mention how much I love toys?
-
-<div class="col-md-6">
-<div class="fb-post" data-href="https://www.facebook.com/greyhoundpetscentraltexas/posts/10155882275768572:0" data-width="auto" data-show-text="true"></div>
-</div>
