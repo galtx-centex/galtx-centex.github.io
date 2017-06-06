@@ -68,7 +68,7 @@ selena:
   sex: FEMALE
   dob: 2015-10-01
   color: WHITE AND BRINDLE
-  available: yes
+  available: no
   pending: yes
 caruso:
   name: Caruso
