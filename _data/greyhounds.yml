@@ -60,7 +60,7 @@ suzy:
   dob: 2015-10-01
   color: BRINDLE
   cats: yes
-  available: yes
+  available: no
   pending: yes
 selena:
   name: Selena
