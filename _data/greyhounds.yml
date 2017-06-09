@@ -29,6 +29,7 @@ poppy2:
   dob: 2009-01-13
   color: WHITE AND BLACK
   available: yes
+  pending: yes
 mollie:
   name: Mollie
   pic: mollie.jpg
