@@ -4,7 +4,7 @@ brendan:
   sex: MALE
   dob: 2015-10-12
   color: BRINDLE
-  available: yes
+  available: no
   pending: yes
 tempo:
   name: Tempo
