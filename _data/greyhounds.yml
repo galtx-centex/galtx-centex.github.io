@@ -6,6 +6,7 @@ brendan:
   color: BRINDLE
   available: yes
   pending: yes
+  cats: yes
 tempo:
   name: Tempo
   pic: tempo.jpg
