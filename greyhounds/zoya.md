@@ -3,6 +3,8 @@ layout: greyhound
 title: Zoya
 greyhound: zoya
 permalink: /greyhounds/zoya/
+fb-posts:
+  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10156237094993572:0
 ---
 
 Hi! My name is Zoya! 
