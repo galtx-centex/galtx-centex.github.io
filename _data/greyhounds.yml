@@ -1,3 +1,10 @@
+duke:
+  name: Duke
+  pic: duke.jpg
+  sex: MALE
+  dob: 2014-04-13
+  color: BRINDLE
+  available: yes
 brendan:
   name: Brendan
   pic: brendan.jpg
