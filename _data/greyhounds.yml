@@ -22,6 +22,7 @@ tempo:
   color: RED
   cats: no
   available: yes
+  pending: yes
 thea:
   name: Thea
   pic: thea.jpeg
