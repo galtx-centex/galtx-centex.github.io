@@ -7,7 +7,8 @@ title: Available Greyhounds
 
   <div class="row">
 
-    {% for greyhound in site.greyhounds %}
+    {% assign greyhounds = site.greyhounds | sort: 'arrived' | reverse %}
+    {% for greyhound in greyhounds %}
       {% if greyhound.deceased %}
       {% elsif greyhound.available %}
         <div class="col-sm-4 col-md-3">
