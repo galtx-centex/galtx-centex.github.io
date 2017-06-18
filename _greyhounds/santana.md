@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Santana
+arrived: 2010-03-05
 age: 5 YEARS
 available: no
 cats: no

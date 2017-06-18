@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Dutchess
+arrived: 2010-01-25
 age: 7 YEARS
 available: no
 color: BLACK & WHITE

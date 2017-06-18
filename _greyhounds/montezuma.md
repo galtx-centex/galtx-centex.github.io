@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Montezuma
+arrived: 2010-02-03
 age: 2 YEARS
 available: no
 color: BRINDLE

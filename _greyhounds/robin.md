@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Robin
+arrived: 2010-03-16
 cats: no
 color: BRINDLE
 deceased: yes

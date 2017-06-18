@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Summer
+arrived: 2010-03-30
 age: 8 YEARS
 available: no
 cats: no

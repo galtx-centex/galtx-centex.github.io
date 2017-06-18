@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Opal
+arrived: 2010-02-27
 age: 9 YEARS
 available: no
 color: FAWN

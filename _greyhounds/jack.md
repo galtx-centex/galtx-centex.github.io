@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jack
-arrived: 2015-05-19
+arrived: 2010-04-15
 age: 6 MONTHS
 available: no
 color: RED FAWN

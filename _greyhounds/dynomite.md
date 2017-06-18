@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Dynomite
+arrived: 2010-02-09
 age: 3 YEARS
 available: no
 color: BLACK & WHITE

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Piper
+arrived: 2010-01-01
 age: 1 YEAR
 available: no
 name: Piper

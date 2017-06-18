@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Brianna
+arrived: 2010-01-21
 age: 8 YEARS
 available: no
 name: Brianna

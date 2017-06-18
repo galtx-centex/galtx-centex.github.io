@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Lily
+arrived: 2010-01-03
 age: 6 YEARS
 available: no
 color: WHITE & BRINDLE

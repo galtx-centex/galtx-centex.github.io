@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Nantucket
+arrived: 2010-02-04
 age: 6 YEARS
 available: no
 color: BRINDLE

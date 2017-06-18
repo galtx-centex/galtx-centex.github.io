@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Breezy
+arrived: 2010-02-08
 age: 4 YEARS
 available: no
 cats: no

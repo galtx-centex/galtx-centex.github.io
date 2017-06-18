@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Hotkisses
+arrived: 2010-01-26
 age: 6 YEARS
 available: no
 color: RED BRINDLE

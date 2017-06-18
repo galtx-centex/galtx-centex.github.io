@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Pepper
+arrived: 2010-04-28
 age: 9 YEARS
 available: no
 cats: no

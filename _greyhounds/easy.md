@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Easy
+arrived: 2010-01-05
 age: 4 YEARS
 available: no
 cats: yes

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Bingo
+arrived: 2010-02-23
 age: 4 MONTHS
 available: no
 name: Bingo

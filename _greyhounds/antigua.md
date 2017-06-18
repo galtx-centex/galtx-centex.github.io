@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Antigua Tia
+arrived: 2010-03-24
 available: no
 cats: yes
 color: BRINDLE

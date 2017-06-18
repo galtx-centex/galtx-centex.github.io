@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Chrissy
+arrived: 2010-03-07
 age: 4 YEARS
 available: no
 cats: yes
