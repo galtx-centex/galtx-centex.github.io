@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Limoncello
+arrived: 2010-02-20
 age: 17 MONTHS
 available: no
 cats: yes

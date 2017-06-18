@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Doc
+arrived: 2010-04-13
 age: 2002 - 2015
 available: no
 cats: yes

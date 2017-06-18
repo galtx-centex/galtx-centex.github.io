@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Valkyrie
+arrived: 2010-04-30
 age: 2015
 color: BRINDLE
 deceased: yes

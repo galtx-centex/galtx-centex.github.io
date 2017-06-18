@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Alex
+arrived: 2010-03-31
 age: 6 YEARS
 available: no
 cats: no

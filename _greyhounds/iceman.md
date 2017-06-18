@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Ice Man
+arrived: 2010-01-27
 age: 6 YEARS
 available: no
 cats: yes

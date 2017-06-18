@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Henny Penny
+arrived: 2010-03-14
 available: no
 cats: no
 color: BLACK

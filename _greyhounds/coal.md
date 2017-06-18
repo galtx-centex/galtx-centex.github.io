@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Coal
+arrived: 2010-01-11
 age: 2 YEARS
 available: no
 cats: no

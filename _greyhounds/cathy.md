@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Cathy
+arrived: 2010-02-14
 age: 2 YEARS
 available: no
 color: BLACK

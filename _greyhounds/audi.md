@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Audi
+arrived: 2010-03-02
 age: 18 MONTHS
 available: no
 cats: yes

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Anastasia (Ana)
+arrived: 2010-03-23
 age: 2 YEARS
 available: no
 cats: yes

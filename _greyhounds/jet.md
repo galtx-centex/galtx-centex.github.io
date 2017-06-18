@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Jet
+arrived: 2010-02-17
 age: 3 YEARS
 available: no
 color: RED FAWN

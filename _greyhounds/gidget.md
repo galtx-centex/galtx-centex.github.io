@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Gidget
+arrived: 2010-02-13
 age: 2 YEARS
 available: no
 cats: yes

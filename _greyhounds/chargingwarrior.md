@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Charging Warrior "Charlie"
+arrived: 2010-03-03
 age: 3 YEARS
 available: no
 cats: yes

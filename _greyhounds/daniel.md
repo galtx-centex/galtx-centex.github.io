@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Daniel
+arrived: 2010-02-10
 age: 2 YEARS
 available: no
 color: BLACK & WHITE

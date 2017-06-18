@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Raven
+arrived: 2010-04-04
 age: 5 YEARS
 available: no
 color: RED

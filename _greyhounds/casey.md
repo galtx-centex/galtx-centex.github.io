@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Casey
+arrived: 2010-03-15
 available: no
 cats: no
 color: RED FAWN

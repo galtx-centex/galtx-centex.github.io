@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Carlos
+arrived: 2010-01-15
 age: 4 YEARS
 available: no
 cats: yes

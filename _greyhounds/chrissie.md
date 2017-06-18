@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Chrissie
+arrived: 2010-02-05
 age: 2 YEARS
 available: no
 color: BRINDLE

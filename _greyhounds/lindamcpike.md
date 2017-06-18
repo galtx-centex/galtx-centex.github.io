@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Linda McPike
+arrived: 2010-01-13
 age: 2 YEARS
 available: no
 cats: yes

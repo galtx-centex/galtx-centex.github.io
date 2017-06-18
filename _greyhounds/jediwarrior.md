@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Jedi Warrior
+arrived: 2010-02-02
 age: 3 YEARS
 available: no
 color: BLACK

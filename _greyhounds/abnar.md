@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Abnar
+arrived: 2010-03-01
 age: 3 YEARS
 available: no
 cats: yes
