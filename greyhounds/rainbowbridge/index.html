@@ -13,7 +13,8 @@ title:
 
   <div class="row">
 
-    {% for greyhound in site.greyhounds %}
+    {% assign greyhounds = site.greyhounds | sort: 'arrived' | reverse %}
+    {% for greyhound in greyhounds %}
       {% if greyhound.deceased %}
         <div class="col-xs-6 col-sm-4 col-md-2">
           <a class="thumbnail" href="{{ greyhound.url }}">
