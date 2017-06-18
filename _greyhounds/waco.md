@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Waco
+arrived: 2016-07-11
 available: no
 cats: yes
 color: BRINDLE

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Duke
+arrived: 2017-06-13
 available: yes
 color: BRINDLE
 dob: 2014-04-13

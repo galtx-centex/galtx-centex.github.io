@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Pettee
+arrived: 2016-01-24
 available: no
 cats: no
 color: FAWN

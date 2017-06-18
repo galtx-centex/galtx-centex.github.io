@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Poppy
+arrived: 2017-05-15
 age: 5 YEARS
 available: no
 cats: yes

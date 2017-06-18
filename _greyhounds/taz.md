@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Taz
+arrived: 2016-03-17
 age: 2 YEARS
 available: no
 color: FAWN

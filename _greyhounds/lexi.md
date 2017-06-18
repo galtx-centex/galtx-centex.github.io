@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Lexi
+arrived: 2016-01-24
 available: no
 color: FAWN
 dob: 2014-10-31

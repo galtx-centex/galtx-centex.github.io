@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Mollie
+arrived: 2017-05-15
 available: no
 cats: yes
 color: FAWN

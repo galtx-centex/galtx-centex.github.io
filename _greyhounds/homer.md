@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Homer
+arrived: 2015-08-26
 age: 7 YEARS
 available: no
 color: FAWN

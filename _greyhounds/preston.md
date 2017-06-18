@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Preston
+arrived: 2017-01-27
 available: no
 cats: yes
 color: BRINDLE

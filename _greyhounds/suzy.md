@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Suzy
+arrived: 2017-04-05
 available: no
 cats: yes
 color: BRINDLE

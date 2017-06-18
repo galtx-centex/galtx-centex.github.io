@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Johaunna
+arrived: 2016-06-04
 available: no
 cats: no
 color: BLACK

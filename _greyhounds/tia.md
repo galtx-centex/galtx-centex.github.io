@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Tia
+arrived: 2015-09-29
 age: 2 YEARS
 available: no
 cats: yes

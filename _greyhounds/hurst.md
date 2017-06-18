@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Hurst
+arrived: 2016-01-24
 age: 4 YEARS
 available: no
 cats: no
