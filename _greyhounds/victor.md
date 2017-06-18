@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Victor
+arrived: 2016-06-04
 age: 4 YEARS
 available: no
 cats: no

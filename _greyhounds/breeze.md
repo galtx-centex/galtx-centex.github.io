@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Breeze
+arrived: 2016-01-02
 available: no
 cats: no
 color: BLACK

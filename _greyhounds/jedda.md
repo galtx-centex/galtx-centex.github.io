@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Jedda
+arrived: 2017-01-16
 available: no
 color: FAWN
 dob: 2008-11-01

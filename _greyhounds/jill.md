@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Jill
+arrived: 2015-05-19
 age: 2 YEARS
 available: no
 color: FAWN

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Ballatore
+arrived: 2016-05-16
 age: 3 YEARS
 available: no
 cats: yes

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Eleanor
+arrived: 2015-08-26
 age: 5 YEARS
 available: no
 color: BRINDLE

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Gracie
+arrived: 2014-12-02
 age: 1 1/2 YEARS
 available: no
 cats: yes

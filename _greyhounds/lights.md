@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Lights
+arrived: 2015-08-07
 age: 6 YEARS
 available: no
 color: WHITE/BLACK

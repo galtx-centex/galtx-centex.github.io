@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Colt
+arrived: 2016-03-30
 age: 1 YEAR
 available: no
 color: BLACK

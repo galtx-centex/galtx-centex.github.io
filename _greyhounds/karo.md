@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Karo
+arrived: 2016-02-24
 age: 4 YEARS
 available: no
 cats: no

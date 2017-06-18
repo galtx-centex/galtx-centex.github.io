@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Layton
+arrived: 2016-11-02
 available: no
 cats: yes
 color: FAWN

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Sunday
+arrived: 2015-07-02
 age: 2 YEARS
 available: no
 color: FAWN

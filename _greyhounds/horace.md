@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Horace
+arrived: 2015-03-05
 age: 1 YEAR
 available: no
 cats: no

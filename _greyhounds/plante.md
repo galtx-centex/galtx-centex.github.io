@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Plante
+arrived: 2016-06-04
 age: 2 YEARS
 available: no
 cats: yes

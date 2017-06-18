@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Hannah
+arrived: 2015-01-01
 age: 8 YEARS
 available: no
 cats: yes

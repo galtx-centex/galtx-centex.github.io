@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Zella
+arrived: 2016-10-20
 available: no
 color: BRINDLE
 dob: 2015-08-20

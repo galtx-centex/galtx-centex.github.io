@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Tamara
+arrived: 2014-12-02
 age: 7 YEARS
 available: no
 color: BLACK

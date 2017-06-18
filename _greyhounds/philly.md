@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Philly
+arrived: 2016-08-01
 available: yes
 color: WHITE
 deceased: yes

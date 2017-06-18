@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Snow White
+arrived: 2016-09-07
 available: no
 color: BLACK
 dob: 2011-01-16

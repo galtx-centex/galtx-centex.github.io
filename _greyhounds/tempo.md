@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Tempo
+arrived: 2017-05-22
 available: yes
 cats: no
 color: RED

@@ -1,6 +1,7 @@
 ---
 layout: greyhound
 title: Phoebe
+arrived: 2016-03-23
 age: 1 YEARS
 available: no
 cats: yes
