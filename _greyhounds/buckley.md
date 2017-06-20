@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Buckley
-arrived: 2015-02-11
+date: 2015-02-11
 age: 4 YEARS
 available: no
 cats: yes

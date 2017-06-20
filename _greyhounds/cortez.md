@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Cortez
-arrived: 2015-08-26
+date: 2015-08-26
 age: 7 YEARS
 available: no
 cats: no

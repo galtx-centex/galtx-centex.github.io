@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Pearl
-arrived: 2016-03-17
+date: 2016-03-17
 age: 1.5 YEARS
 available: no
 color: WHITE

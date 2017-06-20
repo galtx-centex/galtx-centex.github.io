@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jacy
-arrived: 2010-03-06
+date: 2010-03-06
 age: 15 MONTHS
 available: no
 cats: no

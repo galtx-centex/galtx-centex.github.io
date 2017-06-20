@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Carly
-arrived: 2014-10-09
+date: 2014-10-09
 age: 6 YEARS
 available: no
 color: BRINDLE

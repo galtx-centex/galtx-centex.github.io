@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Zoya
-arrived: 2017-04-12
+date: 2017-04-12
 available: yes
 cats: no
 color: RED

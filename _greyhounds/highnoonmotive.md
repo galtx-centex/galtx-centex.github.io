@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: High Noon Motive
-arrived: 2010-01-31
+date: 2010-01-31
 age: 4 YEARS
 available: no
 color: BRINDLE

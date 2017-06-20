@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Stormy
-arrived: 2010-01-10
+date: 2010-01-10
 available: no
 cats: no
 color: DARK BRINDLE

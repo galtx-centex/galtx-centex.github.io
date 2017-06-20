@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Edmundo
-arrived: 2015-03-02
+date: 2015-03-02
 age: 4 YEARS
 available: no
 color: WHITE/RED

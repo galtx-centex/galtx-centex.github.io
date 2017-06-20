@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Teresa
-arrived: 2016-02-11
+date: 2016-02-11
 age: 3 YEARS
 available: no
 cats: no

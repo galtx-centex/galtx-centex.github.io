@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Nadia
-arrived: 2010-01-17
+date: 2010-01-17
 age: 5 YEARS
 available: no
 cats: no

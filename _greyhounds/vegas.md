@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Vegas
-arrived: 2010-02-07
+date: 2010-02-07
 age: 2 YEARS
 available: no
 color: FAWN

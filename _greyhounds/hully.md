@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Hully
-arrived: 2010-01-07
+date: 2010-01-07
 age: 2 YEARS
 available: no
 cats: no

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Vicki
-arrived: 2010-04-29
+date: 2010-04-29
 age: 2015
 color: FAWN
 deceased: yes

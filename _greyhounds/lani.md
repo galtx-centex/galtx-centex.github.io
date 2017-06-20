@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Laney
-arrived: 2017-01-03
+date: 2017-01-03
 available: no
 cats: no
 color: BLACK

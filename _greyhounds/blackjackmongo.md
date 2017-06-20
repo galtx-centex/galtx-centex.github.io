@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Blackjack Mongo
-arrived: 2010-01-29
+date: 2010-01-29
 age: 4 YEARS
 available: no
 color: DARK BRINDLE

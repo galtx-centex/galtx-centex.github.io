@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Bella
-arrived: 2016-01-02
+date: 2016-01-02
 age: 1 YEAR
 available: no
 cats: no

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Noosa
-arrived: 2016-01-07
+date: 2016-01-07
 age: 4 YEARS
 available: no
 cats: yes

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Dolly
-arrived: 2010-03-19
+date: 2010-03-19
 available: no
 cats: yes
 color: DARK BRINDLE

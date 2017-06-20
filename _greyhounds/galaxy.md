@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Galaxy
-arrived: 2016-03-02
+date: 2016-03-02
 age: 3 YEARS
 available: no
 color: FAWN

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Alfie
-arrived: 2010-01-28
+date: 2010-01-28
 age: 2 YEARS
 available: no
 color: RED

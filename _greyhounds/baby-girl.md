@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Baby Girl
-arrived: 2010-04-03
+date: 2010-04-03
 age: 6 YEARS
 available: no
 cats: yes

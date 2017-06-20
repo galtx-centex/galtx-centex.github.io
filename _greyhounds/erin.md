@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Erin
-arrived: 2010-01-23
+date: 2010-01-23
 age: 5 YEARS
 available: no
 cats: no

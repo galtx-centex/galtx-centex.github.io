@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Felix
-arrived: 2015-04-17
+date: 2015-04-17
 age: 6 YEARS
 available: no
 cats: yes

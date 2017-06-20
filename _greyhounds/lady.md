@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Lady
-arrived: 2014-10-04
+date: 2014-10-04
 age: 4 YEARS
 available: no
 color: RED

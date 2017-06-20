@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Justin
-arrived: 2010-01-24
+date: 2010-01-24
 age: 2 YEARS
 available: no
 color: RED FAWN

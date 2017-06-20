@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Isabelle
-arrived: 2016-08-01
+date: 2016-08-01
 available: no
 color: FAWN
 dob: 2008-07-01

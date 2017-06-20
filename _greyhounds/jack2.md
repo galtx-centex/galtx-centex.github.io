@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jack
-arrived: 2015-05-19
+date: 2015-05-19
 age: 6 YEARS
 available: no
 color: BRINDLE

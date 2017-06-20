@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Romeo
-arrived: 2016-12-21
+date: 2016-12-21
 available: no
 color: WHITE/ORANGE
 dob: 2012-12-29

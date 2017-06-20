@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Checkers
-arrived: 2010-03-18
+date: 2010-03-18
 age: 2006 - 2015
 available: no
 cats: yes

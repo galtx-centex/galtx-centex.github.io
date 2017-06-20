@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Gumdrop
-arrived: 2017-01-03
+date: 2017-01-03
 available: no
 color: BLACK
 dob: 2015-05-08

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Gregory
-arrived: 2016-06-04
+date: 2016-06-04
 age: 4 YEARS
 available: no
 cats: yes
