@@ -3,10 +3,9 @@ layout: greyhound
 title: Lily
 date: 2010-02-15
 age: 8 YEARS
-available: no
 cats: no
 color: BRINDLE
-deceased: yes
+category: deceased
 name: Lily
 pic: lily2.jpg
 sex: FEMALE

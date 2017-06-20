@@ -2,9 +2,8 @@
 layout: greyhound
 title: Philly
 date: 2016-08-01
-available: yes
 color: WHITE
-deceased: yes
+category: deceased
 dob: 2008-06-12
 dod: 2017-01-21
 name: Philly

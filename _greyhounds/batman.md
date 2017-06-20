@@ -2,10 +2,9 @@
 layout: greyhound
 title: Batman
 date: 2010-02-26
-available: no
 cats: no
 color: BLACK & WHITE
-deceased: yes
+category: deceased
 dod: 2014-10-03
 name: Batman
 pic: batman.jpg
