@@ -2,7 +2,7 @@
 layout: greyhound
 title: Zoya
 date: 2017-04-12
-available: yes
+category: available
 cats: no
 color: RED
 dob: 2009-01-13

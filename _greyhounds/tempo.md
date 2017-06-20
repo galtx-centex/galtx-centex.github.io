@@ -2,7 +2,7 @@
 layout: greyhound
 title: Tempo
 date: 2017-05-22
-available: yes
+category: available
 cats: no
 color: RED
 dob: 2015-07-12
