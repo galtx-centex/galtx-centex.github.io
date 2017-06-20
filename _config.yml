@@ -13,3 +13,5 @@ exclude: [vendor, dict, script]
 collections:
   greyhounds:
     output: true
+gems:
+  - octopress-paginate

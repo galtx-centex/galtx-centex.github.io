@@ -2,14 +2,21 @@
 layout: page
 title: Happy Tails
 permalink: /greyhounds/happytails/
+paginate:
+  collection: greyhounds
+  category: adopted
+  per_page: 30
+  limit: false
+  permalink: /:num/
+  title_suffix: ""
+  reversed: true
 ---
 
 <div class="container-fluid">
 
   <div class="row">
 
-    {% assign greyhounds = site.greyhounds | where: "category","adopted" %}
-    {% for greyhound in greyhounds reversed %}
+    {% for greyhound in paginator.greyhounds %}
       <div class="col-xs-6 col-sm-4 col-md-2">
         <a class="thumbnail" href="{{ greyhound.url }}">
           <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
@@ -21,5 +28,16 @@ permalink: /greyhounds/happytails/
     {% endfor %}
 
   </div>
+
+  <nav>
+    <ul class="pager">
+      {% if paginator.previous_page %}
+        <li class="previous"><a href="{{ paginator.previous_page_path }}"><span aria-hidden="true">&larr;</span> Back</a></li>
+      {% endif %}
+      {% if paginator.next_page %}
+        <li class="next"><a href="{{ paginator.next_page_path }}">More <span aria-hidden="true">&rarr;</span></a></li>
+      {% endif %}
+    </ul>
+  </nav>
 
 </div>
