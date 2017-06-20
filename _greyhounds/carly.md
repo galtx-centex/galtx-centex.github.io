@@ -3,9 +3,8 @@ layout: greyhound
 title: Carly
 date: 2014-10-09
 age: 6 YEARS
-available: no
 color: BRINDLE
-deceased: yes
+category: deceased
 dod: 2016-12-20
 name: Carly
 pic: carly.png

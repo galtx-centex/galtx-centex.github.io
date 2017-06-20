@@ -2,10 +2,9 @@
 layout: greyhound
 title: Jazzy (Happy Jazz)
 date: 2010-03-17
-available: no
 cats: yes
 color: RED & WHITE
-deceased: yes
+category: deceased
 name: Jazz
 pic: happyjazz.jpg
 sex: FEMALE

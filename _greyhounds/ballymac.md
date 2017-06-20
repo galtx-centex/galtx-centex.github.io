@@ -2,10 +2,9 @@
 layout: greyhound
 title: Ballymac
 date: 2010-01-08
-available: no
 cats: yes
 color: BLACK & WHITE
-deceased: yes
+category: deceased
 dob: 2005-05-15
 dod: 2017-03-13
 name: Ballymac

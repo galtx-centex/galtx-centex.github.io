@@ -2,10 +2,9 @@
 layout: greyhound
 title: Silvia
 date: 2010-03-22
-available: no
 cats: yes
 color: BRINDLE
-deceased: yes
+category: deceased
 dob: 2006-02-06
 dod: 2015-11-18
 name: Silvia

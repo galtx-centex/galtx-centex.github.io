@@ -3,10 +3,9 @@ layout: greyhound
 title: Checkers
 date: 2010-03-18
 age: 2006 - 2015
-available: no
 cats: yes
 color: BLACK & WHITE
-deceased: yes
+category: deceased
 name: Checkers
 pic: checkers.jpg
 sex: FEMALE
