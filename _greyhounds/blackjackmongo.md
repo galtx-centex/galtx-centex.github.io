@@ -3,7 +3,7 @@ layout: greyhound
 title: Blackjack Mongo
 date: 2010-01-29
 age: 4 YEARS
-available: no
+category: adopted
 color: DARK BRINDLE
 name: Blackjack
 pic: blackjackmongo.jpg

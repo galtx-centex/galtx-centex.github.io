@@ -3,7 +3,7 @@ layout: greyhound
 title: Backwoods Alaska
 date: 2010-02-21
 age: 12 MONTHS
-available: no
+category: adopted
 name: Alaska
 pic: backwoodsalaska.jpg
 sex: MALE

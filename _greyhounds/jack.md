@@ -3,7 +3,7 @@ layout: greyhound
 title: Jack
 date: 2010-04-15
 age: 6 MONTHS
-available: no
+category: adopted
 color: RED FAWN
 name: Jack
 pic: jack.jpg

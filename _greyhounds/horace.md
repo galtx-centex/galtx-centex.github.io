@@ -3,7 +3,7 @@ layout: greyhound
 title: Horace
 date: 2015-03-05
 age: 1 YEAR
-available: no
+category: adopted
 cats: no
 color: FAWN
 name: Horace

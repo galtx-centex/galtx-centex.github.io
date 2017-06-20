@@ -3,7 +3,7 @@ layout: greyhound
 title: Cortez
 date: 2015-08-26
 age: 7 YEARS
-available: no
+category: adopted
 cats: no
 color: WHITE/BLACK
 name: Cortez

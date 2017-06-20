@@ -2,7 +2,7 @@
 layout: greyhound
 title: James Bond
 date: 2016-06-04
-available: no
+category: adopted
 cats: yes
 color: BLACK
 dob: 2014-03-12

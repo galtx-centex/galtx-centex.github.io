@@ -3,7 +3,7 @@ layout: greyhound
 title: Sunflower
 date: 2010-03-08
 age: 18 MONTHS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Sunflower

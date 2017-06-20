@@ -3,7 +3,7 @@ layout: greyhound
 title: Beau
 date: 2010-03-11
 age: 8 MONTHS
-available: no
+category: adopted
 cat: yes
 color: FAWN
 name: Beau

@@ -3,7 +3,7 @@ layout: greyhound
 title: Hannah
 date: 2015-01-01
 age: 8 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Hannah

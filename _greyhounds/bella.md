@@ -3,7 +3,7 @@ layout: greyhound
 title: Bella
 date: 2016-01-02
 age: 1 YEAR
-available: no
+category: adopted
 cats: no
 color: WHITE & BLACK
 name: Bella

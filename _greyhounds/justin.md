@@ -3,7 +3,7 @@ layout: greyhound
 title: Justin
 date: 2010-01-24
 age: 2 YEARS
-available: no
+category: adopted
 color: RED FAWN
 name: Justin
 pic: justin.jpg

@@ -3,7 +3,7 @@ layout: greyhound
 title: Limoncello
 date: 2010-02-20
 age: 17 MONTHS
-available: no
+category: adopted
 cats: yes
 color: FAWN BRINDLE
 name: Limoncello

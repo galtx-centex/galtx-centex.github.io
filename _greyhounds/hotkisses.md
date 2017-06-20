@@ -3,7 +3,7 @@ layout: greyhound
 title: Hotkisses
 date: 2010-01-26
 age: 6 YEARS
-available: no
+category: adopted
 color: RED BRINDLE
 name: Hotkisses
 pic: hotkisses.jpg

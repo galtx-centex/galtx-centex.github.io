@@ -3,7 +3,7 @@ layout: greyhound
 title: Colt
 date: 2016-03-30
 age: 1 YEAR
-available: no
+category: adopted
 color: BLACK
 name: Colt
 pic: colt.jpg

@@ -3,7 +3,7 @@ layout: greyhound
 title: Karo
 date: 2016-02-24
 age: 4 YEARS
-available: no
+category: adopted
 cats: no
 color: BRINDLE
 name: Karo

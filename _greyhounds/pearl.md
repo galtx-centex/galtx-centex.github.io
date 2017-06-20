@@ -3,7 +3,7 @@ layout: greyhound
 title: Pearl
 date: 2016-03-17
 age: 1.5 YEARS
-available: no
+category: adopted
 color: WHITE
 name: Pearl
 pic: pearl.jpg

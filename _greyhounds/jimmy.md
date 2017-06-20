@@ -3,7 +3,7 @@ layout: greyhound
 title: Jimmy
 date: 2010-01-12
 age: 16 MONTHS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Jimmy

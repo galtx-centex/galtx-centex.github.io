@@ -3,7 +3,7 @@ layout: greyhound
 title: Butterfinger
 date: 2016-05-09
 age: 3 YEARS
-available: no
+category: adopted
 color: WHITE/BLACK
 name: Butterfinger
 pic: butterfinger.JPG

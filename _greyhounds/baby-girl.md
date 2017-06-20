@@ -3,7 +3,7 @@ layout: greyhound
 title: Baby Girl
 date: 2010-04-03
 age: 6 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BLACK
 name: Baby Girl

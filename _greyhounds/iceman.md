@@ -3,14 +3,14 @@ layout: greyhound
 title: Ice Man
 date: 2010-01-27
 age: 6 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BRINDLE
 name: Ice Man
 pic: iceman.jpg
 sex: MALE
 age: 6 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BRINDLE
 name: Ice Man

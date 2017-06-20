@@ -3,7 +3,7 @@ layout: greyhound
 title: Charging Warrior "Charlie"
 date: 2010-03-03
 age: 3 YEARS
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 name: Warrior

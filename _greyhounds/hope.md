@@ -3,7 +3,7 @@ layout: greyhound
 title: Hope
 date: 2010-01-02
 age: 1 YEAR
-available: no
+category: adopted
 color: FAWN
 name: Hope
 pic: hope.jpg

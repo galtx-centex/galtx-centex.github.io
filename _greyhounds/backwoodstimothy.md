@@ -3,7 +3,7 @@ layout: greyhound
 title: Backwoods Timothy
 date: 2010-02-18
 age: 12 MONTHS
-available: no
+category: adopted
 name: Timothy
 pic: backwoodstimothy.jpg
 sex: MALE

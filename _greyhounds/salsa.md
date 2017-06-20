@@ -2,7 +2,7 @@
 layout: greyhound
 title: Salsa
 date: 2017-04-05
-available: no
+category: adopted
 cats: no
 color: WHITE AND BRINDLE
 dob: 2015-10-01

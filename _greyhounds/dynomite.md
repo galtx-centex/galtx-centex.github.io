@@ -3,7 +3,7 @@ layout: greyhound
 title: Dynomite
 date: 2010-02-09
 age: 3 YEARS
-available: no
+category: adopted
 color: BLACK & WHITE
 name: Dynomite
 pic: dynomite.jpg

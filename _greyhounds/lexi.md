@@ -2,7 +2,7 @@
 layout: greyhound
 title: Lexi
 date: 2016-01-24
-available: no
+category: adopted
 color: FAWN
 dob: 2014-10-31
 name: Lexi

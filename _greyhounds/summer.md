@@ -3,7 +3,7 @@ layout: greyhound
 title: Summer
 date: 2010-03-30
 age: 8 YEARS
-available: no
+category: adopted
 cats: no
 color: FAWN
 name: Summer

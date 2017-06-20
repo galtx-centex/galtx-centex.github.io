@@ -3,7 +3,7 @@ layout: greyhound
 title: Mary
 date: 2015-02-23
 age: 6 YEARS
-available: no
+category: adopted
 cats: no
 color: FAWN
 name: Mary

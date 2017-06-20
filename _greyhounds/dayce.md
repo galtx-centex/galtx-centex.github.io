@@ -3,7 +3,7 @@ layout: greyhound
 title: Dayce
 date: 2016-03-30
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Dayce
 pic: dayce.JPG

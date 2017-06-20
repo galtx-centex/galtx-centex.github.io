@@ -3,7 +3,7 @@ layout: greyhound
 title: Shiner
 date: 2010-01-06
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BRINDLE
 name: Shiner

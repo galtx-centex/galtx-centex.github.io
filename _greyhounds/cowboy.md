@@ -3,7 +3,7 @@ layout: greyhound
 title: Cowboy
 date: 2010-03-29
 age: 7 YEARS
-available: no
+category: adopted
 cats: no
 color: LARGER BRINDLE
 name: Cowboy

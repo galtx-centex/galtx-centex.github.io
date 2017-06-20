@@ -3,7 +3,7 @@ layout: greyhound
 title: Nick
 date: 2010-01-22
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK & WHITE
 name: Nick

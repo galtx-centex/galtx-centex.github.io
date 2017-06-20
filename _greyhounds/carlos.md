@@ -3,7 +3,7 @@ layout: greyhound
 title: Carlos
 date: 2010-01-15
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Carlos

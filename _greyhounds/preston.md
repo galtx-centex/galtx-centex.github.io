@@ -2,7 +2,7 @@
 layout: greyhound
 title: Preston
 date: 2017-01-27
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 dob: 2015-06-23

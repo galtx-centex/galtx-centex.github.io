@@ -3,7 +3,7 @@ layout: greyhound
 title: Siggie
 date: 2016-02-25
 age: 8 YEARS
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 name: Siggie

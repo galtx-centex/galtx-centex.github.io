@@ -2,7 +2,7 @@
 layout: greyhound
 title: Selena
 date: 2017-02-28
-available: no
+category: adopted
 color: WHITE AND BRINDLE
 dob: 2015-10-01
 name: Selena

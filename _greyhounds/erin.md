@@ -3,7 +3,7 @@ layout: greyhound
 title: Erin
 date: 2010-01-23
 age: 5 YEARS
-available: no
+category: adopted
 cats: no
 color: WHITE & BRINDLE
 name: Erin

@@ -3,7 +3,7 @@ layout: greyhound
 title: Vegas
 date: 2010-02-07
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Vegas
 pic: vegas.jpg
