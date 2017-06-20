@@ -3,10 +3,9 @@ layout: greyhound
 title: Doc
 date: 2010-04-13
 age: 2002 - 2015
-available: no
 cats: yes
 color: BRINDLE
-deceased: yes
+category: deceased
 name: Doc
 pic: doc.jpg
 sex: MALE

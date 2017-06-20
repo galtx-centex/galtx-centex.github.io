@@ -4,7 +4,7 @@ title: Robin
 date: 2010-03-16
 cats: no
 color: BRINDLE
-deceased: yes
+category: deceased
 dod: 2016-04-26
 name: Robin
 pic: robin.jpg

@@ -2,10 +2,9 @@
 layout: greyhound
 title: Stormy
 date: 2010-01-10
-available: no
 cats: no
 color: DARK BRINDLE
-deceased: yes
+category: deceased
 dob: 2002-04-13
 dod: 2014-05-14
 name: Stormy

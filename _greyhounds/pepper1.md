@@ -3,10 +3,9 @@ layout: greyhound
 title: Pepper
 date: 2010-04-28
 age: 9 YEARS
-available: no
 cats: no
 color: FAWN
-deceased: yes
+category: deceased
 name: Pepper
 pic: pepper1.jpg
 sex: FEMALE

@@ -3,10 +3,9 @@ layout: greyhound
 title: Twinkle
 date: 2010-01-19
 age: 1 YEAR
-available: no
 cats: yes
 color: WHITE & BRINDLE
-deceased: yes
+category: deceased
 name: Twinkle
 pic: twinkle.jpg
 sex: FEMALE

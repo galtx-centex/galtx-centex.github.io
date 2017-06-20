@@ -2,10 +2,9 @@
 layout: greyhound
 title: Pettee
 date: 2016-01-24
-available: no
 cats: no
 color: FAWN
-deceased: yes
+category: deceased
 name: Pettee
 pic: pettee.jpg
 sex: MALE

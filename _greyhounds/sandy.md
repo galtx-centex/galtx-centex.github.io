@@ -2,8 +2,7 @@
 layout: greyhound
 title: Swee’Pea (Sandy)
 date: 2010-05-01
-available: no
-deceased: yes
+category: deceased
 dod: 2016-12-17
 name: "Swee\u2019Pea"
 pic: sweepea.jpg
