@@ -3,7 +3,7 @@ layout: greyhound
 title: Poncho
 date: 2010-05-25
 age: 4 YEARS
-available: no
+category: adopted
 color: RED
 name: Poncho
 pic: poncho.jpg

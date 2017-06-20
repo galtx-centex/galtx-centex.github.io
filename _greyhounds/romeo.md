@@ -2,7 +2,7 @@
 layout: greyhound
 title: Romeo
 date: 2016-12-21
-available: no
+category: adopted
 color: WHITE/ORANGE
 dob: 2012-12-29
 name: Romeo

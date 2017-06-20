@@ -3,7 +3,7 @@ layout: greyhound
 title: Backwoods Tyson
 date: 2010-02-24
 age: 14 MONTHS
-available: no
+category: adopted
 cats: yes
 color: RED BRINDLE
 name: Tyson

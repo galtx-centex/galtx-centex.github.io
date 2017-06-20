@@ -3,7 +3,7 @@ layout: greyhound
 title: Phoebe
 date: 2016-03-23
 age: 1 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Phoebe

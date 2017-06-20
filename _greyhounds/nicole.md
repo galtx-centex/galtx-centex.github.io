@@ -3,7 +3,7 @@ layout: greyhound
 title: Nicole
 date: 2010-03-27
 age: 7 YEARS
-available: no
+category: adopted
 cats: no
 color: FAWN
 name: Nicole

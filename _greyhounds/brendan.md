@@ -2,7 +2,7 @@
 layout: greyhound
 title: Brendan
 date: 2017-05-08
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 dob: 2015-10-12

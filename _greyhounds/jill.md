@@ -3,7 +3,7 @@ layout: greyhound
 title: Jill
 date: 2015-05-19
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Jill
 pic: jill.jpg

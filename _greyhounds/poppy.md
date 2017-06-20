@@ -3,7 +3,7 @@ layout: greyhound
 title: Poppy
 date: 2010-07-02
 age: 5 YEARS
-available: no
+category: adopted
 cats: yes
 color: RED
 name: Poppy

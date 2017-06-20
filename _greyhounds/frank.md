@@ -3,7 +3,7 @@ layout: greyhound
 title: Frank
 date: 2016-02-11
 age: 5 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Frank
 pic: frank.JPG

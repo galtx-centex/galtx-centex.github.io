@@ -2,7 +2,7 @@
 layout: greyhound
 title: Dolly
 date: 2010-03-19
-available: no
+category: adopted
 cats: yes
 color: DARK BRINDLE
 name: Dolly

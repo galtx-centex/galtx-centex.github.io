@@ -3,7 +3,7 @@ layout: greyhound
 title: Easy
 date: 2010-01-05
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Easy

@@ -3,7 +3,7 @@ layout: greyhound
 title: Felix
 date: 2015-04-17
 age: 6 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Felix

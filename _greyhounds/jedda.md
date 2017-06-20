@@ -2,7 +2,7 @@
 layout: greyhound
 title: Jedda
 date: 2017-01-16
-available: no
+category: adopted
 color: FAWN
 dob: 2008-11-01
 name: Jedda

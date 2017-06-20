@@ -2,7 +2,7 @@
 layout: greyhound
 title: Olivia
 date: 2016-10-21
-available: no
+category: adopted
 color: BRINDLE
 dob: 2014-10-20
 name: Olivia

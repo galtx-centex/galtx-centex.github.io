@@ -2,7 +2,7 @@
 layout: greyhound
 title: Soho
 date: 2017-02-23
-available: no
+category: adopted
 cats: yes
 color: WHITE AND BRINDLE
 dob: 2015-10-01

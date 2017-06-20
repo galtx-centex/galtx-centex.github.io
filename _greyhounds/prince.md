@@ -3,7 +3,7 @@ layout: greyhound
 title: Prince
 date: 2015-07-14
 age: 1.5 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Prince

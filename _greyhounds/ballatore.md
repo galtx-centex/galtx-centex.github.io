@@ -3,7 +3,7 @@ layout: greyhound
 title: Ballatore
 date: 2016-05-16
 age: 3 YEARS
-available: no
+category: adopted
 cats: yes
 color: RED
 name: Ballatore

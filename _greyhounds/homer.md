@@ -3,7 +3,7 @@ layout: greyhound
 title: Homer
 date: 2015-08-26
 age: 7 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Homer
 pic: homer.jpg

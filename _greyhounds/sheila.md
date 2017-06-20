@@ -3,7 +3,7 @@ layout: greyhound
 title: Sheila
 date: 2010-02-19
 age: 6 YEARS
-available: no
+category: adopted
 color: LIGHT BRINDLE
 name: Sheila
 pic: sheila.jpg

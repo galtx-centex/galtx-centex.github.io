@@ -2,7 +2,7 @@
 layout: greyhound
 title: Laney
 date: 2017-01-03
-available: no
+category: adopted
 cats: no
 color: BLACK
 dob: 2015-05-01

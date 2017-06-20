@@ -2,7 +2,7 @@
 layout: greyhound
 title: Caruso
 date: 2017-02-23
-available: no
+category: adopted
 cats: no
 color: RED BRINDLE
 dob: 2014-03-13

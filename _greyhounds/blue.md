@@ -3,7 +3,7 @@ layout: greyhound
 title: Blue
 date: 2010-01-18
 age: 2 YEARS
-available: no
+category: adopted
 cats: no
 color: BLUE & WHITE
 name: Blue

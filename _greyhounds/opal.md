@@ -3,7 +3,7 @@ layout: greyhound
 title: Opal
 date: 2010-02-27
 age: 9 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Opal
 pic: opal.jpg

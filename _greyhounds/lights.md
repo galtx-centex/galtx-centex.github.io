@@ -3,7 +3,7 @@ layout: greyhound
 title: Lights
 date: 2015-08-07
 age: 6 YEARS
-available: no
+category: adopted
 color: WHITE/BLACK
 name: Lights
 pic: lights.jpg

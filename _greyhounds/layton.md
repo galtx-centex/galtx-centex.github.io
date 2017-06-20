@@ -2,7 +2,7 @@
 layout: greyhound
 title: Layton
 date: 2016-11-02
-available: no
+category: adopted
 cats: yes
 color: FAWN
 dob: 2015-05-01

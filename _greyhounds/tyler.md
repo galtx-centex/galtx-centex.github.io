@@ -3,7 +3,7 @@ layout: greyhound
 title: Tyler
 date: 2015-09-15
 age: 4 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Tyler
 pic: tyler.jpg

@@ -3,7 +3,7 @@ layout: greyhound
 title: Baxter
 date: 2010-03-12
 age: 10 WEEKS
-available: no
+category: adopted
 cats: no
 color: BLUE BRINDLE
 name: Baxter

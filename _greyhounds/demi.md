@@ -3,7 +3,7 @@ layout: greyhound
 title: Demi
 date: 2016-02-17
 age: 7 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Demi
 pic: demi.jpg

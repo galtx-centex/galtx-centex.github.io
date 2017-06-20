@@ -2,7 +2,7 @@
 layout: greyhound
 title: Hurley
 date: 2017-01-21
-available: no
+category: adopted
 cats: no
 color: RED
 dob: 2011-10-02

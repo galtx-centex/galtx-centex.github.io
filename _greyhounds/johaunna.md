@@ -2,7 +2,7 @@
 layout: greyhound
 title: Johaunna
 date: 2016-06-04
-available: no
+category: adopted
 cats: no
 color: BLACK
 dob: 2013-10-03

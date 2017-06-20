@@ -2,7 +2,7 @@
 layout: greyhound
 title: Gumdrop
 date: 2017-01-03
-available: no
+category: adopted
 color: BLACK
 dob: 2015-05-08
 name: Gumdrop

@@ -3,7 +3,7 @@ layout: greyhound
 title: Santana
 date: 2010-03-05
 age: 5 YEARS
-available: no
+category: adopted
 cats: no
 name: Santana
 pic: gpa_logo_blue_150.jpg

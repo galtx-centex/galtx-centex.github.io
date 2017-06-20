@@ -3,7 +3,7 @@ layout: greyhound
 title: Chrissy
 date: 2010-03-07
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BLACK
 name: Chrissy

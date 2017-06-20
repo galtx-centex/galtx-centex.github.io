@@ -3,7 +3,7 @@ layout: greyhound
 title: Flower
 date: 2016-06-04
 age: 3 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Flower

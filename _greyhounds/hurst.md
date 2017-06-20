@@ -3,7 +3,7 @@ layout: greyhound
 title: Hurst
 date: 2016-01-24
 age: 4 YEARS
-available: no
+category: adopted
 cats: no
 color: BLACK
 name: Hurst

@@ -3,7 +3,7 @@ layout: greyhound
 title: Dutchess
 date: 2010-01-25
 age: 7 YEARS
-available: no
+category: adopted
 color: BLACK & WHITE
 name: Dutchess
 pic: dutchess.jpg

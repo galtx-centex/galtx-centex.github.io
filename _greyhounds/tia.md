@@ -3,7 +3,7 @@ layout: greyhound
 title: Tia
 date: 2015-09-29
 age: 2 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Tia

@@ -3,7 +3,7 @@ layout: greyhound
 title: Bristol
 date: 2015-04-01
 age: 6 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Bristol
 pic: bristol.png

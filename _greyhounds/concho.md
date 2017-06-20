@@ -3,7 +3,7 @@ layout: greyhound
 title: Concho
 date: 2015-08-07
 age: 4 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Concho
 pic: concho.jpg

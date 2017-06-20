@@ -3,7 +3,7 @@ layout: greyhound
 title: Edmundo
 date: 2015-03-02
 age: 4 YEARS
-available: no
+category: adopted
 color: WHITE/RED
 name: Edmundo
 pic: edmundo.png

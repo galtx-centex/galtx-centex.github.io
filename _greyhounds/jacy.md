@@ -3,7 +3,7 @@ layout: greyhound
 title: Jacy
 date: 2010-03-06
 age: 15 MONTHS
-available: no
+category: adopted
 cats: no
 color: BLUE FAWN
 name: Jacy

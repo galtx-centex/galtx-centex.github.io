@@ -3,7 +3,7 @@ layout: greyhound
 title: Gracie
 date: 2014-12-02
 age: 1 1/2 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Gracie

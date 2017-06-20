@@ -2,7 +2,7 @@
 layout: greyhound
 title: Holly
 date: 2010-01-20
-available: no
+category: adopted
 color: WHITE & BLACK
 name: Holly
 pic: holly.jpg

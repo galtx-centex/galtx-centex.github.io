@@ -2,7 +2,7 @@
 layout: greyhound
 title: Casey
 date: 2010-03-15
-available: no
+category: adopted
 cats: no
 color: RED FAWN
 name: Casey

@@ -3,7 +3,7 @@ layout: greyhound
 title: Mona Nicole
 date: 2010-01-14
 age: 2 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Nicole

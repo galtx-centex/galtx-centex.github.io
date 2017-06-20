@@ -3,7 +3,7 @@ layout: greyhound
 title: Rocket
 date: 2015-09-29
 age: 3 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Rocket
 pic: rocket.jpg

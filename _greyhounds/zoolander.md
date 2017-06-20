@@ -3,7 +3,7 @@ layout: greyhound
 title: Zander
 date: 2010-03-25
 age: 1 YEAR
-available: no
+category: adopted
 cats: no
 color: RED FAWN
 name: Zander

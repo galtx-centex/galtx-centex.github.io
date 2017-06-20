@@ -3,7 +3,7 @@ layout: greyhound
 title: Gregory
 date: 2016-06-04
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Gregory

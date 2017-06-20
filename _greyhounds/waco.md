@@ -2,7 +2,7 @@
 layout: greyhound
 title: Waco
 date: 2016-07-11
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 dob: 2007-07-31

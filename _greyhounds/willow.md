@@ -2,7 +2,7 @@
 layout: greyhound
 title: Willow
 date: 2016-10-20
-available: no
+category: adopted
 color: RED
 dob: 2011-04-10
 name: Willow
