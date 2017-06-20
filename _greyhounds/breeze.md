@@ -2,7 +2,7 @@
 layout: greyhound
 title: Breeze
 date: 2016-01-02
-available: no
+category: adopted
 cats: no
 color: BLACK
 dob: 2009-08-28

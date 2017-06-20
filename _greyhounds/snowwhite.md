@@ -2,7 +2,7 @@
 layout: greyhound
 title: Snow White
 date: 2016-09-07
-available: no
+category: adopted
 color: BLACK
 dob: 2011-01-16
 name: Snow W.

@@ -3,7 +3,7 @@ layout: greyhound
 title: Alcide
 date: 2015-10-04
 age: 1 YEARS
-available: no
+category: adopted
 color: WHITE/BRINDLE
 name: Alcide
 pic: alcide.jpg

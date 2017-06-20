@@ -2,7 +2,7 @@
 layout: greyhound
 title: Jay
 date: 2016-09-06
-available: no
+category: adopted
 cats: no
 color: BLACK
 dob: 2014-11-22

@@ -3,7 +3,7 @@ layout: greyhound
 title: Angelo
 date: 2010-02-22
 age: 3 YEARS
-available: no
+category: adopted
 cats: no
 color: WHITE & BRINDLE
 name: Angelo

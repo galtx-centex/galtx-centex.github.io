@@ -3,7 +3,7 @@ layout: greyhound
 title: Jack
 date: 2015-05-19
 age: 6 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Jack
 pic: jack2.jpg

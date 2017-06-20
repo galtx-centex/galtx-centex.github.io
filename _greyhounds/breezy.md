@@ -3,7 +3,7 @@ layout: greyhound
 title: Breezy
 date: 2010-02-08
 age: 4 YEARS
-available: no
+category: adopted
 cats: no
 color: WHITE & BRINDLE
 name: Breezy

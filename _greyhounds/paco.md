@@ -3,7 +3,7 @@ layout: greyhound
 title: Paco
 date: 2010-03-09
 age: 3 YEARS
-available: no
+category: adopted
 cats: yes
 color: FAWN
 name: Paco

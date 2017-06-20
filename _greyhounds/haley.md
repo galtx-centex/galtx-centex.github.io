@@ -2,7 +2,7 @@
 layout: greyhound
 title: Haley
 date: 2010-03-20
-available: no
+category: adopted
 cats: no
 color: RED FAWN
 name: Haley

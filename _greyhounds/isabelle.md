@@ -2,7 +2,7 @@
 layout: greyhound
 title: Isabelle
 date: 2016-08-01
-available: no
+category: adopted
 color: FAWN
 dob: 2008-07-01
 name: Isabelle

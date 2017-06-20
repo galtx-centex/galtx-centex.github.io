@@ -3,7 +3,7 @@ layout: greyhound
 title: Chrissie
 date: 2010-02-05
 age: 2 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Chrissie
 pic: chrissie.jpg

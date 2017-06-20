@@ -3,7 +3,7 @@ layout: greyhound
 title: Judge
 date: 2010-05-26
 age: 4 YEARS
-available: no
+category: adopted
 color: ORANGE/WHITE
 name: Judge
 pic: judge.jpg

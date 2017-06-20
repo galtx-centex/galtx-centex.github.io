@@ -3,7 +3,7 @@ layout: greyhound
 title: Sage
 date: 2015-02-11
 age: 4 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Sage
 pic: sage.png

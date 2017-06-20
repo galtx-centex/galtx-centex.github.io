@@ -3,7 +3,7 @@ layout: greyhound
 title: Alfie
 date: 2010-01-28
 age: 2 YEARS
-available: no
+category: adopted
 color: RED
 name: Alfie
 pic: alfie.jpg

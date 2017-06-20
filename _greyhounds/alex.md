@@ -3,7 +3,7 @@ layout: greyhound
 title: Alex
 date: 2010-03-31
 age: 6 YEARS
-available: no
+category: adopted
 cats: no
 color: BRINDLE
 name: Alex

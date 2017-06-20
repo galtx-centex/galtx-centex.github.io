@@ -3,7 +3,7 @@ layout: greyhound
 title: Taz
 date: 2016-03-17
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Taz
 pic: taz.jpg

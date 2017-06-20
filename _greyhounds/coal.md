@@ -3,7 +3,7 @@ layout: greyhound
 title: Coal
 date: 2010-01-11
 age: 2 YEARS
-available: no
+category: adopted
 cats: no
 color: BLACK
 name: Coal

@@ -3,7 +3,7 @@ layout: greyhound
 title: Audi
 date: 2010-03-02
 age: 18 MONTHS
-available: no
+category: adopted
 cats: yes
 color: WHITE & BLACK
 name: Audi

@@ -3,7 +3,7 @@ layout: greyhound
 title: Elle
 date: 2010-02-28
 age: 18 MONTHS
-available: no
+category: adopted
 cats: yes
 color: BROWN BRINDLE
 name: Elle

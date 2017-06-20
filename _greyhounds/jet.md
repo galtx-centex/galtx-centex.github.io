@@ -3,7 +3,7 @@ layout: greyhound
 title: Jet
 date: 2010-02-17
 age: 3 YEARS
-available: no
+category: adopted
 color: RED FAWN
 name: Jet
 pic: jet.jpg

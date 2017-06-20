@@ -2,7 +2,7 @@
 layout: greyhound
 title: Canaan
 date: 2016-11-02
-available: no
+category: adopted
 cats: yes
 color: FAWN
 dob: 2014-12-13

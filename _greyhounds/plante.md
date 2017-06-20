@@ -3,7 +3,7 @@ layout: greyhound
 title: Plante
 date: 2016-06-04
 age: 2 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE/BLACK
 name: Plante

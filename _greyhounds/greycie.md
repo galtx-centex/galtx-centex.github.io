@@ -3,7 +3,7 @@ layout: greyhound
 title: Greycie
 date: 2016-01-07
 age: 7 YEARS
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 name: Greycie

@@ -3,7 +3,7 @@ layout: greyhound
 title: Lily
 date: 2010-01-03
 age: 6 YEARS
-available: no
+category: adopted
 color: WHITE & BRINDLE
 name: Lily
 pic: lily.jpg

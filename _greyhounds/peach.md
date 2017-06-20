@@ -3,7 +3,7 @@ layout: greyhound
 title: Peach
 date: 2010-01-04
 age: 6 YEARS
-available: no
+category: adopted
 color: LIGHT FAWN
 name: Peach
 pic: peach.jpg

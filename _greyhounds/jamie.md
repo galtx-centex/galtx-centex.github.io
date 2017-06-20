@@ -3,7 +3,7 @@ layout: greyhound
 title: Jamie
 date: 2016-05-04
 age: 2 YEARS
-available: no
+category: adopted
 color: WHITE/BRINDLE
 name: Jamie
 pic: jamie.JPG

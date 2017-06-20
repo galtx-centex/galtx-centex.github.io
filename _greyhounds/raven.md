@@ -3,7 +3,7 @@ layout: greyhound
 title: Raven
 date: 2010-04-04
 age: 5 YEARS
-available: no
+category: adopted
 color: RED
 name: Raven
 pic: raven.png

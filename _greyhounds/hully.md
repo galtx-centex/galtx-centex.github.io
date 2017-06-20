@@ -3,7 +3,7 @@ layout: greyhound
 title: Hully
 date: 2010-01-07
 age: 2 YEARS
-available: no
+category: adopted
 cats: no
 color: RED BRINDLE
 name: Hully

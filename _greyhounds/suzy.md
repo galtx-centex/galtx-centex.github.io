@@ -2,7 +2,7 @@
 layout: greyhound
 title: Suzy
 date: 2017-04-05
-available: no
+category: adopted
 cats: yes
 color: BRINDLE
 dob: 2015-10-01

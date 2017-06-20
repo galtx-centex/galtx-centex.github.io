@@ -2,7 +2,7 @@
 layout: greyhound
 title: Giselle
 date: 2010-03-10
-available: no
+category: adopted
 cats: no
 color: RED FAWN
 name: Giselle

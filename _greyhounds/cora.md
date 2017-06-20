@@ -3,7 +3,7 @@ layout: greyhound
 title: Cora
 date: 2010-02-11
 age: 2 YEARS
-available: no
+category: adopted
 color: DARK BRINDLE
 name: Cora
 pic: cora.jpg

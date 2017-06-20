@@ -3,7 +3,7 @@ layout: greyhound
 title: Teresa
 date: 2016-02-11
 age: 3 YEARS
-available: no
+category: adopted
 cats: no
 color: BLACK
 name: Teresa

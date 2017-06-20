@@ -2,7 +2,7 @@
 layout: greyhound
 title: Mollie
 date: 2017-05-15
-available: no
+category: adopted
 cats: yes
 color: FAWN
 dob: 2009-01-13

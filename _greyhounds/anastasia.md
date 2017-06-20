@@ -3,7 +3,7 @@ layout: greyhound
 title: Anastasia (Ana)
 date: 2010-03-23
 age: 2 YEARS
-available: no
+category: adopted
 cats: yes
 color: WHITE & RED
 name: Anastasia

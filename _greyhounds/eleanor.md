@@ -3,7 +3,7 @@ layout: greyhound
 title: Eleanor
 date: 2015-08-26
 age: 5 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Eleanor
 pic: eleanor.jpg

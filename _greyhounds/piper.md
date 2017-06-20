@@ -3,7 +3,7 @@ layout: greyhound
 title: Piper
 date: 2010-01-01
 age: 1 YEAR
-available: no
+category: adopted
 name: Piper
 pic: piper.jpg
 sex: FEMALE

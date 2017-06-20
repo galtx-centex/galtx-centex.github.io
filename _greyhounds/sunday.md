@@ -3,7 +3,7 @@ layout: greyhound
 title: Sunday
 date: 2015-07-02
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Sunday
 pic: sunday.jpg

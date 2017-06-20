@@ -3,7 +3,7 @@ layout: greyhound
 title: Luna
 date: 2010-02-06
 age: 2 YEARS
-available: no
+category: adopted
 color: BLACK
 name: Luna
 pic: luna.jpg

@@ -2,7 +2,7 @@
 layout: greyhound
 title: Alyann
 date: 2010-01-09
-available: no
+category: adopted
 color: BRINDLE
 name: Alyann
 pic: alyann.jpg

@@ -3,7 +3,7 @@ layout: greyhound
 title: Nantucket
 date: 2010-02-04
 age: 6 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Nantucket
 pic: nantucket.jpg

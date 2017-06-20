@@ -3,7 +3,7 @@ layout: greyhound
 title: Montezuma
 date: 2010-02-03
 age: 2 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Montezuma
 pic: montezuma.jpg

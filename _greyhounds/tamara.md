@@ -3,7 +3,7 @@ layout: greyhound
 title: Tamara
 date: 2014-12-02
 age: 7 YEARS
-available: no
+category: adopted
 color: BLACK
 name: Tamara
 pic: tamara.png

@@ -3,7 +3,7 @@ layout: greyhound
 title: Lady
 date: 2014-10-04
 age: 4 YEARS
-available: no
+category: adopted
 color: RED
 name: Lady
 pic: lady.png

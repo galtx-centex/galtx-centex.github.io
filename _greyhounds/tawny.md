@@ -2,7 +2,7 @@
 layout: greyhound
 title: Tawny
 date: 2017-04-12
-available: no
+category: adopted
 cats: no
 color: FAWN
 dob: 2009-01-12

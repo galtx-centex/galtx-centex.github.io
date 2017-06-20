@@ -3,7 +3,7 @@ layout: greyhound
 title: Aine
 date: 2016-03-15
 age: 6 MONTHS
-available: no
+category: adopted
 color: BLACK/WHITE
 name: Aine
 pic: aine.jpg

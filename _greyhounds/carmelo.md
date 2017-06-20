@@ -3,7 +3,7 @@ layout: greyhound
 title: Carmelo
 date: 2010-01-30
 age: 18 MONTHS
-available: no
+category: adopted
 color: BROWN & WHITE
 name: Carmelo
 pic: carmelo.jpg

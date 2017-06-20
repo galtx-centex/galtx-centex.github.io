@@ -3,7 +3,7 @@ layout: greyhound
 title: Noosa
 date: 2016-01-07
 age: 4 YEARS
-available: no
+category: adopted
 cats: yes
 color: BLACK
 name: Noosa

@@ -3,7 +3,7 @@ layout: greyhound
 title: Backwoods Justice
 date: 2010-03-13
 age: 18 MONTHS
-available: no
+category: adopted
 cats: no
 color: RED BRINDLE
 name: Justice

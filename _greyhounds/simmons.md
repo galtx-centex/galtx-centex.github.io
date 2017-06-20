@@ -3,7 +3,7 @@ layout: greyhound
 title: Simmons
 date: 2016-08-17
 age: 2 YEARS
-available: no
+category: adopted
 color: FAWN
 name: Simmons
 pic: simmons.jpg

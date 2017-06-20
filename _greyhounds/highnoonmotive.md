@@ -3,7 +3,7 @@ layout: greyhound
 title: High Noon Motive
 date: 2010-01-31
 age: 4 YEARS
-available: no
+category: adopted
 color: BRINDLE
 name: Motive
 pic: highnoonmotive.jpg

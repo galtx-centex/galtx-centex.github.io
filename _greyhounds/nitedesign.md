@@ -3,7 +3,7 @@ layout: greyhound
 title: Nite Design
 date: 2015-07-01
 age: 3 YEARS
-available: no
+category: adopted
 color: BLACK
 name: Nite
 pic: nitedesign.jpg

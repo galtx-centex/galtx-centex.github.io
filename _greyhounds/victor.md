@@ -3,7 +3,7 @@ layout: greyhound
 title: Victor
 date: 2016-06-04
 age: 4 YEARS
-available: no
+category: adopted
 cats: no
 color: BRINDLE
 name: Victor

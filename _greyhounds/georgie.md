@@ -3,7 +3,7 @@ layout: greyhound
 title: Georgie
 date: 2016-07-01
 age: 8 YEARS
-available: no
+category: adopted
 cats: no
 color: BRINDLE
 name: Georgie
