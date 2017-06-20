@@ -2,7 +2,7 @@
 layout: greyhound
 title: Duke
 date: 2017-06-13
-available: yes
+category: available
 color: BRINDLE
 dob: 2014-04-13
 name: Duke
