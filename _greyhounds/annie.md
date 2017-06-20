@@ -2,7 +2,7 @@
 layout: greyhound
 title: Annie
 date: 2017-01-16
-available: yes
+category: available
 cats: yes
 color: RED BRINDLE
 dob: 2009-11-18

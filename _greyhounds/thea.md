@@ -2,7 +2,7 @@
 layout: greyhound
 title: Thea
 date: 2017-05-15
-available: yes
+category: available
 color: BLACK
 dob: 2009-07-19
 name: Thea
