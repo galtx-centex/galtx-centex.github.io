@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Poppy
-arrived: 2017-05-15
+date: 2017-05-15
 available: yes
 color: WHITE AND BLACK
 dob: 2009-01-13

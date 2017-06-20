@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Dayce
-arrived: 2016-03-30
+date: 2016-03-30
 age: 2 YEARS
 available: no
 color: FAWN

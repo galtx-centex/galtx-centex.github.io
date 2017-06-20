@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jazzy (Happy Jazz)
-arrived: 2010-03-17
+date: 2010-03-17
 available: no
 cats: yes
 color: RED & WHITE

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Prince
-arrived: 2015-07-14
+date: 2015-07-14
 age: 1.5 YEARS
 available: no
 cats: yes

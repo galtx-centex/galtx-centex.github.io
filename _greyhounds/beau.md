@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Beau
-arrived: 2010-03-11
+date: 2010-03-11
 age: 8 MONTHS
 available: no
 cat: yes

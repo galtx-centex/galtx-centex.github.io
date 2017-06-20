@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Nite Design
-arrived: 2015-07-01
+date: 2015-07-01
 age: 3 YEARS
 available: no
 color: BLACK

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Silvia
-arrived: 2010-03-22
+date: 2010-03-22
 available: no
 cats: yes
 color: BRINDLE

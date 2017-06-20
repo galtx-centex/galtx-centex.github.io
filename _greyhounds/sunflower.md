@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Sunflower
-arrived: 2010-03-08
+date: 2010-03-08
 age: 18 MONTHS
 available: no
 cats: yes

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Baxter
-arrived: 2010-03-12
+date: 2010-03-12
 age: 10 WEEKS
 available: no
 cats: no

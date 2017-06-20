@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Rocket
-arrived: 2015-09-29
+date: 2015-09-29
 age: 3 YEARS
 available: no
 color: FAWN

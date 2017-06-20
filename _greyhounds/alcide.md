@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Alcide
-arrived: 2015-10-04
+date: 2015-10-04
 age: 1 YEARS
 available: no
 color: WHITE/BRINDLE

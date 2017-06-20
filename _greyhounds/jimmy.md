@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jimmy
-arrived: 2010-01-12
+date: 2010-01-12
 age: 16 MONTHS
 available: no
 cats: yes

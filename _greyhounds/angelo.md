@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Angelo
-arrived: 2010-02-22
+date: 2010-02-22
 age: 3 YEARS
 available: no
 cats: no

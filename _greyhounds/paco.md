@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Paco
-arrived: 2010-03-09
+date: 2010-03-09
 age: 3 YEARS
 available: no
 cats: yes

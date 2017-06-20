@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Peach
-arrived: 2010-01-04
+date: 2010-01-04
 age: 6 YEARS
 available: no
 color: LIGHT FAWN

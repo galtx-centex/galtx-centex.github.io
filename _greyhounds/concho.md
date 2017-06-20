@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Concho
-arrived: 2015-08-07
+date: 2015-08-07
 age: 4 YEARS
 available: no
 color: FAWN

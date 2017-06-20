@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Bristol
-arrived: 2015-04-01
+date: 2015-04-01
 age: 6 YEARS
 available: no
 color: BRINDLE

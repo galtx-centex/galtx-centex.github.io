@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Sage
-arrived: 2015-02-11
+date: 2015-02-11
 age: 4 YEARS
 available: no
 color: FAWN

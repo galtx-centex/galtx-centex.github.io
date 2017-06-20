@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: James Bond
-arrived: 2016-06-04
+date: 2016-06-04
 available: no
 cats: yes
 color: BLACK

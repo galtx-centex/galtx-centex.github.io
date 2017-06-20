@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Lily
-arrived: 2010-02-15
+date: 2010-02-15
 age: 8 YEARS
 available: no
 cats: no

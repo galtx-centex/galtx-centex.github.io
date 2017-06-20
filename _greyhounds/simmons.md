@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Simmons
-arrived: 2016-08-17
+date: 2016-08-17
 age: 2 YEARS
 available: no
 color: FAWN

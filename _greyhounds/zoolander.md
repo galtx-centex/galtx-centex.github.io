@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Zander
-arrived: 2010-03-25
+date: 2010-03-25
 age: 1 YEAR
 available: no
 cats: no

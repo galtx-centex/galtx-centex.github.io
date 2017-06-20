@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Holly
-arrived: 2010-01-20
+date: 2010-01-20
 available: no
 color: WHITE & BLACK
 name: Holly

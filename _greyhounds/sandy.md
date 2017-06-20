@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Swee’Pea (Sandy)
-arrived: 2010-05-01
+date: 2010-05-01
 available: no
 deceased: yes
 dod: 2016-12-17
