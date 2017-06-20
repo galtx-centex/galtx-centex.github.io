@@ -1,6 +1,7 @@
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
 @import url('https://fonts.googleapis.com/css?family=Limelight');
 
 @media (min-width: 1200px) {
@@ -476,6 +477,18 @@ a.thumbnail:hover {
     width: 100%;
     bottom: 0;
   }
+}
+
+/* Rainbow Bridge poem */
+.rainbow-poem {
+  font-family: 'Marck Script',cursive;
+  font-size: 12px;
+  text-align: center;
+}
+@media (min-width: 768px) {
+.rainbow-poem {
+  font-size: 18px;
+}
 }
 
 /* Google Calender */
