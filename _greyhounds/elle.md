@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Elle
-arrived: 2010-02-28
+date: 2010-02-28
 age: 18 MONTHS
 available: no
 cats: yes

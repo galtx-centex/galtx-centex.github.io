@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Siggie
-arrived: 2016-02-25
+date: 2016-02-25
 age: 8 YEARS
 available: no
 cats: yes

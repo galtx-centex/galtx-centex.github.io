@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Nick
-arrived: 2010-01-22
+date: 2010-01-22
 age: 4 YEARS
 available: no
 cats: yes

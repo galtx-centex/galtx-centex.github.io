@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Haley
-arrived: 2010-03-20
+date: 2010-03-20
 available: no
 cats: no
 color: RED FAWN

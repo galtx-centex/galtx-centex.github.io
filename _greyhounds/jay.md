@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Jay
-arrived: 2016-09-06
+date: 2016-09-06
 available: no
 cats: no
 color: BLACK

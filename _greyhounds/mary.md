@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Mary
-arrived: 2015-02-23
+date: 2015-02-23
 age: 6 YEARS
 available: no
 cats: no

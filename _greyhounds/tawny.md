@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Tawny
-arrived: 2017-04-12
+date: 2017-04-12
 available: no
 cats: no
 color: FAWN

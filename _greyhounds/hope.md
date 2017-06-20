@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Hope
-arrived: 2010-01-02
+date: 2010-01-02
 age: 1 YEAR
 available: no
 color: FAWN

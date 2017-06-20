@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Shiner
-arrived: 2010-01-06
+date: 2010-01-06
 age: 4 YEARS
 available: no
 cats: yes

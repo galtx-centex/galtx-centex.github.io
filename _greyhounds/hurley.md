@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Hurley
-arrived: 2017-01-21
+date: 2017-01-21
 available: no
 cats: no
 color: RED

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Salsa
-arrived: 2017-04-05
+date: 2017-04-05
 available: no
 cats: no
 color: WHITE AND BRINDLE

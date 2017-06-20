@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Selena
-arrived: 2017-02-28
+date: 2017-02-28
 available: no
 color: WHITE AND BRINDLE
 dob: 2015-10-01

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Tyson
-arrived: 2010-02-24
+date: 2010-02-24
 age: 14 MONTHS
 available: no
 cats: yes

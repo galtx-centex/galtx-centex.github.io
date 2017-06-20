@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Fiona
-arrived: 2010-02-12
+date: 2010-02-12
 age: 2 YEARS
 available: no
 color: WHITE & BRINDLE

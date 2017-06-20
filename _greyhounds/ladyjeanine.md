@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Lady Jeanine
-arrived: 2010-03-21
+date: 2010-03-21
 available: no
 cats: yes
 color: BLACK & WHITE

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Nicole
-arrived: 2010-03-27
+date: 2010-03-27
 age: 7 YEARS
 available: no
 cats: no

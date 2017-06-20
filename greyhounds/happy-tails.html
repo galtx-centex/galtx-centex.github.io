@@ -8,8 +8,7 @@ permalink: /greyhounds/happytails/
 
   <div class="row">
 
-    {% assign greyhounds = site.greyhounds | sort: 'arrived' | reverse %}
-    {% for greyhound in greyhounds %}
+    {% for greyhound in site.greyhounds reversed %}
       {% if greyhound.deceased %}
       {% elsif greyhound.available %}
       {% else %}

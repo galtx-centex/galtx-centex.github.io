@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Cowboy
-arrived: 2010-03-29
+date: 2010-03-29
 age: 7 YEARS
 available: no
 cats: no

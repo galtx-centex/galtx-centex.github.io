@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Poncho
-arrived: 2010-05-25
+date: 2010-05-25
 age: 4 YEARS
 available: no
 color: RED

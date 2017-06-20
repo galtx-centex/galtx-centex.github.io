@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Sheila
-arrived: 2010-02-19
+date: 2010-02-19
 age: 6 YEARS
 available: no
 color: LIGHT BRINDLE

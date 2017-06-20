@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Georgie
-arrived: 2016-07-01
+date: 2016-07-01
 age: 8 YEARS
 available: no
 cats: no

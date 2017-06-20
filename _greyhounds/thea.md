@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Thea
-arrived: 2017-05-15
+date: 2017-05-15
 available: yes
 color: BLACK
 dob: 2009-07-19

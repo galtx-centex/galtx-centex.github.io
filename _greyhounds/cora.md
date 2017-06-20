@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Cora
-arrived: 2010-02-11
+date: 2010-02-11
 age: 2 YEARS
 available: no
 color: DARK BRINDLE

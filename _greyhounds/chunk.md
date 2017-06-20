@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Chunk
-arrived: 2010-05-16
+date: 2010-05-16
 age: 6 MONTHS
 available: no
 color: WHITE/BRINDLE

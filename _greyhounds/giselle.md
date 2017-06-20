@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Giselle
-arrived: 2010-03-10
+date: 2010-03-10
 available: no
 cats: no
 color: RED FAWN

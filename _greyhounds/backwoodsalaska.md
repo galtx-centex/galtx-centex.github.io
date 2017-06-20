@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Alaska
-arrived: 2010-02-21
+date: 2010-02-21
 age: 12 MONTHS
 available: no
 name: Alaska

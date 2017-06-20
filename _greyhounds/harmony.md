@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Harmony
-arrived: 2010-02-25
+date: 2010-02-25
 available: no
 cats: no
 color: BRINDLE

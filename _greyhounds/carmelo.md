@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Carmelo
-arrived: 2010-01-30
+date: 2010-01-30
 age: 18 MONTHS
 available: no
 color: BROWN & WHITE

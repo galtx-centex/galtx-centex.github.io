@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Timothy
-arrived: 2010-02-18
+date: 2010-02-18
 age: 12 MONTHS
 available: no
 name: Timothy

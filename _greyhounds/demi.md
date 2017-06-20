@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Demi
-arrived: 2016-02-17
+date: 2016-02-17
 age: 7 YEARS
 available: no
 color: BRINDLE

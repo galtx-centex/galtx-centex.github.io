@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Luna
-arrived: 2010-02-06
+date: 2010-02-06
 age: 2 YEARS
 available: no
 color: BLACK

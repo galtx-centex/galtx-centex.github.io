@@ -13,8 +13,7 @@ permalink: /greyhounds/rainbowbridge/
   <p>
 
   <div class="row">
-    {% assign greyhounds = site.greyhounds | sort: 'arrived' | reverse %}
-    {% for greyhound in greyhounds %}
+    {% for greyhound in site.greyhounds reversed %}
       {% if greyhound.deceased %}
         <div class="col-xs-6 col-sm-4 col-md-2">
           <a class="thumbnail" href="{{ greyhound.url }}">

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Backwoods Justice
-arrived: 2010-03-13
+date: 2010-03-13
 age: 18 MONTHS
 available: no
 cats: no

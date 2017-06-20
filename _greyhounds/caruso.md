@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Caruso
-arrived: 2017-02-23
+date: 2017-02-23
 available: no
 cats: no
 color: RED BRINDLE

@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Frank
-arrived: 2016-02-11
+date: 2016-02-11
 age: 5 YEARS
 available: no
 color: BRINDLE

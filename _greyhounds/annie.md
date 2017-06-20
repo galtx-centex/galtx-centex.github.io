@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Annie
-arrived: 2017-01-16
+date: 2017-01-16
 available: yes
 cats: yes
 color: RED BRINDLE

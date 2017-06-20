@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Tyler
-arrived: 2015-09-15
+date: 2015-09-15
 age: 4 YEARS
 available: no
 color: BRINDLE

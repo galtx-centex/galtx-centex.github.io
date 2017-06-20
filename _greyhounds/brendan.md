@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Brendan
-arrived: 2017-05-08
+date: 2017-05-08
 available: no
 cats: yes
 color: BRINDLE

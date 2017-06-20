@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Batman
-arrived: 2010-02-26
+date: 2010-02-26
 available: no
 cats: no
 color: BLACK & WHITE

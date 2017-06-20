@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Alyann
-arrived: 2010-01-09
+date: 2010-01-09
 available: no
 color: BRINDLE
 name: Alyann

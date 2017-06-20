@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Twinkle
-arrived: 2010-01-19
+date: 2010-01-19
 age: 1 YEAR
 available: no
 cats: yes

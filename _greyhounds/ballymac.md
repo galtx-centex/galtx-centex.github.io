@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Ballymac
-arrived: 2010-01-08
+date: 2010-01-08
 available: no
 cats: yes
 color: BLACK & WHITE
