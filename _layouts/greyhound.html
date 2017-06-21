@@ -4,11 +4,11 @@ layout: page
 
 {% assign greyhound = page %}
 
-{% if greyhound.deceased %}
+{% if greyhound.category == 'deceased' %}
   <div class="text-center alert alert-warning" role="alert">
     <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈</span>
   </div>
-{% elsif greyhound.available != true %}
+{% elsif greyhound.category == 'adopted' %}
   <div class="text-center alert alert-success" role="alert">
     <span class="banner">&hearts; <b>ADOPTED!</b> &hearts;</span>
   </div>
@@ -20,7 +20,7 @@ layout: page
   <div class="text-center alert alert-success" role="alert">
     <span class="banner">&hearts; <b>Adoption Pending!</b> &hearts;</span>
   </div>
-{% elsif greyhound.available %}
+{% elsif greyhound.category == 'available' %}
   <div class="text-center alert alert-info" role="alert">
     <span class="banner">🐾 <b>Available!</b> 🐾</span>
   </div>
@@ -45,7 +45,7 @@ layout: page
   </div>
 </div>
 
-{% if greyhound.available %}
+{% if greyhound.category == 'available' %}
   <div class="text-center">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
@@ -89,7 +89,7 @@ layout: page
       {% endif %}
 
       <!-- Deceased Greyhounds -->
-      {% if greyhound.deceased %}
+      {% if greyhound.category == 'deceased' %}
         {% if greyhound.dob and greyhound.dod %}
             {% assign born = greyhound.dob | date: '%b %d, %Y' %}
             {% assign died = greyhound.dod | date: '%b %d, %Y' %}
@@ -98,7 +98,7 @@ layout: page
             <span class="label label-default">?? - {{ greyhound.dod | date: '%b %d, %Y' }}</span>
         {% endif %}
       <!-- Available Greyhounds -->
-      {% elsif greyhound.available %}
+      {% elsif greyhound.category == 'available' %}
         {% if greyhound.dob %}
           {% assign years = greyhound.dob | date: '%Y' %}
           {% assign age = site.time | date: '%Y' | minus: years %}
