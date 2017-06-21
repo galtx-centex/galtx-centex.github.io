@@ -15,7 +15,6 @@ collections:
     output: true
 pagination:
   enabled: true
-  title: ""
   permalink: /:num/
 plugins:
   - jekyll-paginate-v2
