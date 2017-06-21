@@ -9,7 +9,7 @@ twitter_username: GPA_CenTex
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: [vendor, dict, script]
+exclude: [vendor, dict, script, Rakefile, Gemfile*]
 collections:
   greyhounds:
     output: true
