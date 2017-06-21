@@ -7,7 +7,7 @@ Hosted on [GitHub Pages](https://pages.github.com/).
 Built by [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
-[![Build Status](https://travis-ci.org/gpa-centex/gpa-centex.github.io.svg?branch=master)](https://travis-ci.org/gpa-centex/gpa-centex.github.io)
+[![Build Status](https://travis-ci.org/gpa-centex/gpa-centex.github.io.svg?branch=source)](https://travis-ci.org/gpa-centex/gpa-centex.github.io)
 
 If you are not a part of the GPA-CTX team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
@@ -34,4 +34,4 @@ See the wiki post [How to Build the Website](https://github.com/gpa-centex/gpa-c
 
 The MIT License (MIT)
 
-See [LICENSE](https://github.com/gpa-centex/gpa-centex.github.io/blob/master/LICENSE).
+See [LICENSE](https://github.com/gpa-centex/gpa-centex.github.io/blob/source/LICENSE).
