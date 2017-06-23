@@ -2,7 +2,7 @@
 layout: greyhound
 title: Tempo
 date: 2017-05-22
-category: available
+category: adopted
 cats: no
 color: RED
 dob: 2015-07-12
@@ -11,8 +11,8 @@ pending: yes
 pic: tempo.jpg
 sex: MALE
 fb-posts:
-  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10156165708043572
-  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10156195944018572:0
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156165708043572'
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156195944018572:0'
 pics:
   - tempo1.jpg
 ---
