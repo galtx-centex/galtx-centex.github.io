@@ -6,8 +6,8 @@ task :build do
   sh "bundle exec jekyll build"
 end
 
-task :serve do
-  sh "bundle exec jekyll serve -w"
+task :server do
+  sh "bundle exec jekyll server -w"
 end
 
 task :htmlcheck => :build do
