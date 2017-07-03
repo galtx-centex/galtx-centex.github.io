@@ -127,14 +127,14 @@ layout: page
             <span class="label label-default">{{ age }} MONTHS</span>
           {% endif %}
         {% elsif greyhound.age %}
-            <span class="label label-default">{{ greyhound.age }}</span>
+          <span class="label label-default">{{ greyhound.age }}</span>
         {% endif %}
       <!-- Adopted Greyhounds -->
       {% else %}
         {% if greyhound.dob %}
-          <span class="label label-default">{{ greyhound.dob | date: '%b %d, %Y' }}</span>
+          <span class="label label-default">Born {{ greyhound.dob | date: '%b %d, %Y' }}</span>
         {% elsif greyhound.age %}
-            <span class="label label-default">{{ greyhound.age }}</span>
+          <span class="label label-default">{{ greyhound.age }}</span>
         {% endif %}
       {% endif %}
 
