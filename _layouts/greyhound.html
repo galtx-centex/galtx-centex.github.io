@@ -4,9 +4,25 @@ layout: page
 
 {% assign greyhound = page %}
 
+<!-- Date of Birth -->
+{% if greyhound.dob %}
+  {% assign born = greyhound.dob | date: '%b %d, %Y' %}
+{% endif %}
+
+<!-- Date of Death -->
+{% if greyhound.dod %}
+  {% assign died = greyhound.dod | date: '%b %d, %Y' %}
+{% endif %}
+
 {% if greyhound.category == 'deceased' %}
   <div class="text-center alert alert-warning" role="alert">
-    <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈</span>
+    {% if greyhound.dob and greyhound.dod %}
+      <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈<br>{{ born }} - {{ died }}</span>
+    {% elsif greyhound.dod %}
+      <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈<br>{{ died }}</span>
+    {% else %}
+      <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈</span>
+    {% endif %}
   </div>
 {% elsif greyhound.category == 'adopted' %}
   <div class="text-center alert alert-success" role="alert">
