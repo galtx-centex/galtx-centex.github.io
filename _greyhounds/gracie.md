@@ -6,6 +6,7 @@ age: 1 1/2 YEARS
 category: adopted
 cats: yes
 color: FAWN
+doa: 2015-01-12
 name: Gracie
 pic: gracie.png
 sex: FEMALE

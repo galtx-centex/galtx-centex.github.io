@@ -5,6 +5,7 @@ date: 2015-08-26
 age: 7 YEARS
 category: adopted
 color: FAWN
+doa: 2015-10-06
 name: Homer
 pic: homer.jpg
 sex: MALE

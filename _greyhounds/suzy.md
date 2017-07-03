@@ -5,6 +5,7 @@ date: 2017-04-05
 category: adopted
 cats: yes
 color: BRINDLE
+doa: 2017-06-07
 dob: 2015-10-01
 name: Suzy
 pending: yes

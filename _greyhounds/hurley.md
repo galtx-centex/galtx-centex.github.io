@@ -6,6 +6,7 @@ category: adopted
 cats: no
 color: RED
 dob: 2011-10-02
+doa: 2017-04-22
 name: Hurley
 pic: hurley.jpg
 sex: MALE

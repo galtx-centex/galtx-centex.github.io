@@ -6,6 +6,7 @@ age: 8 YEARS
 category: adopted
 cats: yes
 color: BRINDLE
+doa: 2016-04-28
 name: Siggie
 pic: siggie.jpg
 sex: FEMALE

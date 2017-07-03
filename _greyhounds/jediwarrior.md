@@ -8,6 +8,7 @@ color: BLACK
 name: Jedi
 pic: jediwarrior.jpg
 sex: MALE
+doa: 2017-05-09
 ---
 
 Jedi ran 32 races.  Small child/cat/small dog/personality testing pending.

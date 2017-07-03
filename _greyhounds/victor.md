@@ -6,6 +6,7 @@ age: 4 YEARS
 category: adopted
 cats: no
 color: BRINDLE
+doa: 2016-07-06
 name: Victor
 pic: victor.jpg
 sex: MALE

@@ -6,6 +6,7 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: BLACK
+doa: 2016-02-13
 name: Noosa
 pic: noosa.JPG
 sex: FEMALE

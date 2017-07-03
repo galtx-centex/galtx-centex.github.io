@@ -5,6 +5,7 @@ date: 2017-05-15
 category: adopted
 cats: yes
 color: FAWN
+doa: 2017-06-07
 dob: 2009-01-13
 name: Mollie
 pending: yes

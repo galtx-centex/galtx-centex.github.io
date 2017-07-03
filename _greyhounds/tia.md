@@ -6,6 +6,7 @@ age: 2 YEARS
 category: adopted
 cats: yes
 color: BLACK
+doa: 2015-12-08
 name: Tia
 pic: tia.jpg
 sex: FEMALE

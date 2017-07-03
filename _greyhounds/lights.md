@@ -5,6 +5,7 @@ date: 2015-08-07
 age: 6 YEARS
 category: adopted
 color: WHITE/BLACK
+doa: 2015-08-23
 name: Lights
 pic: lights.jpg
 sex: FEMALE

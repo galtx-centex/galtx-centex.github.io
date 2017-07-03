@@ -5,6 +5,7 @@ date: 2015-05-19
 age: 2 YEARS
 category: adopted
 color: FAWN
+doa: 2015-08-26
 name: Jill
 pic: jill.jpg
 sex: FEMALE

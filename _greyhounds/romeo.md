@@ -4,6 +4,7 @@ title: Romeo
 date: 2016-12-21
 category: adopted
 color: WHITE/ORANGE
+doa: 2017-01-22
 dob: 2012-12-29
 name: Romeo
 pending: yes

@@ -6,6 +6,7 @@ age: 8 YEARS
 category: adopted
 cats: yes
 color: FAWN
+doa: 2015-11-28
 name: Hannah
 pic: hannah.jpg
 sex: FEMALE

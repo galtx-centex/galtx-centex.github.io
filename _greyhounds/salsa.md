@@ -5,6 +5,7 @@ date: 2017-04-05
 category: adopted
 cats: no
 color: WHITE AND BRINDLE
+doa: 2017-05-13
 dob: 2015-10-01
 name: Salsa
 pic: salsa.jpeg
