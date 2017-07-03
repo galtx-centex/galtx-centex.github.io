@@ -29,7 +29,7 @@ layout: page
     {% assign adopted = greyhound.doa | date: '%B %Y' %}
   {% endif %}
   <div class="text-center alert alert-success" role="alert">
-    <span class="banner">&hearts; <b>ADOPTED!</b> &hearts;<br>{{ adopted }}</span>
+    <span class="banner">💚 <b>ADOPTED!</b> 💚<br>{{ adopted }}</span>
   </div>
 {% elsif greyhound.permafoster %}
   <div class="text-center alert alert-danger" role="alert">
@@ -37,7 +37,7 @@ layout: page
   </div>
 {% elsif greyhound.pending %}
   <div class="text-center alert alert-success" role="alert">
-    <span class="banner">&hearts; <b>Adoption Pending!</b> &hearts;</span>
+    <span class="banner">💚 <b>Adoption Pending!</b> 💚</span>
   </div>
 {% elsif greyhound.category == 'available' %}
   <div class="text-center alert alert-info" role="alert">
