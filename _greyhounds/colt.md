@@ -5,6 +5,7 @@ date: 2016-03-30
 age: 1 YEAR
 category: adopted
 color: BLACK
+doa: 2016-05-21
 name: Colt
 pic: colt.jpg
 sex: FEMALE

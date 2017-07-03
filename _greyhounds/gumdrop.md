@@ -4,6 +4,7 @@ title: Gumdrop
 date: 2017-01-03
 category: adopted
 color: BLACK
+doa: 2017-02-26
 dob: 2015-05-08
 name: Gumdrop
 pic: gumdrop.jpg

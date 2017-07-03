@@ -5,6 +5,7 @@ date: 2016-02-17
 age: 7 YEARS
 category: adopted
 color: BRINDLE
+doa: 2016-03-28
 name: Demi
 pic: demi.jpg
 sex: FEMALE

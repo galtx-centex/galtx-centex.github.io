@@ -6,6 +6,7 @@ age: 6 YEARS
 category: adopted
 cats: no
 color: FAWN
+doa: 2015-05-07
 name: Mary
 pic: mary.png
 sex: FEMALE

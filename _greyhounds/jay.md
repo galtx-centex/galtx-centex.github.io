@@ -5,6 +5,7 @@ date: 2016-09-06
 category: adopted
 cats: no
 color: BLACK
+doa: 2016-12-18
 dob: 2014-11-22
 name: Jay
 pic: jay.jpg

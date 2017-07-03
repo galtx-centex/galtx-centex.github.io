@@ -5,6 +5,7 @@ date: 2010-04-15
 age: 6 MONTHS
 category: adopted
 color: RED FAWN
+doa: 2015-10-09
 name: Jack
 pic: jack.jpg
 sex: MALE

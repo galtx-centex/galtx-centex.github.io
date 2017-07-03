@@ -5,6 +5,7 @@ date: 2016-08-17
 age: 2 YEARS
 category: adopted
 color: FAWN
+doa: 2016-09-25
 name: Simmons
 pic: simmons.jpg
 sex: MALE

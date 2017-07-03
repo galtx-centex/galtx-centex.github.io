@@ -5,6 +5,7 @@ date: 2017-02-23
 category: adopted
 cats: no
 color: RED BRINDLE
+doa: 2017-04-09
 dob: 2014-03-13
 name: Caruso
 pending: yes

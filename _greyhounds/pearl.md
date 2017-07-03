@@ -5,6 +5,7 @@ date: 2016-03-17
 age: 1.5 YEARS
 category: adopted
 color: WHITE
+doa: 2016-04-23
 name: Pearl
 pic: pearl.jpg
 sex: FEMALE

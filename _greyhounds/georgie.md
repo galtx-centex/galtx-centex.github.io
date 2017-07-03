@@ -9,6 +9,7 @@ color: BRINDLE
 name: Georgie
 pic: georgie.png
 sex: FEMALE
+doa: 2016-08-16
 ---
 
 I was recently found as a stray and brought to GPA by a kind stranger. I'm recovering from

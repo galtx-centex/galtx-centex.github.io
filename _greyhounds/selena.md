@@ -4,6 +4,7 @@ title: Selena
 date: 2017-02-28
 category: adopted
 color: WHITE AND BRINDLE
+doa: 2017-06-05
 dob: 2015-10-01
 name: Selena
 pending: yes

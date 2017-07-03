@@ -8,6 +8,7 @@ dob: 2011-01-16
 name: Snow W.
 pic: snowwhite.jpg
 sex: FEMALE
+doa: 2016-10-03
 ---
 
 

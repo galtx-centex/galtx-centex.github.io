@@ -5,6 +5,7 @@ date: 2014-12-02
 age: 7 YEARS
 category: adopted
 color: BLACK
+doa: 2015-02-10
 name: Tamara
 pic: tamara.png
 sex: FEMALE
