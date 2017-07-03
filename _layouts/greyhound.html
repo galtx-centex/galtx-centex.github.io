@@ -25,8 +25,11 @@ layout: page
     {% endif %}
   </div>
 {% elsif greyhound.category == 'adopted' %}
+  {% if greyhound.doa %}
+    {% assign adopted = greyhound.doa | date: '%B %Y' %}
+  {% endif %}
   <div class="text-center alert alert-success" role="alert">
-    <span class="banner">&hearts; <b>ADOPTED!</b> &hearts;</span>
+    <span class="banner">&hearts; <b>ADOPTED!</b> &hearts;<br>{{ adopted }}</span>
   </div>
 {% elsif greyhound.permafoster %}
   <div class="text-center alert alert-danger" role="alert">
@@ -106,12 +109,8 @@ layout: page
 
       <!-- Deceased Greyhounds -->
       {% if greyhound.category == 'deceased' %}
-        {% if greyhound.dob and greyhound.dod %}
-            {% assign born = greyhound.dob | date: '%b %d, %Y' %}
-            {% assign died = greyhound.dod | date: '%b %d, %Y' %}
-            <span class="label label-default">{{ born }} - {{ died }}</span>
-        {% elsif greyhound.dod %}
-            <span class="label label-default">?? - {{ greyhound.dod | date: '%b %d, %Y' }}</span>
+        {% if greyhound.doa %}
+          <span class="label label-default">Adopted {{ greyhound.doa | date: '%b %Y' }}</span>
         {% endif %}
       <!-- Available Greyhounds -->
       {% elsif greyhound.category == 'available' %}
