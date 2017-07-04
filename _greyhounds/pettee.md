@@ -8,6 +8,8 @@ category: deceased
 name: Pettee
 pic: pettee.jpg
 sex: MALE
+dob: 2011-09-25
+dod: 2016-09-30
 ---
 
-I just arrived! More info coming soon.
+Goodbye Pettee ❤️
