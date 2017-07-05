@@ -11,6 +11,7 @@ sex: FEMALE
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156214543303572:0'
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253179383572'
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156314248588572:0'
 ---
 
 Hello.  My name is Thea. I raced under the name “That’s Greek to me.”  Can you believe that?  One of the vet techs said I needed a beautiful Greek name and she called me Thea - it means goddess.  
