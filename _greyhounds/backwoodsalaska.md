@@ -4,7 +4,7 @@ title: Backwoods Alaska
 date: 2010-02-21
 age: 12 MONTHS
 category: adopted
-name: Alaska
+nick: Alaska
 pic: backwoodsalaska.jpg
 sex: MALE
 ---

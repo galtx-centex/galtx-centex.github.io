@@ -5,7 +5,6 @@ date: 2017-05-15
 category: available
 color: BLACK
 dob: 2009-07-19
-name: Thea
 pic: thea.jpeg
 sex: FEMALE
 fb-posts:

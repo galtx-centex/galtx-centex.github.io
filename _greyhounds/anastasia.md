@@ -6,7 +6,7 @@ age: 2 YEARS
 category: adopted
 cats: yes
 color: WHITE & RED
-name: Anastasia
+nick: Anastasia
 pic: anastasia.jpg
 sex: FEMALE
 ---

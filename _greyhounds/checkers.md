@@ -6,7 +6,6 @@ age: 2006 - 2015
 cats: yes
 color: BLACK & WHITE
 category: deceased
-name: Checkers
 pic: checkers.jpg
 sex: FEMALE
 ---

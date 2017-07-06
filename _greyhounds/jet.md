@@ -5,7 +5,6 @@ date: 2010-02-17
 age: 3 YEARS
 category: adopted
 color: RED FAWN
-name: Jet
 pic: jet.jpg
 sex: MALE
 ---

@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 cats: yes
 color: FAWN
-name: Gidget
 pic: gidget.jpg
 sex: FEMALE
 ---

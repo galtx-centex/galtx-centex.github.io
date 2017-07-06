@@ -4,7 +4,6 @@ title: Piper
 date: 2010-01-01
 age: 1 YEAR
 category: adopted
-name: Piper
 pic: piper.jpg
 sex: FEMALE
 ---

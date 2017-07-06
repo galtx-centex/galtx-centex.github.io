@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: FAWN
-name: Carlos
 pic: carlos.jpg
 sex: MALE
 ---

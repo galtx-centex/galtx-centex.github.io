@@ -6,7 +6,7 @@ category: adopted
 cats: yes
 color: BLACK
 dob: 2014-03-12
-name: James B.
+nick: James B.
 pic: jamesbond.jpeg
 sex: MALE
 doa: 2016-12-13

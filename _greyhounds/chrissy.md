@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: WHITE & BLACK
-name: Chrissy
 pic: chrissy.jpg
 sex: FEMALE
 ---

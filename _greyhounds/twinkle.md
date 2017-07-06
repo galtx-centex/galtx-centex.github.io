@@ -6,7 +6,6 @@ age: 1 YEAR
 cats: yes
 color: WHITE & BRINDLE
 category: deceased
-name: Twinkle
 pic: twinkle.jpg
 sex: FEMALE
 ---

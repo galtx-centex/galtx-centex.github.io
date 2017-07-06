@@ -5,7 +5,7 @@ date: 2010-01-29
 age: 4 YEARS
 category: adopted
 color: DARK BRINDLE
-name: Blackjack
+nick: Blackjack
 pic: blackjackmongo.jpg
 sex: FEMALE
 ---

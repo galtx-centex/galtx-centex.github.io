@@ -6,7 +6,6 @@ age: 3 YEARS
 category: adopted
 color: FAWN
 doa: 2015-11-13
-name: Rocket
 pic: rocket.jpg
 sex: MALE
 ---

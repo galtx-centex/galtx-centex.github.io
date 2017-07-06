@@ -7,7 +7,6 @@ cats: yes
 color: FAWN
 doa: 2017-01-29
 dob: 2015-05-01
-name: Layton
 pic: layton.jpg
 sex: MALE
 fb-posts:

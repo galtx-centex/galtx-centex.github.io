@@ -7,7 +7,6 @@ cats: yes
 color: BRINDLE
 doa: 2017-06-07
 dob: 2015-10-01
-name: Suzy
 pending: yes
 pic: suzy.jpeg
 sex: FEMALE

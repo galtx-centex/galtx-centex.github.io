@@ -5,7 +5,6 @@ date: 2010-02-25
 category: adopted
 cats: no
 color: BRINDLE
-name: Harmony
 pic: harmony.jpg
 sex: FEMALE
 ---

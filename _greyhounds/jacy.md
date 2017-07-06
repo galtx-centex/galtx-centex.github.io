@@ -6,7 +6,6 @@ age: 15 MONTHS
 category: adopted
 cats: no
 color: BLUE FAWN
-name: Jacy
 pic: jacy.jpg
 sex: FEMALE
 ---

@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 color: WHITE/RED
 doa: 2015-07-01
-name: Edmundo
 pic: edmundo.png
 sex: MALE
 ---

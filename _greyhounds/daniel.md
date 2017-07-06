@@ -5,7 +5,6 @@ date: 2010-02-10
 age: 2 YEARS
 category: adopted
 color: BLACK & WHITE
-name: Daniel
 pic: daniel.jpg
 sex: MALE
 ---

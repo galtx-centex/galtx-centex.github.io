@@ -6,7 +6,6 @@ cats: no
 color: BLACK & WHITE
 category: deceased
 dod: 2014-10-03
-name: Batman
 pic: batman.jpg
 sex: MALE
 ---

@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: WHITE/BLACK
 doa: 2016-07-30
-name: Plante
 pic: plante.jpg
 sex: FEMALE
 ---

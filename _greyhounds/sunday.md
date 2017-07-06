@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 color: FAWN
 doa: 2015-08-12
-name: Sunday
 pic: sunday.jpg
 sex: FEMALE
 ---

@@ -4,7 +4,7 @@ title: Backwoods Timothy
 date: 2010-02-18
 age: 12 MONTHS
 category: adopted
-name: Timothy
+nick: Timothy
 pic: backwoodstimothy.jpg
 sex: MALE
 ---

@@ -5,7 +5,7 @@ date: 2010-03-14
 category: adopted
 cats: no
 color: BLACK
-name: Penny
+nick: Penny
 pic: hennypenny.jpg
 sex: FEMALE
 ---

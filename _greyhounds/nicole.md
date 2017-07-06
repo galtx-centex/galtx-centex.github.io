@@ -6,7 +6,6 @@ age: 7 YEARS
 category: adopted
 cats: no
 color: FAWN
-name: Nicole
 pic: nicole.jpg
 sex: FEMALE
 ---

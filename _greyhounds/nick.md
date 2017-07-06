@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: BLACK & WHITE
-name: Nick
 pic: nick.jpg
 sex: MALE
 ---

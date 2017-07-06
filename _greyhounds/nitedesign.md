@@ -5,7 +5,7 @@ date: 2015-07-01
 age: 3 YEARS
 category: adopted
 color: BLACK
-name: Nite
+nick: Nite
 pic: nitedesign.jpg
 sex: MALE
 ---

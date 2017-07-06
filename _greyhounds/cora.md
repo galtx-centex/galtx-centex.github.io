@@ -5,7 +5,6 @@ date: 2010-02-11
 age: 2 YEARS
 category: adopted
 color: DARK BRINDLE
-name: Cora
 pic: cora.jpg
 sex: FEMALE
 ---

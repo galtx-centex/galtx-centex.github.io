@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: WHITE/BLACK
 doa: 2015-09-26
-name: Cortez
 pic: cortez.jpg
 sex: FEMALE
 ---

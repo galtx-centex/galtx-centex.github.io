@@ -6,7 +6,6 @@ age: 6 YEARS
 category: adopted
 color: BRINDLE
 doa: 2015-10-31
-name: Bristol
 pic: bristol.png
 sex: FEMALE
 ---

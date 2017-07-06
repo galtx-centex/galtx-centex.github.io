@@ -6,7 +6,6 @@ age: 6 YEARS
 category: adopted
 cats: yes
 color: WHITE/BLACK
-name: Bella
 pic: bella1.JPG
 sex: FEMALE
 ---

@@ -6,7 +6,6 @@ age: 3 YEARS
 category: adopted
 cats: yes
 color: FAWN
-name: Paco
 pic: paco.jpg
 sex: MALE
 ---

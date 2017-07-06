@@ -6,7 +6,6 @@ age: 5 YEARS
 category: adopted
 cats: no
 color: WHITE & BRINDLE
-name: Erin
 pic: erin.jpg
 sex: FEMALE
 ---

@@ -6,7 +6,6 @@ category: adopted
 color: WHITE AND BRINDLE
 doa: 2017-06-05
 dob: 2015-10-01
-name: Selena
 pending: yes
 pic: selena.jpg
 sex: FEMALE

@@ -4,7 +4,7 @@ title: Swee’Pea (Sandy)
 date: 2010-05-01
 category: deceased
 dod: 2016-12-17
-name: "Swee\u2019Pea"
+nick: "Swee\u2019Pea"
 pic: sweepea.jpg
 sex: FEMALE
 ---

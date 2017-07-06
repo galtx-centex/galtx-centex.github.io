@@ -5,7 +5,6 @@ date: 2015-10-04
 age: 1 YEARS
 category: adopted
 color: WHITE/BRINDLE
-name: Alcide
 pic: alcide.jpg
 sex: MALE
 ---

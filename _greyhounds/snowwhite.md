@@ -5,7 +5,7 @@ date: 2016-09-07
 category: adopted
 color: BLACK
 dob: 2011-01-16
-name: Snow W.
+nick: Snow W.
 pic: snowwhite.jpg
 sex: FEMALE
 doa: 2016-10-03

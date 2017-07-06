@@ -7,7 +7,6 @@ color: DARK BRINDLE
 category: deceased
 dob: 2002-04-13
 dod: 2014-05-14
-name: Stormy
 pic: stormy.jpg
 sex: FEMALE
 ---

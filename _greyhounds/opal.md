@@ -5,7 +5,6 @@ date: 2010-02-27
 age: 9 YEARS
 category: adopted
 color: FAWN
-name: Opal
 pic: opal.jpg
 sex: FEMALE
 ---

@@ -6,7 +6,6 @@ color: BRINDLE
 category: deceased
 dob: 2008-09-28
 dod: 2016-12-20
-name: Carly
 pic: carly.png
 sex: FEMALE
 ---

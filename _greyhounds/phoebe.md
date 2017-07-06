@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: FAWN
 doa: 2016-05-10
-name: Phoebe
 pic: phoebe.jpg
 sex: FEMALE
 ---

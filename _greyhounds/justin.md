@@ -5,7 +5,6 @@ date: 2010-01-24
 age: 2 YEARS
 category: adopted
 color: RED FAWN
-name: Justin
 pic: justin.jpg
 sex: MALE
 ---

@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 color: FAWN
 doa: 2016-04-28
-name: Taz
 pic: taz.jpg
 sex: MALE
 ---

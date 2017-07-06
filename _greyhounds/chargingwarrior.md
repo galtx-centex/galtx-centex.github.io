@@ -6,7 +6,7 @@ age: 3 YEARS
 category: adopted
 cats: yes
 color: BRINDLE
-name: Warrior
+nick: Warrior
 pic: chargingwarrior.jpg
 sex: MALE
 ---

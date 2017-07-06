@@ -6,7 +6,6 @@ category: adopted
 color: BLACK
 doa: 2017-02-26
 dob: 2015-05-08
-name: Gumdrop
 pic: gumdrop.jpg
 sex: FEMALE
 fb-posts:

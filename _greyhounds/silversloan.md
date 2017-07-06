@@ -7,7 +7,6 @@ color: BRINDLE
 category: deceased
 dob: 2006-02-06
 dod: 2015-11-18
-name: Silvia
 pic: silvia.jpg
 sex: FEMALE
 ---

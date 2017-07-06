@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: BLACK
 doa: 2016-07-13
-name: Flower
 pic: flower.jpg
 sex: FEMALE
 ---

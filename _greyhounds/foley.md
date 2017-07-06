@@ -1,7 +1,6 @@
 ---
 layout: greyhound
 title: Foley
-name: Foley
 date: 2017-06-27
 category: available
 color: BRINDLE

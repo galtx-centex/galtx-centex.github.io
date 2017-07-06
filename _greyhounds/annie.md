@@ -7,7 +7,6 @@ cats: yes
 color: RED BRINDLE
 doa: 2017-06-25
 dob: 2009-11-18
-name: Annie
 pending: yes
 pic: annie.jpg
 sex: FEMALE

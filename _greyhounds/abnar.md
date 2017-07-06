@@ -6,7 +6,6 @@ age: 3 YEARS
 category: adopted
 cats: yes
 color: BLACK
-name: Abnar
 pic: abnar.jpg
 sex: MALE
 ---

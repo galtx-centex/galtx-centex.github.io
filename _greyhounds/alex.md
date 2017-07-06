@@ -6,7 +6,6 @@ age: 6 YEARS
 category: adopted
 cats: no
 color: BRINDLE
-name: Alex
 pic: alex.jpg
 sex: MALE
 ---

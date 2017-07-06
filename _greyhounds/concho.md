@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 color: FAWN
 doa: 2015-09-28
-name: Concho
 pic: concho.jpg
 sex: MALE
 ---

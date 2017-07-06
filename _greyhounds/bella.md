@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: WHITE & BLACK
 doa: 2016-01-02
-name: Bella
 pic: bella.png
 sex: FEMALE
 ---

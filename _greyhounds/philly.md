@@ -6,7 +6,6 @@ color: WHITE
 category: deceased
 dob: 2008-06-12
 dod: 2017-01-21
-name: Philly
 permafoster: yes
 pic: philly.jpg
 sex: FEMALE

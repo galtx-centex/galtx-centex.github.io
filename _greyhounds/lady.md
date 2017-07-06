@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 color: RED
 doa: 2015-01-04
-name: Lady
 pic: lady.png
 sex: FEMALE
 ---

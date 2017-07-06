@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: FAWN
 doa: 2015-06-23
-name: Horace
 pic: horace.jpg
 sex: MALE
 ---

@@ -4,7 +4,6 @@ title: Alyann
 date: 2010-01-09
 category: adopted
 color: BRINDLE
-name: Alyann
 pic: alyann.jpg
 sex: FEMALE
 ---

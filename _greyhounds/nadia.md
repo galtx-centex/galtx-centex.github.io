@@ -6,7 +6,6 @@ age: 5 YEARS
 category: adopted
 cats: no
 color: FAWN
-name: Nadia
 pic: nadia.jpg
 sex: FEMALE
 ---

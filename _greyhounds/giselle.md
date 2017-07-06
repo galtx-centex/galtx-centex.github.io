@@ -5,7 +5,6 @@ date: 2010-03-10
 category: adopted
 cats: no
 color: RED FAWN
-name: Giselle
 pic: giselle.jpg
 sex: FEMALE
 ---

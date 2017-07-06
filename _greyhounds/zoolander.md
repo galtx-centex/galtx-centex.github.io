@@ -6,7 +6,6 @@ age: 1 YEAR
 category: adopted
 cats: no
 color: RED FAWN
-name: Zander
 pic: zoolander.jpg
 sex: MALE
 ---

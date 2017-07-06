@@ -5,7 +5,6 @@ date: 2017-05-15
 category: available
 color: WHITE AND BLACK
 dob: 2009-01-13
-name: Poppy
 pending: yes
 pic: poppy_2.jpg
 sex: FEMALE

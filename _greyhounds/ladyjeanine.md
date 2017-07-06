@@ -5,7 +5,7 @@ date: 2010-03-21
 category: adopted
 cats: yes
 color: BLACK & WHITE
-name: Jeanine
+nick: Jeanine
 pic: ladyjeanine.jpg
 sex: FEMALE
 ---

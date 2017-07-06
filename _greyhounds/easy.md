@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: FAWN
-name: Easy
 pic: easy.jpg
 sex: MALE
 ---

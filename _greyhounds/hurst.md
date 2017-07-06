@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: BLACK
 doa: 2016-03-11
-name: Hurst
 pic: hurst.jpg
 sex: MALE
 ---
