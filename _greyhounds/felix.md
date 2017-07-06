@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: BLACK
 doa: 2015-07-24
-name: Felix
 pic: felix.jpg
 sex: MALE
 ---

@@ -7,7 +7,6 @@ cats: no
 color: BLACK
 doa: 2016-12-18
 dob: 2013-10-03
-name: Johaunna
 pic: johaunna.jpg
 sex: FEMALE
 ---

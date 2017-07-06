@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: BLACK
 doa: 2015-03-30
-name: Buckley
 pic: buckley.png
 sex: MALE
 ---

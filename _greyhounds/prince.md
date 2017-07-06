@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: FAWN
 doa: 2015-09-02
-name: Prince
 pic: prince.jpg
 sex: MALE
 ---

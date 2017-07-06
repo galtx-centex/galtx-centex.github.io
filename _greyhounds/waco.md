@@ -7,7 +7,6 @@ cats: yes
 color: BRINDLE
 doa: 2017-04-27
 dob: 2007-07-31
-name: Waco
 pic: Waco.jpg
 sex: MALE
 fb-posts:

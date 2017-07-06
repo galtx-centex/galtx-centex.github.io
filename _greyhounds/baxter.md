@@ -6,7 +6,6 @@ age: 10 WEEKS
 category: adopted
 cats: no
 color: BLUE BRINDLE
-name: Baxter
 pic: baxter.jpg
 sex: MALE
 ---

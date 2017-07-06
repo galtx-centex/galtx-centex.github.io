@@ -5,7 +5,6 @@ date: 2010-02-19
 age: 6 YEARS
 category: adopted
 color: LIGHT BRINDLE
-name: Sheila
 pic: sheila.jpg
 sex: FEMALE
 ---

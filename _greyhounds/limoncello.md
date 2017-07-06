@@ -6,7 +6,6 @@ age: 17 MONTHS
 category: adopted
 cats: yes
 color: FAWN BRINDLE
-name: Limoncello
 pic: limoncello.jpg
 sex: MALE
 ---

@@ -6,7 +6,6 @@ category: adopted
 color: BRINDLE
 doa: 2016-11-20
 dob: 2015-08-20
-name: Zella
 pic: zella.jpg
 sex: FEMALE
 ---

@@ -7,7 +7,6 @@ cats: yes
 color: WHITE AND BRINDLE
 doa: 2017-05-07
 dob: 2015-10-01
-name: Soho
 pic: soho.jpg
 sex: FEMALE
 fb-posts:

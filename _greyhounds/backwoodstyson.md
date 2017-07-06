@@ -6,7 +6,7 @@ age: 14 MONTHS
 category: adopted
 cats: yes
 color: RED BRINDLE
-name: Tyson
+nick: Tyson
 pic: backwoodstyson.jpg
 sex: MALE
 ---

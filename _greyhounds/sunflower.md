@@ -6,7 +6,6 @@ age: 18 MONTHS
 category: adopted
 cats: yes
 color: FAWN
-name: Sunflower
 pic: sunflower.jpg
 sex: FEMALE
 ---

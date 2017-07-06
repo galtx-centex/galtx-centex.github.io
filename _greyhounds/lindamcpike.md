@@ -6,7 +6,7 @@ age: 2 YEARS
 category: adopted
 cats: yes
 color: BRINDLE & WHITE
-name: Linda
+nick: Linda
 pic: lindamcpike.jpg
 sex: FEMALE
 ---

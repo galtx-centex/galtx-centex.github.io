@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 color: FAWN
 doa: 2016-05-01
-name: Dayce
 pic: dayce.JPG
 sex: MALE
 ---

@@ -6,7 +6,6 @@ age: 5 YEARS
 category: adopted
 color: BRINDLE
 doa: 2016-03-16
-name: Frank
 pic: frank.JPG
 sex: MALE
 ---

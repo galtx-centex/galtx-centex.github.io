@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 color: FAWN
 doa: 2015-05-13
-name: Sage
 pic: sage.png
 sex: FEMALE
 ---

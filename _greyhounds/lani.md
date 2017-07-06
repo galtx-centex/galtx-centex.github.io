@@ -6,7 +6,6 @@ category: adopted
 cats: no
 color: BLACK
 dob: 2015-05-01
-name: Laney
 pic: lani.jpg
 sex: FEMALE
 pics:

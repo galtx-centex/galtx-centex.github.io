@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 cats: no
 color: BLACK
-name: Coal
 pic: coal.jpg
 sex: MALE
 ---

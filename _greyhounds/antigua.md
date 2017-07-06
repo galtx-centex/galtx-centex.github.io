@@ -5,7 +5,7 @@ date: 2010-03-24
 category: adopted
 cats: yes
 color: BRINDLE
-name: Antigua
+nick: Antigua
 pic: antigua.jpg
 sex: FEMALE
 ---

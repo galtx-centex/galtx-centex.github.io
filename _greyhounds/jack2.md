@@ -5,7 +5,6 @@ date: 2015-05-19
 age: 6 YEARS
 category: adopted
 color: BRINDLE
-name: Jack
 pic: jack2.jpg
 sex: MALE
 ---

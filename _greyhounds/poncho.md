@@ -5,7 +5,6 @@ date: 2010-05-25
 age: 4 YEARS
 category: adopted
 color: RED
-name: Poncho
 pic: poncho.jpg
 sex: MALE
 ---

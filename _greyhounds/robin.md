@@ -6,7 +6,6 @@ cats: no
 color: BRINDLE
 category: deceased
 dod: 2016-04-26
-name: Robin
 pic: robin.jpg
 sex: FEMALE
 ---

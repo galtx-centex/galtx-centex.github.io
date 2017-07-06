@@ -5,7 +5,6 @@ date: 2010-02-14
 age: 2 YEARS
 category: adopted
 color: BLACK
-name: Cathy
 pic: cathy.jpg
 sex: FEMALE
 ---

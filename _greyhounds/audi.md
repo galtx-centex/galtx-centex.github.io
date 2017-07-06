@@ -6,7 +6,6 @@ age: 18 MONTHS
 category: adopted
 cats: yes
 color: WHITE & BLACK
-name: Audi
 pic: audi.jpg
 sex: MALE
 ---

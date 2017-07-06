@@ -5,7 +5,6 @@ date: 2010-03-20
 category: adopted
 cats: no
 color: RED FAWN
-name: Haley
 pic: haley.jpg
 sex: FEMALE
 ---

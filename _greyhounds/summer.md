@@ -6,7 +6,6 @@ age: 8 YEARS
 category: adopted
 cats: no
 color: FAWN
-name: Summer
 pic: summer.jpg
 sex: FEMALE
 ---

@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: no
 color: WHITE & BRINDLE
-name: Breezy
 pic: breezy.jpg
 sex: MALE
 ---

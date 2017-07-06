@@ -6,7 +6,6 @@ age: 5 YEARS
 category: adopted
 cats: yes
 color: RED
-name: Poppy
 pic: poppy.jpg
 sex: FEMALE
 ---

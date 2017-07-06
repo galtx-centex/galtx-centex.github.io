@@ -5,7 +5,6 @@ date: 2010-01-25
 age: 7 YEARS
 category: adopted
 color: BLACK & WHITE
-name: Dutchess
 pic: dutchess.jpg
 sex: FEMALE
 ---

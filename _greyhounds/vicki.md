@@ -5,7 +5,6 @@ date: 2010-04-29
 age: 2015
 color: FAWN
 category: deceased
-name: Vicki
 pic: vicki.jpg
 sex: FEMALE
 ---

@@ -5,7 +5,6 @@ date: 2017-06-13
 category: available
 color: BRINDLE
 dob: 2014-04-13
-name: Duke
 pic: duke.jpg
 sex: MALE
 pics:

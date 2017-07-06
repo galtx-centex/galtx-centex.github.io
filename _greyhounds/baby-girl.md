@@ -6,7 +6,6 @@ age: 6 YEARS
 category: adopted
 cats: yes
 color: WHITE & BLACK
-name: Baby Girl
 pic: baby-girl.jpg
 sex: FEMALE
 ---

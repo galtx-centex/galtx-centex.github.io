@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: BRINDLE
 doa: 2016-01-08
-name: Greycie
 pic: greycie.JPG
 sex: FEMALE
 ---

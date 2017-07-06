@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 color: BRINDLE
 doa: 2016-10-02
-name: Tyler
 pic: tyler.jpg
 sex: MALE
 ---

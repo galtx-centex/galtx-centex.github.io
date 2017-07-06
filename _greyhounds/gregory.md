@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: BLACK
-name: Gregory
 pic: gregory.jpg
 sex: MALE
 doa: 2016-09-25

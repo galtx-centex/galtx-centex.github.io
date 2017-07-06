@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: BLACK
 doa: 2016-03-01
-name: Teresa
 pic: teresa.JPG
 sex: FEMALE
 ---

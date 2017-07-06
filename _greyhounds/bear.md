@@ -7,7 +7,6 @@ category: adopted
 cats: yes
 color: BLACK
 doa: 2016-04-01
-name: Bear
 pic: bear.jpg
 sex: MALE
 ---

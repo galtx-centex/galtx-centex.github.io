@@ -5,7 +5,7 @@ date: 2010-01-31
 age: 4 YEARS
 category: adopted
 color: BRINDLE
-name: Motive
+nick: Motive
 pic: highnoonmotive.jpg
 sex: FEMALE
 ---

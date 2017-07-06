@@ -5,7 +5,6 @@ date: 2010-03-19
 category: adopted
 cats: yes
 color: DARK BRINDLE
-name: Dolly
 pic: dolly.jpg
 sex: FEMALE
 ---

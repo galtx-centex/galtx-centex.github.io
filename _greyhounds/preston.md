@@ -7,7 +7,6 @@ cats: yes
 color: BRINDLE
 doa: 2017-04-22
 dob: 2015-06-23
-name: Preston
 pending: yes
 pic: preston.jpg
 sex: MALE

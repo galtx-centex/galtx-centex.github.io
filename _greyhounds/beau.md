@@ -6,7 +6,6 @@ age: 8 MONTHS
 category: adopted
 cat: yes
 color: FAWN
-name: Beau
 pic: beau.jpg
 sex: MALE
 ---

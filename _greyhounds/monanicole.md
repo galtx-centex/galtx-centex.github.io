@@ -6,7 +6,7 @@ age: 2 YEARS
 category: adopted
 cats: yes
 color: BLACK
-name: Nicole
+nick: Nicole
 pic: monanicole.jpg
 sex: FEMALE
 ---

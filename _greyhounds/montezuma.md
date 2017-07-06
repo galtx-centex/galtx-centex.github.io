@@ -5,7 +5,6 @@ date: 2010-02-03
 age: 2 YEARS
 category: adopted
 color: BRINDLE
-name: Montezuma
 pic: montezuma.jpg
 sex: FEMALE
 ---

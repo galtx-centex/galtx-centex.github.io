@@ -7,7 +7,6 @@ color: BLACK & WHITE
 category: deceased
 dob: 2005-05-15
 dod: 2017-03-13
-name: Ballymac
 pic: ballymac.jpg
 sex: MALE
 ---

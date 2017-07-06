@@ -6,7 +6,6 @@ age: 4 YEARS
 category: adopted
 cats: yes
 color: WHITE & BRINDLE
-name: Shiner
 pic: shiner.jpg
 sex: MALE
 ---

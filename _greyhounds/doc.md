@@ -6,7 +6,6 @@ age: 2002 - 2015
 cats: yes
 color: BRINDLE
 category: deceased
-name: Doc
 pic: doc.jpg
 sex: MALE
 ---

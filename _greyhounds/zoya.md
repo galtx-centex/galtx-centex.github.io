@@ -6,7 +6,6 @@ category: available
 cats: no
 color: RED
 dob: 2009-01-13
-name: Zoya
 pic: zoya.jpeg
 sex: FEMALE
 fb-posts:

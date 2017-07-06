@@ -4,7 +4,6 @@ title: Brianna
 date: 2010-01-21
 age: 8 YEARS
 category: adopted
-name: Brianna
 pic: brianna.jpg
 sex: FEMALE
 ---

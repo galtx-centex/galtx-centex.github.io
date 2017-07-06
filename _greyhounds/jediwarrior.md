@@ -5,7 +5,7 @@ date: 2010-02-02
 age: 3 YEARS
 category: adopted
 color: BLACK
-name: Jedi
+nick: Jedi
 pic: jediwarrior.jpg
 sex: MALE
 doa: 2017-05-09

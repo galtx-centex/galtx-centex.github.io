@@ -4,7 +4,6 @@ title: Holly
 date: 2010-01-20
 category: adopted
 color: WHITE & BLACK
-name: Holly
 pic: holly.jpg
 sex: FEMALE
 ---

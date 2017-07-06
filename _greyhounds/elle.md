@@ -6,7 +6,6 @@ age: 18 MONTHS
 category: adopted
 cats: yes
 color: BROWN BRINDLE
-name: Elle
 pic: elle.jpg
 sex: FEMALE
 ---

@@ -6,14 +6,6 @@ age: 6 YEARS
 category: adopted
 cats: yes
 color: WHITE & BRINDLE
-name: Ice Man
-pic: iceman.jpg
-sex: MALE
-age: 6 YEARS
-category: adopted
-cats: yes
-color: WHITE & BRINDLE
-name: Ice Man
 pic: iceman.jpg
 sex: MALE
 ---

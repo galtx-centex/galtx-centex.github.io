@@ -6,7 +6,6 @@ age: 16 MONTHS
 category: adopted
 cats: yes
 color: BLACK
-name: Jimmy
 pic: jimmy.jpg
 sex: MALE
 ---

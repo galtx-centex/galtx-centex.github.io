@@ -5,7 +5,6 @@ date: 2010-02-07
 age: 2 YEARS
 category: adopted
 color: FAWN
-name: Vegas
 pic: vegas.jpg
 sex: FEMALE
 ---

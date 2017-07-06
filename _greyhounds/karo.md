@@ -7,7 +7,6 @@ category: adopted
 cats: no
 color: BRINDLE
 doa: 2016-04-21
-name: Karo
 pic: karo.jpg
 sex: FEMALE
 ---

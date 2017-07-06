@@ -6,7 +6,6 @@ age: 7 YEARS
 category: adopted
 cats: no
 color: LARGER BRINDLE
-name: Cowboy
 pic: cowboy.jpg
 sex: MALE
 ---

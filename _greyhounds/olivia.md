@@ -6,7 +6,6 @@ category: adopted
 color: BRINDLE
 doa: 2016-12-15
 dob: 2014-10-20
-name: Olivia
 pic: olivia.jpg
 sex: FEMALE
 ---

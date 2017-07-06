@@ -6,7 +6,6 @@ age: 5 YEARS
 category: adopted
 color: BRINDLE
 doa: 2015-09-13
-name: Eleanor
 pic: eleanor.jpg
 sex: FEMALE
 ---

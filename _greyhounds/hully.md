@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 cats: no
 color: RED BRINDLE
-name: Hully
 pic: hully.jpg
 sex: MALE
 ---

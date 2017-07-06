@@ -6,7 +6,6 @@ category: adopted
 color: FAWN
 dob: 2008-11-01
 doa: 2017-05-09
-name: Jedda
 pic: jedi.jpg
 sex: FEMALE
 fb-posts:

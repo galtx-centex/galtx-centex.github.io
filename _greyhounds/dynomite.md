@@ -5,7 +5,6 @@ date: 2010-02-09
 age: 3 YEARS
 category: adopted
 color: BLACK & WHITE
-name: Dynomite
 pic: dynomite.jpg
 sex: MALE
 ---

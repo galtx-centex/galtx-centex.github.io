@@ -6,7 +6,6 @@ age: 2 YEARS
 category: adopted
 cats: no
 color: BLUE & WHITE
-name: Blue
 pic: blue.jpg
 sex: FEMALE
 ---

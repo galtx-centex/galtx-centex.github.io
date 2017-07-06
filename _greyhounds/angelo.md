@@ -6,7 +6,6 @@ age: 3 YEARS
 category: adopted
 cats: no
 color: WHITE & BRINDLE
-name: Angelo
 pic: angelo.jpg
 sex: MALE
 ---

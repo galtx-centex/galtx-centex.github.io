@@ -7,7 +7,6 @@ cats: no
 color: BLACK
 doa: 2017-01-21
 dob: 2009-08-28
-name: Breeze
 pic: breeze.JPG
 sex: FEMALE
 fb-posts:

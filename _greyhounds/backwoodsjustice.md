@@ -6,7 +6,7 @@ age: 18 MONTHS
 category: adopted
 cats: no
 color: RED BRINDLE
-name: Justice
+nick: Justice
 pic: backwoodsjustice.jpg
 sex: MALE
 ---

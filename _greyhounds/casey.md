@@ -5,7 +5,6 @@ date: 2010-03-15
 category: adopted
 cats: no
 color: RED FAWN
-name: Casey
 pic: casey.jpg
 sex: MALE
 ---

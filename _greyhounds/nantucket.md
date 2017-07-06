@@ -5,7 +5,6 @@ date: 2010-02-04
 age: 6 YEARS
 category: adopted
 color: BRINDLE
-name: Nantucket
 pic: nantucket.jpg
 sex: MALE
 ---

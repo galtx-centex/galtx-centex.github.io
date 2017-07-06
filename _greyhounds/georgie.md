@@ -6,7 +6,6 @@ age: 8 YEARS
 category: adopted
 cats: no
 color: BRINDLE
-name: Georgie
 pic: georgie.png
 sex: FEMALE
 doa: 2016-08-16

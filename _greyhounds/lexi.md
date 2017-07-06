@@ -6,7 +6,6 @@ category: adopted
 color: FAWN
 doa: 2016-11-06
 dob: 2014-10-31
-name: Lexi
 pic: lexi.jpg
 sex: FEMALE
 ---

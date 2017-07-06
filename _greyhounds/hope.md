@@ -5,7 +5,6 @@ date: 2010-01-02
 age: 1 YEAR
 category: adopted
 color: FAWN
-name: Hope
 pic: hope.jpg
 sex: FEMALE
 ---
