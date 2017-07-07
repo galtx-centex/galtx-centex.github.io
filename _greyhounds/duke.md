@@ -13,6 +13,7 @@ pics:
   - duke3.jpg
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253100818572:0'
+pending: yes
 ---
 
 I've just arrived!
