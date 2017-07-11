@@ -2,12 +2,13 @@
 layout: greyhound
 title: Poppy
 date: 2017-05-15
-category: available
+category: adopted
 color: WHITE AND BLACK
 dob: 2009-01-13
 pending: yes
 pic: poppy_2.jpg
 sex: FEMALE
+doa: 2017-07-10
 ---
 
 This is sweet Poppy!  She’s young and on the small side, as far as greyhounds go.  While only a few days into her new foster home, Poppy has adjusted quickly and is doing great with her new adult and kid family members.  Poppy quickly designated her foster mom as her new pack leader and is very comfortable following her lead.  Poppy is curious and gentle with her new 8 and 6 year old family members and accepts pets & massages from them always, even when lying on her bed. She prefers to be in the room with her new human family as she lies on her bed and naps.
