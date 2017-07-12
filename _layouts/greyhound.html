@@ -120,16 +120,20 @@ layout: page
       <!-- Available Greyhounds -->
       {% elsif greyhound.category == 'available' %}
         {% if greyhound.dob %}
-          {% assign years = greyhound.dob | date: '%Y' %}
-          {% assign age = site.time | date: '%Y' | minus: years %}
-          {% if age > 1 %}
-            <span class="label label-default">{{ age }} YEARS</span>
-          {% elsif age != 0 %}
-            <span class="label label-default">{{ age }} YEAR</span>
+          {% assign dob_ts = greyhound.dob | date: '%s' %}
+          {% assign age_in_secs = site.time | date: '%s' | minus: dob_ts %}
+          <!-- Age in Years -->
+          <!-- 3600 seconds in an hour, 24 hours in a day, 365 days in a year -->
+          {% assign age_in_years = age_in_secs | divided_by: 3600 | divided_by: 24 | divided_by: 365 %}
+          {% if age_in_years > 1 %}
+            <span class="label label-default">{{ age_in_years }} YEARS</span>
+          {% elsif age_in_years != 0 %}
+            <span class="label label-default">{{ age_in_years }} YEAR</span>
           {% else %}
-            {% assign months = greyhound.dob | date: '%m' %}
-            {% assign age = site.time | date: '%m' | minus: months %}
-            <span class="label label-default">{{ age }} MONTHS</span>
+            <!-- Age in Months -->
+            <!-- 3600 seconds in an hour, 24 hours in a day, ~30 days in a month -->
+            {% assign age_in_months = age_in_secs | divided_by: 3600 | divided_by: 24 | divided_by: 30 %}
+            <span class="label label-default">{{ age_in_months }} MONTHS</span>
           {% endif %}
         {% elsif greyhound.age %}
           <span class="label label-default">{{ greyhound.age | upcase }}</span>
