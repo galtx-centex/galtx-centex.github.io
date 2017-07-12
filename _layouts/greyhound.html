@@ -132,7 +132,7 @@ layout: page
             <span class="label label-default">{{ age }} MONTHS</span>
           {% endif %}
         {% elsif greyhound.age %}
-          <span class="label label-default">{{ greyhound.age }}</span>
+          <span class="label label-default">{{ greyhound.age | upcase }}</span>
         {% endif %}
       <!-- Adopted Greyhounds -->
       {% else %}
