@@ -93,10 +93,11 @@ layout: page
     </div>
     <div class="col-sm-6 info-labels">
 
-      {% if greyhound.sex == "MALE" %}
-        <span class="label label-primary">{{ greyhound.sex }}</span>
-      {% elsif greyhound.sex == "FEMALE" %}
-        <span class="label label-info">{{ greyhound.sex }}</span>
+      {% assign sex = greyhound.sex | upcase %}
+      {% if sex == "MALE" %}
+        <span class="label label-primary">{{ sex }}</span>
+      {% elsif sex == "FEMALE" %}
+        <span class="label label-info">{{ sex }}</span>
       {% endif %}
 
       {% if greyhound.cats == null %}
@@ -108,7 +109,7 @@ layout: page
       {% endif %}
 
       {% if greyhound.color %}
-        <span class="label label-default">{{ greyhound.color }}</span>
+        <span class="label label-default">{{ greyhound.color | upcase }}</span>
       {% endif %}
 
       <!-- Deceased Greyhounds -->
@@ -138,7 +139,7 @@ layout: page
         {% if greyhound.dob %}
           <span class="label label-default">Born {{ greyhound.dob | date: '%b %d, %Y' }}</span>
         {% elsif greyhound.age %}
-          <span class="label label-default">{{ greyhound.age }}</span>
+          <span class="label label-default">{{ greyhound.age | upcase }}</span>
         {% endif %}
       {% endif %}
 
