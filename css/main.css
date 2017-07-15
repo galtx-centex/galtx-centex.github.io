@@ -507,6 +507,16 @@ a.thumbnail:hover {
   height: 100%;
 }
 
+/* Facebook Events */
+.events-container {
+  padding-bottom: 10px;
+}
+@media (min-width: 768px) {
+.events-container {
+  padding-top: 16px;
+}
+}
+
 /* Google Maps */
 .google-maps {
   position: relative;
