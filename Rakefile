@@ -14,7 +14,7 @@ task :htmlcheck => :build do
   puts "Running HTML Check..."
   options = { :assume_extension => true,
               :alt_ignore => [/.*/],
-              :url_ignore => ['#', 'http://www.petfinderfoundation.com/'] }
+              :url_ignore => ['#'] }
   HTMLProofer.check_directory("./_site", options).run
 end
 
