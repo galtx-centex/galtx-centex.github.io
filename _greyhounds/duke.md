@@ -2,7 +2,7 @@
 layout: greyhound
 title: Duke
 date: 2017-06-13
-category: available
+category: adopted
 color: BRINDLE
 dob: 2014-04-13
 pic: duke.jpg
@@ -14,6 +14,7 @@ pics:
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253100818572:0'
 pending: yes
+doa: 2017-07-19
 ---
 
 I've just arrived!
