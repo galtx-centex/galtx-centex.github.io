@@ -14,7 +14,7 @@ pics:
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253100818572:0'
 pending: yes
-doa: 2017-07-19
+doa: 2017-07-18
 ---
 
 I've just arrived!
