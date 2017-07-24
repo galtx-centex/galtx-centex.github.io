@@ -27,9 +27,9 @@ come up during the application review. All adults that live in the home need to 
 Adoption Approval
 ------------------------
 
-After the home visit, we will notify you of the decision. We reserve the right to deny an application for any reason,
-and a $75 refund on your deposit is available upon request. If approved, we will begin the process of helping you select
-the best greyhound to suit your interest and lifestyle. We discourage requesting a dog based solely on physical traits.
+After the home visit, we will notify you of the decision. We reserve the right to deny an application for any reason.
+If approved, we will begin the process of helping you select the best greyhound to suit your interest and lifestyle.
+We discourage requesting a dog based solely on physical traits.
 Greyhounds are pets and are to be incorporated into your family lifestyle based on personality and character traits.
 Keep in mind, it is likely that a greyhound will behave differently in your home than they did at the meet and greet.
 
