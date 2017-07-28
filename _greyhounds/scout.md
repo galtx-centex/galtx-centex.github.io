@@ -12,6 +12,7 @@ pics:
   - scoutwater.jpg
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156392558993572'
+pending: yes
 ---
 
 Girl Scout has been the perfect house guest and playmate for her foster sister.
