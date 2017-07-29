@@ -3,11 +3,12 @@ layout: greyhound
 title: Blackjack Mongo
 date: 2010-01-29
 age: 4 YEARS
-category: adopted
+category: deceased
 color: DARK BRINDLE
 nick: Blackjack
 pic: blackjackmongo.jpg
 sex: FEMALE
+dod: 2017-07-28
 ---
 
 Lovely young gal with a gorgeous dark brindle coat, full of energy and excitement about the world of
