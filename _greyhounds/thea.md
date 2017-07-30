@@ -2,7 +2,7 @@
 layout: greyhound
 title: Thea
 date: 2017-05-15
-category: available
+category: adopted
 color: BLACK
 dob: 2009-07-19
 pic: thea.jpeg
@@ -12,6 +12,7 @@ fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253179383572'
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156314248588572:0'
 pending: yes
+doa: 2017-07-29
 ---
 
 Hello.  My name is Thea. I raced under the name “That’s Greek to me.”  Can you believe that?  One of the vet techs said I needed a beautiful Greek name and she called me Thea - it means goddess.  
