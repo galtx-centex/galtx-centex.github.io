@@ -2,7 +2,7 @@
 layout: greyhound
 title: Scout
 date: 2017-07-15
-category: available
+category: adopted
 color: FAWN
 dob: 2012-04-02
 pic: scout.jpg
@@ -13,6 +13,7 @@ pics:
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156392558993572'
 pending: yes
+doa: 2017-07-29
 ---
 
 Girl Scout has been the perfect house guest and playmate for her foster sister.
