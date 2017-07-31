@@ -6,12 +6,12 @@ layout: page
 
 <!-- Date of Birth -->
 {% if greyhound.dob %}
-  {% assign born = greyhound.dob | date: '%b %d, %Y' %}
+  {% assign born = greyhound.dob | date: '%b %-d, %Y' %}
 {% endif %}
 
 <!-- Date of Death -->
 {% if greyhound.dod %}
-  {% assign died = greyhound.dod | date: '%b %d, %Y' %}
+  {% assign died = greyhound.dod | date: '%b %-d, %Y' %}
 {% endif %}
 
 {% if greyhound.category == 'deceased' %}
