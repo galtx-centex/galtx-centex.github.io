@@ -6,6 +6,7 @@ category: available
 color: Red
 dob: 2015-12-03
 sex: female
+cats: no
 pic: maizie.jpg
 pics:
   - maizie1.jpg
