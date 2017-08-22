@@ -2,7 +2,7 @@
 layout: greyhound
 title: Opal
 date: 2017-08-22
-age: 9 YEARS
+dob: 2004-07-16
 category: available
 color: FAWN
 pic: opal.jpg
