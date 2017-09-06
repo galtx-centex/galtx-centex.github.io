@@ -1,0 +1,13 @@
+---
+layout: greyhound
+title: Jupiter
+date: 2017-09-04
+category: available
+color: Red
+dob: 2015-01-20
+pic:
+sex: Male
+cats: 
+---
+
+I've just arrived!
