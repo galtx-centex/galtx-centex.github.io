@@ -12,7 +12,11 @@ permalink: /greyhounds/
     {% for greyhound in greyhounds reversed %}
       <div class="col-sm-4 col-md-3">
         <a class="thumbnail" href="{{ greyhound.url }}">
-          <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
+          {% if greyhound.pic %}
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
+          {% else %}
+            <img class="img-rounded" src="/img/thm/gpa_logo_blue.jpg">
+          {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
               <h3>{{ greyhound.nick }}</h3>
