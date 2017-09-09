@@ -5,7 +5,7 @@ date: 2010-03-05
 age: 5 YEARS
 category: adopted
 cats: no
-pic: gpa_logo_blue_150.jpg
+pic:
 sex: FEMALE
 ---
 

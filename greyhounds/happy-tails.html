@@ -18,7 +18,11 @@ pagination:
     {% for greyhound in paginator.posts %}
       <div class="col-xs-6 col-sm-4 col-md-2">
         <a class="thumbnail" href="{{ greyhound.url }}">
-          <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
+          {% if greyhound.pic %}
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
+          {% else %}
+            <img class="img-rounded" src="/img/thm/gpa_logo_blue.jpg">
+          {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
               <h3>{{ greyhound.nick }}</h3>

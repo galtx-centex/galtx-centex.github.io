@@ -47,7 +47,11 @@ layout: page
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-rounded" src="/img/{{ greyhound.pic }}"></img>
+    {% if greyhound.pic %}
+      <img class="img-rounded" src="/img/{{ greyhound.pic }}"></img>
+    {% else %}
+      <img class="img-rounded" src="/img/gpa_logo_blue.jpg"></img>
+    {% endif %}
   </div>
   <div class="profile-content">
     {{ content }}
