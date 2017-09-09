@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Red
 dob: 2015-01-20
-pic:
+pic: jupiter.jpg
 sex: Male
 cats: 
 ---

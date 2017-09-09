@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Brindle
 dob: 2015-04-02
-pic:
+pic: anny.jpg
 sex: Female
 cats: 
 ---
