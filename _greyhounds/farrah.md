@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Brindle
 dob: 2014-01-28
-pic:
+pic: farrah.jpg
 sex: Female
 cats: 
 ---

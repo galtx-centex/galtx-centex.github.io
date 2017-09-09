@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Brindle
 dob: 2014-02-07
-pic:
+pic: jitterbug.jpg
 sex: Female
 cats: no
 ---
