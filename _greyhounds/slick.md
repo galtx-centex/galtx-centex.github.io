@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Red
 dob: 2014-06-01
-pic:
+pic: slick.jpg
 sex: Male
 cats: no
 ---

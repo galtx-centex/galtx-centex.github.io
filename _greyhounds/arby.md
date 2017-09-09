@@ -5,7 +5,7 @@ date: 2017-09-04
 category: available
 color: Black
 dob: 2014-10-18
-pic:
+pic: arby.jpg
 sex: Male
 cats: 
 ---
