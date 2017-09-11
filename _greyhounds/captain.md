@@ -8,6 +8,9 @@ dob: 2015-11-19
 pic: captain.jpg
 sex: Male
 cats: 
+pics:
+  - captain1.jpg
+  - captain2.jpg
 ---
 
 I've just arrived!

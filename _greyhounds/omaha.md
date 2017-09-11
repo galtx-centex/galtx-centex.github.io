@@ -8,6 +8,8 @@ dob: 2015-01-02
 pic: omaha.jpg
 sex: Male
 cats: 
+pics:
+  - omaha1.jpg
 ---
 
 I've just arrived!
