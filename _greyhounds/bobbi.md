@@ -8,6 +8,10 @@ dob: 2014-10-18
 pic: bobbi.jpg
 sex: Female
 cats: no
+pics:
+  - bobbi1.jpg
+fb-posts:
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156575810923572:0'
 ---
 
 I've just arrived!

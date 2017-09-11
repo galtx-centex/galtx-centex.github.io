@@ -8,6 +8,8 @@ dob: 2015-01-20
 pic: jupiter.jpg
 sex: Male
 cats: 
+pics:
+  - jupiter1.jpg
 ---
 
 I've just arrived!

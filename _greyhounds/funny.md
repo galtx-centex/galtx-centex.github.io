@@ -8,6 +8,8 @@ dob: 2013-04-12
 pic: funny.jpg
 sex: Female
 cats: 
+pics:
+  - funny1.jpg
 ---
 
 I've just arrived!
