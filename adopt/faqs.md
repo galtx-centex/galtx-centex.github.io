@@ -23,8 +23,7 @@ and (except puppies) received a full dental.
 There is no deposit or fee required with foster applications.
 
 ## What are the prerequisites for adoption?
-Greyhounds are not for everyone. GPA-CT will generally not place greyhounds with families who have children under five
-years of age. Greyhounds should not be kept as outside dogs or left in a garage. They have insufficient body fat and too
+Greyhounds are not for everyone. Greyhounds should not be kept as outside dogs or left in a garage. They have insufficient body fat and too
 sparse a coat and do not adapt well to extreme heat or cold. GPA-CT also reserves the right to deny any application for
 any reason.
 
