@@ -8,6 +8,7 @@ dob: 2014-06-01
 pic: slick.jpg
 sex: Male
 cats: no
+pending: yes
 ---
 
 I've just arrived!
