@@ -2,12 +2,13 @@
 layout: greyhound
 title: Farrah
 date: 2017-09-04
-category: available
+category: adopted
 color: Brindle
 dob: 2014-01-28
 pic: farrah.jpg
 sex: Female
-cats: 
+cats: null
+doa: 2017-09-16
 ---
 
 I've just arrived!
