@@ -12,6 +12,7 @@ pics:
   - bobbi1.jpg
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156575810923572:0'
+pending: yes
 ---
 
 I've just arrived!
