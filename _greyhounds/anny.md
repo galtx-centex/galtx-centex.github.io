@@ -7,7 +7,8 @@ color: Brindle
 dob: 2015-04-02
 pic: anny.jpg
 sex: Female
-cats: 
+cats: null
+pending: yes
 ---
 
 I've just arrived!
