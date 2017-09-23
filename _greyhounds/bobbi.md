@@ -2,7 +2,7 @@
 layout: greyhound
 title: Bobbi
 date: 2017-09-04
-category: available
+category: adopted
 color: Black
 dob: 2014-10-18
 pic: bobbi.jpg
@@ -12,7 +12,7 @@ pics:
   - bobbi1.jpg
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156575810923572:0'
-pending: yes
+doa: 2017-09-23
 ---
 
 I've just arrived!
