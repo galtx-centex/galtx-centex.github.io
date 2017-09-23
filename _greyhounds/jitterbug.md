@@ -10,6 +10,7 @@ sex: Female
 cats: no
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156581972673572:0'
+pending: yes
 ---
 
 I've just arrived!
