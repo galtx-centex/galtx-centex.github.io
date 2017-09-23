@@ -9,6 +9,7 @@ sex: FEMALE
 pic: paola.jpg
 pics:
   - paola1.jpg
+pending: yes
 ---
 
 Paola is a beautiful 8 year old gentile lady.  She has taken to home life very quickly and enjoys lounging around the house.  She does very well in her crate at night, and we leave the crate door open throughout the day.  
