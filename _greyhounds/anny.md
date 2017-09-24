@@ -2,13 +2,13 @@
 layout: greyhound
 title: Anny
 date: 2017-09-04
-category: available
+category: adopted
 color: Brindle
 dob: 2015-04-02
 pic: anny.jpg
 sex: Female
 cats: null
-pending: yes
+doa: 2017-09-24
 ---
 
 I've just arrived!
