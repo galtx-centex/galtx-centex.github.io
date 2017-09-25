@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'html-proofer'
-gem 'colorize'
+gem 'colored'
 gem 'therubyracer'
 
 group :jekyll_plugins do
