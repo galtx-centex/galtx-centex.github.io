@@ -15,4 +15,4 @@ fb-posts:
 doa: 2017-09-23
 ---
 
-I've just arrived!
+I am a sweet, shy girl who is starting to get the hang of life in a people house. I like to be in the same room with my people and get along great with my four legged host [Zella](/greyhounds/zella/). They tell me I'm retired now so I don't get in a hurry when we go for walks. We've seen a few cats on our walks and I don't see what the big deal is. I love getting neck rubs and am getting used to just taking long naps. I do great in the car and look forward to meeting my forever people
