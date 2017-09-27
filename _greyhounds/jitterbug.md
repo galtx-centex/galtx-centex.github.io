@@ -2,7 +2,7 @@
 layout: greyhound
 title: Jitterbug
 date: 2017-09-04
-category: available
+category: adopted
 color: Brindle
 dob: 2014-02-07
 pic: jitterbug.jpg
@@ -11,6 +11,7 @@ cats: no
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156581972673572:0'
 pending: yes
+doa: 2017-09-27
 ---
 
 I've just arrived!
