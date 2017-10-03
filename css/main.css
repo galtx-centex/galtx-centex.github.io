@@ -114,6 +114,31 @@ a.thumbnail:hover {
 }
 }
 
+/* Calendar text */
+.calendar-home h1 {
+  display: inline-block;
+  font-family: 'Dancing Script',cursive;
+  font-size: 4rem;
+  background: hotpink;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 6px;
+}
+.carousel-inner > .item.calendar-home img {
+  min-height: 100%;
+}
+@media (min-width: 321px) {
+.carousel-inner > .item.calendar-home img {
+  min-height: none;
+  min-width: 100%;
+}
+}
+@media (min-width: 992px) {
+.calendar-home h1 {
+  font-size: 7rem;
+}
+}
+
 /* Adopt Me text */
 .adopt-me h1 {
   display: inline-block;
