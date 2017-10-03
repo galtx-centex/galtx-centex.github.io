@@ -7,7 +7,8 @@ color: Black
 dob: 2014-10-18
 pic: arby.jpg
 sex: Male
-cats: 
+cats: null
+pending: yes
 ---
 
 I've just arrived!
