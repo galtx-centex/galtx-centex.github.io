@@ -12,6 +12,7 @@ pics:
   - maizie1.jpg
   - maizie2.jpg
   - maizie3.jpg
+pending: yes
 ---
 
 Maizie has fit into home life very well. She is very sweet, loving, and curious.
