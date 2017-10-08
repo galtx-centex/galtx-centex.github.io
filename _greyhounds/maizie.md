@@ -2,7 +2,7 @@
 layout: greyhound
 title: Maizie
 date: 2017-07-31
-category: available
+category: adopted
 color: Red
 dob: 2015-12-03
 sex: female
@@ -13,6 +13,7 @@ pics:
   - maizie2.jpg
   - maizie3.jpg
 pending: yes
+doa: 2017-10-07
 ---
 
 Maizie has fit into home life very well. She is very sweet, loving, and curious.
