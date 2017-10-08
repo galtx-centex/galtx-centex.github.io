@@ -8,6 +8,7 @@ dob: 2015-12-02
 pic: striker.jpg
 sex: Female
 cats: no
+pending: yes
 ---
 
 I've just arrived!
