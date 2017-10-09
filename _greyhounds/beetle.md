@@ -7,7 +7,8 @@ color: Black
 dob: 2015-03-17
 pic: beetle.jpg
 sex: Male
-cats: 
+cats: null
+pending: yes
 ---
 
 I've just arrived!
