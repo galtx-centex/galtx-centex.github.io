@@ -7,9 +7,10 @@ color: Brindle
 dob: 2013-04-12
 pic: funny.jpg
 sex: Female
-cats: 
+cats: null
 pics:
   - funny1.jpg
+pending: yes
 ---
 
 I've just arrived!
