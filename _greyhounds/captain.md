@@ -7,10 +7,11 @@ color: White and Brindle
 dob: 2015-11-19
 pic: captain.jpg
 sex: Male
-cats: 
+cats: null
 pics:
   - captain1.jpg
   - captain2.jpg
+pending: yes
 ---
 
 I've just arrived!
