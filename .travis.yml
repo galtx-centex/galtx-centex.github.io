@@ -13,8 +13,8 @@ install:
   - sudo dpkg -i libhunspell-1.3-0_1.3.3-3_amd64.deb
   - sudo dpkg -i hunspell_1.3.3-3_amd64.deb
 
-script:
-  - rake test
+#script:
+#  - rake test
 
 deploy:
   provider: pages
