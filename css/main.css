@@ -94,7 +94,7 @@ a.thumbnail:hover {
   max-height: 100%;
   max-width: none;
 }
-@media (min-width: 321px) {
+@media (min-width: 361px) {
 .carousel-inner > .item.welcome > img {
   max-height: none;
   max-width: 100%;
