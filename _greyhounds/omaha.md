@@ -7,9 +7,10 @@ color: Black
 dob: 2015-01-02
 pic: omaha.jpg
 sex: Male
-cats: 
+cats: null
 pics:
   - omaha1.jpg
+pending: yes
 ---
 
 I've just arrived!
