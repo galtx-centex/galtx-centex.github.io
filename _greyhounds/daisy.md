@@ -13,7 +13,7 @@ pics:
   - daisy3.jpg
 fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/photos/a.482154863571.255394.100961113571/10156574332168572/'
-pending: yes
+pending: no
 cats: no
 ---
 
