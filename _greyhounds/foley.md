@@ -2,12 +2,13 @@
 layout: greyhound
 title: Foley
 date: 2017-06-27
-category: available
+category: adopted
 color: BRINDLE
 dob: 2015-10-23
 sex: MALE
 pic: foley.jpg
 pending: no
+doa: 2017-11-15
 ---
 
 Foley is a handsome young brindle boy who is just beginning to learn about home life.  He is very bright and has already learned how to ring the bells on the back door to let us know he needs to go out.  Sometimes he also rings the bells when he is bored and wants attention.  He enjoys walks around the neighborhood and is usually really good on the leash except for when he spots a squirrel.  Normally, he responds very well to correction and then continues the walk.  He loves meeting new people on his walks and at the pet store.    He gets along with the resident senior greyhound, but sometimes he wants to play more than she does.   
