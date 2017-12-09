@@ -2,7 +2,7 @@
 layout: greyhound
 title: Omaha
 date: 2017-09-04
-category: available
+category: adopted
 color: Black
 dob: 2015-01-02
 pic: omaha.jpg
@@ -11,6 +11,7 @@ cats: null
 pics:
   - omaha1.jpg
 pending: yes
+doa: 2017-12-09
 ---
 
 I've just arrived!
