@@ -7,7 +7,7 @@ color: Red
 dob: 2015-01-20
 pic: jupiter.jpg
 sex: Male
-cats: 
+cats: no
 pics:
   - jupiter1.jpg
 ---
