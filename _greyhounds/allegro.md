@@ -9,6 +9,7 @@ pic: allegro.jpg
 sex: male
 pics:
   - allegro1.jpg
+cats: no
 ---
 
 I've just arrived!
