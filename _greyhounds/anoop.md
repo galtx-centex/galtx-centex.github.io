@@ -24,3 +24,7 @@ only has one tooth but no need to worry about any special diet, he can eat small
 just fine.  Because of his lack of teeth, his tongue is often adorably hanging out of his
 mouth. He would do well in any home with non aggressive, calm pets and children who are old
 enough to understand proper care and kindness for animals.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/249740342?title=0&byline=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
