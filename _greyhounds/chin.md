@@ -7,6 +7,7 @@ color: Red brindle
 dob: 2010-08-31
 pic: chin.jpg
 sex: female
+pending: yes
 ---
 
 Chin Chin is a seven year old female with a gorgeous fawn-brindle coat.
