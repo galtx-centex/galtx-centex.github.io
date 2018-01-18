@@ -10,4 +10,3 @@ sex: male
 doa: 2018-01-10
 ---
 
-I've just arrived!

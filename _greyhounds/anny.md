@@ -11,4 +11,3 @@ cats: null
 doa: 2017-09-24
 ---
 
-I've just arrived!

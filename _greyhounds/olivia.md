@@ -10,4 +10,3 @@ pic: olivia.jpg
 sex: FEMALE
 ---
 
-I just arrived!

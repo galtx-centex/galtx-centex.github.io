@@ -13,4 +13,3 @@ cats: no
 doa: 2018-01-10
 ---
 
-I've just arrived!

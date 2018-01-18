@@ -10,4 +10,3 @@ pic: frank.JPG
 sex: MALE
 ---
 
-I just arrived! More info coming soon.

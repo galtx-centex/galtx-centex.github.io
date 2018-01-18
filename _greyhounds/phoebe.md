@@ -11,4 +11,3 @@ pic: phoebe.jpg
 sex: FEMALE
 ---
 
-I just arrived! Bio coming soon!

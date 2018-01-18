@@ -10,4 +10,3 @@ sex: female
 doa: 2017-11-28
 ---
 
-I've just arrived!

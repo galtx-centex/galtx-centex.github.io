@@ -9,4 +9,3 @@ pic: judge.jpg
 sex: MALE
 ---
 
-I just arrived!

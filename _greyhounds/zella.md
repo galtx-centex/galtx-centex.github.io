@@ -10,4 +10,3 @@ pic: zella.jpg
 sex: FEMALE
 ---
 
-I just arrived!

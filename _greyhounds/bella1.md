@@ -10,4 +10,3 @@ pic: bella1.JPG
 sex: FEMALE
 ---
 
-I just arrived! More info coming soon.

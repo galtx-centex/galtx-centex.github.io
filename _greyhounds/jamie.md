@@ -10,4 +10,3 @@ pic: jamie.JPG
 sex: MALE
 ---
 
-I just arrived!

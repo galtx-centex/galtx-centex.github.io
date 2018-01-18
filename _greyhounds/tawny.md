@@ -11,4 +11,3 @@ pic: tawny.jpg
 sex: FEMALE
 ---
 
-I've just arrived!

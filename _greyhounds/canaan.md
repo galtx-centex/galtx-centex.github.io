@@ -12,4 +12,3 @@ sex: MALE
 ---
 
 
-I just arrived!

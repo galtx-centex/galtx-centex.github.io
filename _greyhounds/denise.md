@@ -10,4 +10,3 @@ pic: denise.JPG
 sex: FEMALE
 ---
 
-I just arrived!

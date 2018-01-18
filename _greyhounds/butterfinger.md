@@ -10,4 +10,3 @@ pic: butterfinger.JPG
 sex: FEMALE
 ---
 
-I just arrived!

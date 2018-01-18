@@ -11,4 +11,3 @@ pic: bear.jpg
 sex: MALE
 ---
 
-I just arrived! Bio coming soon

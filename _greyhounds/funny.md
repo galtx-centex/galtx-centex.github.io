@@ -14,4 +14,3 @@ pending: yes
 doa: 2017-10-11
 ---
 
-I've just arrived!

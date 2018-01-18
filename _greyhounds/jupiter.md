@@ -12,4 +12,3 @@ pics:
   - jupiter1.jpg
 ---
 
-I've just arrived!

@@ -10,4 +10,3 @@ pic: galaxy.jpg
 sex: FEMALE
 ---
 
-I just arrived! Bio coming soon
