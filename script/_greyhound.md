@@ -8,5 +8,3 @@ dob: Date of birth, YYYY-MM-DD
 pic: name of pic, not path
 sex: male or female
 ---
-
-I've just arrived!
