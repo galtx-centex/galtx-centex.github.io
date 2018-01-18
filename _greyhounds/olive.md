@@ -9,4 +9,6 @@ pic: olive.jpg
 sex: female
 pics:
   - olive1.jpg
+cats: yes
 ---
+
