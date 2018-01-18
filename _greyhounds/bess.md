@@ -9,4 +9,6 @@ pic: bess.jpg
 sex: female
 pics:
   - bess1.jpg
+cats: yes
 ---
+
