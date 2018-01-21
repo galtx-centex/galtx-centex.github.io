@@ -9,7 +9,7 @@ pic: oakley.jpg
 sex: male
 pics:
   - oakley1.jpg
-cats: no
+cats: yes
 pending: yes
 ---
 
