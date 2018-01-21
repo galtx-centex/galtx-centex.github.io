@@ -10,6 +10,7 @@ sex: male
 pics:
   - oakley1.jpg
 cats: no
+pending: yes
 ---
 
 Oakley has been an excellent house guest. He is definitely still puppy and would benefit from a
