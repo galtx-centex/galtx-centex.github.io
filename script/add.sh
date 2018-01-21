@@ -32,4 +32,6 @@ perl -p -i -e "s/^title:.*/title: \u${NAME}/g or
                s/^dob:.*/dob: ${DOB}/g or
                s/^pic:.*/pic: $(basename $PIC)/g or
                s/^sex:.*/sex: ${SEX}/g" _greyhounds/${NAME}.md
+./script/thumbnail.sh ${PIC}
+git add ${PIC} img/thm/$(basename $PIC)
 git add _greyhounds/${NAME}.md
