@@ -7,4 +7,5 @@ color: Fawn
 dob: 2009-02-24
 pic: nila.jpg
 sex: female
+cats: yes
 ---
