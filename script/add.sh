@@ -17,6 +17,10 @@ while getopts ":n:c:b:p:x:" opt; do
     x)
       SEX=$OPTARG
       ;;
+    \?)
+      echo "Usage: add.sh -n <name> -c <color> -b <dob> -p <pic> -x <sex>"
+      exit 0
+      ;;
   esac
 done
 
