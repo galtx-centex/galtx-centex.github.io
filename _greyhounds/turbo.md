@@ -2,7 +2,7 @@
 layout: greyhound
 title: Turbo
 date: 2017-11-22
-category: available
+category: adopted
 cats: yes
 color: BRINDLE
 dob: 2015-06-23
@@ -12,6 +12,7 @@ fb-posts:
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156821798388572'
   - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156817420898572'
 pending: yes
+doa: 2018-01-28
 ---
 
 Hi my name is Turbo. 
