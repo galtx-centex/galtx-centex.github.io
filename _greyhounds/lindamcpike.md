@@ -3,12 +3,13 @@ layout: greyhound
 title: Linda McPike
 date: 2010-01-13
 age: 2 YEARS
-category: adopted
+category: deceased
 cats: yes
 color: BRINDLE & WHITE
 nick: Linda
 pic: lindamcpike.jpg
 sex: FEMALE
+dod: 2017-04-26
 ---
 
 At nearly two years old, Linda packed her bags and left the racetrack realizing she would be happier in a good home.
