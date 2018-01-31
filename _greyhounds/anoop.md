@@ -2,11 +2,12 @@
 layout: greyhound
 title: Anoop
 date: 2017-11-02
-category: available
+category: adopted
 color: black
 dob: 2009-01-08
 pic: anoop.jpg
 sex: male
+doa: 2018-01-30
 ---
 
 Anoop, aka: Noop Dawg, is as gentle and loving as they come.  I would even say a bit fragile.
