@@ -4,6 +4,7 @@ title: Cathy
 date: 2010-02-14
 age: 2 YEARS
 category: adopted
+doa: 2010-02-14
 color: BLACK
 pic: cathy.jpg
 sex: FEMALE

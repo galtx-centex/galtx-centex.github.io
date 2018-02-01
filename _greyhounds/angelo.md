@@ -4,6 +4,7 @@ title: Angelo
 date: 2010-02-22
 age: 3 YEARS
 category: adopted
+doa: 2010-02-22
 cats: no
 color: WHITE & BRINDLE
 pic: angelo.jpg

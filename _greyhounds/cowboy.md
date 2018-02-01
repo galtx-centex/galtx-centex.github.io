@@ -4,6 +4,7 @@ title: Cowboy
 date: 2010-03-29
 age: 7 YEARS
 category: adopted
+doa: 2010-03-29
 cats: no
 color: LARGER BRINDLE
 pic: cowboy.jpg

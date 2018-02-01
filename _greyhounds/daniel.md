@@ -4,6 +4,7 @@ title: Daniel
 date: 2010-02-10
 age: 2 YEARS
 category: adopted
+doa: 2010-02-10
 color: BLACK & WHITE
 pic: daniel.jpg
 sex: MALE

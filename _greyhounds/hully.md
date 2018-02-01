@@ -4,6 +4,7 @@ title: Hully
 date: 2010-01-07
 age: 2 YEARS
 category: adopted
+doa: 2010-01-07
 cats: no
 color: RED BRINDLE
 pic: hully.jpg

@@ -4,6 +4,7 @@ title: Blue
 date: 2010-01-18
 age: 2 YEARS
 category: adopted
+doa: 2010-01-18
 cats: no
 color: BLUE & WHITE
 pic: blue.jpg

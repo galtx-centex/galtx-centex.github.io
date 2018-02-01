@@ -3,6 +3,7 @@ layout: greyhound
 title: Holly
 date: 2010-01-20
 category: adopted
+doa: 2010-01-20
 color: WHITE & BLACK
 pic: holly.jpg
 sex: FEMALE

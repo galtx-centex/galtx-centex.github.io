@@ -4,6 +4,7 @@ title: Alfie
 date: 2010-01-28
 age: 2 YEARS
 category: adopted
+doa: 2010-01-28
 color: RED
 pic: alfie.jpg
 sex: MALE

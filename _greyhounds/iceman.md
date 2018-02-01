@@ -4,6 +4,7 @@ title: Ice Man
 date: 2010-01-27
 age: 6 YEARS
 category: adopted
+doa: 2010-01-27
 cats: yes
 color: WHITE & BRINDLE
 pic: iceman.jpg

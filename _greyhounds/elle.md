@@ -4,6 +4,7 @@ title: Elle
 date: 2010-02-28
 age: 18 MONTHS
 category: adopted
+doa: 2010-02-28
 cats: yes
 color: BROWN BRINDLE
 pic: elle.jpg

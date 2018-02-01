@@ -3,6 +3,7 @@ layout: greyhound
 title: Lady Jeanine
 date: 2010-03-21
 category: adopted
+doa: 2010-03-21
 cats: yes
 color: BLACK & WHITE
 nick: Jeanine

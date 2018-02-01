@@ -4,6 +4,7 @@ title: Sheila
 date: 2010-02-19
 age: 6 YEARS
 category: adopted
+doa: 2010-02-19
 color: LIGHT BRINDLE
 pic: sheila.jpg
 sex: FEMALE

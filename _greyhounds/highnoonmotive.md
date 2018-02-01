@@ -4,6 +4,7 @@ title: High Noon Motive
 date: 2010-01-31
 age: 4 YEARS
 category: adopted
+doa: 2010-01-31
 color: BRINDLE
 nick: Motive
 pic: highnoonmotive.jpg

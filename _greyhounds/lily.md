@@ -4,6 +4,7 @@ title: Lily
 date: 2010-01-03
 age: 6 YEARS
 category: adopted
+doa: 2010-01-03
 color: WHITE & BRINDLE
 pic: lily.jpg
 sex: FEMALE

@@ -4,6 +4,7 @@ title: Coal
 date: 2010-01-11
 age: 2 YEARS
 category: adopted
+doa: 2010-01-11
 cats: no
 color: BLACK
 pic: coal.jpg

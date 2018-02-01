@@ -4,6 +4,7 @@ title: Jet
 date: 2010-02-17
 age: 3 YEARS
 category: adopted
+doa: 2010-02-17
 color: RED FAWN
 pic: jet.jpg
 sex: MALE

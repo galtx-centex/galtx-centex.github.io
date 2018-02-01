@@ -4,6 +4,7 @@ title: Nick
 date: 2010-01-22
 age: 4 YEARS
 category: adopted
+doa: 2010-01-22
 cats: yes
 color: BLACK & WHITE
 pic: nick.jpg

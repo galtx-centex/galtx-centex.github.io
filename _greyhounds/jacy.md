@@ -4,6 +4,7 @@ title: Jacy
 date: 2010-03-06
 age: 15 MONTHS
 category: adopted
+doa: 2010-03-06
 cats: no
 color: BLUE FAWN
 pic: jacy.jpg

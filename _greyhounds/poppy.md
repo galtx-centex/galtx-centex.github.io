@@ -4,6 +4,7 @@ title: Poppy
 date: 2010-07-02
 age: 5 YEARS
 category: adopted
+doa: 2010-07-02
 cats: yes
 color: RED
 pic: poppy.jpg

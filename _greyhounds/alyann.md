@@ -3,6 +3,7 @@ layout: greyhound
 title: Alyann
 date: 2010-01-09
 category: adopted
+doa: 2010-01-09
 color: BRINDLE
 pic: alyann.jpg
 sex: FEMALE

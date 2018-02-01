@@ -4,6 +4,7 @@ title: Jack
 date: 2015-05-19
 age: 6 YEARS
 category: adopted
+doa: 2015-05-19
 color: BRINDLE
 pic: jack2.jpg
 sex: MALE

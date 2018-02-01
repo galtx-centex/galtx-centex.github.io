@@ -3,6 +3,7 @@ layout: greyhound
 title: Giselle
 date: 2010-03-10
 category: adopted
+doa: 2010-03-10
 cats: no
 color: RED FAWN
 pic: giselle.jpg

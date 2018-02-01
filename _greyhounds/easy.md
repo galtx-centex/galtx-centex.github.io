@@ -4,6 +4,7 @@ title: Easy
 date: 2010-01-05
 age: 4 YEARS
 category: adopted
+doa: 2010-01-05
 cats: yes
 color: FAWN
 pic: easy.jpg

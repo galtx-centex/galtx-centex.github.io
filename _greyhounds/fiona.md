@@ -4,6 +4,7 @@ title: Fiona
 date: 2010-02-12
 age: 2 YEARS
 category: adopted
+doa: 2010-02-12
 color: WHITE & BRINDLE
 pic: fiona.jpg
 sex: FEMALE

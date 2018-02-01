@@ -4,6 +4,7 @@ title: Carlos
 date: 2010-01-15
 age: 4 YEARS
 category: adopted
+doa: 2010-01-15
 cats: yes
 color: FAWN
 pic: carlos.jpg
