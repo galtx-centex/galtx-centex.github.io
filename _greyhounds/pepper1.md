@@ -6,6 +6,7 @@ age: 9 YEARS
 cats: no
 color: FAWN
 category: deceased
+dod: 2010-04-28
 pic: pepper1.jpg
 sex: FEMALE
 ---

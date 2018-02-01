@@ -6,6 +6,7 @@ age: 8 YEARS
 cats: no
 color: BRINDLE
 category: deceased
+dod: 2010-02-15
 pic: lily2.jpg
 sex: FEMALE
 ---

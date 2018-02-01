@@ -6,6 +6,7 @@ age: 12 YEARS
 cats: no
 color: LIGHT FAWN
 category: deceased
+dod: 2010-02-16
 pic: pepper.jpg
 sex: FEMALE
 ---
