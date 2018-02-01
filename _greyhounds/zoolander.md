@@ -4,6 +4,7 @@ title: Zander
 date: 2010-03-25
 age: 1 YEAR
 category: adopted
+doa: 2010-03-25
 cats: no
 color: RED FAWN
 pic: zoolander.jpg

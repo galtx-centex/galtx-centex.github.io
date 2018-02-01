@@ -4,6 +4,7 @@ title: Alcide
 date: 2015-10-04
 age: 1 YEARS
 category: adopted
+doa: 2015-10-04
 color: WHITE/BRINDLE
 pic: alcide.jpg
 sex: MALE

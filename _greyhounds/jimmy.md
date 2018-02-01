@@ -4,6 +4,7 @@ title: Jimmy
 date: 2010-01-12
 age: 16 MONTHS
 category: adopted
+doa: 2010-01-12
 cats: yes
 color: BLACK
 pic: jimmy.jpg

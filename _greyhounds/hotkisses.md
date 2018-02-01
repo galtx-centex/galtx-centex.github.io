@@ -4,6 +4,7 @@ title: Hotkisses
 date: 2010-01-26
 age: 6 YEARS
 category: adopted
+doa: 2010-01-26
 color: RED BRINDLE
 pic: hotkisses.jpg
 sex: FEMALE

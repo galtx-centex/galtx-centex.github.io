@@ -4,6 +4,7 @@ title: Abnar
 date: 2010-03-01
 age: 3 YEARS
 category: adopted
+doa: 2010-03-01
 cats: yes
 color: BLACK
 pic: abnar.jpg

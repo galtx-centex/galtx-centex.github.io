@@ -4,6 +4,7 @@ title: Chrissie
 date: 2010-02-05
 age: 2 YEARS
 category: adopted
+doa: 2010-02-05
 color: BRINDLE
 pic: chrissie.jpg
 sex: FEMALE

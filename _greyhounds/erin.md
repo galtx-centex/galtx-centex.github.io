@@ -4,6 +4,7 @@ title: Erin
 date: 2010-01-23
 age: 5 YEARS
 category: adopted
+doa: 2010-01-23
 cats: no
 color: WHITE & BRINDLE
 pic: erin.jpg

@@ -4,6 +4,7 @@ title: Piper
 date: 2010-01-01
 age: 1 YEAR
 category: adopted
+doa: 2010-01-01
 pic: piper.jpg
 sex: FEMALE
 ---

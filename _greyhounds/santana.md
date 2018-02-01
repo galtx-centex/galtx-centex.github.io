@@ -4,6 +4,7 @@ title: Santana
 date: 2010-03-05
 age: 5 YEARS
 category: adopted
+doa: 2010-03-05
 cats: no
 pic:
 sex: FEMALE

@@ -4,6 +4,7 @@ title: Backwoods Tyson
 date: 2010-02-24
 age: 14 MONTHS
 category: adopted
+doa: 2010-02-24
 cats: yes
 color: RED BRINDLE
 nick: Tyson

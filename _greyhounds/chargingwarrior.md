@@ -4,6 +4,7 @@ title: Charging Warrior "Charlie"
 date: 2010-03-03
 age: 3 YEARS
 category: adopted
+doa: 2010-03-03
 cats: yes
 color: BRINDLE
 nick: Warrior

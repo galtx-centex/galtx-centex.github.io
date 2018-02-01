@@ -3,6 +3,7 @@ layout: greyhound
 title: Henny Penny
 date: 2010-03-14
 category: adopted
+doa: 2010-03-14
 cats: no
 color: BLACK
 nick: Penny

@@ -3,6 +3,7 @@ layout: greyhound
 title: Antigua Tia
 date: 2010-03-24
 category: adopted
+doa: 2010-03-24
 cats: yes
 color: BRINDLE
 nick: Antigua

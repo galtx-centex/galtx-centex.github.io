@@ -4,6 +4,7 @@ title: Nite Design
 date: 2015-07-01
 age: 3 YEARS
 category: adopted
+doa: 2015-07-01
 color: BLACK
 nick: Nite
 pic: nitedesign.jpg

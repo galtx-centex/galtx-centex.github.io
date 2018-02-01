@@ -4,6 +4,7 @@ title: Peach
 date: 2010-01-04
 age: 6 YEARS
 category: adopted
+doa: 2010-01-04
 color: LIGHT FAWN
 pic: peach.jpg
 sex: FEMALE

@@ -4,6 +4,7 @@ title: Carmelo
 date: 2010-01-30
 age: 18 MONTHS
 category: adopted
+doa: 2010-01-30
 color: BROWN & WHITE
 pic: carmelo.jpg
 sex: MALE

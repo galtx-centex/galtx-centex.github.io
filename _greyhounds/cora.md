@@ -4,6 +4,7 @@ title: Cora
 date: 2010-02-11
 age: 2 YEARS
 category: adopted
+doa: 2010-02-11
 color: DARK BRINDLE
 pic: cora.jpg
 sex: FEMALE

@@ -4,6 +4,7 @@ title: Anastasia (Ana)
 date: 2010-03-23
 age: 2 YEARS
 category: adopted
+doa: 2010-03-23
 cats: yes
 color: WHITE & RED
 nick: Anastasia

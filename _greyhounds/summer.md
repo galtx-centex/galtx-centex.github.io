@@ -4,6 +4,7 @@ title: Summer
 date: 2010-03-30
 age: 8 YEARS
 category: adopted
+doa: 2010-03-30
 cats: no
 color: FAWN
 pic: summer.jpg

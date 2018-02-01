@@ -4,6 +4,7 @@ title: Beau
 date: 2010-03-11
 age: 8 MONTHS
 category: adopted
+doa: 2010-03-11
 cat: yes
 color: FAWN
 pic: beau.jpg

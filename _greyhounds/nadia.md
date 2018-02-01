@@ -4,6 +4,7 @@ title: Nadia
 date: 2010-01-17
 age: 5 YEARS
 category: adopted
+doa: 2010-01-17
 cats: no
 color: FAWN
 pic: nadia.jpg

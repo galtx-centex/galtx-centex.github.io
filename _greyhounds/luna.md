@@ -4,6 +4,7 @@ title: Luna
 date: 2010-02-06
 age: 2 YEARS
 category: adopted
+doa: 2010-02-06
 color: BLACK
 pic: luna.jpg
 sex: FEMALE

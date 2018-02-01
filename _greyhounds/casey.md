@@ -3,6 +3,7 @@ layout: greyhound
 title: Casey
 date: 2010-03-15
 category: adopted
+doa: 2010-03-15
 cats: no
 color: RED FAWN
 pic: casey.jpg

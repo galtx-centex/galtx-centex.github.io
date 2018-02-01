@@ -4,6 +4,7 @@ title: Baby Girl
 date: 2010-04-03
 age: 6 YEARS
 category: adopted
+doa: 2010-04-03
 cats: yes
 color: WHITE & BLACK
 pic: baby-girl.jpg

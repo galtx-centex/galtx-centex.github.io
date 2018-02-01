@@ -4,6 +4,7 @@ title: Mona Nicole
 date: 2010-01-14
 age: 2 YEARS
 category: adopted
+doa: 2010-01-14
 cats: yes
 color: BLACK
 nick: Nicole

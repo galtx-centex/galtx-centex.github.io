@@ -4,6 +4,7 @@ title: Audi
 date: 2010-03-02
 age: 18 MONTHS
 category: adopted
+doa: 2010-03-02
 cats: yes
 color: WHITE & BLACK
 pic: audi.jpg

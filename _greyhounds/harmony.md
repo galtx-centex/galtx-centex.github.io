@@ -3,6 +3,7 @@ layout: greyhound
 title: Harmony
 date: 2010-02-25
 category: adopted
+doa: 2010-02-25
 cats: no
 color: BRINDLE
 pic: harmony.jpg

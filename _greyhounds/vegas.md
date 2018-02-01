@@ -4,6 +4,7 @@ title: Vegas
 date: 2010-02-07
 age: 2 YEARS
 category: adopted
+doa: 2010-02-07
 color: FAWN
 pic: vegas.jpg
 sex: FEMALE

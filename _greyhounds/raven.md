@@ -4,6 +4,7 @@ title: Raven
 date: 2010-04-04
 age: 5 YEARS
 category: adopted
+doa: 2010-04-04
 color: RED
 pic: raven.png
 sex: FEMALE

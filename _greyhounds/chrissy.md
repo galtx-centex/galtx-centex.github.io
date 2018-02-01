@@ -4,6 +4,7 @@ title: Chrissy
 date: 2010-03-07
 age: 4 YEARS
 category: adopted
+doa: 2010-03-07
 cats: yes
 color: WHITE & BLACK
 pic: chrissy.jpg

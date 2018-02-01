@@ -4,6 +4,7 @@ title: Backwoods Justice
 date: 2010-03-13
 age: 18 MONTHS
 category: adopted
+doa: 2010-03-13
 cats: no
 color: RED BRINDLE
 nick: Justice

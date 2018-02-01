@@ -4,6 +4,7 @@ title: Hope
 date: 2010-01-02
 age: 1 YEAR
 category: adopted
+doa: 2010-01-02
 color: FAWN
 pic: hope.jpg
 sex: FEMALE
