@@ -5,6 +5,7 @@ date: 2010-04-30
 age: 2015
 color: BRINDLE
 category: deceased
+dod: 2010-04-30
 pic: valkyrie.jpg
 sex: MALE
 ---

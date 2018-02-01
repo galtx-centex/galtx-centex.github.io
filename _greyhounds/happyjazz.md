@@ -5,6 +5,7 @@ date: 2010-03-17
 cats: yes
 color: RED & WHITE
 category: deceased
+dod: 2010-03-17
 nick: Jazz
 pic: happyjazz.jpg
 sex: FEMALE
