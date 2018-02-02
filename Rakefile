@@ -10,7 +10,7 @@ task :server do
   sh "bundle exec jekyll server -w"
 end
 
-task :htmlcheck => :build do
+task :htmlcheck do
   puts "Running HTML Check..."
   options = { :assume_extension => true,
               :disable_external => true,
@@ -19,7 +19,7 @@ task :htmlcheck => :build do
   HTMLProofer.check_directory("./_site", options).run
 end
 
-task :spellcheck => :build do
+task :spellcheck do
   puts "Running Spell Check..."
 
   errs = 0
