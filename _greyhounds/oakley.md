@@ -2,7 +2,7 @@
 layout: greyhound
 title: Oakley
 date: 2017-12-11
-category: available
+category: adopted
 color: Fawn
 dob: null
 pic: oakley.jpg
@@ -11,6 +11,7 @@ pics:
   - oakley1.jpg
 cats: yes
 pending: yes
+doa: 2018-02-01
 ---
 
 Oakley has been an excellent house guest. He is definitely still puppy and would benefit from a
