@@ -8,5 +8,7 @@ dob: 2017-01-01
 color: fawn
 cats: yes
 pic: lonnie.jpg
+pics:
+  - lonnie_1.png
 ---
 
