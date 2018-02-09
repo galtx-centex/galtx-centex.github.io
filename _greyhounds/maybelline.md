@@ -4,7 +4,7 @@ title: Maybelline
 date: 2018-02-01
 category: available
 sex: female
-age: 3
+age: 3 years
 color: black
 cats: no
 pic: maybelline.jpg
