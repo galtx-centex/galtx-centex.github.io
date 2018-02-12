@@ -7,6 +7,8 @@ color: Black
 dob: 2011-03-29
 pic: lamar.jpg
 sex: male
+fb-posts:
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10157073957563572:0'
 ---
 
 Don't let the _grey_ in this greyhound fool you; I'm only six years old and lots of spunk left in
