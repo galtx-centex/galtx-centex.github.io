@@ -8,5 +8,7 @@ age: 9 years
 color: brindle
 cats: yes
 pic: leno.jpg
+fb-posts:
+  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10157077231788572:0'
 ---
 
