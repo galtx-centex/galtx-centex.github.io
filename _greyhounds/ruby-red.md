@@ -8,5 +8,7 @@ dob: 2016-08-13
 color: red fawn
 cats: yes
 pic: ruby-red.jpg
+pics:
+  - ruby-red_1.jpg
 ---
 
