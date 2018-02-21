@@ -6,7 +6,7 @@ category: available
 sex: female
 age: 3 years
 color: black
-cats: no
+cats: yes
 pic: maybelline.jpg
 ---
 
