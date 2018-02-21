@@ -2,12 +2,13 @@
 layout: greyhound
 title: Chin
 date: 2017-11-19
-category: available
+category: adopted
 color: Red brindle
 dob: 2010-08-31
 pic: chin.jpg
 sex: female
 pending: yes
+doa: 2018-02-21
 ---
 
 Chin Chin is a seven year old female with a gorgeous fawn-brindle coat.
