@@ -8,5 +8,6 @@ dob: 2016-09-21
 color: brindle
 cats: no
 pic: eloise.jpg
+pending: yes
 ---
 
