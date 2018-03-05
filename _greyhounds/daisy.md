@@ -12,7 +12,7 @@ pics:
   - daisy2.jpg
   - daisy3.jpg
 fb-posts:
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/photos/a.482154863571.255394.100961113571/10156574332168572/'
+  - 'https://www.facebook.com/galt-centraltexas/photos/a.482154863571.255394.100961113571/10156574332168572/'
 pending: no
 cats: no
 doa: 2017-12-06

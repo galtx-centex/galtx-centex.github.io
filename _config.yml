@@ -1,10 +1,9 @@
 # Site settings
-title: GPA-Central Texas
-email: website@gpa-centex.org
+title: GALT-Central Texas
+email: website@galtx-centex.org
 description: "Adopting retired racing greyhounds in Austin, Texas and surrounding areas"
 baseurl: ""
-url: "http://gpa-centex.org"
-twitter_username: GPA_CenTex
+url: "https://galtx-centex.org"
 
 # Build settings
 markdown: kramdown

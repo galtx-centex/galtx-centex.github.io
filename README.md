@@ -1,19 +1,19 @@
-# [gpa-centex.org](http://gpa-centex.org/)
+# [galtx-centex.org](https://galtx-centex.org/)
 
-Greyhound Pets of America, Central Texas website
+GALT-Central Texas website
 
 Hosted on [GitHub Pages](https://pages.github.com/).
 
 Built by [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
-[![Build Status](https://travis-ci.org/gpa-centex/gpa-centex.github.io.svg?branch=source)](https://travis-ci.org/gpa-centex/gpa-centex.github.io)
+[![Build Status](https://travis-ci.org/galtx-centex/galtx-centex.github.io.svg?branch=source)](https://travis-ci.org/galtx-centex/galtx-centex.github.io)
 
-If you are not a part of the GPA-CTX team,
+If you are not a part of the galtx-centex team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
 [create a pull request](https://help.github.com/articles/creating-a-pull-request) for review.
 
-If you are on the GPA-CTX team:
+If you are on the galtx-centex team:
 
 1. [Create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository)
 , whether it be an enhancement, update, fix, etc.
@@ -28,7 +28,7 @@ If you are on the GPA-CTX team:
 
 ## How to Build the Website
 
-See the wiki post [How to Build the Website](https://github.com/gpa-centex/gpa-centex.github.io/wiki/How-to-Build-the-Website)
+See the wiki post [How to Build the Website](https://github.com/galtx-centex/galtx-centex.github.io/wiki/How-to-Build-the-Website)
 
 ## Copyright
 

@@ -6,7 +6,7 @@ permalink: /adopt/faqs/
 
 ## What are the adoption costs involved?
 **A non-refundable deposit of $50** should be submitted along with your application.
-This may be paid by check or electronically through our website at [gpa-centex.org/donate/](http://gpa-centex.org/donate/).
+This may be paid by check or electronically through our website at [galtx-centex.org/donate](/donate).
 The remaining  donation is due when an adoption is finalized.
 
 Effective April 1, 2016, adoption fees are as follows (these amounts are in addition to the deposit):
@@ -15,8 +15,8 @@ Effective April 1, 2016, adoption fees are as follows (these amounts are in addi
 * for adult dogs age 1 - 8 years, the donation will be $200
 * for senior dogs greater than 8 years, the donation will be $100.
 
-Your adoption will include a collar and leash set, muzzle, reference book, GPA-CT tag, one year
-membership in GPA Central Texas and the support of your GPA adoption team.  Your greyhound will
+Your adoption will include a collar and leash set, muzzle, reference book, GALT-Central Texas tag, one year
+membership in GALT-Central Texas and the support of your GALT-Central Texas adoption team.  Your greyhound will
 have been spayed or neutered, vaccinated, micro-chipped, tested for heartworm and other parasites,
 and (except puppies) received a full dental.
 
@@ -24,7 +24,7 @@ There is no deposit or fee required with foster applications.
 
 ## What are the prerequisites for adoption?
 Greyhounds are not for everyone. Greyhounds should not be kept as outside dogs or left in a garage. They have insufficient body fat and too
-sparse a coat and do not adapt well to extreme heat or cold. GPA-CT also reserves the right to deny any application for
+sparse a coat and do not adapt well to extreme heat or cold. GALT-Central Texas also reserves the right to deny any application for
 any reason.
 
 ## What is the temperament of these dogs?
@@ -74,8 +74,8 @@ by muzzling. Racing muzzles are used for photo finishes as well.
 
 ## Are there special responsibilities if I adopt a greyhound?
 Your greyhound must be kept on year-round heartworm preventative, kept free of parasites, receive regular vaccinations,
-be kept indoors, and wear a GPA-CT identification tag at all times.
+be kept indoors, and wear a GALT-Central Texas identification tag at all times.
 
 ### More Questions?
 
-Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
+Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)

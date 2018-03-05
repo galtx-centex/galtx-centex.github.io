@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Join GPA-Central Texas!
+title: Join GALT-Central Texas!
 permalink: /join/
 ---
 
-As a 501(c)(3) nonprofit organization, GPA-CT depends on the generosity of our members.
+As a 501(c)(3) nonprofit organization, GALT-Central Texas depends on the generosity of our members.
 From your feedback, we know that many of you would like more membership options.
 You may now choose your membership level and sign up for a monthly donation plan (through PayPal).
 Please make your selections to guarantee your membership and your commitment to the hounds in 2017!
@@ -15,7 +15,7 @@ To become a member, complete the
 and click the _Join_ button for the membership you've chosen.
 
 <h3 class="text-center">
-Thank you for supporting GPA-Central Texas!
+Thank you for supporting GALT-Central Texas!
 </h3>
 
 <div class="panel panel-platinum">
@@ -28,7 +28,7 @@ Thank you for supporting GPA-Central Texas!
       <li>A Basic Membership</li>
       <li>Your name listed in our monthly newsletter</li>
       <li>A set of note cards</li>
-      <li>A GPA-CT tote bag</li>
+      <li>A GALT-CT tote bag</li>
       <li>Naming rights to a foster dog</li>
       <li>Two tickets to our annual Greyt Gatsby Gala (tickets are valued at <i>$75</i> each)</li>
     </ul>
@@ -56,7 +56,7 @@ Thank you for supporting GPA-Central Texas!
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
           <li>A set of note cards</li>
-          <li>A GPA-CT tote bag</li>
+          <li>A GALT-CT tote bag</li>
           <li>Naming rights to a foster dog</li>
         </ul>
       </div>
@@ -83,7 +83,7 @@ Thank you for supporting GPA-Central Texas!
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
           <li>A set of note cards</li>
-          <li>A GPA-CT tote bag</li>
+          <li>A GALT-CT tote bag</li>
         </ul>
       </div>
       <div class="membership-btn">
@@ -157,4 +157,4 @@ Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3XCT
 
 ### Questions?
 
-Email the Membership Coordinator at [join@gpa-centex.org](mailto:join@gpa-centex.org)
+Email the Membership Coordinator at [join@galtx-centex.org](mailto:join@galtx-centex.org)

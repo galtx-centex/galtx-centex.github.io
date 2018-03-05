@@ -24,14 +24,12 @@ limitations under the License.
 /* Mast head */
 
 .masthead {
-  display: block;
-  width: 150px;
-  height: 150px;
-  vertical-align: middle;
-  border-radius: 3px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
+  margin: 1rem;
+  height: 14rem;
+  text-align: center;
+  img {
+    max-height: 100%;
+  }
 }
 
 /* Navigation bar */

@@ -4,7 +4,7 @@ title: Adoption
 permalink: /adopt/
 ---
 
-Adopting a Greyhound from GPA, Central Texas
+Adopting a Greyhound from GALT-Central Texas
 --------------------------------------------
 
 The application is processed in several steps. We want to get a feel for your family life to begin considering the right
@@ -36,21 +36,21 @@ Keep in mind, it is likely that a greyhound will behave differently in your home
 Pre-Adoption Visit
 ------------------
 
-After you have met a dog and agreed with your GPA placement volunteer on a good match, we will arrange for a second home
+After you have met a dog and agreed with your GALT-Central Texas placement volunteer on a good match, we will arrange for a second home
 visit with the selected dog. The adoption can be finalized at this point or you have the option of an extended trial
 period to make sure the dog is a good fit for your family. It could take several months for a dog to adapt to its
 permanent home and its complete personality to show, but it is easy to determine if a chosen dog is not a good fit. Most
 dogs are often nervous and do not exhibit their true nature or personalities in the first 24-48 hours, so it is
-important to be prepared for that introduction to your home and family. If all is well, the GPA placement team volunteer
+important to be prepared for that introduction to your home and family. If all is well, the GALT-Central Texas placement team volunteer
 will set a time to finalize the adoption. We are available to help you and your new family member adjust and work
 through any issues as long as you need us.
 
 ### Questions?
 
-Email the Adoption Coordinator at [adopt@gpa-centex.org](mailto:adopt@gpa-centex.org)
+Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
 
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/Adoption_Foster_Application.pdf" role="button">Download Application!</a>
+  <a class="btn btn-lg btn-success" href="/docs/Adoption_Application.pdf" role="button">Download Application!</a>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="CWHADMGHZ9SBW">

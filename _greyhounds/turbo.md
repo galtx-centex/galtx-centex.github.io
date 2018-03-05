@@ -9,8 +9,8 @@ dob: 2015-06-23
 pic: preston.jpg
 sex: MALE
 fb-posts:
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156821798388572'
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156817420898572'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156821798388572'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156817420898572'
 pending: yes
 doa: 2018-01-28
 ---
