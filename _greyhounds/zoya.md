@@ -9,7 +9,7 @@ dob: 2009-01-13
 pic: zoya.jpeg
 sex: FEMALE
 fb-posts:
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156237094993572:0'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156237094993572:0'
 doa: 2017-09-29
 ---
 

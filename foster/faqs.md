@@ -47,12 +47,12 @@ Otherwise, 3 or 4 short, on-leash walks per day should suffice.
 
 ### Do I have to own my home to foster greyhounds?
 
-No, but you must have permission from your property manager to have pets. GPA does not pay for any
+No, but you must have permission from your property manager to have pets. GALT-Central Texas does not pay for any
 additional pet deposits or rent increases.
 
 ### What do I do with my foster dog if I have to go out of town or on vacation?
 
-You may travel by car with the dog if you wish, or another GPA foster parent will sub-foster
+You may travel by car with the dog if you wish, or another GALT-Central Texas foster parent will sub-foster
 for you. Please notify the Foster Coordinator of travel plans; request in advance if a sub-foster is needed.
 
 ### How old are the foster dogs?
@@ -64,7 +64,7 @@ and special needs dogs become available and need experienced homes.
 
 Normally, a dog is in foster care from 2-12 weeks, usually 3-4 weeks.
 
-### What are my financial obligations to the foster dog and GPA-CT?
+### What are my financial obligations to the foster dog and GALT-Central Texas?
 
 Minimal. [Tomlinson's](http://www.tomlinsons.com/) has generously donated food for our foster families, so most of your
 obligations will be fresh water, a quiet place to rest inside your home, and time
@@ -81,13 +81,13 @@ foster other dogs after adopting; many people do!
 
 ### What if my foster dog gets sick or injured?
 
-GPA funds veterinary care for greyhounds in foster care. Contact the GPA Foster
+GALT-Central Texas funds veterinary care for greyhounds in foster care. Contact the GALT-Central Texas Foster
 Coordinator who will schedule an appointment for your foster dog at an
 approved vet clinic in your area.
 
 ## Support
 
-GPA provides continuous, ongoing support to the foster families throughout the
+GALT-Central Texas provides continuous, ongoing support to the foster families throughout the
 foster experience. Resources loaned to foster dogs and foster families include:
 
 * Muzzle (loan)
@@ -100,19 +100,19 @@ foster experience. Resources loaned to foster dogs and foster families include:
 * Preapproved local veterinarian support
 * Monthly protection from heartworm, flea and ticks
 * Foster Manual and Guidelines
-* 24-7 Toll Free GPA-CT Hotline [(855) 4-GO-FAST](tel:855-446-3278)
+* 24-7 Toll Free GALT-Central Texas Hotline [(855) 4-GO-FAST](tel:855-446-3278)
 * Coordinate schedule with adopters to meet dogs
 * Email reminders for Events and Meet-N-Greets
-* GPA Central Texas Facebook page
-* GPA Central Texas Website
+* GALT-Central Texas Facebook page
+* GALT-Central Texas Website
 * The publication "Children and Greyhounds"
 * Weekly Meet and Greet Events--socialize and show your foster dog to potential adopters
 * Continuous, ongoing Q&A support from Foster and Adoption Coordinator: local, trained
   and experienced volunteer knowledgeable in intricacies of the Greyhound breed Experienced
-  in fostering and well connected to resources of GPA; assists in recruiting, assessing and
+  in fostering and well connected to resources of GALT; assists in recruiting, assessing and
   orienting foster families, scheduling veterinary appointments, providing ongoing advice and
   helpful suggestions on day-to-day challenges, behavioral/health, etc.
 
 ### More Questions?
 
-Email the Foster Coordinator at [foster@gpa-centex.org](mailto:foster@gpa-centex.org)
+Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)

@@ -12,7 +12,7 @@ sex: FEMALE
 pics:
   - selena1.jpg
 fb-posts:
-  - https://www.facebook.com/greyhoundpetscentraltexas/posts/10155990693338572:0
+  - https://www.facebook.com/galt-centraltexas/posts/10155990693338572:0
 ---
 
 This sweet, gorgeous girl is just 18 months old -- she just didn't want to race, so came into the adoption program early.

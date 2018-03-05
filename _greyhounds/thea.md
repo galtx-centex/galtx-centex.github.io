@@ -8,9 +8,9 @@ dob: 2009-07-19
 pic: thea.jpeg
 sex: FEMALE
 fb-posts:
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156214543303572:0'
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156253179383572'
-  - 'https://www.facebook.com/greyhoundpetscentraltexas/posts/10156314248588572:0'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156214543303572:0'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156253179383572'
+  - 'https://www.facebook.com/galt-centraltexas/posts/10156314248588572:0'
 pending: yes
 doa: 2017-07-29
 ---

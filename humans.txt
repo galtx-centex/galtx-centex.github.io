@@ -1,22 +1,8 @@
 /* TEAM */
 Zach Whaley
-Site: http://zachwhaleys.website/
-From: Austin, TX
-
-Jean Flahive
-
-Tommi Howell
-
-Catelyn Silapachai
-
-Mark Darholt
-
-Dona Ghadimi
-
+Site: https://zachwhaleys.website/
+From: Austin, TX, USA
 
 /* SITE */
 Jekyll
 Bootstrap
-Github
-Travis CI
-HTML Proofer

@@ -4,7 +4,7 @@ title: Get Involved!
 permalink: /volunteer/
 ---
 
-GPA-CT is a non-profit organization composed solely of greyhound-loving volunteers. There are
+GALT-Central Texas is a non-profit organization composed solely of greyhound-loving volunteers. There are
 many opportunities to get involved no matter where you live and what amount of time you have.
 Please look through this list to see where you fit in and what you can do to help.
 
@@ -25,4 +25,4 @@ Please look through this list to see where you fit in and what you can do to hel
 
 ### Questions?
 
-Email the Volunteer Coordinator at [volunteer@gpa-centex.org](mailto:volunteer@gpa-centex.org)
+Email the Volunteer Coordinator at [volunteer@galtx-centex.org](mailto:volunteer@galtx-centex.org)

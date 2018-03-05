@@ -1,20 +1,26 @@
 ---
 layout: page
-title: About Us
+title: Greyhound Adoption League of Texas <br> Central Texas Chapter
 permalink: /about/
 ---
 
-Greyhound Pets of America-Central Texas (GPA-CT) is a chapter of Greyhound Pets of America, a national 501(c)3
-non-profit organization whose mission is to find responsible loving homes for greyhounds, to acquaint the public with
-the desirability of greyhounds as pets and to inform them of the availability of greyhounds for adoption.
+GALT-Central Texas is a chapter of [Greyhound Adoption League of Texas Inc.](http://galtx.org),
+a national 501(c)3 non-profit organization.
 
-GPA-CT places all dogs in foster homes upon coming into our group.  This helps us get to know the dog and their
-personality before they go to their home.  We pride ourselves in helping you pick the perfect dog.  While the dogs are at
-their foster home, they are taken to the veterinarian to get spayed or neutered, all their shots, have their teeth
-cleaned, and heartworm tested.  During this time, they are also evaluated for injuries or health problems.
+Our mission is to find responsible loving homes for greyhounds, to acquaint the
+public with the desirability of greyhounds as pets and to inform them of the
+availability of greyhounds for adoption.
 
-GPA-CT hosts Meet & Greets at different pet stores and other locations to show off our greyhounds and to let people know
-what good pets they make.  If you are looking for a good, healthy, wonderful dog as a pet, please consider adopting a
+We place all dogs in foster homes upon coming into our group.  This helps us
+get to know the dog and their personality before they go to their home.
+We pride ourselves in helping you pick the perfect dog.  While the dogs are at
+their foster home, they are taken to the veterinarian to get spayed or
+neutered, all their shots, have their teeth cleaned, and heartworm tested.
+During this time, they are also evaluated for injuries or health problems.
+
+We host Meet & Greets at different pet stores and other locations to show off
+our greyhounds and to let people know what good pets they make.  If you are
+looking for a good, healthy, wonderful dog as a pet, please consider adopting a
 greyhound.
 
 <div class="text-center">
@@ -55,14 +61,14 @@ greyhound.
   <div class="col-md-6">
     <h2>Membership Meetings</h2>
 
-    GPA-CT's membership meetings are held quarterly
+    GALT-Central Texas's membership meetings are held quarterly
     (tentatively in March, June, September, and December)
     at various locations around the Austin area.
   </div>
 </div>
 
 <h2>Contact Us</h2>
-Greyhound Pets of America-Central Texas
+GALT-Central Texas
 <br>
 P.O. Box 10069
 <br>
@@ -70,6 +76,6 @@ Austin, TX 78766
 <br>
 <a href="tel:855-446-3278">(855) 4-GO-FAST</a>
 <br>
-<a href="mailto:info@gpa-centex.org">info@gpa-centex.org</a>
+<a href="mailto:info@galtx-centex.org">info@galtx-centex.org</a>
 
 </div> <!-- text-center -->
