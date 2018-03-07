@@ -35,7 +35,7 @@ task :spellcheck do
   if errs == 0
     puts msg.green
   else
-    abort msg.red
+    puts msg.red
   end
 end
 
