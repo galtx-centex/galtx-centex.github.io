@@ -8,6 +8,7 @@ age: 3 years
 color: black
 cats: yes
 pic: maybelline.jpg
+pending: yes
 ---
 
 Maybelline's personality is just starting to shine through. Her tattoos are difficult to read
