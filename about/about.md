@@ -21,27 +21,28 @@ greyhound.
 
 <h2>Officers and Directors</h2>
 
-<div class="row">
 {% for contact in site.data.contacts %}
-<div class="col-sm-6 col-md-6">
-  <h3>{{ contact.name }}</h3>
+  {% cycle 'begin row': '<div class="row">', '', '' %}
+  <div class="col-sm-4">
+    <h3>{{ contact.name }}</h3>
 
-  {% for title in contact.title %}
-    {{ title }}
-    <br>
-  {% endfor %}
+    {% for title in contact.title %}
+      {{ title }}
+      <br>
+    {% endfor %}
 
-  {% if contact.phone %}
-    {{ contact.phone }}
-    <br>
-  {% endif %}
+    {% if contact.phone %}
+      {{ contact.phone }}
+      <br>
+    {% endif %}
 
-  {% if contact.email %}
-    <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
-  {% endif %}
-</div>
+    {% if contact.email %}
+      <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+    {% endif %}
+  </div>
+  {% cycle 'end row': '', '', '</div>' %}
 {% endfor %}
-</div>
+{% cycle 'end row' : '', '</div>', '</div>' %}
 
 <div class="row">
   <div class="col-md-6">
