@@ -2,13 +2,14 @@
 layout: greyhound
 title: Maybelline
 date: 2018-02-01
-category: available
+category: adopted
 sex: female
 age: 3 years
 color: black
 cats: yes
 pic: maybelline.jpg
 pending: yes
+doa: 2018-03-07
 ---
 
 Maybelline's personality is just starting to shine through. Her tattoos are difficult to read
