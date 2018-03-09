@@ -8,8 +8,8 @@
 - name: Kim Frost
   title:
     - Vice President
-    - Membership Coordinator
     - Director
+    - Membership Coordinator
   phone: (855) 446-3278
   email: vp@gpa-centex.org
 
@@ -27,18 +27,18 @@
   phone: (855) 446-3278, ext. 703
   email: treasurer@gpa-centex.org
 
-- name: Rozalind Weil
-  title:
-    - Adoption Coordinator
-    - Director
-  phone: (855) 446-3278, ext. 2
-  email: adopt@gpa-centex.org
-
 - name: Grace Howell
   title:
     - Foster Coordinator
+    - Director
   phone: (855) 446-3278, ext. 3
   email: foster@gpa-centex.org
+
+- name: Roz Weil
+  title:
+    - Adoption Coordinator
+  phone: (855) 446-3278, ext. 2
+  email: adopt@gpa-centex.org
 
 - name: Catelyn Silapachai
   title:
