@@ -2,22 +2,24 @@
 ---
 @charset "utf-8";
 
-@import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
-@import url(https://fonts.googleapis.com/css?family=Marck+Script);
-@import url(https://fonts.googleapis.com/css?family=Limelight);
-
 @import "variables";
 @import "mixins";
 @import "bootstrap";
 
-/* page content */
+/* Mast head */
 
-.page-content {
-  line-height: 1.5;
-  font-weight: 300;
+.masthead {
+  display: block;
+  width: 150px;
+  height: 150px;
+  vertical-align: middle;
+  border-radius: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
 }
 
-/* navbar */
+/* Navigation bar */
 
 .navbar {
   margin-bottom: 20px;
@@ -48,20 +50,14 @@
   }
 }
 
-/* Mast head */
+/* Page content */
 
-.masthead {
-  display: block;
-  width: 150px;
-  height: 150px;
-  vertical-align: middle;
-  border-radius: 3px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
+.page-content {
+  line-height: 1.5;
+  font-weight: 300;
 }
 
-/* images */
+/* Images */
 
 img {
   max-width: 100%;
@@ -90,10 +86,7 @@ a.thumbnail:hover {
     @include media-min-width($screen-sm-min) {
       height: 500px;
     }
-    h1 {
-      @include carousel-item-style;
-    }
-    p {
+    h1, p {
       @include carousel-item-style;
     }
   }
@@ -103,7 +96,7 @@ a.thumbnail:hover {
   max-width: 100%;
 }
 
-/* Welcome text */
+/* Welcome */
 
 .welcome {
   h1 {
@@ -135,7 +128,7 @@ a.thumbnail:hover {
   }
 }
 
-/* Calendar text */
+/* Calendar */
 
 .calendar-home {
   h1 {
@@ -156,7 +149,7 @@ a.thumbnail:hover {
   }
 }
 
-/* Adopt Me text */
+/* Adopt Me */
 
 .adopt-me {
   h1 {
@@ -190,7 +183,7 @@ a.thumbnail:hover {
   }
 }
 
-/* Foster Us text */
+/* Foster Us */
 
 .foster-us {
   h1 {
@@ -240,61 +233,7 @@ a.thumbnail:hover {
   }
 }
 
-/* button margins */
-
-.btn {
-  margin-top: 10px;
-  margin-bottom: 15px;
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-.btn-social {
-  vertical-align: top;
-  zoom: 1;
-  *display: inline;
-}
-
-.social-links {
-  margin-bottom: 10px;
-  > a {
-    text-decoration: none;
-    color: #818181;
-    &:hover {
-      text-decoration: underline;
-      color: #818181;
-    }
-  }
-}
-
-/* share buttons */
-
-.share-btns {
-  padding-bottom: 10px;
-  @include media-min-width($screen-sm-min) {
-    padding-bottom: 0px;
-  }
-}
-
-/* info labels */
-
-.info-labels {
-  text-align: left;
-  @include media-min-width($screen-sm-min) {
-    text-align: right;
-  }
-}
-
-/* banners */
-
-.banner {
-  font-size: 1.4em;
-  @include media-min-width($screen-md-min) {
-    font-size: 2em;
-  }
-}
-
-/* profile content */
+/* Profile content */
 
 .profile-content {
   margin-bottom: 10px;
@@ -313,6 +252,24 @@ a.thumbnail:hover {
 .row .profile-content {
   padding-right: 15px;
   padding-left: 15px;
+}
+
+/* Profile banners */
+
+.banner {
+  font-size: 1.4em;
+  @include media-min-width($screen-md-min) {
+    font-size: 2em;
+  }
+}
+
+/* Profile labels */
+
+.info-labels {
+  text-align: left;
+  @include media-min-width($screen-sm-min) {
+    text-align: right;
+  }
 }
 
 /* Membership Panels */
@@ -355,9 +312,45 @@ a.thumbnail:hover {
   }
 }
 
-/* Google Calender */
+/* button margins */
 
-.calendar-container {
+.btn {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btn-social {
+  vertical-align: top;
+  zoom: 1;
+  *display: inline;
+}
+
+.social-links {
+  margin-bottom: 10px;
+  > a {
+    text-decoration: none;
+    color: #818181;
+    &:hover {
+      text-decoration: underline;
+      color: #818181;
+    }
+  }
+}
+
+/* share buttons */
+
+.share-btns {
+  padding-bottom: 10px;
+  @include media-min-width($screen-sm-min) {
+    padding-bottom: 0px;
+  }
+}
+
+/* Google widgets */
+
+.calendar-container, .google-maps {
   position: relative;
   padding-bottom: 75%;
   height: 0;
@@ -377,23 +370,6 @@ a.thumbnail:hover {
   padding-bottom: 10px;
   @include media-min-width($screen-sm-min) {
     padding-top: 16px;
-  }
-}
-
-/* Google Maps */
-
-.google-maps {
-  position: relative;
-  /* (300 / 400 = 0.75 = 75%) */
-  padding-bottom: 75%;
-  height: 0;
-  overflow: hidden;
-  iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
   }
 }
 
