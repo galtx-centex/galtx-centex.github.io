@@ -72,6 +72,15 @@ a.thumbnail:hover {
   padding: 0px;
 }
 
+/* Button margins */
+
+.btn {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 /** Carousel **/
 
 .carousel {
@@ -312,22 +321,28 @@ a.thumbnail:hover {
   }
 }
 
-/* button margins */
-
-.btn {
-  margin-top: 10px;
-  margin-bottom: 15px;
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-.btn-social {
-  vertical-align: top;
-  zoom: 1;
-  *display: inline;
+.social-icons {
+  > a {
+    padding: 1.4em;
+    text-decoration: none;
+    color: inherit;
+    &:hover > .fa-facebook {
+      color: $color-facebook;
+    }
+    &:hover > .fa-instagram {
+      color: $color-instagram;
+    }
+    &:hover > .fa-twitter {
+      color: $color-twitter;
+    }
+    &:hover > .fa-amazon {
+      color: $color-amazon;
+    }
+  }
 }
 
 .social-links {
+  font-size: 0.85em;
   margin-bottom: 10px;
   > a {
     text-decoration: none;
@@ -339,7 +354,7 @@ a.thumbnail:hover {
   }
 }
 
-/* share buttons */
+/* Share buttons */
 
 .share-btns {
   padding-bottom: 10px;
@@ -370,33 +385,5 @@ a.thumbnail:hover {
   padding-bottom: 10px;
   @include media-min-width($screen-sm-min) {
     padding-top: 16px;
-  }
-}
-
-/* Follow Instagram style */
-
-.ig-b- {
-  display: inline-block;
-  img {
-    visibility: hidden;
-  }
-  &:hover {
-    background-position: 0 -60px;
-  }
-  &:active {
-    background-position: 0 -120px;
-  }
-}
-
-.ig-b-24 {
-  width: 24px;
-  height: 24px;
-  background: url(//badges.instagram.com/static/images/ig-badge-sprite-24.png) no-repeat 0 0;
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-  .ig-b-24 {
-    background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-24@2x.png);
-    background-size: 60px 178px;
   }
 }
