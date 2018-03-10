@@ -1,0 +1,62 @@
+@mixin media-min-width($min) {
+  @media (min-width: $min) {
+    @content;
+  }
+}
+
+@mixin carousel-item-style {
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-family: "Dancing Script",cursive;
+}
+
+@mixin membership-panel($panel, $colors) {
+  $panel-color:                map-get($colors, panel);
+  $panel-border-color:         map-get($colors, panel-border);
+  $panel-background-color:     map-get($colors, panel-background);
+  $btn-color:                  map-get($colors, button);
+  $btn-border-color:           map-get($colors, button-border);
+  $btn-background-color:       map-get($colors, button-background);
+  $btn-hover-color:            map-get($colors, button-hover);
+  $btn-hover-border-color:     map-get($colors, button-hover-border);
+  $btn-hover-background-color: map-get($colors, button-hover-background);
+
+  .panel-#{$panel} {
+    border-color: $panel-border-color;
+    > {
+      .panel-heading {
+        color: $panel-color;
+        background-color: $panel-background-color;
+        border-color: $panel-border-color;
+        + .panel-collapse > .panel-body {
+          border-top-color: $panel-border-color;
+        }
+        .badge {
+          color: $panel-background-color;
+          background-color: $panel-color;
+        }
+      }
+      .panel-footer + .panel-collapse > .panel-body {
+        border-bottom-color: $panel-border-color;
+      }
+    }
+  }
+
+  .btn-#{$panel} {
+    color: $btn-color;
+    background-color: $btn-background-color;
+    border-color: $btn-border-color;
+    &:focus, &.focus {
+      color: $btn-color;
+    }
+    &:hover {
+      color: $btn-hover-color;
+      background-color: $btn-hover-background-color;
+      border-color: $btn-hover-border-color;
+    }
+    &:active {
+      color: $btn-color;
+    }
+  }
+}

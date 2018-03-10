@@ -1,0 +1,75 @@
+$color-platinum1: #ffffff;
+$color-platinum2: #1a1a1a;
+$color-platinum3: #0d0d0d;
+
+$platinum-membership-colors: (
+  panel: $color-platinum1,
+  panel-border: $color-platinum2,
+  panel-background: $color-platinum3,
+  button: white,
+  button-border: $color-platinum3,
+  button-background: $color-platinum2,
+  button-hover: $color-platinum2,
+  button-hover-border: black,
+  button-hover-background: $color-platinum1
+);
+
+$color-gold1: #8a6d3b;
+$color-gold2: #f7e2b4;
+$color-gold3: #fcf8e3;
+$color-gold4: #785f33;
+$color-gold5: #66512b;
+
+$gold-membership-colors: (
+  panel: $color-gold1,
+  panel-border: $color-gold2,
+  panel-background: $color-gold3,
+  button: white,
+  button-border: $color-gold4,
+  button-background: $color-gold1,
+  button-hover: white,
+  button-hover-border: $color-gold5,
+  button-hover-background: $color-gold4
+);
+
+$color-silver1: #747474;
+$color-silver2: #cdcdcd;
+$color-silver3: #e6e6e6;
+$color-silver4: #676767;
+$color-silver5: #5a5a5a;
+
+$silver-membership-colors: (
+  panel: $color-silver1,
+  panel-border: $color-silver2,
+  panel-background: $color-silver3,
+  button: white,
+  button-border: $color-silver4,
+  button-background: $color-silver1,
+  button-hover: white,
+  button-hover-border: $color-silver5,
+  button-hover-background: $color-silver4
+);
+
+$color-bronze1: #a46528;
+$color-bronze2: #e6bf99;
+$color-bronze3: #f0d9c2;
+$color-bronze4: #905823;
+$color-bronze5: #7b4b1e;
+
+$bronze-membership-colors: (
+  panel: $color-bronze1,
+  panel-border: $color-bronze2,
+  panel-background: $color-bronze3,
+  button: white,
+  button-border: $color-bronze4,
+  button-background: $color-bronze1,
+  button-hover: white,
+  button-hover-border: $color-bronze5,
+  button-hover-background: $color-bronze4
+);
+
+/* Bootstrap overrides */
+
+$icon-font-path: "/fonts/bootstrap/";
+$container-lg: 980px;
+$grid-float-breakpoint: 992px; // $screen-md-min
