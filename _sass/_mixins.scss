@@ -47,16 +47,10 @@
     color: $btn-color;
     background-color: $btn-background-color;
     border-color: $btn-border-color;
-    &:focus, &.focus {
-      color: $btn-color;
-    }
-    &:hover {
+    &:focus, &:hover, &:active {
       color: $btn-hover-color;
       background-color: $btn-hover-background-color;
       border-color: $btn-hover-border-color;
-    }
-    &:active {
-      color: $btn-color;
     }
   }
 }

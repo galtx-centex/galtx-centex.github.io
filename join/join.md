@@ -39,7 +39,7 @@ Thank you for supporting GPA-Central Texas!
       <input type="hidden" name="os0" value="Platinum">
       <input type="hidden" name="item_name" value="PLATINUM Membership!">
       <input type="hidden" name="item_number" value="platinum">
-      <input type="submit" name="submit" value="Join PLATINUM Membership!" class="btn btn-primary btn-platinum">
+      <input type="submit" name="submit" value="Join PLATINUM Membership!" class="btn btn-default btn-platinum">
     </form>
     </div>
   </div>
