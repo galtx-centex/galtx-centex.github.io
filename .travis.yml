@@ -26,6 +26,8 @@ deploy:
   target_branch: master
   on:
     branch: source
+  edge:
+    branch: v1.8.47
 
 env:
   global:
