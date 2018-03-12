@@ -30,8 +30,10 @@ If you are on the GPA-CTX team:
 
 See the wiki post [How to Build the Website](https://github.com/gpa-centex/gpa-centex.github.io/wiki/How-to-Build-the-Website)
 
-## License
+## Copyright
 
-The MIT License (MIT)
+All Rights Reserved
+Copyright 2018 GALT-Central Texas
+Licensed under the Apache License, Version 2.0
 
-See [LICENSE](https://github.com/gpa-centex/gpa-centex.github.io/blob/source/LICENSE).
+See [galtx-centex.org/LICENSE.txt](https://galtx-centex.org/LICENSE.txt).
