@@ -33,20 +33,25 @@
   > li {
     float: none;
     @include media-min-width($screen-sm-min) {
-      width: auto;
       display: block;
+      width: auto;
     }
     @include media-min-width($screen-md-min) {
       display: table-cell;
       width: 1%;
     }
+    > a {
+      text-align: left;
+      @include media-min-width($screen-md-min) {
+        text-align: center;
+      }
+    }
   }
 }
 
-.dropdown-menu > li {
-  text-align: center;
-  @include media-min-width($screen-md-min) {
-    text-align: left;
+@include media-min-width($screen-md-min) {
+  .dropdown:hover .dropdown-menu {
+    display: block;
   }
 }
 
