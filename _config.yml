@@ -10,8 +10,6 @@ twitter_username: GPA_CenTex
 markdown: kramdown
 permalink: pretty
 exclude: ["vendor", "dict", "script", "Rakefile", "Gemfile*", "*.deb"]
-sass:
-  style: compressed
 collections:
   greyhounds:
     output: true
