@@ -8,6 +8,8 @@ dob: 2011-11-26
 color: fawn
 pic: abby.jpg
 cats: no
+pics:
+  - abby_1.jpg
 ---
 
 Abby is a tall, lovable 6 year old girl. She quickly learned about the couch and bed and LOVES them. She is house trained, very smart and settled into our routine quickly. She learns fast and with the help of positive reinforcement (read: treats!) I think she could learn a few commands.
