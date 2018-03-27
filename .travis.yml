@@ -1,17 +1,6 @@
 language: ruby
-rvm: 2.2
-sudo: required
-
-before_install:
-  - wget http://http.us.debian.org/debian/pool/main/h/hunspell/hunspell_1.3.3-3_amd64.deb
-  - wget http://http.us.debian.org/debian/pool/main/h/hunspell/libhunspell-1.3-0_1.3.3-3_amd64.deb
-  - sudo apt-get update -qq
-
-install:
-  - bundle install
-  - sudo apt-get install hunspell-en-us
-  - sudo dpkg -i libhunspell-1.3-0_1.3.3-3_amd64.deb
-  - sudo dpkg -i hunspell_1.3.3-3_amd64.deb
+rvm: 2.3.3
+cache: bundler
 
 script:
   - rake build
@@ -26,8 +15,6 @@ deploy:
   target_branch: master
   on:
     branch: source
-  edge:
-    branch: v1.8.47
 
 env:
   global:

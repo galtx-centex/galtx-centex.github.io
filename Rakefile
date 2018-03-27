@@ -39,4 +39,4 @@ task :spellcheck do
   end
 end
 
-task :test => [:htmlcheck, :spellcheck]
+task :test => [:htmlcheck]
