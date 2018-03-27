@@ -1,6 +1,7 @@
 ---
 layout: greyhound
-title: Octane
+title: Dahlia (Octane)
+nick: Dahlia
 date: 2018-03-07
 category: available
 sex: female
