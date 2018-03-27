@@ -1,5 +1,4 @@
 require 'html-proofer'
-require 'jekyll'
 require 'colored'
 
 task :build do

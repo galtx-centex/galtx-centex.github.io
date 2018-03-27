@@ -3,8 +3,8 @@ rvm: 2.3.3
 cache: bundler
 
 script:
-  - rake build
-  - rake test
+  - bundle exec jekyll build
+  - bundle exec rake test
 
 deploy:
   provider: pages
