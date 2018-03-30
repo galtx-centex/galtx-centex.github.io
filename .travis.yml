@@ -1,6 +1,10 @@
 language: ruby
-rvm: 2.3.3
+
 cache: bundler
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 script:
   - bundle exec jekyll build --trace
@@ -15,7 +19,3 @@ deploy:
   target_branch: master
   on:
     branch: source
-
-env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
