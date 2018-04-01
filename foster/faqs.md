@@ -4,114 +4,155 @@ title: Foster FAQs
 permalink: /foster/faqs/
 ---
 
-## FOSTER HOMES FOR RETIRING GREYHOUNDS ARE _ALWAYS_ NEEDED!
+## What is fostering?
+Ex-racing greyhounds have most likely never been inside a home before. Your job
+as a foster parent is to take them into your home, treat them with love, and
+train them to be a well-behaved house pet. They might come into your lives for
+a few weeks, or a few months, but watching their personalities bloom is a rich
+reward. Knowing that they'll be successful in their new forever home because of
+your efforts makes it easier to let them go when it's time.
 
-The more foster homes we have, the more Greyhounds we can prepare for forever homes.
+## What supplies does GALT-Central Texas provide for my foster dog?
+GALT-Central Texas will supply a black Martingale collar, black 4' leash,
+GALT-Central Texas ID tag, muzzle, belly band (for male dogs), monthly
+heartworm preventative, and monthly flea/tick preventative. A GALT-Central
+Texas crate will be available to borrow if you need one. If you need help with
+the food for your foster, that can also be arranged.
 
-### What Makes a Good Foster Home?
+## What supplies do I need to provide for my foster dog?
+You will need to provide soft dog bedding, food and clean water, a crate,
+treats, toys, elevated bowls, and most importantly lots of love and affection.
 
-A place where the Greyhound will be given the same food, water, shelter, love and attention you would give your own pet.
-A home in which the people patiently and compassionately teach the retired racer about life as a pet. These special dogs are
-making an adjustment from living on a farm or in racing kennels to living in a home.  They may need an introduction to some
-things you and your pet take for granted, like mirrors, wood floors, carpet, glass doors, pet doors, soft beds and toys. It may take
-them a little time to get comfortable in this new environment with all new stimuli.
+## How will my foster go about getting adopted?
+The adoption coordinators work hard to match potential adopters with an
+available greyhound. As a foster parent, you are an integral part of that
+process in several ways. First, by getting your foster out to meet & greet
+events so people can be introduced to her. Second, by keeping the foster and
+adoption coordinator informed about your foster's personality and habits so a
+good match can be made. Third, by filling out the Foster Profile Form, which is
+heavily used as a resource by the adoption coordinators.
 
-### I've never had a greyhound before. Can I foster?
+## What if I decide I want to adopt my foster dog?
+That's a wonderful decision to make! If you decide you'd like to make a foster
+dog a permanent member of your family, contact a foster or adoption coordinator
+so we can take him off the list of available greyhounds. "Failing fostering" is
+a greyt way to add to your family - it's not a failure at all!
 
-Absolutely. It helps to have some experience with dogs in general, but having your own pet greyhound or prior experience
-with the breed is not required.
+## What should I do if my foster needs medical attention?
+If your foster needs emergency medical attention for a life-threatening
+situation, seek medical attention for her at the nearest emergency clinic
+immediately and contact us when you can. Otherwise, contact a medical
+coordinator so they can give you medical advice or set up a vet appointment if
+necessary. GALT-Central Texas uses a certain set of vets for care because they
+are kind enough to donate or discount their services for us - helping keep our
+costs down lets us help more greyhounds.
 
-### Can I become a foster parent if I have cats?
+## Can I take my foster dog to a dog park?
+Dog parks can be a dangerous environment. It is GALT-Central Texas policy that
+a foster dog should not be taken to a dog park. We cannot afford to be liable
+if a foster dog is involved in an incident. Dog parks are also fertile grounds
+for picking up intestinal parasites, fleas, or ticks. A romp in the back yard
+or a daily walk is enough exercise for a greyhound, believe it or not! They are
+retired and do not need serious running to stay happy and healthy.
 
-Yes. Many greyhounds do well with cats.  We cat test the dogs before placing them in
-foster homes, so if you have cat(s) you will only foster cat-safe dogs.
+## What does it mean that a dog is on injured reserve?
+Some greyhounds need a little extra recuperation time. Some of them come from
+the track with a broken leg or other injuries. Others have tick-borne diseases
+or heartworm. These dogs need some TLC and time to get well. They might be on
+restricted activity, need frequent vet visits, or special medications. Injured
+reserve dogs do not attend meet & greet events. They are not considered
+available for adoption until they have recovered.
 
-### Can we foster if we have other breeds of dogs?
+## What should I feed my foster dog?
+Providing lots of fresh, clean water and a high-quality dry food (kibble) is an
+important part of caring for your foster dog. Good foods will have a meat or
+meat product as at least two of the first four ingredients. The ingredients
+should not include corn, wheat, or by-products. Adding a little water to the
+kibble just before you serve it helps it go down easier. You could also mix in
+a little canned food in to provide moisture or a little extra incentive for
+picky eaters. Adding a spoonful of yogurt can help with gas sometimes, and a
+spoonful of pumpkin can be a good remedy if your foster is suffering from loose
+stools. Some good brands: Wellness, Natural Balance, Taste of the Wild,
+Kirkland (from Costco), or Chicken Soup for the Dog Lover's Soul.
 
-Yes. Most greyhounds get along well with other breeds of dogs, big and small.  We can use homes with all kinds of
-situations (cats, no cats, other dogs or not, children or not). Greyhounds have various
-personalities and needs; we test each dog prior to foster placement.
+## Should my foster be this skinny?
+Greyhounds have a slender build and a fast metabolism. You should be able to
+see the last 2 or 3 ribs and feel the points of the hip bones. Being overweight
+causes health issues. A typical greyhound should eat 3 to 4 cups of food a day,
+depending on their size and activity level. Your foster might need to gain or
+lose weight when you first get them - be observant and raise/lower their food
+amount as necessary. Remember treats count too when it comes to calories.
 
-### I've heard greyhounds are really active and need a lot of exercise. Is that true?
+## Do I really need to use a crate?
+A crate gives a foster dog a place to call their own. For some it is a haven -
+a place they can go to feel comfortable and safe. Retired racers are used to a
+kennel environment. A crate is also a useful way to separate dogs when
+necessary. We recommend using a crate when your foster dog will be home alone.
+Crate training for your foster keeps all your pets safe when you're out of the
+house, and keeps him out of trouble until he learns to be a polite house guest.
+Your foster does not need to sleep in the crate at night - sleeping in your
+bedroom on a dog bed will help him bond and also make it easy for you to tell
+if he's restless at night.
 
-No!  Greyhounds have shorts bursts of energy and then rest a lot. They are often referred to as
-“40 mph couch potatoes”. Taking them out on longer walks a few times a week should
-be adequate exercise.
+## Why do you supply a muzzle?
+Greyhounds are used to wearing muzzles during turn-outs and races. A muzzle is
+a useful tool for keeping your foster and other greyhounds out of trouble when
+they're zooming around the yard, or learning how to behave in the house. They
+can still drink water while they're wearing a muzzle. Putting a muzzle on your
+foster greyhound is not a cruel act - it's preventing trouble and setting her
+up for success. If you have more than one dog in the house, please remember
+that if one is muzzled, all should be muzzled.
 
-### Do I have to have spacious house with a large yard?
+## What's a belly band?
+Think of a belly band as a little diaper for male dogs. Some male dogs will
+want to mark in the house, and a belly band will help prevent damage to your
+furniture and belongings until they have learned that your house is their home
+and they should only mark outside the house.
 
-No. Many greyhounds live happily in apartments, town homes and condos. **A Backyard is NOT Required!**
-However, if you do have a backyard, it must be completely fenced with a minimum 4-foot fence,
-6-foot preferred, as Greyhounds can reach full speed in under 3 seconds.
-Otherwise, 3 or 4 short, on-leash walks per day should suffice.
+## What do I need to teach my foster?
+Your foster dog will need to learn new skills since a new foster has likely
+never been in a house before. They will need to master house-training, learn
+not to counter-surf, understand what they can and can't chew on, and obey the
+no-furniture rule. They also need to be able to walk calmly on leash, and know
+how to behave when left home alone.
 
-### Do I have to own my home to foster greyhounds?
+## What if I need to leave town for a trip?
+If you're going to be away from home, please notify a foster coordinator. Three
+to four weeks notice is appreciated if possible. We will need to arrange for
+your foster to stay at another foster home during your absence. Please do not
+leave your foster with a dog-sitter, friend, or neighbor without getting prior
+approval from a coordinator. We need to know where your foster is in case they
+need to meet a potential adopter.
 
-No, but you must have permission from your property manager to have pets. GALT-Central Texas does not pay for any
-additional pet deposits or rent increases.
+## I don't like my foster's name, can I call him fido?
+GALT-Central Texas owns your foster dog, and has given him a name. This is the
+name used to identify him on the website, in our files, at the vet, and when
+talking to potential adopters. Your foster needs to learn to respond to the
+name he has been given. Feel free to add a few nicknames, but make sure he
+knows his GALT-Central Texas name and use that name when communicating with the
+coordinators or potential adopters. Anything else causes confusion.
 
-### What do I do with my foster dog if I have to go out of town or on vacation?
+## What should I do to correct bad behavior?
+GALT-Central Texas advocates positive reinforcement based training. You should
+never physically discipline your foster dog. A firm "NO", eye contact, and/or a
+squirt-bottle of water should be enough to deter these sensitive dogs. If you
+need advice on a specific problem, let us know so we can provide it or put you
+in contact with a behavior specialist.
 
-You may travel by car with the dog if you wish, or another GALT-Central Texas foster parent will sub-foster
-for you. Please notify the Foster Coordinator of travel plans; request in advance if a sub-foster is needed.
+## What are some recommended books on greyhounds or dog training?
+There are a host of good books out there. We especially recommend Adopting the
+Racing Greyhound by Cynthia Brannigan and Retired Racing Greyhounds for Dummies
+by Lee Livingood. Non-greyhound specific books: Getting Started: Clicker
+Training for Dogs by Karen Pryor, Canine Body Language by Brenda Aloff, and
+Family Friendly Dog Training by Patricia McConnell.
 
-### How old are the foster dogs?
-
-The dogs mostly range in age from 1-5 years old, with 2-3 being typical. Occasionally seniors
-and special needs dogs become available and need experienced homes.
-
-### How long are greyhounds in foster care?
-
-Normally, a dog is in foster care from 2-12 weeks, usually 3-4 weeks.
-
-### What are my financial obligations to the foster dog and GALT-Central Texas?
-
-Minimal. [Tomlinson's](http://www.tomlinsons.com/) has generously donated food for our foster families, so most of your
-obligations will be fresh water, a quiet place to rest inside your home, and time
-for walks, treats, brushing, and affection, plus at least once per month visit to meet and
-greet events. Occasional transport for veterinary follow-up may be necessary.
-
-### What if I want to keep my foster dog?
-
-Can I adopt him/her? Fostering is a good way to find out if adopting a Greyhound is right
-for you! Many foster families fall in love with one (or 2 or 3) of their foster dogs and end up
-adopting them. You will just need to fill out an adoption application and pay the adoption
-fee—be prompt, before someone else falls for your foster! We hope you'll continue to
-foster other dogs after adopting; many people do!
-
-### What if my foster dog gets sick or injured?
-
-GALT-Central Texas funds veterinary care for greyhounds in foster care. Contact the GALT-Central Texas Foster
-Coordinator who will schedule an appointment for your foster dog at an
-approved vet clinic in your area.
-
-## Support
-
-GALT-Central Texas provides continuous, ongoing support to the foster families throughout the
-foster experience. Resources loaned to foster dogs and foster families include:
-
-* Muzzle (loan)
-* Leash (loan)
-* Martingale-style collar (loan)
-* Crate (loan)
-* Dog Coat (loan, for winter)
-* “Greyhounds for Dummies” Guidebook (loan)
-* Foster dog’s veterinary care
-* Preapproved local veterinarian support
-* Monthly protection from heartworm, flea and ticks
-* Foster Manual and Guidelines
-* 24-7 Toll Free GALT-Central Texas Hotline [(855) 4-GO-FAST](tel:855-446-3278)
-* Coordinate schedule with adopters to meet dogs
-* Email reminders for Events and Meet-N-Greets
-* GALT-Central Texas Facebook page
-* GALT-Central Texas Website
-* The publication "Children and Greyhounds"
-* Weekly Meet and Greet Events--socialize and show your foster dog to potential adopters
-* Continuous, ongoing Q&A support from Foster and Adoption Coordinator: local, trained
-  and experienced volunteer knowledgeable in intricacies of the Greyhound breed Experienced
-  in fostering and well connected to resources of GALT; assists in recruiting, assessing and
-  orienting foster families, scheduling veterinary appointments, providing ongoing advice and
-  helpful suggestions on day-to-day challenges, behavioral/health, etc.
+## Won't I get too attached?
+Fostering is a labor of love, and it can be very difficult to say goodbye. But
+it helps to tell yourself "This is not my dog. I'm only keeping it for a while
+for someone else." When we feel the excitement from a new adopter, and know our
+foster greyhound is going to a loving home, that makes it bearable to see them
+move one. Plus, then you get to help another greyhound find their home!
+Adopting helps one dog, fostering helps many.
 
 ### More Questions?
 
