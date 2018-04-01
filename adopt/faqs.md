@@ -4,77 +4,70 @@ title: Adoption FAQs
 permalink: /adopt/faqs/
 ---
 
-## What are the adoption costs involved?
-**A non-refundable deposit of $50** should be submitted along with your application.
-This may be paid by check or electronically through our website at [galtx-centex.org/donate](/donate).
-The remaining  donation is due when an adoption is finalized.
+## How much is the adoption fee?
+GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is
+$350 for all greyhounds under 7 years; $275 for greyhounds ages 7, 8 and 9; and
+$225 for greyhounds ages 10 and up. Your $75 application deposit is applied to
+the adoption donation fee at the time of the adoption. The preferred method of
+payment is through PayPal via a one-time [donation](/donate).  You may also pay
+by cash or check.
 
-Effective April 1, 2016, adoption fees are as follows (these amounts are in addition to the deposit):
+## Why does GALT-Central Texas require an adoption deposit?
+The $75 adoption application deposit ensures that you are serious in your
+desire to adopt a greyhound. We spend a lot of effort checking references and
+vet records. $25 of the $75 is non-refundable as it goes to cover the
+administrative costs of processing your application. The $75 will be applied to
+your adoption donation fee at the time of adoption.
 
-* for puppies less than one year old, the donation will be $300
-* for adult dogs age 1 - 8 years, the donation will be $200
-* for senior dogs greater than 8 years, the donation will be $100.
+## What standard medical care does GALT-Central Texas provide before adoption?
+GALT-Central Texas has high standards for the health and welfare of our
+greyhounds. GALT-Central Texas's average medical cost per greyhound is well
+over $500 and includes the following: 
 
-Your adoption will include a collar and leash set, muzzle, reference book, GALT-Central Texas tag, one year
-membership in GALT-Central Texas and the support of your GALT-Central Texas adoption team.  Your greyhound will
-have been spayed or neutered, vaccinated, micro-chipped, tested for heartworm and other parasites,
-and (except puppies) received a full dental.
+* Blood work: CBC (complete blood count) with serum chemistry panel
+* Heartworm test (and treatment if necessary) until negative results achieved
+* Fecal test (and treatment if necessary) until negative results achieved
+* Tick-borne disease panel by Protatek Lab and treatment as necessary (detects Ehrlichia canis, Babesia canis, Rocky Mountain Spotted Fever, and Lyme)
+* Spay or neuter
+* Microchip implanted and registered with the provider
+* Dental cleaning and extractions as needed
+* All vaccinations, including DHLPP, Rabies, Canine Flu, and Bordetella
+* Monthly heartworm preventative and flea/tick preventative
 
-There is no deposit or fee required with foster applications.
+## What will I get when I adopt a greyhound from GALT-Central Texas?
+* One greyhound who is as healthy as we can make him!
+* A full set of medical records for the time that greyhound has been in GALT-Central Texas's care.
+* Rabies certificate and tag.
+* A printout of her pedigree and racing record if applicable.
+* Microchip number and tag, and registration with the provider.
+* Martingale collar, 4' leash, and a basket muzzle. A belly band if your new greyhound is male.
+* GALT-Central Texas tag with ID number and phone number.
+* Dental-care start-up kit.
+* One year Bronze GALT-Central Texas membership.
+* Post-adoption follow-up support.
+* Greyhound-related information packet.
 
-## What are the prerequisites for adoption?
-Greyhounds are not for everyone. Greyhounds should not be kept as outside dogs or left in a garage. They have insufficient body fat and too
-sparse a coat and do not adapt well to extreme heat or cold. GALT-Central Texas also reserves the right to deny any application for
-any reason.
+## If I've adopted from GALT-Central Texas before do I need to fill out the application again?
+Yes. Anyone interested in adoption should complete the online application and
+submit the deposit. This will result in your name being added to the current
+potential adopters listing. If you are interested in a specific dog, please add
+that to the application so your preferences can be noted by our adoption
+coordinators.
 
-## What is the temperament of these dogs?
-Greyhounds are generally gentle, quiet, clean, and good-natured.
+## Will GALT-Central Texas adopt to an out-of-town or out-of-state applicant?
+Yes, GALT-Central Texas will and has adopted to out-of-town and out-of-state
+applicants. We do require that a home check be completed and we will work with
+volunteers in your area to accomplish this. Additionally, we require the
+applicant to come to Austin or Dallas to pick up their greyhound and complete
+the adoption.
 
-## What is their life expectancy?
-Although most large breed dogs do not live as long as small breeds, track greyhounds have such an excellent athletic
-start in life that you can expect them to live until they are 12 to 14 years old.
-
-## How much exercise do they need?
-Greyhounds need no more exercise than other large dogs, but they enjoy running in enclosed areas and taking walks. They
-must NEVER be turned off-leash! Most of the time they are content to sleep.
-
-## Are greyhounds easy to train and handle?
-Greyhounds are extremely sensitive and intelligent animals, responding quickly to talk and touch as rewards. A stern
-voice quickly checks a greyhound. No physical punishment should ever be used!
-
-## Are ex-racing greyhounds housebroken?
-Greyhounds are "kennel trained" -- they are trained to keep their kennels clean. At first, walk your dog frequently, and
-he will quickly learn his new home is the place he keeps clean and outside is the place he can relieve himself. When you
-are away from home, it helps to limit the area in which he can roam within the house. This helps him identify the areas
-to keep clean and limits his ability to get into trouble.
-
-## Are greyhounds good with children?
-In general, because track dogs are handled by breeders, haulers, trainers, and track workers throughout their careers,
-they are highly socialized. Typically they are tolerant of children, but each dog is different and all should be
-respected. Often, greyhounds will view children that are close to their height as littermates and may try to play with a
-child like they would another hound. This also means that they may correct a child the same way they would a littermate.
-
-## How are they with other pets?
-Greyhounds are friendly by nature and most socialize well with other dogs as a result of interaction with other
-greyhounds in the racing kennels. Some learn to accept cats and other small pets, but any introductory period should be
-closely monitored.
-
-## Do they make good jogging companions?
-Yes! However, their track experience prepares them for sprinting on dirt tracks only. Long exposure to asphalt or
-concrete may hurt the pads of their feet unless they are allowed to acclimate gradually. You will also have to build
-them up slowly to your pace and distance.
-
-## Do they make good watch dogs?
-No. They are far too gentle, but the psychological impact of a large dog can be a deterrent to would-be troublemakers.
-
-## Why do greyhounds wear muzzles on the track?
-Greyhounds wear racing muzzles because as they round the bend on an oval track, some of them may bump shoulders due to
-the centrifugal force of the turn. This could potentially lead to a dogfight. Track officials prevent this possibility
-by muzzling. Racing muzzles are used for photo finishes as well.
-
-## Are there special responsibilities if I adopt a greyhound?
-Your greyhound must be kept on year-round heartworm preventative, kept free of parasites, receive regular vaccinations,
-be kept indoors, and wear a GALT-Central Texas identification tag at all times.
+## How long does the application approval process take?
+Keep in mind that GALT-Central Texas relies on volunteers to process
+applications. Applications are reviewed in the order that they are submitted.
+If our volunteers are able to easily reach your references, the preliminary
+approval can usually be obtained within a week. The second step of the approval
+process is to narrow down your preferences for your new hound and coordinate a
+home check.
 
 ### More Questions?
 
