@@ -11,7 +11,7 @@ pics:
   - scoutnap.jpg
   - scoutwater.jpg
 fb-posts:
-  - 'https://www.facebook.com/galt-centraltexas/posts/10156392558993572'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10156392558993572'
 pending: yes
 doa: 2017-07-29
 ---

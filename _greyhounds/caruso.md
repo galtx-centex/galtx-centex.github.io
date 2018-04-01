@@ -11,6 +11,6 @@ pending: yes
 pic: caruso.jpg
 sex: MALE
 fb-posts:
-  - https://www.facebook.com/galt-centraltexas/posts/10155843600258572:0
+  - https://www.facebook.com/galtcentraltexas/posts/10155843600258572:0
 ---
 

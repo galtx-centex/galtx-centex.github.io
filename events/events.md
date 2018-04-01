@@ -9,15 +9,15 @@ permalink: /events/
     <h2>Upcoming Events</h2>
     <div class="events-container">
       <div class="fb-page"
-           data-href="https://www.facebook.com/galt-centraltexas/"
+           data-href="https://www.facebook.com/galtcentraltexas/"
            data-tabs="events"
            data-small-header="true"
            data-adapt-container-width="true"
            data-width="500"
            data-hide-cover="false"
            data-show-facepile="false">
-        <blockquote cite="https://www.facebook.com/galt-centraltexas/" class="fb-xfbml-parse-ignore">
-          <a href="https://www.facebook.com/galt-centraltexas/events/">GALT-Central Texas</a>
+        <blockquote cite="https://www.facebook.com/galtcentraltexas/" class="fb-xfbml-parse-ignore">
+          <a href="https://www.facebook.com/galtcentraltexas/events/">GALT-Central Texas</a>
         </blockquote>
       </div>
     </div>

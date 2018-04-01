@@ -12,7 +12,7 @@ pics:
   - duke2.jpg
   - duke3.jpg
 fb-posts:
-  - 'https://www.facebook.com/galt-centraltexas/posts/10156253100818572:0'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10156253100818572:0'
 pending: yes
 doa: 2017-07-18
 ---

@@ -11,8 +11,8 @@ pending: yes
 pic: annie.jpg
 sex: FEMALE
 fb-posts:
-  - 'https://www.facebook.com/galt-centraltexas/posts/10155661536013572:0'
-  - 'https://www.facebook.com/galt-centraltexas/posts/10155792948883572'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10155661536013572:0'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10155792948883572'
 ---
 
 This just in: GPA-CT has a tiger! No. Wait. That isn't a tiger. That's Annie the brindle Greyhound!

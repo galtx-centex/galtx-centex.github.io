@@ -11,7 +11,7 @@ cats: no
 pics:
   - bobbi1.jpg
 fb-posts:
-  - 'https://www.facebook.com/galt-centraltexas/posts/10156575810923572:0'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10156575810923572:0'
 doa: 2017-09-23
 ---
 

@@ -12,7 +12,7 @@ sex: FEMALE
 pics:
   - philly.jpeg
 fb-posts:
-  - https://www.facebook.com/galt-centraltexas/posts/10155684726883572:0
+  - https://www.facebook.com/galtcentraltexas/posts/10155684726883572:0
 ---
 
 I am a very athletic and beautiful greyhound, at least that's what people tell me. :) I had a long racing career, racking up over 150 races and several puppy litters. In my retirement, I still enjoy running sprints in the backyard. I am the fastest among my 3 foster greyhound siblings! I also love to be around people, and have a happy and playful disposition. I receive many compliments on my beautiful white coat!

@@ -9,8 +9,8 @@ color: brindle
 cats: yes
 pic: leno.jpg
 fb-posts:
-  - 'https://www.facebook.com/galt-centraltexas/posts/10157077231788572:0'
-  - 'https://www.facebook.com/galt-centraltexas/posts/10157198796148572:0'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10157077231788572:0'
+  - 'https://www.facebook.com/galtcentraltexas/posts/10157198796148572:0'
 pics:
   - leno_1.png
 ---
