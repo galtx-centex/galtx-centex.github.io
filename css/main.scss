@@ -356,6 +356,12 @@ a.thumbnail:hover {
     &:hover > .fa-amazon {
       color: $color-amazon;
     }
+    &:hover > .fa-envelope {
+      color: $color-mailchimp;
+    }
+    &:hover > .fa-github {
+      color: $color-github;
+    }
   }
 }
 
