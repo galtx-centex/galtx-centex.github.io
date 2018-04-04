@@ -76,7 +76,7 @@ Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-ce
 * * *
 
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/Foster_Application.pdf" role="button">Download Application!</a>
+  <a class="btn btn-lg btn-success" href="/docs/Foster_Application.pdf" role="button">Download Application</a>
   <p></p>
 
   <div class="panel-footer">

@@ -50,11 +50,11 @@ through any issues as long as you need us.
 Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
 
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/Adoption_Application.pdf" role="button">Download Application!</a>
+  <a class="btn btn-lg btn-success" href="/docs/Adoption_Application.pdf" role="button">Download Application</a>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="R67BCWBN5CDA8">
-    <input type="submit" class="btn btn-lg btn-success" role="button" value="Submit Application Deposit!" alt="Submit Application Deposit">
+    <input type="submit" class="btn btn-lg btn-success" role="button" value="Submit Application Deposit" alt="Submit Application Deposit">
   </form>
 
   <p></p>
