@@ -5,9 +5,13 @@ permalink: /adopt/faqs/
 ---
 
 ## How much is the adoption fee?
-GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is
-$350 for all greyhounds under 7 years; $275 for greyhounds ages 7, 8 and 9; and
-$225 for greyhounds ages 10 and up. Your $75 application deposit is applied to
+GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is:
+
+* $350 for all greyhounds under 7 years
+* $275 for greyhounds ages 7, 8 and 9
+* $225 for greyhounds ages 10 and up
+
+Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
 payment is through PayPal via a one-time [donation](/donate).  You may also pay
 by cash or check.
