@@ -57,7 +57,7 @@ Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-ce
     <input type="submit" class="btn btn-lg btn-success" role="button" value="Submit Application Deposit" alt="Submit Application Deposit">
   </form>
 
-  <p></p>
+  <p/>
 
   <div class="panel-footer">
     <a href="/adopt/faqs">Adoption FAQs</a>
