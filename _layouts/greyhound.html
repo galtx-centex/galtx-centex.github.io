@@ -48,16 +48,16 @@ layout: page
 <div class="row">
   <div class="col-md-6">
     {% if greyhound.pic %}
-      <img class="img-rounded" src="/img/{{ greyhound.pic }}"></img>
+      <img class="img-rounded" src="/img/{{ greyhound.pic }}" alt="{{ greyhound.title }}">
     {% else %}
-      <img class="img-rounded" src="/img/GALT-CENTEX_flag_logo.svg"></img>
+      <img class="img-rounded" src="/img/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title }}">
     {% endif %}
   </div>
   <div class="profile-content">
     {{ content }}
     {% for pic in greyhound.pics %}
       <div class="col-md-6">
-        <img class="img-rounded" src="/img/{{ pic }}">
+        <img class="img-rounded" src="/img/{{ pic }}" alt="{{ greyhound.title }}">
       </div>
     {% endfor %}
     {% for post in greyhound.fb-posts %}

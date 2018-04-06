@@ -10,6 +10,9 @@ dob: 2015-10-01
 pending: yes
 pic: suzy.jpeg
 sex: FEMALE
+pics:
+  - suzy1.jpeg
+  - suzy2.jpeg
 ---
 
 Are you patient?  I'm patient.  I take my time with everything.
@@ -24,10 +27,3 @@ I want to play with my cat roommates, but they don't understand dog-speak, so I 
 I learn really fast - my foster parents are super impressed with how smart I am.
 I'm still looking for my perfect, patient, permanent parents, but I know I'll see them soon.
 Why do you think I'm so observant?
-
-<div class="col-md-6">
-<img class="img-rounded" src="/img/suzy1.jpeg">
-</div>
-<div class="col-md-6">
-<img class="img-rounded" src="/img/suzy2.jpeg">
-</div>

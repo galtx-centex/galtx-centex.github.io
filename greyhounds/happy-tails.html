@@ -20,9 +20,9 @@ pagination:
       <div class="col-xs-6 col-sm-4 col-md-2">
         <a class="thumbnail" href="{{ greyhound.url }}">
           {% if greyhound.pic %}
-            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}">
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title }}">
           {% else %}
-            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg">
+            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title }}">
           {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
