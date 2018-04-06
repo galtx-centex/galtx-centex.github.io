@@ -33,14 +33,22 @@ Thank you for supporting GALT-Central Texas!
       <li>Two tickets to our annual Greyt Gatsby Gala (tickets are valued at <i>$75</i> each)</li>
     </ul>
     <div class="text-center">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="B3MYUYKKCES3Y">
-      <input type="hidden" name="os0" value="Platinum">
-      <input type="hidden" name="item_name" value="PLATINUM Membership!">
-      <input type="hidden" name="item_number" value="platinum">
-      <input type="submit" name="submit" value="Join PLATINUM Membership!" class="btn btn-default btn-platinum">
-    </form>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="business" value="accounting@galtx-centex.org">
+        <!-- Specify a Subscribe button -->
+        <input type="hidden" name="cmd" value="_xclick-subscriptions">
+        <!-- Identify the subscription -->
+        <input type="hidden" name="item_name" value="PLATINUM Membership!">
+        <!-- Set the terms of the regular subscription -->
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="a3" value="30">
+        <input type="hidden" name="p3" value="1">
+        <input type="hidden" name="t3" value="M">
+        <!-- Set recurring payments until canceled -->
+        <input type="hidden" name="src" value="1">
+        <!-- Display the join button -->
+        <input type="submit" name="submit" value="Join PLATINUM Membership!" class="btn btn-default btn-platinum">
+      </form>
     </div>
   </div>
 </div>
@@ -61,14 +69,22 @@ Thank you for supporting GALT-Central Texas!
         </ul>
       </div>
       <div class="membership-btn">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="B3MYUYKKCES3Y">
-        <input type="hidden" name="os0" value="Gold">
-        <input type="hidden" name="item_name" value="GOLD Membership!">
-        <input type="hidden" name="item_number" value="gold">
-        <input type="submit" name="submit" value="Join GOLD Membership!" class="btn btn-gold">
-      </form>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+          <input type="hidden" name="business" value="accounting@galtx-centex.org">
+          <!-- Specify a Subscribe button -->
+          <input type="hidden" name="cmd" value="_xclick-subscriptions">
+          <!-- Identify the subscription -->
+          <input type="hidden" name="item_name" value="GOLD Membership!">
+          <!-- Set the terms of the regular subscription -->
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="a3" value="15">
+          <input type="hidden" name="p3" value="1">
+          <input type="hidden" name="t3" value="M">
+          <!-- Set recurring payments until canceled -->
+          <input type="hidden" name="src" value="1">
+          <!-- Display the join button -->
+          <input type="submit" name="submit" value="Join GOLD Membership!" class="btn btn-gold">
+        </form>
       </div>
     </div>
   </div>
@@ -87,14 +103,22 @@ Thank you for supporting GALT-Central Texas!
         </ul>
       </div>
       <div class="membership-btn">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="B3MYUYKKCES3Y">
-        <input type="hidden" name="os0" value="Silver">
-        <input type="hidden" name="item_name" value="SILVER Membership!">
-        <input type="hidden" name="item_number" value="silver">
-        <input type="submit" name="submit" value="Join SILVER Membership!" class="btn btn-silver">
-      </form>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+          <input type="hidden" name="business" value="accounting@galtx-centex.org">
+          <!-- Specify a Subscribe button -->
+          <input type="hidden" name="cmd" value="_xclick-subscriptions">
+          <!-- Identify the subscription -->
+          <input type="hidden" name="item_name" value="SILVER Membership!">
+          <!-- Set the terms of the regular subscription -->
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="a3" value="10">
+          <input type="hidden" name="p3" value="1">
+          <input type="hidden" name="t3" value="M">
+          <!-- Set recurring payments until canceled -->
+          <input type="hidden" name="src" value="1">
+          <!-- Display the join button -->
+          <input type="submit" name="submit" value="Join SILVER Membership!" class="btn btn-silver">
+        </form>
       </div>
     </div>
   </div>
@@ -112,14 +136,22 @@ Thank you for supporting GALT-Central Texas!
         </ul>
       </div>
       <div class="membership-btn">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="B3MYUYKKCES3Y">
-        <input type="hidden" name="os0" value="Bronze">
-        <input type="hidden" name="item_name" value="BRONZE Membership!">
-        <input type="hidden" name="item_number" value="bronze">
-        <input type="submit" name="submit" value="Join BRONZE Membership!" class="btn btn-bronze">
-      </form>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+          <input type="hidden" name="business" value="accounting@galtx-centex.org">
+          <!-- Specify a Subscribe button -->
+          <input type="hidden" name="cmd" value="_xclick-subscriptions">
+          <!-- Identify the subscription -->
+          <input type="hidden" name="item_name" value="BRONZE Membership!">
+          <!-- Set the terms of the regular subscription -->
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="a3" value="5">
+          <input type="hidden" name="p3" value="1">
+          <input type="hidden" name="t3" value="M">
+          <!-- Set recurring payments until canceled -->
+          <input type="hidden" name="src" value="1">
+          <!-- Display the join button -->
+          <input type="submit" name="submit" value="Join BRONZE Membership!" class="btn btn-bronze">
+        </form>
       </div>
     </div>
   </div>
@@ -141,19 +173,27 @@ Thank you for supporting GALT-Central Texas!
     If you adopt or foster you automatically become a basic member,
     however you may elect to support us through one of the other membership levels.
     <div class="text-center">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="B3MYUYKKCES3Y">
-      <input type="hidden" name="os0" value="Basic">
-      <input type="hidden" name="item_name" value="Basic Membership!">
-      <input type="hidden" name="item_number" value="basic">
-      <input type="submit" name="submit" value="Join Basic Membership!" class="btn btn-default">
-    </form>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="business" value="accounting@galtx-centex.org">
+        <!-- Specify a Subscribe button -->
+        <input type="hidden" name="cmd" value="_xclick-subscriptions">
+        <!-- Identify the subscription -->
+        <input type="hidden" name="item_name" value="Basic Membership">
+        <!-- Set the terms of the regular subscription -->
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="a3" value="3">
+        <input type="hidden" name="p3" value="1">
+        <input type="hidden" name="t3" value="M">
+        <!-- Set recurring payments until canceled -->
+        <input type="hidden" name="src" value="1">
+        <!-- Display the join button -->
+        <input type="submit" name="submit" value="Join Basic Membership" class="btn btn-default">
+      </form>
     </div>
   </div>
 </div>
 
-Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=3XCT64G66L8US">here</a> to end membership.
+Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=9TK2CBFDJ4JDJ">here</a> to end membership.
 
 ### Questions?
 
