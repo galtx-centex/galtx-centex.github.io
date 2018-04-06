@@ -2,12 +2,13 @@
 layout: greyhound
 title: Mario
 date: 2018-01-21
-category: available
+category: adopted
 color: White and brindle
 dob: 2011-06-28
 pic: mario.jpg
 sex: male
 cats: yes
+doa: 2018-04-05
 ---
 
 This is Mario! He's a sweet, docile, confident guy who's brightened our home.  Mario has adjusted quickly to his foster home, foster family and new routine.  He is very active and needs a daily, brisk 30-40 min walk, at least!  He loves his walks and follows his foster mom on leash very well. Occasionally he will startle or feel unsure about something during our walk but he's never too bothered and moves forward quickly.
