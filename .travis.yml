@@ -8,7 +8,7 @@ env:
 
 script:
   - bundle exec jekyll build --trace
-  - bundle exec rake test
+  - bundle exec htmlproofer --assume-extension --allow-hash-href --disable-external ./_site/
 
 deploy:
   provider: pages
