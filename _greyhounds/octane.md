@@ -9,7 +9,7 @@ dob: 2014-03-07
 color: black
 cats: no
 pic: octane.jpg
-pending: yes
+pending: no
 ---
 
 This smart black beauty is a perfect lady. Her blood bank days are over! She is very
