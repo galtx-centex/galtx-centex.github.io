@@ -4,6 +4,13 @@ title: Adoption FAQs
 permalink: /adopt/faqs/
 ---
 
+## Why is the application for GALT and not GALT-Central Texas?
+GALT-Central Texas recently became a chapter of GALT and we are still in the
+process of transitioning.
+
+When applying for an adoption from GALT-Central Texas, please be specific in
+all communications about whom you wish to adopt from.
+
 ## How much is the adoption fee?
 GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is:
 
