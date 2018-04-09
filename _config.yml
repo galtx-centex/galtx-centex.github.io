@@ -8,7 +8,7 @@ url: "https://galtx-centex.org"
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: ["vendor", "script", "Rakefile", "Gemfile*"]
+exclude: ["vendor", "script", "Rakefile", "Gemfile*", "README*"]
 collections:
   greyhounds:
     output: true
