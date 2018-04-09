@@ -10,6 +10,7 @@ cats: yes
 pic: ruby-red.jpg
 pics:
   - ruby-red_1.jpg
+pending: yes
 ---
 
 Ruby is a petite, 1.5 year old sweetheart who enjoys relaxing days on the couch. She also
