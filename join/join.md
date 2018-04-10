@@ -27,8 +27,6 @@ Thank you for supporting GALT-Central Texas!
     <ul>
       <li>A Basic Membership</li>
       <li>Your name listed in our monthly newsletter</li>
-      <li>A set of note cards</li>
-      <li>A GALT-CT tote bag</li>
       <li>Naming rights to a foster dog</li>
       <li>Two tickets to our annual Greyt Gatsby Gala (tickets are valued at <i>$75</i> each)</li>
     </ul>
@@ -63,8 +61,6 @@ Thank you for supporting GALT-Central Texas!
         <ul>
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
-          <li>A set of note cards</li>
-          <li>A GALT-CT tote bag</li>
           <li>Naming rights to a foster dog</li>
         </ul>
       </div>
@@ -98,8 +94,6 @@ Thank you for supporting GALT-Central Texas!
         <ul>
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
-          <li>A set of note cards</li>
-          <li>A GALT-CT tote bag</li>
         </ul>
       </div>
       <div class="membership-btn">
@@ -132,7 +126,6 @@ Thank you for supporting GALT-Central Texas!
         <ul>
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
-          <li>A set of note cards</li>
         </ul>
       </div>
       <div class="membership-btn">
