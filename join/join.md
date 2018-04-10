@@ -28,7 +28,7 @@ Thank you for supporting GALT-Central Texas!
       <li>A Basic Membership</li>
       <li>Your name listed in our monthly newsletter</li>
       <li>Naming rights to a foster dog</li>
-      <li>Two tickets to our annual Greyt Gatsby Gala (tickets are valued at <i>$75</i> each)</li>
+      <li>$30 coupon to GALT's <a href="https://www.greytstore.com/">GreytStore</a></li>
     </ul>
     <div class="text-center">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -62,6 +62,7 @@ Thank you for supporting GALT-Central Texas!
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
           <li>Naming rights to a foster dog</li>
+          <li>$15 coupon to GALT's <a href="https://www.greytstore.com/">GreytStore</a></li>
         </ul>
       </div>
       <div class="membership-btn">
@@ -94,6 +95,7 @@ Thank you for supporting GALT-Central Texas!
         <ul>
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
+          <li>$10 coupon to GALT's <a href="https://www.greytstore.com/">GreytStore</a></li>
         </ul>
       </div>
       <div class="membership-btn">
@@ -126,6 +128,7 @@ Thank you for supporting GALT-Central Texas!
         <ul>
           <li>A Basic Membership</li>
           <li>Your name listed in our monthly newsletter</li>
+          <li>$5 coupon to GALT's <a href="https://www.greytstore.com/">GreytStore</a></li>
         </ul>
       </div>
       <div class="membership-btn">
@@ -160,11 +163,9 @@ Thank you for supporting GALT-Central Texas!
       <li>Regularly scheduled doggie play dates</li>
       <li>Exclusive members-only pricing on special events</li>
       <li>24 hour support through our toll-free number <a href="tel:855-446-3278">(855) 4-GO-FAST</a></li>
-      <li>Eligibility for nomination as Officer on the Board of Directors</li>
-      <li>Eligibility to vote for Officers on the Board of Directors</li>
+      <li>$3 coupon to GALT's <a href="https://www.greytstore.com/">GreytStore</a></li>
     </ul>
-    If you adopt or foster you automatically become a basic member,
-    however you may elect to support us through one of the other membership levels.
+    If you adopt or foster you automatically become a basic member for the year(s) you adopt or foster.
     <div class="text-center">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="business" value="accounting@galtx-centex.org">
