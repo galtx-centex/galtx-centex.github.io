@@ -260,6 +260,14 @@ a.thumbnail:hover {
   }
 }
 
+.shelteranimalscount {
+  @include media-min-width($screen-md-min) {
+    img {
+      height: 135px;
+    }
+  }
+}
+
 /* Profile content */
 
 .profile-content {
