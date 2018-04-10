@@ -1,0 +1,12 @@
+---
+layout: greyhound
+title: Monty
+date: 2018-04-10
+category: available
+sex: male
+dob: 2015-02-02
+color: fawn
+cats: yes
+pic: monty.jpg
+---
+
