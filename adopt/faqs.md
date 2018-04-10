@@ -13,8 +13,7 @@ GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is:
 
 Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
-payment is through PayPal via a one-time [donation](/donate).  You may also pay
-by cash or check.
+payment is through PayPal.  You may also pay by cash or check.
 
 ## Why does GALT-Central Texas require an adoption deposit?
 The $75 adoption application deposit ensures that you are serious in your
