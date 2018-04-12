@@ -11,6 +11,6 @@ pic: athena.jpg
 pics:
   - athena1.jpg
   - athena2.jpg
-pending: yes
+pending: no
 ---
 
