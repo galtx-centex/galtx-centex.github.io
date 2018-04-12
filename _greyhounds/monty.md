@@ -8,5 +8,7 @@ dob: 2015-02-02
 color: fawn
 cats: yes
 pic: monty.jpg
+pics:
+  - monty_1.jpg
 ---
 
