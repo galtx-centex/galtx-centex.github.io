@@ -11,7 +11,7 @@ pics:
   - sybil_1.JPG
 fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10157186332943572'
-cats: yes
+cats: no
 ---
 
 Hi, my name is Sybil!  You may call me _amiable_, as I have a warm and friendly manner.  You
