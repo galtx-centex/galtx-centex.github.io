@@ -9,6 +9,7 @@ pic: lamar.jpg
 sex: male
 fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10157073957563572:0'
+pending: yes
 ---
 
 Don't let the _grey_ in this greyhound fool you; I'm only six years old and lots of spunk left in
