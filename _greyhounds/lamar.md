@@ -2,7 +2,7 @@
 layout: greyhound
 title: Lamar
 date: 2017-11-02
-category: available
+category: adopted
 color: Black
 dob: 2011-03-29
 pic: lamar.jpg
@@ -10,6 +10,7 @@ sex: male
 fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10157073957563572:0'
 pending: yes
+doa: 2018-04-27
 ---
 
 Don't let the _grey_ in this greyhound fool you; I'm only six years old and lots of spunk left in
