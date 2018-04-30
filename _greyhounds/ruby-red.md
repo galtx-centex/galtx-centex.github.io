@@ -2,7 +2,7 @@
 layout: greyhound
 title: Ruby Red
 date: 2018-02-16
-category: available
+category: adopted
 sex: female
 dob: 2016-08-13
 color: red fawn
@@ -11,6 +11,7 @@ pic: ruby-red.jpg
 pics:
   - ruby-red_1.jpg
 pending: yes
+doa: 2018-04-30
 ---
 
 Ruby is a petite, 1.5 year old sweetheart who enjoys relaxing days on the couch. She also
