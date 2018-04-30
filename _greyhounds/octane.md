@@ -3,13 +3,14 @@ layout: greyhound
 title: Dahlia (Octane)
 nick: Dahlia
 date: 2018-03-07
-category: available
+category: adopted
 sex: female
 dob: 2014-03-07
 color: black
 cats: no
 pic: octane.jpg
 pending: yes
+doa: 2018-04-30
 ---
 
 This smart black beauty is a perfect lady. Her blood bank days are over! She is very
