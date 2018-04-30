@@ -2,7 +2,7 @@
 layout: greyhound
 title: Sybil
 date: 2018-03-07
-category: available
+category: adopted
 sex: female
 dob: 2015-03-07
 color: fawn
@@ -12,6 +12,7 @@ pics:
 fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10157186332943572'
 pending: yes
+doa: 2018-04-29
 ---
 
 Hi, my name is Sybil!  You may call me _amiable_, as I have a warm and friendly manner.  You
