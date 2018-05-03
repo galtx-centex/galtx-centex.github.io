@@ -50,7 +50,7 @@ through any issues as long as you need us.
 Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
 
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/Adoption_Application.pdf" role="button">Download Application</a>
+  <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Adoption_Application.pdf" role="button">Download Application</a>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_donations">
     <input type="hidden" name="business" value="accounting@galtx-centex.org">
