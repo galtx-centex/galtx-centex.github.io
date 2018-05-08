@@ -11,5 +11,6 @@ pic: monty.jpg
 pics:
   - monty_1.jpg
   - monty_2.jpg
+pending: yes
 ---
 
