@@ -12,7 +12,8 @@ fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10157077231788572:0'
   - 'https://www.facebook.com/galtcentraltexas/posts/10157198796148572:0'
 pics:
-  - leno_1.png
+  - leno_1.png
+pending: yes
 ---
 
 If you want a big loveable boy, then Lenny is your man. He’s so sweet and likes to snuggle.
