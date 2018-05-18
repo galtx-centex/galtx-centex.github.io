@@ -12,7 +12,9 @@ permalink: /greyhounds/
     {% for greyhound in greyhounds reversed %}
       <div class="col-sm-4 col-md-3">
         <a class="thumbnail" href="{{ greyhound.url }}">
+          {% if greyhound.pending %}
           <div class="thumbnail-container">
+          {% endif %}
           {% if greyhound.pic %}
             <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title }}">
           {% else %}
@@ -20,10 +22,10 @@ permalink: /greyhounds/
           {% endif %}
           {% if greyhound.pending %}
             <div class="thumbnail-pending alert alert-success" role="alert">
-              <span class="banner">Pending</span>
+              <b>Pending Adoption</b>
             </div>
-          {% endif %}
           </div>
+          {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
               <h3>{{ greyhound.nick }}</h3>

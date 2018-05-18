@@ -273,16 +273,21 @@ a.thumbnail:hover {
 .thumbnail-container {
   position: relative;
   text-align: center;
+  img {
+    opacity: 0.7;
+  }
 }
 
 .thumbnail-pending {
+  font-size: 1.3em;
   position: absolute;
+  transform: translateY(-50%);
   top: 50%;
-  left: 50%;
   width: 100%;
-  transform: translate(-50%, -50%);
+  border: none;
   border-radius: 0;
-  opacity: 0.8;
+  background-color: rgba(223, 240, 216, 0.7);
+  color: #225C23;
 }
 
 /* Profile content */
