@@ -268,23 +268,6 @@ a.thumbnail:hover {
   }
 }
 
-/* Pending Adoption overlay */
-
-.thumbnail-container {
-  position: relative;
-  text-align: center;
-}
-
-.thumbnail-pending {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 100%;
-  transform: translate(-50%, -50%);
-  border-radius: 0;
-  opacity: 0.8;
-}
-
 /* Profile content */
 
 .profile-content {
