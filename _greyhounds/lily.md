@@ -3,11 +3,12 @@ layout: greyhound
 title: Lily
 date: 2010-01-03
 age: 6 YEARS
-category: adopted
+category: deceased
 doa: 2010-01-03
 color: WHITE & BRINDLE
 pic: lily.jpg
 sex: FEMALE
+dod: 2018-05-05
 ---
 
 This beautiful brindle and white lady has big brown eyes that can melt anyone's heart!  Lily was quite a successful
