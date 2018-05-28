@@ -6,8 +6,9 @@ permalink: /foster/
 
 **MORE** retiring and rescued greyhounds are on their way to us and are in need of a soft place
 to land. If you have considered fostering, NOW is the time to make a difference in a greyhound's
-life. Please send your foster application (download below) to:
+life. Please send your foster application (form fillable download below) to
 [foster@galtx-centex.org](mailto:foster@galtx-centex.org).
+Application can be typed if downloaded and opened on your desktop.
 
 GALT-Central Texas ALWAYS needs caring foster homes (with or without cats!). GALT-Central Texas provides the
 basic supplies; you provide lessons on home life, bed, safety, warmth, affection, and
