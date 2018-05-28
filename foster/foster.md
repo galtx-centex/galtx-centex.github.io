@@ -27,6 +27,10 @@ mission. The main limitation on the number of dogs GALT-Central Texas can bring 
 is the number of volunteer foster families. If you would like to volunteer to foster a newly
 retired racing greyhound, please review the Foster FAQs below.
 
+<div class="text-center">
+  <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Foster_Application.pdf" role="button">Download Application</a>
+</div>
+
 ### Questions?
 
 Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)
@@ -73,13 +77,7 @@ Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-ce
 <div class="col-md-2"></div>
 </div>
 
-* * *
-
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Foster_Application.pdf" role="button">Download Application</a>
-
-  <p/>
-
   <div class="panel-footer">
     <a href="/foster/faqs/">Foster FAQs</a>
   </div>

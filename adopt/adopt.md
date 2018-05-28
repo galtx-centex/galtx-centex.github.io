@@ -45,10 +45,6 @@ important to be prepared for that introduction to your home and family. If all i
 will set a time to finalize the adoption. We are available to help you and your new family member adjust and work
 through any issues as long as you need us.
 
-### Questions?
-
-Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
-
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Adoption_Application.pdf" role="button">Download Application</a>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -59,9 +55,13 @@ Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-ce
     <input type="hidden" name="item_name" value="Adoption Application Deposit">
     <input type="submit" class="btn btn-lg btn-success" role="button" value="Submit Application Deposit" alt="Submit Application Deposit">
   </form>
+</div>
 
-  <p/>
+### Questions?
 
+Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
+
+<div class="text-center">
   <div class="panel-footer">
     <a href="/adopt/faqs">Adoption FAQs</a>
   </div>
