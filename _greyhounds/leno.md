@@ -2,7 +2,7 @@
 layout: greyhound
 title: Leno
 date: 2018-02-01
-category: available
+category: adopted
 sex: male
 age: 9 years
 color: brindle
@@ -14,6 +14,7 @@ fb-posts:
 pics:
   - leno_1.png
 pending: yes
+doa: 2018-06-17
 ---
 
 If you want a big loveable boy, then Lenny is your man. He’s so sweet and likes to snuggle.
