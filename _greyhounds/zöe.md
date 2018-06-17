@@ -7,5 +7,7 @@ sex: female
 dob: 2018-10-01
 color: red
 pic: zöe.jpg
+pics:
+  - zöe_1.jpg
 ---
 
