@@ -7,5 +7,6 @@ sex: female
 dob: 2016-08-01
 color: white and black
 pic: mercedes.jpg
+pending: yes
 ---
 
