@@ -7,5 +7,7 @@ sex: male
 dob: 2018-01-01
 color: red
 pic: zane.jpg
+pics:
+  - zane_1.jpg
 ---
 
