@@ -7,5 +7,6 @@ sex: male
 dob: 2015-05-27
 color: fawn
 pic: joey.jpg
+pending: yes
 ---
 
