@@ -7,5 +7,6 @@ sex: female
 dob: 2016-10-01
 color: brindle
 pic: tori.jpg
+pending: yes
 ---
 
