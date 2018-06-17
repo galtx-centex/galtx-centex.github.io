@@ -8,5 +8,7 @@ dob: 2014-05-23
 color: fawn
 cats: no
 pic: archie.jpg
+pics:
+  - archie_1.jpg
 ---
 
