@@ -2,11 +2,12 @@
 layout: greyhound
 title: Clara
 date: 2018-05-09
-category: available
+category: adopted
 sex: female
 dob: 2008-05-01
 color: white and black
 pic: clara.jpg
+doa: 2018-06-25
 ---
 
 Clara came to us as an owner surrender at Austin Animal Center. We know that she is at least 10 years old, but our Vet suspects she is a little older than that.
