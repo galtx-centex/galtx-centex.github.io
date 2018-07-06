@@ -2,7 +2,7 @@
 layout: greyhound
 title: Archie
 date: 2018-05-28
-category: available
+category: adopted
 sex: male
 dob: 2014-05-23
 color: fawn
@@ -10,6 +10,7 @@ cats: no
 pic: archie.jpg
 pics:
   - archie_1.jpg
+doa: 2018-07-06
 ---
 
 Fuzzy-faced Archie was brought in to the Austin Animal Center by a good Samaritan.  He might
