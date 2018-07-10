@@ -330,28 +330,7 @@ a.thumbnail:hover {
 
 /* Membership Panels */
 
-.membership-btn {
-  padding-bottom: 15px;
-  text-align: center;
-}
-
-@include media-min-width($screen-md-min) {
-  .membership-row > div[class*='col-'] {
-    min-height: 350px;
-    > .panel {
-      min-height: inherit;
-    }
-  }
-  .membership-panel {
-    position: relative;
-  }
-  .membership-btn {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-  }
-}
-
+@include membership-panel("diamond",  $diamond-membership-colors);
 @include membership-panel("platinum", $platinum-membership-colors);
 @include membership-panel("gold",     $gold-membership-colors);
 @include membership-panel("silver",   $silver-membership-colors);

@@ -1,14 +1,30 @@
+$color-diamond1: #ffffff;
+$color-diamond2: #141414;
+$color-diamond3: #1f1f1f;
+
+$diamond-membership-colors: (
+  panel: $color-diamond1,
+  panel-border: $color-diamond2,
+  panel-background: $color-diamond3,
+  button: white,
+  button-border: $color-diamond2,
+  button-background: $color-diamond3,
+  button-hover: $color-diamond2,
+  button-hover-border: black,
+  button-hover-background: $color-diamond1
+);
+
 $color-platinum1: #ffffff;
-$color-platinum2: #1a1a1a;
-$color-platinum3: #0d0d0d;
+$color-platinum2: #353535;
+$color-platinum3: #4c4c4c;
 
 $platinum-membership-colors: (
   panel: $color-platinum1,
   panel-border: $color-platinum2,
   panel-background: $color-platinum3,
   button: white,
-  button-border: $color-platinum3,
-  button-background: $color-platinum2,
+  button-border: $color-platinum2,
+  button-background: $color-platinum3,
   button-hover: $color-platinum2,
   button-hover-border: black,
   button-hover-background: $color-platinum1
