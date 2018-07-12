@@ -4,6 +4,33 @@ title: Greyhound Fostering
 permalink: /foster/
 ---
 
+## GALT Veterinarian Protocol for Adoption & Foster Applicants
+
+This document defines GALT’s requirements for veterinarian care for an applicant’s pet(s), both
+foster and adoption. In addition to the items listed below, we will also inquire as to the
+historical care of the pets. In the event that the practice is no longer open, dated records on
+practice letterhead will be accepted in lieu of the vet check.
+
+All cats and dogs must be current on core vaccinations (Rabies, DHPP) and wellness exam. Cats
+that are kept solely indoors must be current on Rabies vaccinations as it is required by law.
+If the pet is exempt from core vaccinations, a letter must be submitted signed by a
+veterinarian explaining why the animal is not current.  Annual heartworm test is required with
+proof of current monthly heartworm preventative.
+
+If the pet or pets is/are not current, they must not be greater than 6 months overdue.  If
+greater than six months overdue, GALT has the right to terminate its consideration for adoption
+or foster.  If less than 6 months overdue, the applicant has <u>7 days</u> to update his/her pets’
+vaccinations and physical exams.
+
+GALT recommends, in consultation with your veterinarian, current Bordatella, Lepto and Canine
+Flu vaccinations as well as monthly flea and tick preventatives due to the high exposure to
+diseases.
+
+If pets are recently deceased (within the past quarter), we will conduct the vet check to
+ensure that they were kept current before they passed away and were well cared for in life.
+
+## Fostering a Greyhound from GALT-Central Texas
+
 **MORE** retiring and rescued greyhounds are on their way to us and are in need of a soft place
 to land. If you have considered fostering, NOW is the time to make a difference in a greyhound's
 life. Please send your foster application (form fillable download below) to
@@ -31,10 +58,6 @@ retired racing greyhound, please review the Foster FAQs below.
 <div class="text-center">
   <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Foster_Application.pdf" role="button">Download Application</a>
 </div>
-
-### Questions?
-
-Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)
 
 * * *
 
@@ -77,6 +100,10 @@ Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-ce
 </div>
 <div class="col-md-2"></div>
 </div>
+
+### Questions?
+
+Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)
 
 <div class="text-center">
   <div class="panel-footer">
