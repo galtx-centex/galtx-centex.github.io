@@ -7,5 +7,6 @@ sex: male
 dob: 2015-09-17
 color: brindle
 pic: ricky.jpg
+pending: yes
 ---
 
