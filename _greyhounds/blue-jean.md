@@ -1,6 +1,6 @@
 ---
 layout: greyhound
-title: Blue-jean
+title: Blue Jean
 date: 2018-07-18
 category: available
 sex: female
