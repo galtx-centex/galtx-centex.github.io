@@ -9,6 +9,7 @@ color: fawn
 pic: chelsea.jpg
 pics:
   - chelsea_1.jpg
+pending: yes
 ---
 
 Chelsea is a super sweet and loving girl who has made so much progress since we began
