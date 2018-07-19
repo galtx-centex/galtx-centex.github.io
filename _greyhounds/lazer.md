@@ -8,5 +8,7 @@ dob: 2016-08-19
 color: fawn
 cats: yes
 pic: lazer.jpg
+pics:
+  - lazer_1.jpg
 ---
 
