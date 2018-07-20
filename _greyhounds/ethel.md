@@ -8,5 +8,7 @@ dob: 2017-07-01
 color: white and brindle
 cats: no
 pic: ethel.jpg
+pics:
+  - ethel_1.jpg
 ---
 
