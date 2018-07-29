@@ -2,7 +2,7 @@
 layout: greyhound
 title: Chelsea
 date: 2018-05-08
-category: available
+category: adopted
 sex: female
 dob: 2010-10-01
 color: fawn
@@ -10,6 +10,7 @@ pic: chelsea.jpg
 pics:
   - chelsea_1.jpg
 pending: yes
+doa: 2018-07-29
 ---
 
 Chelsea is a super sweet and loving girl who has made so much progress since we began
