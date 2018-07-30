@@ -12,3 +12,12 @@ pics:
   - ethel_1.jpg
 ---
 
+My sister Lucy and I were picked up by Animal Control Officers in Seguin.  We were so happy to get out of the heat and have a nice bath.
+
+ 
+
+My foster family calls me “Waffles.”  I am a silly, little thing.  I would love another young dog in the home to run zoomies with.  Some of the these new sights and sounds still startle me, but I am figuring things out quickly.  Treats are a good way to win my affection! 
+
+ 
+
+I never went to the racetrack and do not have tattoos.  Foster mom says, although I’m full grown (a petite 50 lbs.), I still act  like a frisky puppy.
