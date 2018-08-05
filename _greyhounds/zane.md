@@ -9,5 +9,6 @@ color: red
 pic: zane.jpg
 pics:
   - zane_1.jpg
+pending: yes
 ---
 
