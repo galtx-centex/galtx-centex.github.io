@@ -7,5 +7,6 @@ sex: female
 dob: 2016-10-10
 color: black
 pic: lady1.jpg
+pending: yes
 ---
 
