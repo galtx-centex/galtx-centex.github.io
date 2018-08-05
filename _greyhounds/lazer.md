@@ -10,5 +10,6 @@ cats: yes
 pic: lazer.jpg
 pics:
   - lazer_1.jpg
+pending: yes
 ---
 
