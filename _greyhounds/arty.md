@@ -6,6 +6,6 @@ category: available
 sex: male
 dob: 2012-05-30
 color: brindle and white
-pic: Arty.jpg
+pic: arty.jpg
 ---
 
