@@ -6,6 +6,6 @@ category: available
 sex: female
 dob: 2015-03-18
 color: brindle
-pic: Nita.jpg
+pic: nita.jpg
 ---
 
