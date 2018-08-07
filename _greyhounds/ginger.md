@@ -6,6 +6,6 @@ category: available
 sex: female
 dob: 2015-03-22
 color: red and white
-pic: Ginger.jpg
+pic: ginger.jpg
 ---
 
