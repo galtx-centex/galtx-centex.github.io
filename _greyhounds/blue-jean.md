@@ -8,5 +8,6 @@ dob: 2015-10-23
 color: black
 cats: yes
 pic: blue-jean.jpg
+pending: yes
 ---
 
