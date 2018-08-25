@@ -7,5 +7,6 @@ sex: male
 dob: 2012-05-30
 color: brindle and white
 pic: arty.jpg
+pending: yes
 ---
 
