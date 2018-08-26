@@ -8,5 +8,6 @@ dob: 2016-08-16
 color: brindle
 cats: yes
 pic: kevin.jpg
+pending: yes
 ---
 
