@@ -3,12 +3,13 @@ layout: greyhound
 title: Carlos
 date: 2010-01-15
 age: 4 YEARS
-category: adopted
+category: deceased
 doa: 2010-01-15
 cats: yes
 color: FAWN
 pic: carlos.jpg
 sex: MALE
+dod: 2018-08-26
 ---
 
 Carlos is a happy guy, so happy you've got to watch out for that tail sometimes! Retiring from the track, he has quickly
