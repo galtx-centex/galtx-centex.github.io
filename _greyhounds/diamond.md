@@ -8,5 +8,6 @@ dob: 2017-06-15
 color: fawn
 cats: yes
 pic: diamond.jpg
+pending: yes
 ---
 
