@@ -8,5 +8,6 @@ dob: 2016-06-26
 color: black
 cats: yes
 pic: simba.jpg
+pending: yes
 ---
 
