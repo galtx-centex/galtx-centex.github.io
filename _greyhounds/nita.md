@@ -7,6 +7,7 @@ sex: female
 dob: 2015-03-18
 color: brindle
 pic: nita.jpg
+pending: yes
 ---
 
 Hi, my name is Nita.  I thought I would be a racer when I grew up, but decided that just wasn’t  the life for me. 
