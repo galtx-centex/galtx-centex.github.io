@@ -2,13 +2,14 @@
 layout: greyhound
 title: Abby
 date: 2018-09-07
-category: available
+category: adopted
 sex: female
 dob: 2011-03-11
 color: fawn
 cats: yes
 pic: abby1.jpg
 pending: yes
+doa: 2018-10-20
 ---
 
 My proper name is “Fuzzy’s Abigail”, but everyone calls me Abby.  I am seven years old, which means I still enjoy playing with toys, going on walks, and even a short zoomie around the living room each morning.  It also means, I am calm and quiet when you are trying to work or sleep, and I am no longer interested in chewing on furniture or shoes.
