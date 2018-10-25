@@ -8,5 +8,6 @@ dob: 2016-08-18
 color: black
 cats: no
 pic: jon.jpg
+pending: yes
 ---
 
