@@ -1,6 +1,7 @@
 ---
 layout: greyhound
-title: Ethel
+title: Waffles (aka Ethel)
+nick: Waffles
 date: 2018-07-19
 category: available
 sex: female
