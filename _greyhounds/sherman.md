@@ -8,5 +8,6 @@ dob: 2016-08-08
 color: brindle
 cats: no
 pic: sherman.jpg
+pending: yes
 ---
 
