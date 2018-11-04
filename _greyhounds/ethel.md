@@ -11,6 +11,7 @@ cats: no
 pic: ethel.jpg
 pics:
   - ethel_1.jpg
+pending: yes
 ---
 
 My sister Lucy and I were picked up by Animal Control Officers in Seguin.  We were so happy to get out of the heat and have a nice bath.
