@@ -66,15 +66,7 @@ If pets are recently deceased (within the past quarter), we will conduct the vet
 ensure that they were kept current before they passed away and were well cared for in life.
 
 <div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Adoption_Application.pdf" role="button">Download Application</a>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_donations">
-    <input type="hidden" name="business" value="accounting@galtx-centex.org">
-    <input type="hidden" name="amount" value="75">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="item_name" value="Adoption Application Deposit">
-    <input type="submit" class="btn btn-lg btn-success" role="button" value="Submit Application Deposit" alt="Submit Application Deposit">
-  </form>
+  <a class="btn btn-lg btn-success" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply Here</a>
 </div>
 
 ### Questions?

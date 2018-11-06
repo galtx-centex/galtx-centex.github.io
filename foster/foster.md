@@ -8,22 +8,20 @@ permalink: /foster/
 
 **MORE** retiring and rescued greyhounds are on their way to us and are in need of a soft place
 to land. If you have considered fostering, NOW is the time to make a difference in a greyhound's
-life. Please send your foster application (form fillable download below) to
-[foster@galtx-centex.org](mailto:foster@galtx-centex.org).
-Application can be typed if downloaded and opened on your desktop.
+life.
 
 GALT-Central Texas ALWAYS needs caring foster homes (with or without cats!). GALT-Central Texas provides the
 basic supplies; you provide lessons on home life, bed, safety, warmth, affection, and
 training for becoming someone's forever companion. [Tomlinson's](http://www.tomlinsons.com/)
 has generously donated food for our foster families, so now there is absolutely no monetary cost to fostering.
 
-Greyhounds are very intelligent and learn
-very quickly, particularly when given daily affection.  During the time they are in foster
-care, the greyhounds are taken to the veterinarian, get their annual shots, are spayed or
-neutered, have their teeth cleaned, are tested for heartworms and put on heartworm
-preventative. During their visit, they are also evaluated for any injuries or health problems.
-Once this is done, GALT-Central Texas begins the process of finding a home for the greyhound, and the
-foster family plays a big role in ensuring the right placement of the greyhound.
+Greyhounds are very intelligent and learn very quickly, particularly when given daily
+affection.  During the time they are in foster care, the greyhounds are taken to the
+veterinarian, get their annual shots, are spayed or neutered, have their teeth cleaned, are
+tested for heartworms and put on heartworm preventative. During their visit, they are also
+evaluated for any injuries or health problems.  Once this is done, GALT-Central Texas begins
+the process of finding a home for the greyhound, and the foster family plays a big role in
+ensuring the right placement of the greyhound.
 
 Foster families are our most important volunteers. Without them, GALT-Central Texas cannot fulfill its
 mission. The main limitation on the number of dogs GALT-Central Texas can bring into its adoption program
@@ -54,10 +52,6 @@ diseases.
 
 If pets are recently deceased (within the past quarter), we will conduct the vet check to
 ensure that they were kept current before they passed away and were well cared for in life.
-
-<div class="text-center">
-  <a class="btn btn-lg btn-success" href="/docs/GALT-CT_Foster_Application.pdf" role="button">Download Application</a>
-</div>
 
 * * *
 
@@ -99,6 +93,12 @@ ensure that they were kept current before they passed away and were well cared f
   </div>
 </div>
 <div class="col-md-2"></div>
+</div>
+
+* * *
+
+<div class="text-center">
+  <a class="btn btn-lg btn-success" href="" role="https://galtct.armgnt.com/gms_fostapp.php">Apply Here</a>
 </div>
 
 ### Questions?
