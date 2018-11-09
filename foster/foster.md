@@ -4,6 +4,30 @@ title: Greyhound Fostering
 permalink: /foster/
 ---
 
+<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-10">
+<div class="text-center">
+<h2><b>Florida Admendment 13 - Greyhound Racing Ban</b></h2>
+<p>
+With the recent Florida vote to ban greyhound racing GALT-Central Texas is committed to helping
+as many greyhounds as we can. We are working with our parent chapter in Dallas to make plans
+for the influx of greyhounds we expect very soon. This effort will truly be a community effort.
+</p>
+<p>
+We have heard from many of you inquiring how you can help and we sincerely thank you.
+<br/>
+Our immediate needs are foster families
+<a href="mailto:foster@galtx-centex.org">foster@galtx-centex.org</a> and funding.
+</p>
+<p>
+Updates will be provided as information is available.
+</p>
+</div>
+</div>
+<div class="col-md-1"></div>
+</div>
+
 ## Fostering a Greyhound from GALT-Central Texas
 
 **MORE** retiring and rescued greyhounds are on their way to us and are in need of a soft place
