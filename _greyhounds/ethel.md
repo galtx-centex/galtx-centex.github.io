@@ -3,7 +3,7 @@ layout: greyhound
 title: Waffles (aka Ethel)
 nick: Waffles
 date: 2018-07-19
-category: available
+category: adopted
 sex: female
 dob: 2017-07-01
 color: white and brindle
@@ -12,6 +12,7 @@ pic: ethel.jpg
 pics:
   - ethel_1.jpg
 pending: yes
+doa: 2018-11-11
 ---
 
 My sister Lucy and I were picked up by Animal Control Officers in Seguin.  We were so happy to get out of the heat and have a nice bath.
