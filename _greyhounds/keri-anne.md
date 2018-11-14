@@ -1,6 +1,6 @@
 ---
 layout: greyhound
-title: Keri-Anne
+title: Keri Anne
 date: 2018-11-13
 category: available
 sex: female
