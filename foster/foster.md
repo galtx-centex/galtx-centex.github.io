@@ -121,8 +121,11 @@ ensure that they were kept current before they passed away and were well cared f
 
 * * *
 
-<div class="text-center">
-  <a class="btn btn-lg btn-success" href="https://galtct.armgnt.com/gms_fostapp.php" role="button">Apply Here</a>
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://galtct.armgnt.com/gms_fostapp.php" role="button">Apply</a>
+  </div>
 </div>
 
 ### Questions?
