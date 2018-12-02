@@ -12,7 +12,7 @@ permalink: /greyhounds/
     {% for greyhound in greyhounds reversed %}
       <div class="col-sm-4 col-md-3">
         <a class="thumbnail" href="{{ greyhound.url }}">
-          {% if greyhound.pending or greyhound.permafoster %}
+          {% if greyhound.pending or greyhound.medicalhold or greyhound.permafoster %}
           <div class="thumbnail-container">
           {% endif %}
           {% if greyhound.pic %}
@@ -23,6 +23,11 @@ permalink: /greyhounds/
           {% if greyhound.pending %}
             <div class="thumbnail-pending alert alert-success" role="alert">
               <b>Adoption Pending</b>
+            </div>
+          </div>
+          {% elsif greyhound.medicalhold %}
+            <div class="thumbnail-medicalhold alert alert-warning" role="alert">
+              <b>Medical Hold</b>
             </div>
           </div>
           {% elsif greyhound.permafoster %}

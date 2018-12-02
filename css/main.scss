@@ -292,6 +292,10 @@ a.thumbnail:hover {
   @extend .thumbnail-pending;
   background-color: rgba(242, 222, 222, 0.7);
 }
+.thumbnail-medicalhold {
+  @extend .thumbnail-pending;
+  background-color: rgba(252, 248, 227, 0.7);
+}
 
 /* Profile content */
 

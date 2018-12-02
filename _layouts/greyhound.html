@@ -15,7 +15,7 @@ layout: page
 {% endif %}
 
 {% if greyhound.category == 'deceased' %}
-  <div class="text-center alert alert-warning" role="alert">
+  <div class="text-center alert alert-info" role="alert">
     {% if greyhound.dob and greyhound.dod %}
       <span class="banner">🌈 <b>Rainbow Bridge</b> 🌈<br>{{ born }} - {{ died }}</span>
     {% elsif greyhound.dod %}
@@ -38,6 +38,10 @@ layout: page
 {% elsif greyhound.pending %}
   <div class="text-center alert alert-success" role="alert">
     <span class="banner">💚 <b>Adoption Pending!</b> 💚</span>
+  </div>
+{% elsif greyhound.medicalhold %}
+  <div class="text-center alert alert-warning" role="alert">
+    <span class="banner">⚕️ <b>Medical Hold</b> ⚕️</span>
   </div>
 {% elsif greyhound.category == 'available' %}
   <div class="text-center alert alert-info" role="alert">
