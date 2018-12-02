@@ -7,5 +7,6 @@ sex: male
 dob: 2011-11-14
 color: white
 pic: snowy.jpg
+medicalhold: yes
 ---
 
