@@ -7,5 +7,6 @@ sex: female
 dob: 2010-11-14
 color: white
 pic: elsa.png
+medicalhold: yes
 ---
 
