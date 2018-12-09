@@ -8,5 +8,6 @@ dob: 2015-12-02
 color: brindle
 cats: yes
 pic: keri-anne.jpg
+pending: yes
 ---
 
