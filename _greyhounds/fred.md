@@ -8,5 +8,6 @@ dob: 2016-01-18
 color: fawn
 cats: yes
 pic: fred.jpg
+pending: yes
 ---
 
