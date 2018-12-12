@@ -8,5 +8,6 @@ dob: 2013-02-24
 color: brindle
 cats: no
 pic: winnie.jpg
+pending: yes
 ---
 
