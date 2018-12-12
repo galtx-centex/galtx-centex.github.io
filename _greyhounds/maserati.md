@@ -8,5 +8,6 @@ dob: 2015-03-31
 color: black
 cats: yes
 pic: maserati.jpg
+pending: yes
 ---
 
