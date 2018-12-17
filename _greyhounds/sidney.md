@@ -2,12 +2,13 @@
 layout: greyhound
 title: Sidney
 date: 2018-10-30
-category: available
+category: adopted
 sex: female
 dob: 2016-06-26
 color: black
 pic: sidney.jpg
 pending: yes
+doa: 2018-12-17
 ---
 
 Hi! I am Sidney, but I like it when foster mom calls me Sid-Sid.
