@@ -2,11 +2,12 @@
 layout: greyhound
 title: Sam
 date: 2018-10-30
-category: available
+category: adopted
 sex: male
 dob: 2017-04-24
 color: fawn
 pic: sam.jpg
+doa: 2018-12-29
 ---
 
 Hi!  My name is Sam McGee.  I have been very busy while in my first ever foster home where I have two greyhound foster siblings.  I have learned “heel up” and “let’s go”. I have also learned “target” which Foster Mom taught me so I would focus on her and Foster Dad.  I have also picked up “wait”, but I am really only good at it when at the front door, I am still working on waiting to get out of the van.  Guess what else I can do?  In my foster home, there are bells hanging on the door knob.  When I have to go potty, I hit the bells and someone comes running to let me out.  It is the coolest thing ever! 
