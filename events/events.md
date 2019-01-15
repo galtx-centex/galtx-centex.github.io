@@ -7,8 +7,6 @@ permalink: /events/
 <div class="row text-center">
   <div class="col-md-5">
     <h2>Upcoming Events</h2>
-    <h3>Barnes & Noble Gift Wrapping!</h3>
-    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://signup.com/Group/353724680118" role="button">Sign Up</a>
     <div class="events-container">
       <div class="fb-page"
            data-href="https://www.facebook.com/galtcentraltexas/"
