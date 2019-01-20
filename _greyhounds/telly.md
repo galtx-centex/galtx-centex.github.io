@@ -8,5 +8,6 @@ dob: 2014-09-12
 color: black
 cats: yes
 pic: telly.jpg
+pending: yes
 ---
 
