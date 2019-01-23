@@ -2,12 +2,13 @@
 layout: greyhound
 title: Elsa
 date: 2018-12-02
-category: available
+category: deceased
 sex: female
 dob: 2010-11-14
 color: white
 pic: elsa.png
 medicalhold: yes
+dod: 2019-01-03
 ---
 Elsa arrived with her friend Snowy at the Austin Animal Center.  Although not nearly as thin as he, she was full of parasites, including a heavy load of Heartworms.  Thanks to her emergency foster family, her anemia has resolved and she has gained enough weight to push forward with necessary medical procedures.
 
