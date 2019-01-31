@@ -3,11 +3,12 @@ layout: greyhound
 title: Opal
 date: 2010-02-27
 age: 9 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-27
 color: FAWN
 pic: opal.jpg
 sex: FEMALE
+dod: 2018-12-27
 ---
 
 A true mom through and through, Opal ran 89 races before retiring to mother 37 offspring.  Finally, at age 9 years, she
