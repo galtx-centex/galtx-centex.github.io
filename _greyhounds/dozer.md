@@ -8,5 +8,6 @@ dob: 2016-05-31
 color: white & brindle
 cats: yes
 pic: dozer.jpg
+pending: yes
 ---
 
