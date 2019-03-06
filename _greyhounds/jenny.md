@@ -6,7 +6,7 @@ name: Jenny
 sex: female
 dob: 2018-03-01
 color: white and fawn
-title: jenny
+title: Jenny
 pic: jenny.jpg
 ---
 
