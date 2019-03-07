@@ -8,5 +8,6 @@ dob: 2017-06-16
 color: brindle
 cats: yes
 pic: titan.jpg
+pending: yes
 ---
 
