@@ -8,5 +8,6 @@ dob: 2018-04-01
 color: fawn
 cats: yes
 pic: skipper.jpg
+pending: yes
 ---
 
