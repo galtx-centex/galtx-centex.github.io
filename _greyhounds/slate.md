@@ -7,5 +7,6 @@ sex: female
 dob: 2017-04-07
 color: black
 pic: slate.jpg
+pending: yes
 ---
 
