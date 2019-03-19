@@ -7,5 +7,6 @@ sex: female
 dob: 2018-01-05
 color: blue merle
 pic: shadow.jpg
+pending: yes
 ---
 
