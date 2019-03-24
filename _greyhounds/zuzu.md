@@ -9,5 +9,6 @@ color: brindle
 cats: yes
 title: Zuzu
 pic: zuzu.jpg
+pending: yes
 ---
 
