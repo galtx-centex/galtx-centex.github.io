@@ -9,5 +9,6 @@ color: red
 cats: no
 title: Azalea
 pic: azalea.jpg
+medicalhold: yes
 ---
 
