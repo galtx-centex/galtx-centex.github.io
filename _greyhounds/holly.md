@@ -2,11 +2,12 @@
 layout: greyhound
 title: Holly
 date: 2010-01-20
-category: adopted
+category: deceased
 doa: 2010-01-20
 color: WHITE & BLACK
 pic: holly.jpg
 sex: FEMALE
+dod: 2018-11-02
 ---
 
 Almost all white, Holly has spots on her ears and a very distinct black spade marking just above her long white tail.
