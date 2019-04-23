@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-03-12
-category: available
+category: adopted
 name: lily t
 sex: female
 dob: 2016-04-03
@@ -10,5 +10,6 @@ cats: yes
 title: Lily T
 pic: lily-t.jpg
 pending: yes
+doa: 2019-04-22
 ---
 
