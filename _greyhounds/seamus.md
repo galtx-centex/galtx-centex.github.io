@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Seamus
 pic: seamus.jpg
+pending: yes
 ---
 
