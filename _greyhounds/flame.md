@@ -9,5 +9,6 @@ color: brindle
 cats: yes
 title: Flame
 pic: flame.jpg
+pending: yes
 ---
 
