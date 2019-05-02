@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-03-28
-category: available
+category: adopted
 name: flame
 sex: female
 dob: 2011-09-24
@@ -10,5 +10,6 @@ cats: yes
 title: Flame
 pic: flame.jpg
 pending: yes
+doa: 2019-05-02
 ---
 
