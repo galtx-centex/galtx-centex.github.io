@@ -9,5 +9,6 @@ color: brindle
 cats: yes
 title: Ryder
 pic: ryder.jpg
+pending: yes
 ---
 
