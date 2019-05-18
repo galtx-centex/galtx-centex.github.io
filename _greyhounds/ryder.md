@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-03-28
-category: available
+category: adopted
 name: ryder
 sex: male
 dob: 2018-02-01
@@ -10,5 +10,6 @@ cats: yes
 title: Ryder
 pic: ryder.jpg
 pending: yes
+doa: 2019-05-17
 ---
 
