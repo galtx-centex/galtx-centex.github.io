@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Julie
 pic: julie.jpg
+medicalhold: yes
 ---
 
