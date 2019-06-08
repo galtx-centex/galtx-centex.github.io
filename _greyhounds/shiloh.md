@@ -6,7 +6,7 @@ name: shiloh
 sex: female
 dob: 2016-05-01
 color: red
-cats: yes
+cats: no
 title: Shiloh
 pic: shiloh.jpg
 ---
