@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-03-28
-category: available
+category: adopted
 name: fiesta
 sex: female
 dob: 2016-06-01
@@ -10,5 +10,6 @@ cats: no
 title: Fiesta
 pic: fiesta.jpg
 pending: yes
+doa: 2019-06-11
 ---
 
