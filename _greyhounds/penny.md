@@ -7,5 +7,6 @@ sex: female
 dob: 2017-01-02
 color: red
 pic: penny.jpg
+pending: yes
 ---
 
