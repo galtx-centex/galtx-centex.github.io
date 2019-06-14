@@ -8,5 +8,6 @@ dob: 2018-03-01
 color: fawn
 title: Forrest
 pic: forest.jpg
+pending: yes
 ---
 
