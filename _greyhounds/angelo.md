@@ -3,12 +3,13 @@ layout: greyhound
 title: Angelo
 date: 2010-02-22
 age: 3 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-22
 cats: no
 color: WHITE & BRINDLE
 pic: angelo.jpg
 sex: MALE
+dod: 2019-06-02
 ---
 Angelo is a very special greyhound.  He is a bright, affectionate, outgoing male with a sweet puppyish curiosity
 and always wants to help with whatever you've got going on. Doing laundry? Digging in the garden?  Unloading groceries?
