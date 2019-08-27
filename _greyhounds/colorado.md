@@ -8,5 +8,6 @@ dob: 2015-10-26
 color: red
 title: Colorado
 pic: colorado.jpg
+cats: yes
 ---
 
