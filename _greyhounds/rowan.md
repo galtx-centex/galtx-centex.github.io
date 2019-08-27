@@ -8,5 +8,6 @@ dob: 2016-03-01
 color: red
 title: Rowan
 pic: rowan.jpg
+cats: no
 ---
 
