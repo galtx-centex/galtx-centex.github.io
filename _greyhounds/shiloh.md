@@ -9,5 +9,6 @@ color: red
 cats: no
 title: Shiloh
 pic: shiloh.jpg
+pending: yes
 ---
 
