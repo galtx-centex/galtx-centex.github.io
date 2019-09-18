@@ -9,6 +9,7 @@ color: brindle
 cats: no
 title: Annie
 pic: annie1.jpg
+medicalhold: yes
 ---
 Annie (Cry Antigua) had quite a successful racing career, at one point winning 13 races in a row!  At age nine, she is still playful and active. She enjoys a good long walk, or a zoomie in the yard.  
 Annie was previously adopted, but was returned due to a family change, and no fault of her own.  She knows all about good house manners. Annie is more vocal than other greyhounds, so not the best match for an apartment dweller. She would prefer another dog companion. 
