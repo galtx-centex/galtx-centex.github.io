@@ -8,5 +8,6 @@ dob: 2012-08-05
 color: brindle
 title: Cali
 pic: cali.jpg
+pending: yes
 ---
 
