@@ -9,5 +9,6 @@ color: red fawn
 cats: yes
 title: Scarlet
 pic: scarlet.jpg
+pending: yes
 ---
 
