@@ -9,5 +9,6 @@ color: red
 title: Colorado
 pic: colorado.jpg
 cats: yes
+pending: yes
 ---
 
