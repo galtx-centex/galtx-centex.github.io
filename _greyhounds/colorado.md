@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-08-08
-category: available
+category: adopted
 name: colorado
 sex: male
 dob: 2015-10-26
@@ -10,5 +10,6 @@ title: Colorado
 pic: colorado.jpg
 cats: yes
 pending: yes
+doa: 2019-10-10
 ---
 
