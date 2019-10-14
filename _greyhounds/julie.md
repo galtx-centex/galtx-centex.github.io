@@ -10,5 +10,6 @@ cats: yes
 title: Julie
 pic: julie.jpg
 medicalhold: no
+pending: yes
 ---
 
