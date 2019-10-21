@@ -6,7 +6,7 @@ name: london
 sex: female
 dob: 2015-10-05
 color: white w black ticking
-cats: no
+cats: yes
 title: London
 pic: london.jpg
 ---
