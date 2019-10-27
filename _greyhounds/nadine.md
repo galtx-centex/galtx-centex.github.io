@@ -9,5 +9,6 @@ color: red fawn
 cate: yes
 title: Nadine
 pic: nadine.jpg
+cats: yes
 ---
 
