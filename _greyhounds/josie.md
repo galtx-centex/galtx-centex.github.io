@@ -8,5 +8,6 @@ dob: 2017-09-17
 color: red
 title: Josie
 pic: josie.jpg
+cats: yes
 ---
 
