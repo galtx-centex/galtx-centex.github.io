@@ -2,7 +2,7 @@
 layout: greyhound
 title: Jupiter
 date: 2017-09-04
-category: available
+category: adopted
 color: Red
 dob: 2015-01-20
 pic: jupiter.jpg
@@ -11,6 +11,7 @@ cats: no
 pics:
   - jupiter1.jpg
 permafoster: yes
+doa: 2019-11-09
 ---
 
 Jupiter or Rowdy dog or Rowdy as he most often gets called, because that is what he is. Rowdy is a big 80lb lovable bundle of pure energy. He requires a lot of exercise and really needs at least one walk a day of about an hour long in order to keep his  energy in check, and even with that he's up at every noise, (even the ones that I don't hear)  gotta check and see what is going on. He is a strong dog and actually walks fairly well on lead and gets better but still requires a strong had when walking. He's still adjusting to 'family life' but he is coming along well in some areas but at a slow pace in others. He will crate, but we have found he does better without it. In crate he has torn up his bedding twice once we started leaving him out of crate other than him trying to get the front door open the first time we left, he has been well behaved no chewing or destruction, but he will take that opportunity to climb up on the couch. As far as I know he does not bark while we are gone, but I can't be certain as we have no neighbors close by to complain. He eats well and will look at you and wait until you put the food down. He does have intermittent food guarding issues that we are working with, mostly with people coming around and touching him though. I've not seen him do it when the other dog approaches. He follows commands to not jump, and go lay down or leave an area/room when he is told.  He likes his Nylabones and a tennis ball to chew and play with. STUFFY toys are a big NO for him, he gets very intense and aggressive with them and will growl at you if you try to take them. He loves the yard, especially in the mornings when all the cats are in and he can go out without his muzzle on, and is still in the process of learning that he doesn't have to come back in right away after doing his business.
