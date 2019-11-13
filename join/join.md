@@ -15,7 +15,7 @@ All members will receive:
 * Monthly newsletter with calendar of events, news, adoptions, and activities
 * Regularly scheduled doggie play dates
 * Exclusive members-only pricing on special events
-* 10% discount at GALT’s [GreytStore](https://www.greytstore.com/)
+* 10% discount at our [online store](https://galtx-centex.com/)
 * 24 hour support through our toll-free number [(855) 4-GO-FAST](tel:855-446-3278)
 * If you adopt or foster you automatically become an Honorary Member for the year(s) you adopt and/or foster.
 
