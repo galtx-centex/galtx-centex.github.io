@@ -30,7 +30,6 @@ over $500 and includes the following:
 * Blood work: CBC (complete blood count) with serum chemistry panel
 * Heartworm test (and treatment if necessary) until negative results achieved
 * Fecal test (and treatment if necessary) until negative results achieved
-* Tick-borne disease panel by Protatek Lab and treatment as necessary (detects Ehrlichia canis, Babesia canis, Rocky Mountain Spotted Fever, and Lyme)
 * Spay or neuter
 * Microchip implanted and registered with the provider
 * Dental cleaning and extractions as needed
