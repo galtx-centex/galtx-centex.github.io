@@ -21,7 +21,6 @@ _site/
 /vendor/
 /lib/bundler/man/
 
-Gemfile.lock
 .ruby-version
 .ruby-gemset
 
