@@ -3,7 +3,7 @@ layout: greyhound
 title: Alex
 date: 2010-03-31
 age: 6 YEARS
-category: adopted
+category: deceased
 doa: 2010-03-31
 cats: no
 color: BRINDLE
