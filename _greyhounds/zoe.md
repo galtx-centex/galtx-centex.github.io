@@ -2,7 +2,7 @@
 layout: greyhound
 title: Zöe
 date: 2018-06-17
-category: adopted
+category: deceased
 sex: female
 dob: 2018-01-01
 color: red
