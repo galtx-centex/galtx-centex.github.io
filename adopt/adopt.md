@@ -4,6 +4,22 @@ title: Adoption
 permalink: /adopt/
 ---
 
+## New Texas Sales Tax Regulations
+### Sales Tax now required on Animal Adoptions
+
+Texas law requires that all humane organizations (Rescues, SPCA’s, Humane Societies, State
+nonprofit, and charitable 501c3 exempt orgs) collect from the adopter and remit sales/use tax
+to the Texas Comptroller on their adoption fees. The only entities in Texas that are exempt
+from collecting sales tax from the adopters are municipal animal control agencies/shelters
+operated by a county or city.
+
+Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
+State on our adoption fees. Our standard adoption fees are:
+
+* 1 - 6 years old $350 + 8.25% Total $378.88
+* 7-9 years old $275 + 8.25% Total $297.69
+* 10 & up $225 + 8.25% Total $243.56
+
 ## Adopting a Greyhound from GALT-Central Texas
 
 The application is processed in several steps. We want to get a feel for your family life to begin considering the right
