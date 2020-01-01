@@ -90,6 +90,3 @@ DEPENDENCIES
   json
   rake
   therubyracer
-
-BUNDLED WITH
-   2.1.2
