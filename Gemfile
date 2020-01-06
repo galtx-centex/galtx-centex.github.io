@@ -10,5 +10,5 @@ end
 
 group :test do
   gem 'rake'
-  gem 'html-proofer', '3.14'
+  gem 'html-proofer'
 end

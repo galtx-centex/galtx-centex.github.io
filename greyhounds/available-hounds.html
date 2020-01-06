@@ -16,9 +16,9 @@ permalink: /greyhounds/
           <div class="thumbnail-container">
           {% endif %}
           {% if greyhound.pic %}
-            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title }}">
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title | remove: '"' }}">
           {% else %}
-            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title }}">
+            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title | remove: '"' }}">
           {% endif %}
           {% if greyhound.pending %}
             <div class="thumbnail-pending alert alert-success" role="alert">

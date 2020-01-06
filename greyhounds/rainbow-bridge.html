@@ -25,9 +25,9 @@ pagination:
       <div class="col-xs-6 col-sm-4 col-md-2">
         <a class="thumbnail" href="{{ greyhound.url }}">
           {% if greyhound.pic %}
-            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title }}">
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title | remove: '"' }}">
           {% else %}
-            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title }}">
+            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title | remove: '"' }}">
           {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
