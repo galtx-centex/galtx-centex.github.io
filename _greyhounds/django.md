@@ -9,5 +9,6 @@ color: black
 cat: no
 title: Django
 pic: django.jpg
+pending: yes
 ---
 
