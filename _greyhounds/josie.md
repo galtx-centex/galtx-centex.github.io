@@ -9,5 +9,6 @@ color: red
 title: Josie
 pic: josie.jpg
 cats: yes
+pending: yes
 ---
 
