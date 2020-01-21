@@ -9,6 +9,6 @@ color: fawn
 cat: yes
 title: Nessa
 pic: nessa.jpg
-pending: yes
+pending: no
 ---
 
