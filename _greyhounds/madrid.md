@@ -8,5 +8,6 @@ dob: 2016-02-15
 color: red fawn
 title: Madrid
 pic: madrid.jpg
+cats: yes
 ---
 
