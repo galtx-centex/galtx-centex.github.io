@@ -8,5 +8,6 @@ dob: 2010-03-14
 color: brindle
 title: Miley
 pic: miley.jpg
+cats: yes
 ---
 
