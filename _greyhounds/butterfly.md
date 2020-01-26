@@ -8,5 +8,6 @@ dob: 2017-12-17
 color: black
 title: Butterfly
 pic: butterfly.jpg
+cats: no
 ---
 
