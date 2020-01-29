@@ -11,7 +11,7 @@ pic: athena.jpg
 pics:
   - athena1.jpg
   - athena2.jpg
-pending: no
+pending: yes
 doa: 2018-08-26
 ---
 
