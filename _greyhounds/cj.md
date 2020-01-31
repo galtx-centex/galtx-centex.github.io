@@ -6,7 +6,7 @@ name: cj
 sex: female
 dob: 2014-11-19
 color: brindle
-title: Cj
+title: CJ
 pic: cj.jpg
 ---
 
