@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-08-17
-category: available
+category: adopted
 name: josie
 sex: female
 dob: 2017-09-17
@@ -10,5 +10,6 @@ title: Josie
 pic: josie.jpg
 cats: yes
 pending: yes
+doa: 2020-02-02
 ---
 
