@@ -3,7 +3,7 @@ layout: greyhound
 title: Athena
 date: 2018-01-10
 dob: 2011-08-01
-category: available
+category: adopted
 cats: yes
 color: FAWN
 sex: FEMALE
@@ -12,6 +12,6 @@ pics:
   - athena1.jpg
   - athena2.jpg
 pending: yes
-doa: 2018-08-26
+doa: 2020-02-01
 ---
 
