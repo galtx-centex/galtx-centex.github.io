@@ -9,5 +9,6 @@ color: red fawn
 title: Madrid
 pic: madrid.jpg
 cats: yes
+pending: yes
 ---
 
