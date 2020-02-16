@@ -10,5 +10,6 @@ cat: yes
 title: Dvara
 pic: dvara.jpg
 cats: yes
+pending: yes
 ---
 
