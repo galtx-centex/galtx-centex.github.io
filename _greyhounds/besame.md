@@ -8,5 +8,6 @@ dob: 2010-11-01
 color: black
 title: Bésame
 pic: besame.jpg
+cats: no
 ---
 
