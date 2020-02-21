@@ -8,6 +8,6 @@ dob: 2010-11-01
 color: black
 title: Corazón
 pic: corazon.jpg
-cats: no
+cats: yes
 ---
 
