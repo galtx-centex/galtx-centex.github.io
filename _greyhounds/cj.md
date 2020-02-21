@@ -8,5 +8,6 @@ dob: 2014-11-19
 color: brindle
 title: CJ
 pic: cj.jpg
+cats: yes
 ---
 
