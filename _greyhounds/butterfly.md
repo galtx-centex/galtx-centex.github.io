@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-12-20
-category: available
+category: adopted
 name: butterfly
 sex: female
 dob: 2017-12-17
@@ -10,5 +10,6 @@ title: Butterfly
 pic: butterfly.jpg
 cats: no
 pending: yes
+doa: 2020-02-22
 ---
 
