@@ -9,6 +9,7 @@ color: red
 title: Rowan
 pic: rowan.jpg
 cats: no
+pending: yes
 ---
 Rowan is a big boy who, despite his size, is relatively calm and mild mannered.  He loves affection and being close to you.  If you squat down to his level, he’ll put his neck on your shoulder like a hug.  He does very well on a leash and is friendly to every dog he meets, big and small.  He loves walks and seeing the leash is the only time when he gets really energetic. He’s a needy guy and doesn’t like to be alone.  He isn’t currently crated and does well when left at home, provided he has another pet friend to keep him company.  
 
