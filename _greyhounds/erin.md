@@ -3,7 +3,7 @@ layout: greyhound
 title: Erin
 date: 2010-01-23
 age: 5 YEARS
-category: adopted
+category: deceased
 doa: 2010-01-23
 cats: no
 color: WHITE & BRINDLE
