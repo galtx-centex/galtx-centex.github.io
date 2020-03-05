@@ -3,7 +3,7 @@ layout: greyhound
 title: Bingo
 date: 2010-02-23
 age: 4 MONTHS
-category: adopted
+category: deceased
 doa: 2010-02-23
 pic: bingo.jpg
 sex: MALE
