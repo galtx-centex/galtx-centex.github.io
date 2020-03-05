@@ -2,7 +2,7 @@
 layout: greyhound
 title: Harmony
 date: 2010-02-25
-category: adopted
+category: deceased
 doa: 2010-02-25
 cats: no
 color: BRINDLE
