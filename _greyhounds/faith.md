@@ -8,5 +8,6 @@ dob: 2014-02-01
 color: white with black
 title: Faith
 pic: faith.jpg
+cats: yes
 ---
 
