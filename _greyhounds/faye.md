@@ -8,5 +8,6 @@ dob: 2018-06-01
 color: black
 title: Faye
 pic: faye.jpg
+cats: yes
 ---
 
