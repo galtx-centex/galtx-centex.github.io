@@ -9,5 +9,6 @@ color: white with black
 title: Faith
 pic: faith.jpg
 cats: yes
+medicalhold: yes
 ---
 
