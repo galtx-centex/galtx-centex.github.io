@@ -9,5 +9,6 @@ color: white w ticking
 title: Joy
 pic: joy.jpg
 cats: no
+pending: yes
 ---
 
