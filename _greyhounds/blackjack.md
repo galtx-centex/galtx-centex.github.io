@@ -8,5 +8,6 @@ dob: 2014-04-26
 color: black
 title: Blackjack
 pic: blackjack.jpg
+medicalhold: yes
 ---
 
