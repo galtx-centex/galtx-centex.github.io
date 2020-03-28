@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-03-06
-category: available
+category: adopted
 name: joy
 sex: female
 dob: 2010-12-25
@@ -10,5 +10,6 @@ title: Joy
 pic: joy.jpg
 cats: no
 pending: yes
+doa: 2020-03-28
 ---
 
