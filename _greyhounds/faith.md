@@ -10,5 +10,6 @@ title: Faith
 pic: faith.jpg
 cats: yes
 medicalhold: yes
+pending: yes
 ---
 
