@@ -8,5 +8,6 @@ dob: 2016-08-13
 color: red
 title: Addie
 pic: addie.jpg
+cats: yes
 ---
 
