@@ -8,5 +8,6 @@ dob: 2017-12-17
 color: red fawn
 title: Ranger
 pic: ranger.jpg
+cats: yes
 ---
 
