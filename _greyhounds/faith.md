@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-03-06
-category: available
+category: adopted
 name: faith
 sex: female
 dob: 2014-02-01
@@ -11,5 +11,6 @@ pic: faith.jpg
 cats: yes
 medicalhold: yes
 pending: yes
+doa: 2020-04-11
 ---
 
