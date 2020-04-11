@@ -9,5 +9,6 @@ color: red fawn
 title: Ranger
 pic: ranger.jpg
 cats: yes
+medicalhold: yes
 ---
 
