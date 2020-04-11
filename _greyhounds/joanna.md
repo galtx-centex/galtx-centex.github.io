@@ -8,5 +8,6 @@ dob: 2016-12-05
 color: black
 title: Joanna
 pic: joanna.jpg
+cats: no
 ---
 
