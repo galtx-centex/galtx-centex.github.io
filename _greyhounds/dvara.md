@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-11-14
-category: available
+category: adopted
 name: dvara
 sex: female
 dob: 2016-08-03
@@ -11,5 +11,6 @@ title: Dvara
 pic: dvara.jpg
 cats: yes
 pending: yes
+doa: 2020-04-22
 ---
 
