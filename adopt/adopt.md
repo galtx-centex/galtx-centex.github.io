@@ -14,11 +14,10 @@ from collecting sales tax from the adopters are municipal animal control agencie
 operated by a county or city.
 
 Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
-State on our adoption fees. Our standard adoption fees are:
+State on our adoption fees. Our standard adoption fees, including sales tax, are:
 
-* 1 - 6 years old $350 + 8.25% Total $378.88
-* 7-9 years old $275 + 8.25% Total $297.69
-* 10 & up $225 + 8.25% Total $243.56
+* 6 months to 7 years old $433
+* 8 years old and up $324.75
 
 ## Adopting a Greyhound from GALT-Central Texas
 
