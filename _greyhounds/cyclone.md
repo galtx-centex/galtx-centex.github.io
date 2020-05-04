@@ -5,7 +5,7 @@ category: available
 name: cyclone
 sex: male
 dob: 2018-08-14
-color + white & red: null
+color: white & red
 cats: yes
 title: Cyclone
 pic: cyclone.jpg
