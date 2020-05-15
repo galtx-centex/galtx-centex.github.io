@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Goose
 pic: goose.jpg
+pending: yes
 ---
 
