@@ -9,5 +9,6 @@ color: black
 cats: no
 title: Cordelia
 pic: cordelia.jpg
+medicalhold: yes
 ---
 
