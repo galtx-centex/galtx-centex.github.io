@@ -9,5 +9,6 @@ color: fawn
 cats: yes
 title: Allan
 pic: allan.jpg
+pending: yes
 ---
 
