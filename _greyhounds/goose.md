@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-04-25
-category: available
+category: adopted
 name: goose
 sex: male
 dob: 2017-07-10
@@ -10,5 +10,6 @@ cats: yes
 title: Goose
 pic: goose.jpg
 pending: yes
+doa: 2020-05-23
 ---
 
