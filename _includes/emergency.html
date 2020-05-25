@@ -1,0 +1,15 @@
+<h2>
+  <a href="{{ include.url }}">{{ include.name }}</a>
+</h2>
+<h3>
+  Directions:<br>
+  <a href="{{ include.dir }}">
+    {{ include.address }}
+  </a>
+</h3>
+<h3>
+  <a href="tel:{{ include.phone }}">{{ include.phone }}</a>
+</h3>
+<div class="google-maps">
+  <iframe src="{{ include.map }}" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
