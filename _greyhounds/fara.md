@@ -9,5 +9,6 @@ color: black
 cats: no
 title: Fara
 pic: fara.jpg
+pending: yes
 ---
 
