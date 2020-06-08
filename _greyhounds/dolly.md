@@ -2,7 +2,7 @@
 layout: greyhound
 title: Dolly
 date: 2010-03-19
-category: adopted
+category: deceased
 doa: 2010-03-19
 cats: yes
 color: DARK BRINDLE
