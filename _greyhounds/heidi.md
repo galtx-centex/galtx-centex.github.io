@@ -9,5 +9,6 @@ color: black
 cats: no
 title: Heidi
 pic: heidi.jpg
+medicalhold: yes
 ---
 
