@@ -2,7 +2,7 @@
 layout: greyhound
 title: Abby
 date: 2018-09-07
-category: adopted
+category: deceased
 sex: female
 dob: 2011-03-11
 color: fawn
