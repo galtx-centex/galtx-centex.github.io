@@ -5,11 +5,11 @@ permalink: /adopt/faqs/
 ---
 
 ## How much is the adoption fee?
-GALT-Central Texas’s non-refundable tax-deductible adoption donation fee is:
+Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
+State on our adoption fees. Our standard adoption fees, including sales tax, are:
 
-* $350 for all greyhounds under 7 years
-* $275 for greyhounds ages 7, 8 and 9
-* $225 for greyhounds ages 10 and up
+* 6 months to 7 years old $433
+* 8 years old and up $324.75
 
 Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
