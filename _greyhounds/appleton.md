@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Appleton
 pic: appleton.jpg
+pending: yes
 ---
 
