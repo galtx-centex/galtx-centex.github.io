@@ -9,5 +9,6 @@ color: fawn
 cats: yes
 title: Bones
 pic: bones.jpg
+pending: yes
 ---
 
