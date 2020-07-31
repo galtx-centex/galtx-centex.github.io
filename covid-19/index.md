@@ -13,10 +13,13 @@ further updates.
 
 Find out more about how Austin is handling COVID-19 at [austintexas.gov/covid19](http://austintexas.gov/covid19)
 
-More information including statistics and trends can be found at various sites
+More information including how to protect yourself can be found at various sites
 
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 - [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+
+Local numbers and statistics
+
 - [Google.com](https://www.google.com/intl/en_us/covid19/)
 - [Bing.com](https://www.bing.com/covid/local/unitedstates)
 - [covidgraph.com/usa/](https://covidgraph.com/usa/)
