@@ -6,7 +6,7 @@ name: blackberry
 sex: male
 dob: 2019-06-01
 color: black
-cats: yes
+cats: no
 title: Blackberry
 pic: blackberry.jpg
 ---
