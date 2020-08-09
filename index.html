@@ -8,19 +8,13 @@ layout: default
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel" data-slide-to="1" </li>
-      <li data-target="#carousel" data-slide-to="2" </li>
+      <li data-target="#carousel" data-slide-to="1"></li>
+      <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active welcome">
-        <img src="/img/carousel/welcome.jpg" alt="Welcome to GALT-Central Texas!">
-        <div class="carousel-caption">
-          <h1>Welcome!</h1>
-        </div>
-      </div>
-      <div class="item adopt-me">
+      <div class="item active adopt-me">
         <a href="/greyhounds">
           <img src="/img/carousel/adopt-me.jpg" alt="Available Greyhounds!">
           <div class="carousel-caption">
@@ -35,6 +29,14 @@ layout: default
           <div class="carousel-caption">
             <h1>Foster For Us!</h1>
             <p class="hidden-xs">Be The Bridge From Kennel To Couch!</p>
+          </div>
+        </a>
+      </div>
+      <div class="item donate">
+        <a href="/donate">
+          <img src="/img/carousel/donate.jpg" alt="Donate!">
+          <div class="carousel-caption">
+            <h1>Donate!</h1>
           </div>
         </a>
       </div>
@@ -61,23 +63,12 @@ layout: default
     GALT-Central Texas!
   </h1>
 
-  <p class="lead">
-    We are passionate about Greyhounds and our mission is to find the perfect home for these
-    beautiful, sweet, gentle dogs. Please take a few minutes to explore our site and learn about
-    Greyhounds. We hope you are inspired to learn more and will
-    <i><a href="mailto:info@galtx-centex.org">contact us soon</a></i>.
-  </p>
-
-  <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/154552129?title=0&byline=0&portrait=0"
-      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
-
   <hr>
 
   <div class="container-fluid">
-    <!-- Start Featurettes -->
+
     <div class="row">
+      <!-- Start Featurettes -->
       <div class="col-md-8">
         <!-- adopt, foster, donate col -->
 
@@ -194,9 +185,22 @@ layout: default
 
       </div> <!-- side col -->
 
-    </div>
+    </div> <!-- End Featurettes -->
 
-  </div> <!-- End Featurettes -->
+    <hr>
+
+    <div class="row">
+      <!-- promo video -->
+      <div class="col-md-12">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item"
+            src="https://player.vimeo.com/video/154552129?title=0&byline=0&portrait=0" webkitallowfullscreen
+            mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> <!-- end promo video -->
+
+  </div> <!-- end container-fluid -->
 
   <hr>
 
@@ -249,12 +253,14 @@ layout: default
   <div class="row">
     <!-- Begin MailChimp Signup Form -->
     <div class="col-sm-3">
-      <label> <!-- Just for alignment --> </label>
+      <label>
+        <!-- Just for alignment --> </label>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_donations">
         <input type="hidden" name="business" value="accounting@galtx-centex.org">
         <input type="hidden" name="currency_code" value="USD">
-        <input type="submit" name="submit" value="Donate Now!" class="btn btn-lg btn-block btn-success" style="margin:10px 0px;">
+        <input type="submit" name="submit" value="Donate Now!" class="btn btn-lg btn-block btn-success"
+          style="margin:10px 0px;">
       </form>
     </div>
     <div class="col-sm-6">
@@ -276,8 +282,10 @@ layout: default
       </div>
     </div>
     <div class="col-sm-3">
-      <label> <!-- Just for alignment --> </label>
-      <a href="mailto:info@galtx-centex.org" class="btn btn-lg btn-block btn-primary" style="margin:10px 0px;">Contact Us!</a>
+      <label>
+        <!-- Just for alignment --> </label>
+      <a href="mailto:info@galtx-centex.org" class="btn btn-lg btn-block btn-primary" style="margin:10px 0px;">Contact
+        Us!</a>
     </div>
   </div> <!-- End MailChimp Signup Form -->
 

@@ -132,59 +132,6 @@ a.thumbnail:hover {
   max-width: 100%;
 }
 
-/* Welcome */
-
-.welcome {
-  h1 {
-    background: darkred;
-    font-size: 4rem;
-    @include media-min-width($screen-sm-min) {
-      font-size: 7rem;
-    }
-    @include media-min-width($screen-md-min) {
-      font-size: 9rem;
-    }
-  }
-  .carousel-caption {
-    text-align: left;
-  }
-  > .carousel-caption {
-    @include media-min-width($screen-sm-min) {
-      left: 15%;
-    }
-  }
-}
-
-.carousel-inner > .item.welcome > img {
-  max-height: 100%;
-  max-width: none;
-  @include media-min-width(361px) {
-    max-height: none;
-    max-width: 100%;
-  }
-}
-
-/* Calendar */
-
-.calendar-home {
-  h1 {
-    background: hotpink;
-    padding-bottom: 6px;
-    font-size: 4rem;
-    @include media-min-width($screen-md-min) {
-      font-size: 7rem;
-    }
-  }
-}
-
-.carousel-inner > .item.calendar-home img {
-  min-height: 100%;
-  @include media-min-width(321px) {
-    min-height: none;
-    min-width: 100%;
-  }
-}
-
 /* Adopt Me */
 
 .adopt-me {
@@ -249,6 +196,38 @@ a.thumbnail:hover {
       left: 15%;
       top: 0;
     }
+  }
+}
+
+/* Donate */
+
+.donate {
+  h1 {
+    background: darkred;
+    font-size: 4rem;
+    @include media-min-width($screen-sm-min) {
+      font-size: 7rem;
+    }
+    @include media-min-width($screen-md-min) {
+      font-size: 9rem;
+    }
+  }
+  .carousel-caption {
+    text-align: left;
+  }
+  > .carousel-caption {
+    @include media-min-width($screen-sm-min) {
+      left: 15%;
+    }
+  }
+}
+
+.carousel-inner > .item.donate > img {
+  max-height: 100%;
+  max-width: none;
+  @include media-min-width(361px) {
+    max-height: none;
+    max-width: 100%;
   }
 }
 
@@ -342,6 +321,27 @@ a.thumbnail:hover {
   text-align: left;
   @include media-min-width($screen-sm-min) {
     text-align: right;
+  }
+}
+
+/* Calendar */
+
+.calendar-home {
+  h1 {
+    background: hotpink;
+    padding-bottom: 6px;
+    font-size: 4rem;
+    @include media-min-width($screen-md-min) {
+      font-size: 7rem;
+    }
+  }
+}
+
+.carousel-inner > .item.calendar-home img {
+  min-height: 100%;
+  @include media-min-width(321px) {
+    min-height: none;
+    min-width: 100%;
   }
 }
 

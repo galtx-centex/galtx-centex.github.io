@@ -7,6 +7,9 @@ permalink: /about/
 GALT-Central Texas is a chapter of [Greyhound Adoption League of Texas Inc.](http://galtx.org),
 a national 501(c)3 non-profit organization.
 
+We are passionate about Greyhounds and our mission is to find the perfect home for these
+beautiful, sweet, gentle dogs!
+
 Our mission is to find responsible loving homes for greyhounds, to acquaint the
 public with the desirability of greyhounds as pets and to inform them of the
 availability of greyhounds for adoption.
