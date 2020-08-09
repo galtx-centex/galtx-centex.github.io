@@ -8,5 +8,6 @@ dob: 2019-04-02
 color: black
 title: Violet
 pic: violet.jpg
+pending: yes
 ---
 
