@@ -9,5 +9,6 @@ color: brindle
 cats: no
 title: Skittles
 pic: skittles.jpg
+pending: yes
 ---
 
