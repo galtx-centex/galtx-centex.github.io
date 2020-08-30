@@ -23,29 +23,21 @@ limitations under the License.
 
 /* Mast head */
 
-.relative {
+.masthead-container {
   position: relative;
+  margin-top: 1rem;
 }
 
 .masthead {
   margin: 1rem;
-  height: 14rem;
+  margin-top: 0.5rem;
   text-align: center;
+  @include media-min-width($screen-sm-min) {
+    margin-top: 1rem;
+  }
   img {
     max-height: 100%;
   }
-}
-
-.contact-button {
-  position: absolute;
-  right: 0;
-  margin: 1rem;
-}
-
-.donate-button {
-  position: absolute;
-  left: 0;
-  margin: 1rem;
 }
 
 /* Navigation bar */
