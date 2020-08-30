@@ -6,6 +6,8 @@ permalink: /greyhounds/
 
 <div class="container-fluid">
 
+  {% include low_volume_alert.html %}
+
   <div class="row">
 
     {% assign greyhounds = site.greyhounds | where: "category","available" %}

@@ -4,6 +4,8 @@ title: Adoption
 permalink: /adopt/
 ---
 
+{% include low_volume_alert.html %}
+
 ## New Texas Sales Tax Regulations
 ### Sales Tax now required on Animal Adoptions
 
