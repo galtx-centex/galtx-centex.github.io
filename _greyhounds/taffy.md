@@ -9,6 +9,7 @@ color: red & white
 cats: no
 title: Taffy
 pic: taffy.jpg
+pending: yes
 ---
 Miss Taffy is a happy and outgoing lady: she is curious and will cheerfully sniffle every corner and new thing. She even hopped in the shower on her first day at her foster house to be sure to sniff absolutely everything. 
 
