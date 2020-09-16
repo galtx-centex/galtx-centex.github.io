@@ -9,6 +9,7 @@ color: black
 cats: no
 title: Blackberry
 pic: blackberry.jpg
+pending: yes
 ---
 Blackberry is small and sweet.  His foster mom says BB is adorable and very well behaved.  He enjoys his evening zoomies in the backyard.  He doesn’t really play with any toys except sticks outside, maybe he is just a simple things kind of guy 😂. On a recent long car trip to visit family, he was good on the road and then good when left alone just as he is at home.  
 
