@@ -78,8 +78,18 @@ layout: page
     <input type="hidden" name="cmd" value="_donations">
     <input type="hidden" name="business" value="accounting@galtx-centex.org">
     <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="item_name" value="Donation to Sponsor {{ greyhound.title }}">
-    <input type="submit" name="submit" value="Sponsor Me" class="btn btn-lg btn-primary">
+    <input type="hidden" name="item_name" value="Donation to sponsor {{ greyhound.title }}">
+    <input type="submit" name="submit" value="Sponsor Me" class="btn btn-lg btn-success">
+    </form>
+  </div>
+{% elsif greyhound.category == 'deceased' %}
+  <div class="text-center">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_donations">
+    <input type="hidden" name="business" value="accounting@galtx-centex.org">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="hidden" name="item_name" value="Donation to memorialize {{ greyhound.title }}">
+    <input type="submit" name="submit" value="Memorial Donation" class="btn btn-lg btn-success">
     </form>
   </div>
 {% endif %}
