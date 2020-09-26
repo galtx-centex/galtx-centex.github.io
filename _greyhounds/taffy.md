@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-06-03
-category: available
+category: adopted
 name: taffy
 sex: female
 dob: 2015-03-04
@@ -10,6 +10,7 @@ cats: no
 title: Taffy
 pic: taffy.jpg
 pending: yes
+doa: 2020-09-26
 ---
 Miss Taffy is a happy and outgoing lady: she is curious and will cheerfully sniffle every corner and new thing. She even hopped in the shower on her first day at her foster house to be sure to sniff absolutely everything. 
 
