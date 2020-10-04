@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Indigo
 pic: indigo.jpg
+pending: yes
 ---
 
