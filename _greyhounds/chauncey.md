@@ -8,5 +8,7 @@ dob: 2018-08-29
 color: red
 title: Chauncey
 pic: chauncey.jpg
+pics:
+- chauncey1.jpg
 ---
 
