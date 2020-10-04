@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-07-23
-category: available
+category: adopted
 name: blackberry
 sex: male
 dob: 2019-06-01
@@ -10,6 +10,7 @@ cats: no
 title: Blackberry
 pic: blackberry.jpg
 pending: yes
+doa: 2020-10-04
 ---
 Blackberry is small and sweet.  His foster mom says BB is adorable and very well behaved.  He enjoys his evening zoomies in the backyard.  He doesn’t really play with any toys except sticks outside, maybe he is just a simple things kind of guy 😂. On a recent long car trip to visit family, he was good on the road and then good when left alone just as he is at home.  
 
