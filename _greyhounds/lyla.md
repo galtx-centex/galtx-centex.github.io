@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-09-05
-category: available
+category: adopted
 name: lyla
 sex: female
 dob: 2011-09-09
@@ -10,5 +10,6 @@ cats: yes
 title: Lyla
 pic: lyla.jpg
 pending: yes
+doa: 2020-10-04
 ---
 
