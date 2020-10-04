@@ -5,7 +5,8 @@ category: available
 name: leigh
 sex: female
 dob: 2019-04-02
-color: black. cats
+color: black
+cats: yes
 title: Leigh
 pic: leigh.jpg
 ---
