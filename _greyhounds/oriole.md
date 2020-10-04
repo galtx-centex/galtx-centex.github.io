@@ -9,5 +9,6 @@ color: white and black
 cats: yes
 title: Oriole
 pic: oriole.jpg
+pending: yes
 ---
 
