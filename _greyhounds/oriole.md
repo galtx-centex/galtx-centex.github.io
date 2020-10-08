@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-08-11
-category: available
+category: adopted
 name: oriole
 sex: female
 dob: 2017-12-07
@@ -10,5 +10,6 @@ cats: yes
 title: Oriole
 pic: oriole.jpg
 pending: yes
+doa: 2020-10-08
 ---
 
