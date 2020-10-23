@@ -9,7 +9,7 @@ color: fawn
 cats: yes
 title: Bones
 pic: bones.jpg
-pending: no
+pending: yes
 ---
 Bones is a stunning young boy who brings loving energy and a big smile with him no matter where he goes! 
 
