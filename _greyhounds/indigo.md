@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-08-09
-category: available
+category: adopted
 name: indigo
 sex: female
 dob: 2019-03-04
@@ -10,5 +10,6 @@ cats: yes
 title: Indigo
 pic: indigo.jpg
 pending: yes
+doa: 2020-10-22
 ---
 
