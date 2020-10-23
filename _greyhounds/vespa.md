@@ -9,6 +9,7 @@ color: black
 cats: yes
 title: Vespa
 pic: vespa.jpg
+pending: yes
 ---
 Vespa is a very spirited youngster. He loves to run, play chase and mouth-wrestle with the other hounds. He’s also quite mischievous. He steals things, all kinds of things, so nothing is off limits to his inquisitive curiosity. At only a year old, he is really just a puppy, doing puppy things.  This is good discipline for his human to keep things put up and waste baskets emptied.  This jet black dog is like a stealthy ninja!
 
