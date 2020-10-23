@@ -7,7 +7,7 @@ Hosted on [GitHub Pages](https://pages.github.com/).
 Built by [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
-[![Build Status](https://travis-ci.org/galtx-centex/galtx-centex.github.io.svg?branch=source)](https://travis-ci.org/galtx-centex/galtx-centex.github.io)
+![Publish to GitHub Pages](https://github.com/galtx-centex/galtx-centex.github.io/workflows/Publish%20to%20GitHub%20Pages/badge.svg)
 
 If you are not a part of the galtx-centex team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
@@ -19,8 +19,7 @@ If you are on the galtx-centex team:
 , whether it be an enhancement, update, fix, etc.
 
 2. Edit the files
-  - This can be done on your computer locally, or via GitHub's
-  [Ace editor](https://help.github.com/articles/editing-files-in-your-repository)
+  - This can be done on your computer locally, or on [GitHub](https://help.github.com/articles/editing-files-in-your-repository)
 
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request)
 
