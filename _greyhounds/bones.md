@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-05-29
-category: available
+category: adopted
 name: bones
 sex: male
 dob: 2019-02-01
@@ -10,6 +10,7 @@ cats: yes
 title: Bones
 pic: bones.jpg
 pending: yes
+doa: 2020-10-25
 ---
 Bones is a stunning young boy who brings loving energy and a big smile with him no matter where he goes! 
 
