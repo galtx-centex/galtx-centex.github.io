@@ -9,7 +9,8 @@ color: red
 title: Chauncey
 pic: chauncey.jpg
 pics:
-- chauncey1.jpg
+  - chauncey1.jpg
+pending: yes
 ---
 Our golden boy Chauncey never made it to the racetrack. He is a young, happy scamp. 
 Chauncey is super with kids and enjoys their attention. He likes to play a game of stealing your personal items (things with your scent, like socks and underwear).
