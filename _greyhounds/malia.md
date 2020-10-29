@@ -9,6 +9,7 @@ color: white and red
 cats: yes
 title: Malia
 pic: malia.jpg
+pending: yes
 ---
 It has been a real pleasure getting to know Malia. What a champ she is! At eleven years old, her life as she knew it was completely changed. She has taken to her new surroundings with grace. 
 
