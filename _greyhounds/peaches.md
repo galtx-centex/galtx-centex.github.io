@@ -9,5 +9,6 @@ color: red fawn
 cats: yes
 title: Peaches
 pic: peaches.jpg
+pending: yes
 ---
 
