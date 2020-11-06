@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-09-05
-category: available
+category: adopted
 name: malia
 sex: female
 dob: 2009-04-03
@@ -10,6 +10,7 @@ cats: yes
 title: Malia
 pic: malia.jpg
 pending: yes
+doa: 2020-11-06
 ---
 It has been a real pleasure getting to know Malia. What a champ she is! At eleven years old, her life as she knew it was completely changed. She has taken to her new surroundings with grace. 
 
