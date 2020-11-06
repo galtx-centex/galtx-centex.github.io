@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-09-28
-category: available
+category: adopted
 name: leigh
 sex: female
 dob: 2019-04-02
@@ -10,5 +10,6 @@ cats: yes
 title: Leigh
 pic: leigh.jpg
 pending: yes
+doa: 2020-11-06
 ---
 
