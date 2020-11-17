@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Rawhide
 pic: rawhide.jpg
+pending: yes
 ---
 
