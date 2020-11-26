@@ -2,7 +2,7 @@
 layout: greyhound
 title: Snowy
 date: 2018-12-02
-category: adopted
+category: deceased
 sex: male
 dob: 2011-11-14
 color: white
@@ -10,6 +10,7 @@ pic: snowy.jpg
 medicalhold: yes
 pending: yes
 doa: 2019-03-16
+dod: 2020-11-04
 ---
 Snowy and his friend Elsa were brought into The Austin Animal Center in deplorable condition.  Emaciated, anemic, and full of parasites, he could barely take a few steps before needing to be carried.  
 
