@@ -3,7 +3,7 @@ layout: greyhound
 title: Abnar
 date: 2010-03-01
 age: 3 YEARS
-category: adopted
+category: deceased
 doa: 2010-03-01
 cats: yes
 color: BLACK
