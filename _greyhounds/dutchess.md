@@ -3,11 +3,12 @@ layout: greyhound
 title: Dutchess
 date: 2010-01-25
 age: 7 YEARS
-category: adopted
+category: deceased
 doa: 2010-01-25
 color: BLACK & WHITE
 pic: dutchess.jpg
 sex: FEMALE
+dod: 2020-11-20
 ---
 
 This lovely, special lady is approximately 7 years old, brought in with Carmelo as a stray from the San Marcos Animal
