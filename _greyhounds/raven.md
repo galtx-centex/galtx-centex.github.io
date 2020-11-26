@@ -3,11 +3,12 @@ layout: greyhound
 title: Raven
 date: 2010-04-04
 age: 5 YEARS
-category: adopted
+category: deceased
 doa: 2010-04-04
 color: RED
 pic: raven.png
 sex: FEMALE
+dod: 2020-11-25
 ---
 
 Raven is an affectionate girl who gives up kisses very enthusiastically.  She loves to walk on
