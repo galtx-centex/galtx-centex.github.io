@@ -9,5 +9,6 @@ color: red
 cats: no
 title: Carrie
 pic: carrie.jpg
+pending: yes
 ---
 
