@@ -9,5 +9,6 @@ color: brindle
 cats: no
 title: Cinnamon
 pic: cinnamon.jpg
+pending: yes
 ---
 
