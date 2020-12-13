@@ -9,5 +9,6 @@ color: brindle
 cats: yes
 title: Sneakers
 pic: sneakers.jpg
+pending: yes
 ---
 
