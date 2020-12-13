@@ -9,5 +9,6 @@ color: dark brindle
 cats: yes
 title: Flyer
 pic: flyer.jpg
+pending: yes
 ---
 
