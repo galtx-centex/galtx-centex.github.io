@@ -3,11 +3,12 @@ layout: greyhound
 title: Sheila
 date: 2010-02-19
 age: 6 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-19
 color: LIGHT BRINDLE
 pic: sheila.jpg
 sex: FEMALE
+dod: 2020-12-06
 ---
 
 Sheila is a petite, pretty, velvety soft, and light brindle colored female. She is a little shy at first but warms up
