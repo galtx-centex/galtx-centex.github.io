@@ -3,12 +3,13 @@ layout: greyhound
 title: Breezy
 date: 2010-02-08
 age: 4 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-08
 cats: no
 color: WHITE & BRINDLE
 pic: breezy.jpg
 sex: MALE
+dod: 2020-12-16
 ---
 
 
