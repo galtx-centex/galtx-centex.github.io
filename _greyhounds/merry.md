@@ -8,5 +8,6 @@ dob: 2019-08-03
 color: brindle
 title: Merry
 pic: merry.jpg
+cats: yes
 ---
 
