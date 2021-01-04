@@ -6,20 +6,32 @@ permalink: /adopt/
 
 {% include low_volume_alert.html %}
 
-## New Texas Sales Tax Regulations
-### Sales Tax now required on Animal Adoptions
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
+  </div>
+</div>
 
-Texas law requires that all humane organizations (Rescues, SPCA’s, Humane Societies, State
-nonprofit, and charitable 501c3 exempt orgs) collect from the adopter and remit sales/use tax
-to the Texas Comptroller on their adoption fees. The only entities in Texas that are exempt
-from collecting sales tax from the adopters are municipal animal control agencies/shelters
-operated by a county or city.
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <form action='https://www.paypal.com/cgi-bin/webscr' method='post'>
+      <input type='hidden' name='cmd' value='_donations'>
+      <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+      <input type='hidden' name='amount' value='75'>
+      <input type='hidden' name='currency_code' value='USD'>
+      <input type='hidden' name='item_name' value='Adoption Application Deposit'>
+      <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+      <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+      <input type="submit" name="submit" value="Submit Application Deposit" class="btn btn-lg btn-block btn-primary" style="margin:10px 0px;">
+    </form>
+  </div>
+</div>
 
-Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
-State on our adoption fees. Our standard adoption fees, including sales tax, are:
-
-* 6 months to 7 years old $433
-* 8 years old and up $324.75
+<div class="text-center">
+  ($75 application deposit is required with submission of the application)
+</div>
 
 ## Adopting a Greyhound from GALT-Central Texas
 
@@ -82,12 +94,44 @@ diseases.
 If pets are recently deceased (within the past quarter), we will conduct the vet check to
 ensure that they were kept current before they passed away and were well cared for in life.
 
-<div class="row">
-  <div class="col-md-4"></div>
-  <div class="col-md-4">
-    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
-  </div>
-</div>
+## Adoption Fees
+
+**_Sales Tax now required on Animal Adoptions._**
+
+Texas law requires that all humane organizations (Rescues, SPCA’s, Humane Societies, State
+nonprofit, and charitable 501c3 exempt orgs) collect from the adopter and remit sales/use tax
+to the Texas Comptroller on their adoption fees. The only entities in Texas that are exempt
+from collecting sales tax from the adopters are municipal animal control agencies/shelters
+operated by a county or city.
+
+Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
+State on our adoption fees. Our standard adoption fees, including sales tax, are:
+
+**Non-refundable adoption fee of $400 + $33 tax (up thru age 7)**
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='433'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Pay Adoption Fee - $433" class="btn btn-primary">
+</form>
+
+**Non-refundable adoption fee of $300 + $24.75 tax (age 8 and up)**
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='324.75'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Pay Adoption Fee - $324.75" class="btn btn-primary">
+</form>
 
 ### Questions?
 
