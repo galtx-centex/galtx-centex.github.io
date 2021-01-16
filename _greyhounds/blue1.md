@@ -5,7 +5,7 @@ category: available
 name: blue
 sex: male
 dob: 2018-04-09
-blue brindle: null
+color: blue brindle
 title: Blue
 pic: blue1.jpeg
 ---
