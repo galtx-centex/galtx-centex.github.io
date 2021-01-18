@@ -9,6 +9,7 @@ color: brindle
 cats: yes
 title: Kent
 pic: kent.jpg
+pending: yes
 ---
 Kent can be a bit of a "Nutter Butter" according to his fosters. He is mostly sweet, but a little salty at times, and he goes NUTS for any food or treats! 
 
