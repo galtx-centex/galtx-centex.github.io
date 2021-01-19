@@ -8,5 +8,6 @@ dob: 2012-05-13
 color: red fawn
 title: Doctor
 pic: doctor.jpg
+pending: yes
 ---
 
