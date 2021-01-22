@@ -95,6 +95,17 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type="submit" name="submit" value="Pay Adoption Fee - $433" class="btn btn-primary">
 </form>
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='358'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $358" class="btn btn-primary">
+</form>
+
 **Non-refundable adoption fee of $300 + $24.75 tax (age 8 and up)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -106,6 +117,17 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
   <input type="submit" name="submit" value="Pay Adoption Fee - $324.75" class="btn btn-primary">
+</form>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='249.75'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $249.75" class="btn btn-primary">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants
