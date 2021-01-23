@@ -9,5 +9,6 @@ color: brindle
 title: Merry
 pic: merry.jpg
 cats: yes
+pending: yes
 ---
 
