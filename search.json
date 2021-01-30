@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[
+  {% for greyhound in site.greyhounds %}
+    {
+      "title"    : "{{ greyhound.title | escape }}",
+      "category" : "{{ greyhound.category }}",
+      "url"      : "{{ greyhound.url }}",
+      "nick"     : "{{ greyhound.nick }}",
+      "pic"      : "{{ greyhound.pic }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
