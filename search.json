@@ -2,7 +2,7 @@
 layout: none
 ---
 [
-  {% for greyhound in site.greyhounds %}
+  {% for greyhound in site.greyhounds reversed %}
     {
       "title"    : "{{ greyhound.title | escape }}",
       "category" : "{{ greyhound.category }}",
