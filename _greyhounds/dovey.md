@@ -9,6 +9,7 @@ color: fawn with dark mask
 cats: no
 title: Dovey
 pic: dovey.jpg
+pending: yes
 ---
 Dovey is incredibly sweet and loves people. She gives kisses and has done great with the school-aged children in her foster family. She has adjusted quickly to home life and gets along great with the resident greyhound. She doesn't love going in her crate, but once there, she is content throughout the night. Due to Covid, she hasn't really been tested at being home alone. Dovey is house-trained and has learned to use a doggie door. 
 
