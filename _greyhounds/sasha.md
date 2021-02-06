@@ -9,5 +9,6 @@ color: white & black
 cats: yes
 title: Sasha
 pic: sasha.jpeg
+pending: yes
 ---
 
