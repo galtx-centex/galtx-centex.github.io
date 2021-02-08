@@ -9,5 +9,6 @@ color: red fawn
 cats: no
 title: Thomas
 pic: thomas.jpg
+pending: yes
 ---
 
