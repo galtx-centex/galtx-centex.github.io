@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-12-06
-category: available
+category: adopted
 name: kent
 sex: male
 dob: 2019-05-04
@@ -10,6 +10,7 @@ cats: yes
 title: Kent
 pic: kent.jpg
 pending: yes
+doa: 2021-02-14
 ---
 Kent can be a bit of a "Nutter Butter" according to his fosters. He is mostly sweet, but a little salty at times, and he goes NUTS for any food or treats! 
 
