@@ -8,5 +8,6 @@ dob: 2018-06-26
 cats: yes
 title: Marley
 pic: marley.jpeg
+pending: yes
 ---
 
