@@ -2,11 +2,12 @@
 layout: greyhound
 title: Alyann
 date: 2010-01-09
-category: adopted
+category: deceased
 doa: 2010-01-09
 color: BRINDLE
 pic: alyann.jpg
 sex: FEMALE
+dod: 2021-02-21
 ---
 
 Alyann is an absolutely beautiful five-year-old fawn brindle with a personality to match. This former brood mama was a
