@@ -9,5 +9,6 @@ color: black
 cats: no
 title: Ebony
 pic: ebony.jpeg
+pending: yes
 ---
 
