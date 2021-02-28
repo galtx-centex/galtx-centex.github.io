@@ -8,5 +8,6 @@ dob: 2019-05-01
 color: black
 title: Gary
 pic: gary.jpg
+pending: yes
 ---
 
