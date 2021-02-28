@@ -9,5 +9,6 @@ color: brindle
 cats: yes
 title: Margarita
 pic: margarita.jpeg
+pending: yes
 ---
 
