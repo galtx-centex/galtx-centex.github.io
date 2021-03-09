@@ -71,12 +71,9 @@ greyhound.
 </div>
 
 <h2>Contact Us</h2>
-GALT-Central Texas
-<br>
-P.O. Box 10069
-<br>
-Austin, TX 78766
-<br>
+GALT-Central Texas<br>
+P.O. Box 170160<br>
+Austin, Texas 78717<br>
 <a href="tel:855-446-3278">(855) 4-GO-FAST</a>
 <br>
 <a href="mailto:info@galtx-centex.org">info@galtx-centex.org</a>
