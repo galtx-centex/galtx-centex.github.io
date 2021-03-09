@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-12-15
-category: available
+category: adopted
 name: merry
 sex: female
 dob: 2019-08-03
@@ -10,5 +10,6 @@ title: Merry
 pic: merry.jpg
 cats: yes
 pending: yes
+doa: 2021-03-09
 ---
 
