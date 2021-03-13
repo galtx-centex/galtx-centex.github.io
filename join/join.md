@@ -164,27 +164,35 @@ Thank you for supporting GALT-Central Texas!
   </div>
 </div>
 
-<h3 class="panel-title text-center">Basic &ndash; $3 / Month</h3>
-<div class="text-center">
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="hidden" name="business" value="accounting@galtx-centex.org">
-    <!-- Specify a Subscribe button -->
-    <input type="hidden" name="cmd" value="_xclick-subscriptions">
-    <!-- Identify the subscription -->
-    <input type="hidden" name="item_name" value="Basic Membership">
-    <!-- Set the terms of the regular subscription -->
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="a3" value="3">
-    <input type="hidden" name="p3" value="1">
-    <input type="hidden" name="t3" value="M">
-    <!-- Set recurring payments until canceled -->
-    <input type="hidden" name="src" value="1">
-    <!-- Display the join button -->
-    <input type="submit" name="submit" value="Join Basic Membership" class="btn btn-default">
-  </form>
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <div class="panel">
+      <div class="panel-heading">
+        <h3 class="panel-title text-center">Basic &ndash; $3 / Month</h3>
+      </div>
+      <div class="panel-body text-center">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+          <input type="hidden" name="business" value="accounting@galtx-centex.org">
+          <!-- Specify a Subscribe button -->
+          <input type="hidden" name="cmd" value="_xclick-subscriptions">
+          <!-- Identify the subscription -->
+          <input type="hidden" name="item_name" value="Basic Membership">
+          <!-- Set the terms of the regular subscription -->
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="a3" value="3">
+          <input type="hidden" name="p3" value="1">
+          <input type="hidden" name="t3" value="M">
+          <!-- Set recurring payments until canceled -->
+          <input type="hidden" name="src" value="1">
+          <!-- Display the join button -->
+          <input type="submit" name="submit" value="Join Basic Membership" class="btn btn-default">
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4"></div>
 </div>
-
-<hr>
 
 Click <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=9TK2CBFDJ4JDJ">here</a> to end membership.
 

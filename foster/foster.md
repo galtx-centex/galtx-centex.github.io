@@ -7,7 +7,7 @@ permalink: /foster/
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4">
-    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://galtct.armgnt.com/gms_fostapp.php" role="button">Apply</a>
+    <a class="btn btn-lg btn-block btn-padding btn-success" href="https://galtct.armgnt.com/gms_fostapp.php" role="button">Apply</a>
   </div>
 </div>
 
@@ -128,10 +128,6 @@ ensure that they were kept current before they passed away and were well cared f
 
 ### Questions?
 
-Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)
+[Foster FAQs](/foster/faqs/)
 
-<div class="text-center">
-  <div class="panel-footer">
-    <a href="/foster/faqs/">Foster FAQs</a>
-  </div>
-</div>
+More questions? Email the Foster Coordinator at [foster@galtx-centex.org](mailto:foster@galtx-centex.org)

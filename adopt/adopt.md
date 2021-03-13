@@ -9,7 +9,7 @@ permalink: /adopt/
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4">
-    <a class="btn btn-lg btn-block btn-success" style="margin:10px 0px;" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
+    <a class="btn btn-lg btn-block btn-padding btn-success" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ permalink: /adopt/
       <input type='hidden' name='item_name' value='Adoption Application Deposit'>
       <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
       <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-      <input type="submit" name="submit" value="Submit Application Deposit" class="btn btn-lg btn-block btn-primary" style="margin:10px 0px;">
+      <input type="submit" name="submit" value="Submit Application Deposit" class="btn btn-lg btn-block btn-padding btn-primary">
     </form>
   </div>
 </div>
@@ -92,7 +92,7 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $433" class="btn btn-primary">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $433" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -103,7 +103,7 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $358" class="btn btn-primary">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $358" class="btn btn-primary btn-padding">
 </form>
 
 **Non-refundable adoption fee of $300 + $24.75 tax (age 8 and up)**
@@ -116,7 +116,7 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $324.75" class="btn btn-primary">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $324.75" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -127,7 +127,7 @@ State on our adoption fees. Our standard adoption fees, including sales tax, are
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $249.75" class="btn btn-primary">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $249.75" class="btn btn-primary btn-padding">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants
@@ -157,10 +157,6 @@ ensure that they were kept current before they passed away and were well cared f
 
 ### Questions?
 
-Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
+[Adoption FAQs](/adopt/faqs)
 
-<div class="text-center">
-  <div class="panel-footer">
-    <a href="/adopt/faqs">Adoption FAQs</a>
-  </div>
-</div>
+More questions? Email the Adoption Coordinator at [adopt@galtx-centex.org](mailto:adopt@galtx-centex.org)
