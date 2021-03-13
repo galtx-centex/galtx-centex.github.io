@@ -8,6 +8,13 @@ GALT-Central Texas is a non-profit organization composed solely of greyhound-lov
 many opportunities to get involved no matter where you live and what amount of time you have.
 Please look through this list to see where you fit in and what you can do to help.
 
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <a class="btn btn-lg btn-block btn-padding btn-success" href="https://galtct.armgnt.com/gms_volunteerform2.php" role="button">Apply</a>
+  </div>
+</div>
+
 ### Volunteer Opportunities
 
 * Foster Families
