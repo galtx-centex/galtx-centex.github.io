@@ -8,5 +8,6 @@ dob: 2019-10-01
 color: red fawn
 title: Sage
 pic: sage1.jpg
+pending: yes
 ---
 
