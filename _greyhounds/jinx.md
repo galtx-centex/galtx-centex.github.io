@@ -9,6 +9,7 @@ color: black
 cats: no
 title: Jinx
 pic: jinx.jpg
+pending: yes
 ---
 Jinx is a petite, young thing, looking for that special someone. She is registered with NGA, but never raced. 
 Inside the home, Jinx loves to play with her toys and carries her little family of critters with her.  She will stay quietly in her crate overnight, and in the morning, she will shower you with affectionate kisses.  
