@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-03-06
-category: adopted
+category: deceased
 name: faith
 sex: female
 dob: 2014-02-01
@@ -12,5 +12,6 @@ cats: yes
 medicalhold: yes
 pending: yes
 doa: 2020-04-11
+dod: 2021-03-06
 ---
 
