@@ -8,5 +8,6 @@ dob: 2019-05-01
 color: black
 title: Lee
 pic: lee.jpg
+pending: yes
 ---
 
