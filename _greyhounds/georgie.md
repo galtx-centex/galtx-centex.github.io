@@ -3,12 +3,13 @@ layout: greyhound
 title: Georgie
 date: 2016-07-01
 age: 8 YEARS
-category: adopted
+category: deceased
 cats: no
 color: BRINDLE
 pic: georgie.png
 sex: FEMALE
 doa: 2016-08-16
+dod: 2021-03-19
 ---
 
 I was recently found as a stray and brought to GPA by a kind stranger. I'm recovering from
