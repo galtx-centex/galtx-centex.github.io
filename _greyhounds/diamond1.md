@@ -8,6 +8,7 @@ dob: 2014-02-04
 color: white and fawn
 title: Diamond
 pic: diamond1.jpg
+pending: yes
 ---
 Diamond has the confidence that comes with maturity. She could be an only dog, but will get along with other greyhounds also. This lady knows what she likes - chasing squirrels, getting up with the sunrise, eating, toys and ear rubs. She will express her impatience when her human servants don't anticpate her desires. 
 
