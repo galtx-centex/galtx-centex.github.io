@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-11-28
-category: available
+category: adopted
 name: swift
 sex: male
 dob: 2019-01-07
@@ -9,6 +9,7 @@ color: brindle
 cats: no
 title: Swift
 pic: swift.jpg
+doa: 2021-03-28
 ---
 Swifty is a super sweet, very alert little boy. He loves morning cuddles with his foster mom and dad and often ends up doing zoomies on the bed with excitement. Swift loves going on walks and would do best with an active family that will take him for at least one good walk a day. He is very active and the walks burn off his puppy energy. He also needs continued work with leash manners as he gets distracted by new things (and always by deer). His response to distractions is to freeze up and not move. He has gotten a lot better but definitely still needs work. While on leash, Swift has been working on "heel up," "go straight," "go right," "go left."
 
