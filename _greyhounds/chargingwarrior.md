@@ -1,15 +1,16 @@
 ---
 layout: greyhound
-title: Charging Warrior "Charlie"
+title: 'Charging Warrior "Charlie"'
 date: 2010-03-03
 age: 3 YEARS
-category: adopted
+category: deceased
 doa: 2010-03-03
 cats: yes
 color: BRINDLE
 nick: Warrior
 pic: chargingwarrior.jpg
 sex: MALE
+dod: 2021-03-25
 ---
 Race name Charging Warrior, Charlie is an active, handsome brindle boy who is returning to GPA through no fault of his
 own. He has lived successfully in an apartment before. Charlie is accustomed to being crated with regular walks several
