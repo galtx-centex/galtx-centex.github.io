@@ -8,5 +8,6 @@ dob: 2019-06-11
 color: red
 title: Darrell
 pic: darrell.jpeg
+pending: yes
 ---
 
