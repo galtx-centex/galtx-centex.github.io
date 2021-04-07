@@ -9,5 +9,6 @@ color: red fawn
 cats: yes
 title: Nate
 pic: nate.jpg
+pending: yes
 ---
 
