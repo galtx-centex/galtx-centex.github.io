@@ -9,5 +9,6 @@ color: brindle
 cats: no
 title: Sabrina
 pic: sabrina.jpg
+pending: yes
 ---
 
