@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-03-06
-category: adopted
+category: deceased
 name: joy
 sex: female
 dob: 2010-12-25
@@ -11,5 +11,6 @@ pic: joy.jpg
 cats: no
 pending: yes
 doa: 2020-03-28
+dod: 2021-04-21
 ---
 
