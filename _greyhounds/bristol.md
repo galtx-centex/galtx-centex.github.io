@@ -3,11 +3,12 @@ layout: greyhound
 title: Bristol
 date: 2015-04-01
 age: 6 YEARS
-category: adopted
+category: deceased
 color: BRINDLE
 doa: 2015-10-31
 pic: bristol.png
 sex: FEMALE
+dod: 2021-04-24
 ---
 
 I am a sweet, affectionate brindle girl with BIG brown eyes. I love getting attention and am
