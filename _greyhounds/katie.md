@@ -8,6 +8,7 @@ dob: 2019-01-07
 cats: no
 title: Katie
 pic: katie.jpg
+pending: yes
 ---
 Katie is a fun, fabulous girl who enjoys car rides, walks, running and playing in the yard. We think she could make a great agility dog, as her foster family describes her as bold, adventurous and energetic. She would really enjoy an equally playful dog friend (but no littles please!) Her house manners are excellent.
 
