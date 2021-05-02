@@ -9,6 +9,7 @@ color: black
 cats: yes
 title: Hillary
 pic: hillary.jpg
+pending: yes
 ---
 Could Hillary be the perfect fit for your family? She might be if you're looking for one, not too young and not too old, just right at five years of age! 
 
