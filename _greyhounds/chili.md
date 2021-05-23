@@ -8,6 +8,7 @@ dob: 2019-10-11
 color: brindle
 title: Chili
 pic: chili.jpg
+pending: yes
 ---
 Chili is a playful young guy. He enjoys zoomies in the yard, tossing around his toys, and playing with his greyhound housemate. His interactions with cats and small dogs have gone well so far - curious, but quickly lost interest. Chili is still a bit nervous about walks on the street, but a mentor dog helps in that regard. 
 
