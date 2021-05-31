@@ -8,5 +8,6 @@ dob: 2019-09-10
 color: red fawn w/ white
 title: Daydream
 pic: daydream.jpg
+pending: yes
 ---
 
