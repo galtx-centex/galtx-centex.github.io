@@ -2,7 +2,7 @@
 layout: greyhound
 title: Paola
 date: 2017-06-26
-category: adopted
+category: deceased
 color: FAWN
 dob: 2008-07-06
 sex: FEMALE
@@ -11,6 +11,7 @@ pics:
   - paola1.jpg
 pending: yes
 doa: 2017-10-02
+dod: 2021-06-03
 ---
 
 Paola is a beautiful 8 year old gentile lady.  She has taken to home life very quickly and enjoys lounging around the house.  She does very well in her crate at night, and we leave the crate door open throughout the day.  
