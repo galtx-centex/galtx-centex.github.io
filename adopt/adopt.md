@@ -9,7 +9,7 @@ permalink: /adopt/
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4">
-    <a class="btn btn-lg btn-block btn-padding btn-success disabled" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
+    <a class="btn btn-lg btn-block btn-padding btn-success" href="https://galtct.armgnt.com/gms_appform.php" role="button">Apply</a>
   </div>
 </div>
 
