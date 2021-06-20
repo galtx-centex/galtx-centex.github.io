@@ -8,5 +8,6 @@ dob: 2009-12-31
 color: fawn
 title: Cheese
 pic: cheese.jpg
+pending: yes
 ---
 
