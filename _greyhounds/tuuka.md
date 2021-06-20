@@ -8,5 +8,6 @@ dob: 2013-01-01
 color: white & black
 title: Tuuka
 pic: tuuka.jpg
+pending: yes
 ---
 
