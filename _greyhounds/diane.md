@@ -9,5 +9,6 @@ color: brindle & white
 cats: no
 title: Diane
 pic: diane.jpg
+pending: yes
 ---
 
