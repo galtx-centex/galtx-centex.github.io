@@ -8,5 +8,6 @@ dob: 2019-05-01
 color: fawn
 title: Shay
 pic: shay.jpg
+pending: yes
 ---
 
