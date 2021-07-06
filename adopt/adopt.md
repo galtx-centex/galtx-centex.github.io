@@ -4,8 +4,6 @@ title: Adoption
 permalink: /adopt/
 ---
 
-{% include low_volume_alert.html %}
-
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4">
