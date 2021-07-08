@@ -3,11 +3,12 @@ layout: greyhound
 title: Hope
 date: 2010-01-02
 age: 1 YEAR
-category: adopted
+category: deceased
 doa: 2010-01-02
 color: FAWN
 pic: hope.jpg
 sex: FEMALE
+dod: 2021-07-06
 ---
 Hope: The perfect name for a Greyhound making a Greyt recovery! This one-year-old was on track to become a racing
 greyhound, but an accident resulted in a broken leg and a premature end to her career. She will need about six weeks to
