@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<!--
+Copyright 2018 GALT-Central Texas
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Adopting retired racing greyhounds in Austin, Texas and surrounding areas">
+  <link href="/humans.txt" rel="author"/>
+
+  <title>GALT-Central Texas</title>
+
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Limelight" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/regular.js" integrity="sha384-BazKgf1FxrIbS1eyw7mhcLSSSD1IOsynTzzleWArWaBKoA8jItTB5QR+40+4tJT1" crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/brands.js" integrity="sha384-qJKAzpOXfvmSjzbmsEtlYziSrpVjh5ROPNqb8UZ60myWy7rjTObnarseSKotmJIx" crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/fontawesome.js" integrity="sha384-2IUdwouOFWauLdwTuAyHeMMRFfeyy4vqYNjodih+28v2ReC+8j+sLF9cK339k5hY" crossorigin="anonymous"></script>
+
+  <!-- MailChimp -->
+  <link href="https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+
+  <!-- Custom stylesheet -->
+  <link href="/css/main.css" rel="stylesheet">
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-79749043-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</head>
+
+<body>
+  <header class="site-header">
+
+  <div class="container masthead-container">
+
+    <div class="alert alert-info alert-dismissible" role="alert">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      <a href="/covid-19" class="alert-link">COVID-19 information</a>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_donations">
+            <input type="hidden" name="business" value="accounting@galtx-centex.org">
+            <input type="hidden" name="currency_code" value="USD">
+            <input type="submit" name="submit" value="Donate Now!" class="btn btn-success">
+          </form>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div class="masthead">
+          <a class="hidden-xs" href="/">
+            <img src="/img/GALT-CENTEX_logo.svg" alt="GALT-Central Texas">
+          </a>
+          <a class="hidden-sm hidden-md hidden-lg" href="/">
+            <img src="/img/GALT-CENTEX_flag_logo.svg" alt="GALT-Central Texas">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div class="pull-right">
+          <a href="/join" class="btn btn-primary">Join GALT-CT!</a>
+        </div>
+      </div>
+    </div>
+
+  </div> <!-- masthead-container -->
+
+  <div class="container">
+
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="/">
+            GALT Central Texas
+          </a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav nav-justified">
+            <li><a href="/">Home</a></li>
+            <!-- Greyhounds -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Greyhounds <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/greyhounds">Available Hounds</a></li>
+                <li><a href="/greyhounds/happytails">Happy Tails</a></li>
+                <li><a href="/greyhounds/rainbowbridge">Rainbow Bridge</a></li>
+                <li><a href="/search">Search Greyhounds</a></li>
+              </ul>
+            </li>
+            <li><a href="/adopt">Adopt</a></li>
+            <li><a href="/foster">Foster</a></li>
+            <li><a href="/donate">Donate</a></li>
+            <li><a href="/events">Events</a></li>
+            <li><a href="https://store.galtx-centex.com/">Shop</a></li>
+            <!-- Join -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Join <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/join">Membership</a></li>
+                <li><a href="/sponsors">Sponsor</a></li>
+                <li><a href="/volunteer">Volunteer</a></li>
+              </ul>
+            </li>
+            <!-- Resources -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/petsitters">Pet Sitters</a></li>
+                <li><a href="/vetcare">Veterinary Care</a></li>
+                <li><a href="/euthanasia">In Home Euthanasia</a></li>
+                <li><a href="/emergency">Emergency Care</a></li>
+                <li><a href="http://galtx.org/faq/greyhound-faq.shtml">Greyhound FAQs</a></li>
+                <li><a href="http://galtx.org/faq/medical-faq.shtml">Medical FAQs</a></li>
+              </ul>
+            </li>
+            <li><a href="/about">About</a></li>
+            <li class="hidden-md hidden-lg">
+              <a href="mailto:info@galtx-centex.org" class="btn btn-primary navbar-btn" style="text-align:center; color:#fff">
+                Contact Us!
+              </a>
+            </li>
+          </ul>
+        </div><!-- navbar-collapse -->
+      </div><!-- container-fluid -->
+    </nav>
+
+  </div><!-- container -->
+
+</header>
+
+
+  <div class="container">
+    <div id="carousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active adopt-me">
+      <a href="/greyhounds">
+        <img src="/img/carousel/adopt-me.jpg" alt="Available Greyhounds!">
+        <div class="carousel-caption">
+          <h1>Adopt Me!</h1>
+          <p class="hidden-xs">Come See Our Available Greyhounds!</p>
+        </div>
+      </a>
+    </div>
+    <div class="item foster-us">
+      <a href="/foster">
+        <img src="/img/carousel/foster.jpg" alt="Foster a Greyhound!">
+        <div class="carousel-caption">
+          <h1>Foster For Us!</h1>
+          <p class="hidden-xs">Be The Bridge From Kennel To Couch!</p>
+        </div>
+      </a>
+    </div>
+    <div class="item donate">
+      <a href="/donate">
+        <img src="/img/carousel/donate.jpg" alt="Donate!">
+        <div class="carousel-caption">
+          <h1>Donate!</h1>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div> <!-- carousel -->
+
+<!-- promo row -->
+<!--
+<div class="row text-center">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <p class="lead">
+  <strong>
+  Don’t Miss our <a href="https://www.32auctions.com/GALTCenTex2020">“Heading for Home”</a>
+  online auction <i>Sept 17th – 27th, 2020</i>.
+  <br>
+  Help us bring more Greyhounds home this year, from the comfort and safety of your home!
+  </strong>
+</p>
+
+    </div>
+  </div>
+</div>
+-->
+<!-- promo row -->
+
+<div class="row">
+  <!-- Start Featurettes -->
+  <div class="col-md-8">
+    <!-- adopt, foster, donate col -->
+
+    <div class="row">
+      <div class="col-sm-7">
+        <a href="/adopt">
+          <h2>Adopt a Greyhound!</h2>
+        </a>
+        <p class="lead">
+          Many beautiful and loving greyhounds are always looking for their forever homes and we want to help you
+          make that connection.
+        </p>
+      </div>
+      <div class="col-sm-5">
+        <img class="img-responsive center-block img-rounded" src="/img/adopt.jpg" alt="Adopt">
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="col-sm-7 col-sm-push-5">
+        <a href="/foster">
+          <h2>Foster for Us!</h2>
+        </a>
+        <p class="lead">
+          More retiring and rescued greyhounds are on their way to us and are in need of a soft place to land.
+          Now is the time to make a difference in a greyhound's life.
+        </p>
+      </div>
+      <div class="col-sm-5 col-sm-pull-7">
+        <img class="img-responsive center-block img-rounded" src="/img/flowers.jpg" alt="Foster">
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="col-sm-7">
+        <a href="/volunteer">
+          <h2>Give your time!</h2>
+        </a>
+        <p class="lead">
+          Please consider giving your time and experience to the benefit of the greyhounds we all love so much!
+        </p>
+      </div>
+      <div class="col-sm-5">
+        <img class="img-responsive center-block img-rounded" src="/img/happy.jpg" alt="Volunteer">
+      </div>
+    </div>
+
+    <hr class="visible-xs-block">
+
+  </div> <!-- adopt, foster, donate col -->
+
+  <div class="col-md-4">
+    <!-- side col -->
+
+    <!-- amazon -->
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <a href="https://smile.amazon.com/ch/75-2930618">
+              <img src="/img/donate/Amazon_Smile_logo.png" alt="AmazonSmile">
+              <p class="lead">
+                Shop with AmazonSmile!
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- amazon -->
+    <!-- chewy -->
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <a
+              href="https://www.chewy.com/g/greyhound-adoption-league-of-texas-central-texas-chapter_b67997837?utm_medium=email&utm_source=transactional&utm_campaign=SHELTER_BUSINESS_APPROVED&%243p=e_sg&%24original_url=https%3A%2F%2Fwww.chewy.com%2Fg%2Fgreyhound-adoption-league-of-texas-central-texas-chapter_b67997837%3Futm_medium%3Demail%26utm_source%3Dtransactional%26utm_campaign%3DSHELTER_BUSINESS_APPROVED&_branch_match_id=763742394597822335">
+              <img src="/img/donate/Chewy_Pet_Food_Logo.png" alt="Chewy">
+              <p class="lead">
+                Shop at Chewy.com!
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- chewy -->
+    <!-- paypal -->
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=accounting@galtx-centex.org">
+              <img src="/img/donate/PayPal_logo.png" alt="PayPal">
+              <p class="lead">
+                Donate with PayPal!
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- paypal -->
+    <!-- facebook -->
+    <div class="hidden-xs">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="fb-page" data-href="https://www.facebook.com/galtcentraltexas" data-tabs="timeline"
+            data-small-header="true" data-adapt-container-width="true" data-hide-cover="false"
+            data-show-facepile="false">
+            <blockquote cite="https://www.facebook.com/galtcentraltexas" class="fb-xfbml-parse-ignore">
+              <a href="https://www.facebook.com/galtcentraltexas">GALT-Central Texas</a>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- facebook -->
+
+  </div> <!-- side col -->
+
+</div> <!-- End Featurettes -->
+
+<hr>
+
+<div class="row">
+  <!-- promo video -->
+  <div class="col-md-12">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/154552129?title=0&byline=0&portrait=0"
+        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+</div> <!-- end promo video -->
+
+<br>
+
+<div class="row text-center">
+  <!-- Charity badges -->
+  <div class="col-xs-2">
+    <!-- GNP Badge-->
+    <script type="text/javascript">
+      gnp_request = { "slug": "greyhound-adoption-league-of-texas-inc", "color-set": 1, "campaign": 60 };
+    </script>
+    <style>
+      div.gnp_trb {
+        visibility: hidden;
+      }
+    </style>
+    <script src="https://greatnonprofits.org/js/api/badge_toprated.js" type="text/javascript"> </script>
+
+    <div class="gnp_trb" id="gnp_trb">
+      <a href="https://greatnonprofits.org/org/greyhound-adoption-league-of-texas-inc">
+        <img src="//cdn.greatnonprofits.org//img/2021-top-rated-awards-badge-embed.png?id=1047386"
+          alt="Greyhound Adoption League of Texas Inc Nonprofit Overview and Reviews on GreatNonprofits"
+          title="2021 Top-rated nonprofits and charities" style="width: 150px;" />
+      </a>
+      <br />
+      <span class="gnp_lb">
+        <a class="gnp_lb" href="https://greatnonprofits.org/org/greyhound-adoption-league-of-texas-inc" target="_blank">
+          Volunteer. Donate. Review.
+        </a>
+      </span>
+    </div>
+    <!-- End GNP Badge-->
+  </div>
+  <div class="col-xs-2">
+    <a href="https://www.guidestar.org/profile/75-2930618">
+      <img src="https://widgets.guidestar.org/gximage2?o=8175329&l=v4" alt="Guide Star Platinum Seal">
+    </a>
+  </div>
+  <div class="col-xs-2">
+    <a href="http://shelteranimalscount.org">
+      <img src="http://galtx.org/images/ProudParticipant300x250.jpg" alt="Proud Participant of Shelter Animals Count">
+    </a>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://bestfriends.org/">
+      <img src="http://galtx.org/images/bestfriends.jpg" alt="Best Friends Network Partner">
+    </a>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://www.ngagreyhounds.com/Adopt">
+      <img style="max-height:135px;" src="/img/badge/national-greyhound-association.jpg"
+        alt="National Greyhound Association Responsible Adoption Partner">
+    </a>
+  </div>
+  <div class="col-xs-2">
+    <img src="http://galtx.org/images/client_id_127_media_file_name_1473212560.249.jpg"
+      alt="Communities Foundation of Texas Featured Agency">
+  </div>
+</div> <!-- Charity badges -->
+
+<br>
+
+<div class="row">
+  <!-- Begin MailChimp Signup Form -->
+  <div class="col-sm-3">
+    <label>
+      <!-- Just for alignment -->
+    </label>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_donations">
+      <input type="hidden" name="business" value="accounting@galtx-centex.org">
+      <input type="hidden" name="currency_code" value="USD">
+      <input type="submit" name="submit" value="Donate Now!" class="btn btn-lg btn-block btn-success"
+        style="margin:10px 0px;">
+    </form>
+  </div>
+  <div class="col-sm-6">
+    <div id="mc_embed_signup">
+      <form
+        action="https://galtx-centex.us6.list-manage.com/subscribe/post?u=ce82f17bc088ab9ad887edb8d&amp;id=5f26041b9d"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+        novalidate>
+        <div id="mc_embed_signup_scroll">
+          <label for="mce-EMAIL">Subscribe to our Newsletter!</label>
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+              name="b_ce82f17bc088ab9ad887edb8d_72b09e3fb4" tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+              class="button"></div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <label>
+      <!-- Just for alignment -->
+    </label>
+    <a href="mailto:info@galtx-centex.org" class="btn btn-lg btn-block btn-primary" style="margin:10px 0px;">Contact
+      Us!</a>
+  </div>
+</div> <!-- End MailChimp Signup Form -->
+
+
+    <hr>
+
+    <footer>
+  <div class="container text-center">
+
+    <div class="social-icons">
+      <a title="Facebook" href="https://facebook.com/galtcentraltexas">
+        <i class="fab fa-fw fa-lg fa-facebook"></i>
+      </a>
+      <a title="Instagram" href="https://instagram.com/galt_centraltexas">
+        <i class="fab fa-fw fa-lg fa-instagram"></i>
+      </a>
+      <a title="Twitter" href="https://twitter.com/galt_centraltex">
+        <i class="fab fa-fw fa-lg fa-twitter"></i>
+      </a>
+      <a title="MailChimp" href="https://galtx-centex.us6.list-manage.com/subscribe?u=ce82f17bc088ab9ad887edb8d&amp;id=5f26041b9d">
+        <i class="far fa-fw fa-lg fa-envelope"></i>
+      </a>
+      <a title="GitHub" href="https://github.com/galtx-centex">
+        <i class="fab fa-fw fa-lg fa-github"></i>
+      </a>
+    </div>
+    <p/>
+    <p>
+    &copy; GALT-Central Texas<br>
+    P.O. Box 170160<br>
+    Austin, Texas 78717<br>
+    </p>
+  </div>
+</footer>
+
+  </div>
+
+  <!-- jQuery -->
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<!-- Bootstrap JavaScript -->
+<script
+  src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+  crossorigin="anonymous"></script>
+
+<!-- Twitter JavaScript -->
+<script>!function(d,s,id){
+  var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+  if(!d.getElementById(id)){js=d.createElement(s);
+    js.id=id;
+    js.src=p+'://platform.twitter.com/widgets.js';
+    fjs.parentNode.insertBefore(js,fjs);
+  }
+}(document, 'script', 'twitter-wjs');
+</script>
+
+<!-- Facebook JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+  window.simpleJekyllSearch = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '/search.json',
+    searchResultTemplate: '<div class="col-xs-6 col-sm-4 col-md-2"> <a class="thumbnail" href="{url}"> <img class="img-rounded" src="/img/thm/{pic}" alt="{title}"> <div class="caption"> <h3>{title}</h3> </div> </a> </div>',
+    noResultsText: 'No results found',
+    limit: 12,
+    fuzzy: false,
+  });
+</script>
+
+</body>
+</html>
