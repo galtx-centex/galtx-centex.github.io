@@ -8,5 +8,6 @@ dob: 2019-09-10
 color: light brindle w/white
 title: Matilda
 pic: matilda.jpg
+pending: yes
 ---
 
