@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2021-03-22
-category: available
+category: adopted
 name: hillary
 sex: female
 dob: 2016-02-09
@@ -10,6 +10,7 @@ cats: yes
 title: Hillary
 pic: hillary.jpg
 pending: yes
+doa: 2021-08-01
 ---
 Could Hillary be the perfect fit for your family? She might be if you're looking for one, not too young and not too old, just right at five years of age! 
 
