@@ -8,5 +8,6 @@ dob: 2019-10-01
 color: dark brindle
 title: Rexha
 pic: rexha.jpg
+pending: yes
 ---
 
