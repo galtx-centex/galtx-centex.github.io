@@ -9,5 +9,6 @@ color: brindle
 cats: no
 title: Gatti
 pic: gatti.jpg
+pending: yes
 ---
 
