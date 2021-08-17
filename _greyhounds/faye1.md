@@ -9,6 +9,6 @@ color: black
 cats: yes
 title: Faye
 pic: faye1.jpg
-pending: yes
+pending: no
 ---
 
