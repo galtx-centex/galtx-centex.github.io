@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Fergie
 pic: fergie.jpg
+pending: yes
 ---
 
