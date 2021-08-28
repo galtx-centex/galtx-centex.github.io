@@ -3,11 +3,12 @@ layout: greyhound
 title: Alfie
 date: 2010-01-28
 age: 2 YEARS
-category: adopted
+category: deceased
 doa: 2010-01-28
 color: RED
 pic: alfie.jpg
 sex: MALE
+dod: 2021-06-06
 ---
 
 A tall, confident and handsome 70 lb. red fawn fellow who learned how the greytest hugs in less than a week in foster
