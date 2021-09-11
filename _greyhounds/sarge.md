@@ -9,5 +9,6 @@ color: brindle & white
 cats: yes
 title: Sarge
 pic: sarge.jpg
+pending: yes
 ---
 
