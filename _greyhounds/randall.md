@@ -8,5 +8,6 @@ dob: 2020-03-05
 color: brindle
 title: Randall
 pic: randall.jpg
+pending: yes
 ---
 
