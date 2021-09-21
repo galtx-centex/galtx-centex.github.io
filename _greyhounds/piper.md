@@ -3,10 +3,11 @@ layout: greyhound
 title: Piper
 date: 2010-01-01
 age: 1 YEAR
-category: adopted
+category: deceased
 doa: 2010-01-01
 pic: piper.jpg
 sex: FEMALE
+dod: 2021-08-17
 ---
 
 Piper is all puppy...she likes to play and chew on things. She is very loving and gets along with other dogs very well.
