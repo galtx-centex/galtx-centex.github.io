@@ -3,11 +3,12 @@ layout: greyhound
 title: Backwoods Timothy
 date: 2010-02-18
 age: 12 MONTHS
-category: adopted
+category: deceased
 doa: 2010-02-18
 nick: Timothy
 pic: backwoodstimothy.jpg
 sex: MALE
+dod: 2021-09-12
 ---
 
 An outgoing 12 month old 78 lb. male, Timothy is a gentleman in the house, sharing doggie beds with
