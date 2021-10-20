@@ -69,63 +69,54 @@ through any issues as long as you need us.
 
 ## Adoption Fees
 
-**_Sales Tax now required on Animal Adoptions._**
+Our standard adoption fees are:
 
-Texas law requires that all humane organizations (Rescues, SPCA’s, Humane Societies, State
-nonprofit, and charitable 501c3 exempt orgs) collect from the adopter and remit sales/use tax
-to the Texas Comptroller on their adoption fees. The only entities in Texas that are exempt
-from collecting sales tax from the adopters are municipal animal control agencies/shelters
-operated by a county or city.
-
-Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
-State on our adoption fees. Our standard adoption fees, including sales tax, are:
-
-**Non-refundable adoption fee of $400 + $33 tax (up thru age 7)**
+**Non-refundable adoption fee of $400 (up thru age 7)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='433'>
+  <input type='hidden' name='amount' value='400'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $433" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $400" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='358'>
+  <input type='hidden' name='amount' value='325'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $358" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $325" class="btn btn-primary btn-padding">
 </form>
 
-**Non-refundable adoption fee of $300 + $24.75 tax (age 8 and up)**
+**Non-refundable adoption fee of $300 (age 8 and up)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='324.75'>
+  <input type='hidden' name='amount' value='300'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $324.75" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $300" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='249.75'>
+  <input type='hidden' name='amount' value='225'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $249.75" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $225" class="btn btn-primary btn-padding">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants

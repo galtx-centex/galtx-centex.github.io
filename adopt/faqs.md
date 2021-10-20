@@ -5,11 +5,10 @@ permalink: /adopt/faqs/
 ---
 
 ## How much is the adoption fee?
-Beginning <u>1/1/2020</u>, we will be required by the State to collect and remit sales tax to the
-State on our adoption fees. Our standard adoption fees, including sales tax, are:
+Our standard adoption fees are:
 
-* 6 months to 7 years old $433
-* 8 years old and up $324.75
+* 6 months to 7 years old $400
+* 8 years old and up $300
 
 Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
