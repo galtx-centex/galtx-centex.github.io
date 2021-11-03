@@ -8,5 +8,6 @@ dob: 2015-08-04
 color: black & white
 title: Olive
 pic: olive1.jpg
+pending: yes
 ---
 
