@@ -8,5 +8,6 @@ dob: 2020-06-24
 color: brindle
 title: Rain
 pic: rain.jpg
+pending: yes
 ---
 
