@@ -8,5 +8,6 @@ dob: 2020-04-22
 color: red
 title: Horus
 pic: horus.jpg
+pending: yes
 ---
 
