@@ -6,7 +6,7 @@ name: cutie
 sex: female
 dob: 2017-03-18
 color: fawn
-cats: yes
+cats: no
 title: Cutie
 pic: cutie.jpg
 ---
