@@ -9,5 +9,6 @@ color: red
 title: Horus
 pic: horus.jpg
 pending: no
+cats: yes
 ---
 
