@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-05-05
-category: adopted
+category: deceased
 name: krissy
 sex: female
 dob: 2011-06-01
@@ -10,6 +10,7 @@ cats: no
 title: Krissy
 pic: krissy.jpg
 doa: 2020-02-08
+dod: 2021-12-27
 ---
 Krissy (All we want for xmas) was recently relinquished through no fault of her own. This spunky 8-year-old girl knows all about living in a home...her house manners are perfect! She does not need a crate. She has had zero accidents in the house, doesn’t get on furniture, doesn’t beg, jump, chew, or counter surf. She sleeps quietly through the night, and most of the day!
 She has a recurring issue with corns on her feet, and has an old injury on a back foot. She still does enjoy short walks!
