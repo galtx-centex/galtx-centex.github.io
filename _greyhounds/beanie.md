@@ -9,5 +9,6 @@ color: black
 cats: yes
 title: Beanie
 pic: beanie.jpg
+pending: yes
 ---
 
