@@ -8,7 +8,7 @@ dob: 2020-04-22
 color: red
 title: Horus
 pic: horus.jpg
-pending: no
+pending: yes
 cats: yes
 ---
 Horus is an active  1 1/2 year old neutered male, about 70 lbs, with a stunning red coat. He is better known as Grant (get it? Foster Grant) or G-man by his foster family.  He is described as funny and loving.  One of his endearing quirks, when being petted, he will roll over on his back for a tummmy rub.  He will let you know with three little yips, if you aren't done yet!
