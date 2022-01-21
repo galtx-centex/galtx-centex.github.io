@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-01-01
-category: available
+category: adopted
 name: dixie
 sex: female
 dob: 2019-12-01
@@ -10,5 +10,6 @@ cats: no
 title: Dixie
 pic: dixie.jpg
 pending: yes
+doa: 2022-01-21
 ---
 
