@@ -9,6 +9,7 @@ color: fawn
 cats: no
 title: Cutie
 pic: cutie.jpg
+pending: yes
 ---
 She's got Bette Davis eyes! When you meet her you will understand. She also has some cute floppy ears. 
 
