@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2021-11-12
-category: available
+category: adopted
 name: cutie
 sex: female
 dob: 2017-03-18
@@ -10,6 +10,7 @@ cats: no
 title: Cutie
 pic: cutie.jpg
 pending: yes
+doa: 2022-01-29
 ---
 She's got Bette Davis eyes! When you meet her you will understand. She also has some cute floppy ears. 
 
