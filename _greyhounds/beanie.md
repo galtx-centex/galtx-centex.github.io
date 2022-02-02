@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-01-18
-category: available
+category: adopted
 name: beanie
 sex: male
 dob: 2020-01-01
@@ -10,5 +10,6 @@ cats: yes
 title: Beanie
 pic: beanie.jpg
 pending: yes
+doa: 2022-02-02
 ---
 
