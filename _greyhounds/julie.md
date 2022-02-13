@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-05-28
-category: adopted
+category: deceased
 name: julie
 sex: female
 dob: 2015-05-22
