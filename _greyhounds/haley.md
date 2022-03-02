@@ -2,7 +2,7 @@
 layout: greyhound
 title: Haley
 date: 2010-03-20
-category: adopted
+category: deceased
 doa: 2010-03-20
 cats: no
 color: RED FAWN
