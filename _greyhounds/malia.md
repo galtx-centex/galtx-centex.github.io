@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-09-05
-category: adopted
+category: deceased
 name: malia
 sex: female
 dob: 2009-04-03
