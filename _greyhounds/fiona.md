@@ -3,7 +3,7 @@ layout: greyhound
 title: Fiona
 date: 2010-02-12
 age: 2 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-12
 color: WHITE & BRINDLE
 pic: fiona.jpg
