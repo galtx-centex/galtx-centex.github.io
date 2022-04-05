@@ -8,7 +8,7 @@ dob: 2019-12-01
 color: brindle
 title: Vicky
 pic: vicky.jpg
-pending: yes
+pending: no
 ---
 Vicky is a beautiful brindle girl with bright eyes and a cheeky mohawk - the perfect symbol of her sweet and spicy personality.
 
