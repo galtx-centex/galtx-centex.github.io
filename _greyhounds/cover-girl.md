@@ -8,6 +8,7 @@ dob: 2019-10-11
 color: brindle
 title: Cover Girl
 pic: cover-girl.jpg
+pending: yes
 ---
 Coco has the potential for becoming a special person's velcro hound. Her ideal forever home would be a somewhat quiet environment with a dog about her age and size, and a patient mom. She is very noise sensitive and fearful of strangers. Coco is a work in progress, but is thriving on the structured routine in her current foster home. When Coco first arrived, she would frequently skip meals if there was a noise or unexpected activity nearby. Now she expects breakfast promptly at 7:30 am. If foster mom is slow to rise, Coco will put her paws on the mattress edge pouncing. Likewise, Coco expects supper promplty at 4:30 pm and cleans her bowl everytime.
 
