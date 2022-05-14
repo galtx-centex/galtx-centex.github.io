@@ -8,5 +8,6 @@ dob: 2011-01-13
 color: red fawn
 title: Pebbles
 pic: pebbles.jpg
+permafoster: yes
 ---
 
