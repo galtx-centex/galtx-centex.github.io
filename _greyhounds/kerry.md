@@ -8,5 +8,6 @@ dob: 2018-10-10
 color: black
 title: Kerry
 pic: kerry.jpg
+cats: no
 ---
 
