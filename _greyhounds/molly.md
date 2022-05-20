@@ -8,5 +8,6 @@ dob: 2015-10-17
 color: white and black
 title: Molly
 pic: molly.jpg
+cats: no
 ---
 
