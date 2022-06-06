@@ -9,5 +9,6 @@ color: red & white
 cats: yes
 title: Linda
 pic: linda.jpg
+pending: yes
 ---
 
