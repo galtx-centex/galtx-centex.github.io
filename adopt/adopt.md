@@ -71,17 +71,17 @@ through any issues as long as you need us.
 
 Our standard adoption fees are:
 
-**Non-refundable adoption fee of $400 (up thru age 7)**
+**Non-refundable adoption fee of $550 (up thru age 7)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='400'>
+  <input type='hidden' name='amount' value='550'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $400" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $550" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -95,17 +95,17 @@ Our standard adoption fees are:
   <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $325" class="btn btn-primary btn-padding">
 </form>
 
-**Non-refundable adoption fee of $300 (age 8 and up)**
+**Non-refundable adoption fee of $450 (age 8 and up)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='300'>
+  <input type='hidden' name='amount' value='450'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $300" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - $450" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

@@ -7,8 +7,8 @@ permalink: /adopt/faqs/
 ## How much is the adoption fee?
 Our standard adoption fees are:
 
-* 6 months to 7 years old $400
-* 8 years old and up $300
+* 6 months to 7 years old $550
+* 8 years old and up $450
 
 Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
