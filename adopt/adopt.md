@@ -87,12 +87,12 @@ Our standard adoption fees are:
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='325'>
+  <input type='hidden' name='amount' value='475'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $325" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $475" class="btn btn-primary btn-padding">
 </form>
 
 **Non-refundable adoption fee of $450 (age 8 and up)**
@@ -111,12 +111,12 @@ Our standard adoption fees are:
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='225'>
+  <input type='hidden' name='amount' value='375'>
   <input type='hidden' name='currency_code' value='USD'>
   <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $225" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $375" class="btn btn-primary btn-padding">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants
