@@ -9,5 +9,6 @@ color: black
 title: Kerry
 pic: kerry.jpg
 cats: no
+pending: yes
 ---
 
