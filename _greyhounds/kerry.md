@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-05-06
-category: available
+category: adopted
 name: kerry
 sex: female
 dob: 2018-10-10
@@ -10,5 +10,6 @@ title: Kerry
 pic: kerry.jpg
 cats: no
 pending: yes
+doa: 2022-06-20
 ---
 
