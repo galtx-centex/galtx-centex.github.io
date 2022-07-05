@@ -8,5 +8,6 @@ dob: 2020-11-15
 color: black
 title: Fina
 pic: fina.jpg
+pending: yes
 ---
 
