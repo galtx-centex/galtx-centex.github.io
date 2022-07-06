@@ -8,5 +8,6 @@ dob: 2019-11-10
 color: fawn
 title: Natalie
 pic: natalie.jpg
+pending: yes
 ---
 
