@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2021-06-28
-category: available
+category: adopted
 name: vicky
 sex: female
 dob: 2019-12-01
@@ -9,6 +9,7 @@ color: brindle
 title: Vicky
 pic: vicky.jpg
 pending: yes
+doa: 2022-08-26
 ---
 Vicky is a beautiful brindle girl with bright eyes and a cheeky mohawk - the perfect symbol of her sweet and spicy personality.
 
