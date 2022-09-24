@@ -9,7 +9,7 @@ color: white and black
 title: Molly
 pic: molly.jpg
 cats: no
-pending: yes
+pending: no
 ---
 Molly is a retired racer and brood mama from Ireland! In her short time with us, she has discovered that a pool is the best way to survive a Texas Summer. Molly doesn't require anything fancy, she will entertain herself endlessly splashing about in a kid's wading pool.  
 
