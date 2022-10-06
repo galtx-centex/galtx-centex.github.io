@@ -9,6 +9,6 @@ color: brindle
 cats: yes
 title: Tara
 pic: tara.jpg
-pending: no
+pending: yes
 ---
 
