@@ -8,5 +8,6 @@ dob: 2018-09-24
 color: black
 title: Lucky
 pic: lucky.jpg
+cats: yes
 ---
 
