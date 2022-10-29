@@ -8,5 +8,6 @@ dob: 2019-04-24
 color: brindle
 title: Dreamer
 pic: dreamer.jpg
+cats: no
 ---
 
