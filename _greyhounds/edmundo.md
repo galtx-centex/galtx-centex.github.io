@@ -3,11 +3,12 @@ layout: greyhound
 title: Edmundo
 date: 2015-03-02
 age: 4 YEARS
-category: adopted
+category: deceased
 color: WHITE/RED
 doa: 2015-07-01
 pic: edmundo.png
 sex: MALE
+dod: 2022-08-03
 ---
 
 My name is Ed and I sometimes go by Mr. Ed, although I cannot talk. I am an inquisitive boy with
