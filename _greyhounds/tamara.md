@@ -3,7 +3,7 @@ layout: greyhound
 title: Tamara
 date: 2014-12-02
 age: 7 YEARS
-category: adopted
+category: deceased
 color: BLACK
 doa: 2015-02-10
 pic: tamara.png
