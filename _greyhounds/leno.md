@@ -2,7 +2,7 @@
 layout: greyhound
 title: Leno
 date: 2018-02-01
-category: adopted
+category: deceased
 sex: male
 age: 9 years
 color: brindle
