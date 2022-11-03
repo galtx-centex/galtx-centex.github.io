@@ -2,13 +2,14 @@
 layout: greyhound
 title: Lady Jeanine
 date: 2010-03-21
-category: adopted
+category: deceased
 doa: 2010-03-21
 cats: yes
 color: BLACK & WHITE
 nick: Jeanine
 pic: ladyjeanine.jpg
 sex: FEMALE
+dod: 2022-05-28
 ---
 
 A dainty, elegant lady, Jeanine is a svelte black and white tuxedo gal; just add pearls and she's ready for an evening
