@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-01-29
-category: adopted
+category: deceased
 name: cj
 sex: female
 dob: 2014-11-19
