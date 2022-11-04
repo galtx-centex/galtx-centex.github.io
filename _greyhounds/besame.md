@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2020-02-21
-category: adopted
+category: deceased
 name: bésame
 sex: female
 dob: 2010-11-01
