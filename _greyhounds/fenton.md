@@ -9,4 +9,4 @@ color: brindle
 title: Fenton
 pic: fenton.jpg
 ---
-
+Like Fenton Glassware, this boy is something special. Fenton is the most affectionate hound we have met, freely giving hugs and kisses. He learned the doggie door within a day, and has been perfect on house training. 
