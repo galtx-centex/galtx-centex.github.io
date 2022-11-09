@@ -11,6 +11,6 @@ pic: molly.jpg
 cats: no
 pending: no
 ---
-Molly is a retired racer and brood mama from Ireland! In her short time with us, she has discovered that a pool is the best way to survive a Texas Summer. Molly doesn't require anything fancy, she will entertain herself endlessly splashing about in a kid's wading pool.  
+Molly is a retired racer and brood mama from Ireland! In her short time with us, she has discovered that a pool is the best way to survive a Texas Summer. Molly loves to snuggle up with a toy (or two or three). She does a couple quick yard zoomies throughout the day, but otherwise, is content on napping. 
 
 Molly is a larger gal at over seventy lbs. with striking "cow dog" coloring.  
