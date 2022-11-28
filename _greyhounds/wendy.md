@@ -9,5 +9,6 @@ color: red fawn
 cats: yes
 title: Wendy
 pic: wendy.jpg
+pending: yes
 ---
 
