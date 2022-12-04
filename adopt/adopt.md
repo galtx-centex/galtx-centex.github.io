@@ -2,6 +2,9 @@
 layout: page
 title: Adoption
 permalink: /adopt/
+StandardFee: 550
+SeniorFee: 450
+IrishFee: 750
 ---
 
 <div class="row">
@@ -69,54 +72,76 @@ through any issues as long as you need us.
 
 ## Adoption Fees
 
-Our standard adoption fees are:
-
-**Non-refundable adoption fee of $550 (up thru age 7)**
+### Non-refundable adoption fee of ${{ page.StandardFee }}
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='550'>
+  <input type='hidden' name='amount' value='{{ page.StandardFee }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
+  <input type='hidden' name='item_name' value='Adoption Fee'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $550" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.StandardFee }}" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='475'>
+  <input type='hidden' name='amount' value='{{ page.StandardFee | minus: 75 }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee (up thru age 7)'>
+  <input type='hidden' name='item_name' value='Adoption Fee'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $475" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.StandardFee | minus: 75 }}" class="btn btn-primary btn-padding">
 </form>
 
-**Non-refundable adoption fee of $450 (age 8 and up)**
+### Non-refundable adoption fee of ${{ page.SeniorFee }} for age 8 and up
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='450'>
+  <input type='hidden' name='amount' value='{{ page.SeniorFee }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
+  <input type='hidden' name='item_name' value='Adoption Fee for age 8 and up'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - $450" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.SeniorFee }}" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='375'>
+  <input type='hidden' name='amount' value='{{ page.SeniorFree | minus: 75 }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee (age 8 and up)'>
+  <input type='hidden' name='item_name' value='Adoption Fee for age 8 and up'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - $375" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.SeniorFee | minus: 75 }}" class="btn btn-primary btn-padding">
+</form>
+
+### Non-refundable adoption fee of ${{ page.IrishFee }} for Irish Greyhounds
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='{{ page.IrishFee }}'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee for Irish Greyhound'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.IrishFee }}" class="btn btn-primary btn-padding">
+</form>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type='hidden' name='cmd' value='_donations'>
+  <input type='hidden' name='business' value='accounting@galtx-centex.org'>
+  <input type='hidden' name='amount' value='{{ page.IrishFree | minus: 75 }}'>
+  <input type='hidden' name='currency_code' value='USD'>
+  <input type='hidden' name='item_name' value='Adoption Fee for Irish Greyhound'>
+  <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
+  <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.IrishFee | minus: 75 }}" class="btn btn-primary btn-padding">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants
