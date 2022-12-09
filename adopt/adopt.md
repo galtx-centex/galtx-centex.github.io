@@ -2,9 +2,9 @@
 layout: page
 title: Adoption
 permalink: /adopt/
-StandardFee: 550
+StandardFee: 750
 SeniorFee: 450
-IrishFee: 750
+LurcherFee: 550
 ---
 
 <div class="row">
@@ -72,14 +72,14 @@ through any issues as long as you need us.
 
 ## Adoption Fees
 
-### Non-refundable adoption fee of ${{ page.StandardFee }}
+### Non-refundable adoption fee of ${{ page.StandardFee }} for Greyhounds
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
   <input type='hidden' name='amount' value='{{ page.StandardFee }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee'>
+  <input type='hidden' name='item_name' value='Adoption fee for Greyhounds'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
   <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.StandardFee }}" class="btn btn-primary btn-padding">
@@ -90,20 +90,20 @@ through any issues as long as you need us.
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
   <input type='hidden' name='amount' value='{{ page.StandardFee | minus: 75 }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee'>
+  <input type='hidden' name='item_name' value='Adoption fee for Greyhounds'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
   <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.StandardFee | minus: 75 }}" class="btn btn-primary btn-padding">
 </form>
 
-### Non-refundable adoption fee of ${{ page.SeniorFee }} for age 8 and up
+### Non-refundable adoption fee of ${{ page.SeniorFee }} for Greyhounds age 7 and up
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
   <input type='hidden' name='amount' value='{{ page.SeniorFee }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee for age 8 and up'>
+  <input type='hidden' name='item_name' value='Adoption fee for Greyhounds age 7 and up'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
   <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.SeniorFee }}" class="btn btn-primary btn-padding">
@@ -114,34 +114,34 @@ through any issues as long as you need us.
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
   <input type='hidden' name='amount' value='{{ page.SeniorFree | minus: 75 }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee for age 8 and up'>
+  <input type='hidden' name='item_name' value='Adoption fee for Greyhounds age 7 and up'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
   <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.SeniorFee | minus: 75 }}" class="btn btn-primary btn-padding">
 </form>
 
-### Non-refundable adoption fee of ${{ page.IrishFee }} for Irish Greyhounds
+### Non-refundable adoption fee of ${{ page.LurcherFee }} for Lurchers
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='{{ page.IrishFee }}'>
+  <input type='hidden' name='amount' value='{{ page.LurcherFee }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee for Irish Greyhound'>
+  <input type='hidden' name='item_name' value='Adoption fee for Lurchers'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.IrishFee }}" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Pay Adoption Fee - ${{ page.LurcherFee }}" class="btn btn-primary btn-padding">
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type='hidden' name='cmd' value='_donations'>
   <input type='hidden' name='business' value='accounting@galtx-centex.org'>
-  <input type='hidden' name='amount' value='{{ page.IrishFree | minus: 75 }}'>
+  <input type='hidden' name='amount' value='{{ page.LurcherFee | minus: 75 }}'>
   <input type='hidden' name='currency_code' value='USD'>
-  <input type='hidden' name='item_name' value='Adoption Fee for Irish Greyhound'>
+  <input type='hidden' name='item_name' value='Adoption fee for Lurchers'>
   <input type='hidden' name='return' value='https://galtx-centex.org/adopt/'>
   <input type='hidden' name='cancel_return' value='https://galtx-centex.org/adopt/'>
-  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.IrishFee | minus: 75 }}" class="btn btn-primary btn-padding">
+  <input type="submit" name="submit" value="Adoption Fee w/o Deposit - ${{ page.LurcherFee | minus: 75 }}" class="btn btn-primary btn-padding">
 </form>
 
 ## GALT Veterinarian Protocol for Adoption & Foster Applicants
