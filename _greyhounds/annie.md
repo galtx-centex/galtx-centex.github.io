@@ -2,7 +2,7 @@
 layout: greyhound
 title: Annie
 date: 2017-01-16
-category: adopted
+category: deceased
 cats: yes
 color: RED BRINDLE
 doa: 2017-06-25
@@ -13,6 +13,7 @@ sex: FEMALE
 fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10155661536013572:0'
   - 'https://www.facebook.com/galtcentraltexas/posts/10155792948883572'
+dod: 2023-01-01
 ---
 
 This just in: GPA-CT has a tiger! No. Wait. That isn't a tiger. That's Annie the brindle Greyhound!
