@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-08-04
-category: available
+category: adopted
 name: tara
 sex: female
 dob: 2020-11-11
@@ -10,5 +10,6 @@ cats: yes
 title: Tara
 pic: tara.jpg
 pending: yes
+doa: 2023-01-23
 ---
 
