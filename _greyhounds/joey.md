@@ -9,4 +9,4 @@ color: fawn
 pic: joey.jpg
 doa: 2018-07-15
 ---
-
+Joey is a big boy, with a big personality to match. He is a social creature who loves attention. 
