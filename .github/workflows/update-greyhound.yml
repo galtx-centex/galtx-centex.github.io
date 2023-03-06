@@ -12,7 +12,7 @@ on:
           - no update
           - pending
           - adopted
-          - medhold
+          - medicalhold
           - permafoster
           - deceased
         default: no update
