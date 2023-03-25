@@ -32,7 +32,7 @@ See the wiki post [How to Build the Website](https://github.com/galtx-centex/gal
 ## Copyright
 
 All Rights Reserved
-Copyright 2018 GALT-Central Texas
+Copyright GALT-Central Texas
 Licensed under the Apache License, Version 2.0
 
 See [galtx-centex.org/LICENSE.txt](https://galtx-centex.org/LICENSE.txt).
