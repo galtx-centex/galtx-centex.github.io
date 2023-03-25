@@ -1,0 +1,60 @@
+name: Add a Greyhound
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        type: string
+        required: true
+      summary:
+        description: Short summary about this greyhound
+        type: string
+        default: ''
+      color:
+        type: string
+        required: true
+      sex:
+        type: choice
+        options:
+          - male
+          - female
+        required: true
+      dob:
+        description: Date of birth, format MM/DD/YYYY
+        type: string
+        required: true
+
+env:
+  INPUTS: ${{ toJSON(inputs) }}
+
+jobs:
+  Add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: softprops/turnstyle@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ROOBOT_PAT }}
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v3
+      - run: npm ci
+      - id: add
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const inputs = JSON.parse(process.env.INPUTS)
+            const addGreyhound = require('./script/add-greyhound.js')
+            const message = await addGreyhound({github, context, core, inputs})
+            core.setOutput('message', message)
+
+      - id: push
+        run: |
+          git config --global user.email 'website@galtx-centex.org'
+          git config --global user.name 'Roobot'
+          git add _greyhounds/
+          git commit -m '${{ steps.add.outputs.message }}'
+          git push origin ${{ github.ref_name }}
+
