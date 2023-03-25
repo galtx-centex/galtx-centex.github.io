@@ -52,7 +52,7 @@ function checkPending(data) {
     }
 }
 function checkPermafoster(data) {
-    if (data.permafoster) {
+    if (data.permafoster || data.category === 'permafoster') {
         throw `${data.title} is a permanent foster 😕`;
     }
 }
@@ -67,7 +67,6 @@ function available(data, inputs) {
     data.category = 'available';
     data.pending = false;
     data.medicalhold = false;
-    data.permafoster = false;
     return `${data.title} is Available! 🌟`;
 }
 
@@ -101,7 +100,7 @@ function permafoster(data, inputs) {
     checkDeceased(data);
     checkAdopted(data);
     checkPermafoster(data);
-    data.permafoster = true;
+    data.category = 'permafoster';
     return `${data.title} is a Permanent Foster 💜`;
 }
 

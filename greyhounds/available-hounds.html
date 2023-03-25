@@ -12,7 +12,7 @@ permalink: /greyhounds/
     {% for greyhound in greyhounds reversed %}
       <div class="col-sm-4 col-md-3">
         <a class="thumbnail" href="{{ greyhound.url }}">
-          {% if greyhound.pending or greyhound.medicalhold or greyhound.permafoster %}
+          {% if greyhound.pending or greyhound.medicalhold %}
           <div class="thumbnail-container">
           {% endif %}
           {% if greyhound.pic %}
@@ -30,17 +30,38 @@ permalink: /greyhounds/
               <b>Medical Hold</b>
             </div>
           </div>
-          {% elsif greyhound.permafoster %}
-            <div class="thumbnail-permafoster alert alert-danger" role="alert">
-              <b>Permanent Foster</b>
-            </div>
-          </div>
           {% endif %}
           <div class="caption">
             {% if greyhound.nick %}
               <h3>{{ greyhound.nick }}</h3>
             {% else %}
               <h3>{{ greyhound.title }}</h3>
+            {% endif %}
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+
+    <!-- Permanent Fosters should be at the bottom of the list -->
+    {% assign fosters = site.greyhounds | where: "category","permafoster" %}
+    {% for foster in fosters reversed %}
+      <div class="col-sm-4 col-md-3">
+        <a class="thumbnail" href="{{ foster.url }}">
+          <div class="thumbnail-container">
+          {% if foster.pic %}
+            <img class="img-rounded" src="/img/thm/{{ foster.pic }}" alt="{{ foster.title | remove: '"' }}">
+          {% else %}
+            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ foster.title | remove: '"' }}">
+          {% endif %}
+            <div class="thumbnail-permafoster alert alert-danger" role="alert">
+              <b>Permanent Foster</b>
+            </div>
+          </div>
+          <div class="caption">
+            {% if foster.nick %}
+              <h3>{{ foster.nick }}</h3>
+            {% else %}
+              <h3>{{ foster.title }}</h3>
             {% endif %}
           </div>
         </a>
