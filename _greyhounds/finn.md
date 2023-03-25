@@ -2,6 +2,7 @@
 layout: greyhound
 title: Finn
 category: available
+date: 2023-02-27
 color: white & red
 dob: 2016-02-19
 pic: finn.jpg
