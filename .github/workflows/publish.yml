@@ -28,7 +28,6 @@ jobs:
           ${{ runner.os }}-gems-
 
     - uses: helaili/jekyll-action@2.5.0
-      env:
-        JEKYLL_PAT: ${{ github.actor }}:${{ github.token }}
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
