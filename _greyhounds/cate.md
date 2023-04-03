@@ -6,5 +6,6 @@ title: Cate
 color: white w/ black
 sex: female
 dob: 2021-05-05
+pic: cate.jpg
 ---
 Cate is a small, shy girl. Littermate to Carley.
