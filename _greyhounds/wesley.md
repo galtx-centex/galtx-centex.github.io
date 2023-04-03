@@ -6,5 +6,6 @@ title: Wesley
 color: black
 sex: male
 dob: 2020-07-29
+pic: wesley.jpg
 ---
 Wes is a lovely Irish lad.
