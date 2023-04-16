@@ -8,4 +8,4 @@ sex: female
 dob: 2021-05-05
 pic: carley.jpg
 ---
-Carley is sister to Cate, though she has a larger build and more outgoing personality. 
+Carley is sister to [Cate](/greyhounds/cate), though she has a larger build and more outgoing personality. 

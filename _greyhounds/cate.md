@@ -8,4 +8,4 @@ sex: female
 dob: 2021-05-05
 pic: cate.jpg
 ---
-Cate is a small, shy girl. Littermate to Carley.
+Cate is a small, shy girl. Littermate to [Carley](/greyhounds/carley).
