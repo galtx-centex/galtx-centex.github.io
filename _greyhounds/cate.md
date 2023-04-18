@@ -7,5 +7,6 @@ color: white w/ black
 sex: female
 dob: 2021-05-05
 pic: cate.jpg
+pending: yes
 ---
 Cate is a small, shy girl. Littermate to [Carley](/greyhounds/carley).
