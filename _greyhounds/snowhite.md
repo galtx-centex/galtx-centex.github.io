@@ -6,6 +6,6 @@ title: Snowhite
 color: white
 sex: female
 dob: 2013-01-04
-pic: img/snowhite.jpg
+pic: snowhite.jpg
 ---
 Petite and sweet senior!
