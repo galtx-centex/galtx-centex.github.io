@@ -3,13 +3,14 @@ layout: greyhound
 title: Backwoods Justice
 date: 2010-03-13
 age: 18 MONTHS
-category: adopted
+category: deceased
 doa: 2010-03-13
 cats: no
 color: RED BRINDLE
 nick: Justice
 pic: backwoodsjustice.jpg
 sex: MALE
+dod: 2023-05-12
 ---
 18 months old, cat-curious red brindle with white chest and feet, dark muzzle: Justice is a diamond in the rough. A
 cross between a toddler and a preteen, Justice is very smart, but also gets bored unless his energy can be drained
