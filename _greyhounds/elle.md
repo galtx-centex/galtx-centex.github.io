@@ -3,12 +3,13 @@ layout: greyhound
 title: Elle
 date: 2010-02-28
 age: 18 MONTHS
-category: adopted
+category: deceased
 doa: 2010-02-28
 cats: yes
 color: BROWN BRINDLE
 pic: elle.jpg
 sex: FEMALE
+dod: 2023-05-12
 ---
 
 Shy yet super sweet, Elle has already figured out relaxation as if she's been retired for years....Such a sweet little
