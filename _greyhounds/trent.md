@@ -6,5 +6,6 @@ title: Trent
 color: black
 sex: male
 dob: 2020-02-09
+pic: trent.jpg
 ---
 G'day to this Aussie import!

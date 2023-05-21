@@ -6,5 +6,6 @@ title: Kelly
 color: Fawn & White
 sex: female
 dob: 2018-06-04
+pic: kelly.jpg
 ---
 Texas born and raised!
