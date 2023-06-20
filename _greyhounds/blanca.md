@@ -6,5 +6,6 @@ title: Blanca
 color: black
 sex: female
 dob: 2018-11-26
+pic: blanca.png
 ---
 I'm a retired brood mom looking for a family. 

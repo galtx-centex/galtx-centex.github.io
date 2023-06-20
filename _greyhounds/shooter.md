@@ -6,5 +6,6 @@ title: Shooter
 color: white
 sex: male
 dob: 2017-04-24
+pic: shooter.jpg
 ---
 I'm a big, happy cowboy!
