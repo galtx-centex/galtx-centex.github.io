@@ -3,11 +3,12 @@ layout: greyhound
 title: Jack
 date: 2015-05-19
 age: 6 YEARS
-category: adopted
+category: deceased
 doa: 2015-05-19
 color: BRINDLE
 pic: jack2.jpg
 sex: MALE
+dod: 2023-07-03
 ---
 
 I am a large brindle male with the most playful disposition! I love to play with my toys, and
