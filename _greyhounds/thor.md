@@ -6,5 +6,6 @@ title: Thor
 color: fawn
 sex: male
 dob: 2020-12-01
+pic: thor.jpg
 ---
 Thor is a unique "Grey-Luki"

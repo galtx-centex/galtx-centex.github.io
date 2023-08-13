@@ -6,5 +6,6 @@ title: Nelson
 color: black & white
 sex: male
 dob: 2020-10-28
+pic: nelson.jpg
 ---
 Nelson doesn't know how good looking he is!
