@@ -1,12 +1,13 @@
 ---
 layout: greyhound
 date: 2023-10-17
-category: available
+category: adopted
 title: Monty
 color: red fawn
 sex: male
 dob: 2015-02-02
 pic: monty.jpg
+doa: 2023-11-07
 ---
 Lover Boy!
 
