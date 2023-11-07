@@ -6,5 +6,6 @@ title: Kansas (KC)
 color: black
 sex: male
 dob: 2016-12-24
+pic: kansas.jpg
 ---
 I want to be your best friend!

@@ -6,6 +6,7 @@ title: Monty
 color: red fawn
 sex: male
 dob: 2015-02-02
+pic: monty.jpg
 ---
 Lover Boy!
 
