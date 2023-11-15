@@ -7,5 +7,6 @@ color: white & brindle
 sex: female
 dob: 2020-10-17
 pic: josey.jpg
+pending: yes
 ---
 Josey never met a stranger.
