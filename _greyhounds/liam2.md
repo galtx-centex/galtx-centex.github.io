@@ -6,5 +6,6 @@ title: Liam
 color: white & black
 sex: male
 dob: 2019-08-03
+pic: liam2.jpg
 ---
 I'm a classic in black and white.
