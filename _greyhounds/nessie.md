@@ -7,5 +7,6 @@ color: brindle
 sex: female
 dob: 2019-06-27
 pic: nessie.jpg
+pending: yes
 ---
 Nessie is a pretty little thing.
