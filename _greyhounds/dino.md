@@ -7,6 +7,7 @@ pic: dino.jpg
 sex: male
 dob: 2015-01-22
 medicalhold: no
+pending: yes
 ---
 Dino is a large staghound-type, who was rescued from the streets of Corpus Christi by a dedicated group of volunteers. He has recently completed Heartworm treatment, and is ready to meet his forever family.
 
