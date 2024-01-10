@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2023-08-10
-category: available
+category: permafoster
 title: Olive
 color: black & white
 sex: female
