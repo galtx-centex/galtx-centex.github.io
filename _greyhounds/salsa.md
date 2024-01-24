@@ -2,7 +2,7 @@
 layout: greyhound
 title: Salsa
 date: 2017-04-05
-category: adopted
+category: deceased
 cats: no
 color: WHITE AND BRINDLE
 doa: 2017-05-13
@@ -11,6 +11,7 @@ pic: salsa.jpeg
 sex: FEMALE
 pics:
   - salsa1.jpeg
+dod: 2024-01-24
 ---
 
 ¡Hola! ¡Me llamo Salsa!
