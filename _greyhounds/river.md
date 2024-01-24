@@ -6,5 +6,6 @@ title: River
 color: black
 sex: male
 dob: 2021-01-01
+pic: river.jpg
 ---
 I'm a leaner with a velvety coat. 
