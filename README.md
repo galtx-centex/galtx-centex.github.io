@@ -7,7 +7,7 @@ Hosted on [GitHub Pages](https://pages.github.com/).
 Built by [Jekyll](http://jekyllrb.com/).
 
 ## Contributing
-![Publish to GitHub Pages](https://github.com/galtx-centex/galtx-centex.github.io/workflows/Publish%20to%20GitHub%20Pages/badge.svg)
+[![Publish website](https://github.com/galtx-centex/galtx-centex.github.io/actions/workflows/publish.yml/badge.svg)](https://github.com/galtx-centex/galtx-centex.github.io/actions/workflows/publish.yml)
 
 If you are not a part of the galtx-centex team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
