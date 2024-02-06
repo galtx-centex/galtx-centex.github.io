@@ -1,13 +1,14 @@
 # [galtx-centex.org](https://galtx-centex.org/)
 
-GALT-Central Texas website
+GALT-Central Texas website.
 
 Hosted on [GitHub Pages](https://pages.github.com/).
 
 Built by [Jekyll](http://jekyllrb.com/).
 
-## Contributing
 [![Publish website](https://github.com/galtx-centex/galtx-centex.github.io/actions/workflows/publish.yml/badge.svg)](https://github.com/galtx-centex/galtx-centex.github.io/actions/workflows/publish.yml)
+
+## Contributing
 
 If you are not a part of the galtx-centex team,
 [fork our repo](https://help.github.com/articles/fork-a-repo) and
