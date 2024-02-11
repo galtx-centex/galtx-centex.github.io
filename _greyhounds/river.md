@@ -7,5 +7,6 @@ color: black
 sex: male
 dob: 2021-01-01
 pic: river.jpg
+pending: yes
 ---
 I'm a leaner with a velvety coat. 
