@@ -12,7 +12,7 @@ You may know me as Kansas, but my foster family calls me Oddie, or dozens of var
 
 I currently live with a lovely foster mom and dad, three kiddos, and two Greyhound foster bros. I LOVE people and want to be with them ALL the time.  I have been through a lot of changes these last few months, and am a bit nervous about losing another home and family. If you are lonely, I promise to be your loyal sidekick, swearing my oath of love and devotion.  Neither of us ever has to feel lonely again. 
 
-A few other tidbits about me: I have a beautiful singing voice - if you have fussy neighbors, they might not appreciate my serenades. I enjoy walks, and am very curious about my surroundings. In fact, too curious to safely live with small pets.  I have come to appreciate the softer side of life that comes with retirement - fuzzy blankets, pillows, stuffed toys, the squishier the better IMO. I will be respectful of our things though.  My short term goal is to reliably potty outside.  I am motivated to master this, since this darn diaper is sooo embarrassing. 
+A few other tidbits about me: I have a beautiful singing voice - if you have fussy neighbors, they might not appreciate my serenades. I enjoy walks, and am very curious about my surroundings. In fact, too curious to safely live with small pets.  I have come to appreciate the softer side of life that comes with retirement - fuzzy blankets, pillows, stuffed toys, the squishier the better IMO. I will be respectful of our things though.  
 
 I was blessed to be born on Christmas Eve; the greatest gift would be a FOREVER home and family!
 
