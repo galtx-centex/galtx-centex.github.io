@@ -6,5 +6,6 @@ title: Kouta
 color: black
 sex: male
 dob: 2021-08-26
+pic: kouta.jpg
 ---
 Mr. Personality!
