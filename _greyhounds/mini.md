@@ -7,5 +7,6 @@ color: blue
 sex: female
 dob: 2018-04-17
 pic: mini.jpg
+pending: yes
 ---
 I'm a cute kiwi!
