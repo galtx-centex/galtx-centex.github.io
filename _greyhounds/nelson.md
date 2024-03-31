@@ -7,6 +7,7 @@ color: black & white
 sex: male
 dob: 2020-10-28
 pic: nelson.jpg
+pending: yes
 ---
 Nelson is the definition of a gentle giant at a lanky 75lbs. He's a little shy and is still learning people are
 awesome. However - when you're not looking, you may get sniper kissed or end
