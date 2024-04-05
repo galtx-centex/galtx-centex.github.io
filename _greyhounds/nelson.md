@@ -1,13 +1,14 @@
 ---
 layout: greyhound
 date: 2023-08-10
-category: available
+category: adopted
 title: Nelson
 color: black & white
 sex: male
 dob: 2020-10-28
 pic: nelson.jpg
 pending: yes
+doa: 2024-04-05
 ---
 Nelson is the definition of a gentle giant at a lanky 75lbs. He's a little shy and is still learning people are
 awesome. However - when you're not looking, you may get sniper kissed or end
