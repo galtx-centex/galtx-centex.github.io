@@ -13,3 +13,4 @@ pending: no
 doa: 2021-08-27
 ---
 
+Fergie will be available as soon as she is cleared medically and has some time in foster to decompress. 
