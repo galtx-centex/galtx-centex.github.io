@@ -6,5 +6,6 @@ title: Filly
 color: fawn
 sex: female
 dob: 2022-01-11
+pic: filly.jpg
 ---
 Coming Soon!
