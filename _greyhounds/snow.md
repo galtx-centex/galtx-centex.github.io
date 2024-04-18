@@ -7,5 +7,6 @@ color: white & fawn
 sex: male
 dob: 2021-03-18
 pic: snow.jpg
+pending: yes
 ---
 Coming Soon!
