@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-05-05
-category: adopted
+category: deceased
 name: annie
 sex: female
 dob: 2009-11-30
@@ -11,6 +11,7 @@ title: Annie
 pic: annie1.jpg
 medicalhold: yes
 doa: 2019-10-05
+dod: 2024-04-18
 ---
 Annie (Cry Antigua) had quite a successful racing career, at one point winning 13 races in a row!  At age nine, she is still playful and active. She enjoys a good long walk, or a zoomie in the yard.  
 Annie was previously adopted, but was returned due to a family change, and no fault of her own.  She knows all about good house manners. Annie is more vocal than other greyhounds, so not the best match for an apartment dweller. She would prefer another dog companion. 
