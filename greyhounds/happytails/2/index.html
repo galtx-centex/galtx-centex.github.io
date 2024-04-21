@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<!--
+Copyright GALT-Central Texas
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Adopting retired racing greyhounds in Austin, Texas and surrounding areas">
+  <link href="/humans.txt" rel="author"/>
+
+  <title>GALT-Central Texas</title>
+
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Limelight" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/regular.js" integrity="sha384-BazKgf1FxrIbS1eyw7mhcLSSSD1IOsynTzzleWArWaBKoA8jItTB5QR+40+4tJT1" crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/brands.js" integrity="sha384-qJKAzpOXfvmSjzbmsEtlYziSrpVjh5ROPNqb8UZ60myWy7rjTObnarseSKotmJIx" crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/fontawesome.js" integrity="sha384-2IUdwouOFWauLdwTuAyHeMMRFfeyy4vqYNjodih+28v2ReC+8j+sLF9cK339k5hY" crossorigin="anonymous"></script>
+
+  <!-- MailChimp -->
+  <link href="https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+
+  <!-- Custom stylesheet -->
+  <link href="/css/main.css" rel="stylesheet">
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-79749043-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</head>
+
+<body>
+  <header class="site-header">
+
+  <div class="container masthead-container">
+
+    <div class="row">
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_donations">
+            <input type="hidden" name="business" value="accounting@galtx-centex.org">
+            <input type="hidden" name="currency_code" value="USD">
+            <input type="submit" name="submit" value="Donate Now!" class="btn btn-success">
+          </form>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div class="masthead">
+          <a class="hidden-xs" href="/">
+            <img src="/img/GALT-CENTEX_logo.svg" alt="GALT-Central Texas">
+          </a>
+          <a class="hidden-sm hidden-md hidden-lg" href="/">
+            <img src="/img/GALT-CENTEX_flag_logo.svg" alt="GALT-Central Texas">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4">
+        <div class="pull-right">
+          <a href="/join" class="btn btn-primary">Join GALT-CT!</a>
+        </div>
+      </div>
+    </div>
+
+  </div> <!-- masthead-container -->
+
+  <div class="container">
+
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="/">
+            GALT Central Texas
+          </a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav nav-justified">
+            <li><a href="/">Home</a></li>
+            <!-- Greyhounds -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Greyhounds <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/greyhounds">Available Hounds</a></li>
+                <li><a href="/greyhounds/happytails">Happy Tails</a></li>
+                <li><a href="/greyhounds/rainbowbridge">Rainbow Bridge</a></li>
+                <li><a href="/search">Search Greyhounds</a></li>
+              </ul>
+            </li>
+            <li><a href="/adopt">Adopt</a></li>
+            <li><a href="/foster">Foster</a></li>
+            <li><a href="/donate">Donate</a></li>
+            <li><a href="/events">Events</a></li>
+            <li><a href="https://store.galtx-centex.com/">Shop</a></li>
+            <!-- Join -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Join <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/join">Membership</a></li>
+                <li><a href="/sponsors">Sponsor</a></li>
+              </ul>
+            </li>
+            <!-- Resources -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span
+                  class="caret hidden-md hidden-lg"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/petsitters">Pet Sitters</a></li>
+                <li><a href="/vetcare">Veterinary Care</a></li>
+                <li><a href="/euthanasia">In Home Euthanasia</a></li>
+                <li><a href="/emergency">Emergency Care</a></li>
+                <li><a href="http://galtx.org/faq/greyhound-faq.shtml">Greyhound FAQs</a></li>
+                <li><a href="http://galtx.org/faq/medical-faq.shtml">Medical FAQs</a></li>
+              </ul>
+            </li>
+            <li><a href="/about">About</a></li>
+            <li class="hidden-md hidden-lg">
+              <a href="mailto:info@galtx-centex.org" class="btn btn-primary navbar-btn" style="text-align:center; color:#fff">
+                Contact Us!
+              </a>
+            </li>
+          </ul>
+        </div><!-- navbar-collapse -->
+      </div><!-- container-fluid -->
+    </nav>
+
+  </div><!-- container -->
+
+</header>
+
+
+  <div class="container">
+    <div class="text-center">
+  <h1>Happy Tails</h1>
+</div>
+
+<div class="container-fluid">
+
+  <div class="row">
+
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/emily/">
+          
+            <img class="img-rounded" src="/img/thm/emily.jpg" alt="Emily">
+          
+          <div class="caption">
+            
+              <h3>Emily</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/dillon/">
+          
+            <img class="img-rounded" src="/img/thm/dillon.jpg" alt="Dillon">
+          
+          <div class="caption">
+            
+              <h3>Dillon</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/tara/">
+          
+            <img class="img-rounded" src="/img/thm/tara.jpg" alt="Tara">
+          
+          <div class="caption">
+            
+              <h3>Tara</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/dreamer/">
+          
+            <img class="img-rounded" src="/img/thm/dreamer.jpg" alt="Dreamer">
+          
+          <div class="caption">
+            
+              <h3>Dreamer</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/molly/">
+          
+            <img class="img-rounded" src="/img/thm/molly.jpg" alt="Molly">
+          
+          <div class="caption">
+            
+              <h3>Molly</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/mike/">
+          
+            <img class="img-rounded" src="/img/thm/mike.jpg" alt="Mike">
+          
+          <div class="caption">
+            
+              <h3>Mike</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/seamus1/">
+          
+            <img class="img-rounded" src="/img/thm/seamus1.jpg" alt="Seamus">
+          
+          <div class="caption">
+            
+              <h3>Seamus</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/fenton/">
+          
+            <img class="img-rounded" src="/img/thm/fenton.jpg" alt="Fenton">
+          
+          <div class="caption">
+            
+              <h3>Fenton</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/lucky/">
+          
+            <img class="img-rounded" src="/img/thm/lucky.jpg" alt="Lucky">
+          
+          <div class="caption">
+            
+              <h3>Lucky</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/wendy/">
+          
+            <img class="img-rounded" src="/img/thm/wendy.jpg" alt="Wendy">
+          
+          <div class="caption">
+            
+              <h3>Wendy</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/nova/">
+          
+            <img class="img-rounded" src="/img/thm/nova.jpg" alt="Nova">
+          
+          <div class="caption">
+            
+              <h3>Nova</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/stan-lee/">
+          
+            <img class="img-rounded" src="/img/thm/stan-lee.jpg" alt="Stan Lee">
+          
+          <div class="caption">
+            
+              <h3>Stan Lee</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/timber/">
+          
+            <img class="img-rounded" src="/img/thm/timber.jpg" alt="Timber">
+          
+          <div class="caption">
+            
+              <h3>Timber</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/harper1/">
+          
+            <img class="img-rounded" src="/img/thm/harper1.jpg" alt="Harper">
+          
+          <div class="caption">
+            
+              <h3>Harper</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/comet/">
+          
+            <img class="img-rounded" src="/img/thm/comet.jpg" alt="Comet">
+          
+          <div class="caption">
+            
+              <h3>Comet</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/vicky/">
+          
+            <img class="img-rounded" src="/img/thm/vicky.jpg" alt="Vicky">
+          
+          <div class="caption">
+            
+              <h3>Vicky</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/conor/">
+          
+            <img class="img-rounded" src="/img/thm/conor.jpg" alt="Conor">
+          
+          <div class="caption">
+            
+              <h3>Conor</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/fina/">
+          
+            <img class="img-rounded" src="/img/thm/fina.jpg" alt="Fina">
+          
+          <div class="caption">
+            
+              <h3>Fina</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/natalie/">
+          
+            <img class="img-rounded" src="/img/thm/natalie.jpg" alt="Natalie">
+          
+          <div class="caption">
+            
+              <h3>Natalie</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/nancy/">
+          
+            <img class="img-rounded" src="/img/thm/nancy.jpg" alt="Nancy">
+          
+          <div class="caption">
+            
+              <h3>Nancy</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/linda/">
+          
+            <img class="img-rounded" src="/img/thm/linda.jpg" alt="Linda">
+          
+          <div class="caption">
+            
+              <h3>Linda</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/kerry/">
+          
+            <img class="img-rounded" src="/img/thm/kerry.jpg" alt="Kerry">
+          
+          <div class="caption">
+            
+              <h3>Kerry</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/lucille/">
+          
+            <img class="img-rounded" src="/img/thm/lucille.jpg" alt="Lucille">
+          
+          <div class="caption">
+            
+              <h3>Lucille</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/ronan/">
+          
+            <img class="img-rounded" src="/img/thm/ronan.jpg" alt="Ronan">
+          
+          <div class="caption">
+            
+              <h3>Ronan</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/cover-girl/">
+          
+            <img class="img-rounded" src="/img/thm/cover-girl.jpg" alt="Cover Girl">
+          
+          <div class="caption">
+            
+              <h3>Cover Girl</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/seth/">
+          
+            <img class="img-rounded" src="/img/thm/seth.jpg" alt="Seth">
+          
+          <div class="caption">
+            
+              <h3>Seth</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/cassie/">
+          
+            <img class="img-rounded" src="/img/thm/cassie.jpg" alt="Cassie">
+          
+          <div class="caption">
+            
+              <h3>Cassie</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/horus/">
+          
+            <img class="img-rounded" src="/img/thm/horus.jpg" alt="Horus">
+          
+          <div class="caption">
+            
+              <h3>Horus</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/sandy1/">
+          
+            <img class="img-rounded" src="/img/thm/sandy1.jpg" alt="Sandy">
+          
+          <div class="caption">
+            
+              <h3>Sandy</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+      <div class="col-xs-6 col-sm-4 col-md-2">
+        <a class="thumbnail" href="/greyhounds/beanie/">
+          
+            <img class="img-rounded" src="/img/thm/beanie.jpg" alt="Beanie">
+          
+          <div class="caption">
+            
+              <h3>Beanie</h3>
+            
+          </div>
+        </a>
+      </div>
+    
+
+  </div>
+
+  <nav>
+    <ul class="pager">
+      
+        <li class="previous"><a href="/greyhounds/happytails/"><span aria-hidden="true">&larr;</span> Back</a></li>
+      
+      
+        <li class="next"><a href="/greyhounds/happytails/3/">More <span aria-hidden="true">&rarr;</span></a></li>
+      
+    </ul>
+  </nav>
+
+</div>
+
+
+
+    <hr>
+
+    <footer>
+  <div class="container text-center">
+
+    <div class="social-icons">
+      <a title="Facebook" href="https://facebook.com/galtcentraltexas">
+        <i class="fab fa-fw fa-lg fa-facebook"></i>
+      </a>
+      <a title="Instagram" href="https://instagram.com/galt_centraltexas">
+        <i class="fab fa-fw fa-lg fa-instagram"></i>
+      </a>
+      <a title="Twitter" href="https://twitter.com/galt_centraltex">
+        <i class="fab fa-fw fa-lg fa-twitter"></i>
+      </a>
+      <a title="MailChimp" href="https://galtx-centex.us6.list-manage.com/subscribe?u=ce82f17bc088ab9ad887edb8d&amp;id=5f26041b9d">
+        <i class="far fa-fw fa-lg fa-envelope"></i>
+      </a>
+      <a title="GitHub" href="https://github.com/galtx-centex">
+        <i class="fab fa-fw fa-lg fa-github"></i>
+      </a>
+    </div>
+    <p/>
+    <p>
+    &copy; GALT-Central Texas<br>
+    P.O. Box 170160<br>
+    Austin, Texas 78717<br>
+    </p>
+  </div>
+</footer>
+
+  </div>
+
+  <!-- jQuery -->
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<!-- Bootstrap JavaScript -->
+<script
+  src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+  crossorigin="anonymous"></script>
+
+<!-- Twitter JavaScript -->
+<script>!function(d,s,id){
+  var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+  if(!d.getElementById(id)){js=d.createElement(s);
+    js.id=id;
+    js.src=p+'://platform.twitter.com/widgets.js';
+    fjs.parentNode.insertBefore(js,fjs);
+  }
+}(document, 'script', 'twitter-wjs');
+</script>
+
+<!-- Facebook JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+  window.simpleJekyllSearch = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '/search.json',
+    searchResultTemplate: '<div class="col-xs-6 col-sm-4 col-md-2"> <a class="thumbnail" href="{url}"> <img class="img-rounded" src="/img/thm/{pic}" alt="{title}"> <div class="caption"> <h3>{title}</h3> </div> </a> </div>',
+    noResultsText: 'No results found',
+    limit: 12,
+    fuzzy: false,
+  });
+</script>
+
+</body>
+</html>

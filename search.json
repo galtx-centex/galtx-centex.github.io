@@ -1,0 +1,3787 @@
+[
+  
+    {
+      "title"    : "Snow",
+      "category" : "available",
+      "url"      : "/greyhounds/snow/",
+      "nick"     : "",
+      "pic"      : "snow.jpg"
+    } ,
+  
+    {
+      "title"    : "Comet",
+      "category" : "adopted",
+      "url"      : "/greyhounds/comet/",
+      "nick"     : "",
+      "pic"      : "comet.jpg"
+    } ,
+  
+    {
+      "title"    : "Vicky",
+      "category" : "adopted",
+      "url"      : "/greyhounds/vicky/",
+      "nick"     : "",
+      "pic"      : "vicky.jpg"
+    } ,
+  
+    {
+      "title"    : "Robin",
+      "category" : "adopted",
+      "url"      : "/greyhounds/robin1/",
+      "nick"     : "",
+      "pic"      : "robin1.png"
+    } ,
+  
+    {
+      "title"    : "Filly",
+      "category" : "available",
+      "url"      : "/greyhounds/filly/",
+      "nick"     : "",
+      "pic"      : "filly.jpg"
+    } ,
+  
+    {
+      "title"    : "Birdie",
+      "category" : "available",
+      "url"      : "/greyhounds/birdie/",
+      "nick"     : "",
+      "pic"      : "birdie.jpg"
+    } ,
+  
+    {
+      "title"    : "Red Raven",
+      "category" : "adopted",
+      "url"      : "/greyhounds/red-raven/",
+      "nick"     : "",
+      "pic"      : "red-raven.jpg"
+    } ,
+  
+    {
+      "title"    : "Mini",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mini/",
+      "nick"     : "",
+      "pic"      : "mini.jpg"
+    } ,
+  
+    {
+      "title"    : "Kouta",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kouta/",
+      "nick"     : "",
+      "pic"      : "kouta.jpg"
+    } ,
+  
+    {
+      "title"    : "River",
+      "category" : "adopted",
+      "url"      : "/greyhounds/river/",
+      "nick"     : "",
+      "pic"      : "river.jpg"
+    } ,
+  
+    {
+      "title"    : "Mr. Ed",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mr.-ed/",
+      "nick"     : "",
+      "pic"      : "mr-ed.jpg"
+    } ,
+  
+    {
+      "title"    : "Nessie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nessie/",
+      "nick"     : "",
+      "pic"      : "nessie.jpg"
+    } ,
+  
+    {
+      "title"    : "Liam",
+      "category" : "adopted",
+      "url"      : "/greyhounds/liam2/",
+      "nick"     : "",
+      "pic"      : "liam2.jpg"
+    } ,
+  
+    {
+      "title"    : "Josey",
+      "category" : "adopted",
+      "url"      : "/greyhounds/josey/",
+      "nick"     : "",
+      "pic"      : "josey.jpg"
+    } ,
+  
+    {
+      "title"    : "Monty",
+      "category" : "adopted",
+      "url"      : "/greyhounds/monty/",
+      "nick"     : "",
+      "pic"      : "monty.jpg"
+    } ,
+  
+    {
+      "title"    : "Kansas (Oddie)",
+      "category" : "available",
+      "url"      : "/greyhounds/kansas-kc/",
+      "nick"     : "",
+      "pic"      : "kansas.jpg"
+    } ,
+  
+    {
+      "title"    : "Shirley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shirley/",
+      "nick"     : "",
+      "pic"      : ""
+    } ,
+  
+    {
+      "title"    : "Thor",
+      "category" : "adopted",
+      "url"      : "/greyhounds/thor/",
+      "nick"     : "",
+      "pic"      : "thor.jpg"
+    } ,
+  
+    {
+      "title"    : "Olive",
+      "category" : "permafoster",
+      "url"      : "/greyhounds/olive2/",
+      "nick"     : "",
+      "pic"      : "olive2.jpg"
+    } ,
+  
+    {
+      "title"    : "Nelson",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nelson/",
+      "nick"     : "",
+      "pic"      : "nelson.jpg"
+    } ,
+  
+    {
+      "title"    : "Kitkat",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kitkat/",
+      "nick"     : "",
+      "pic"      : "kitkat.jpg"
+    } ,
+  
+    {
+      "title"    : "Shooter",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shooter/",
+      "nick"     : "",
+      "pic"      : "shooter.jpg"
+    } ,
+  
+    {
+      "title"    : "Blanca",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blanca/",
+      "nick"     : "",
+      "pic"      : "blanca.png"
+    } ,
+  
+    {
+      "title"    : "Trent",
+      "category" : "adopted",
+      "url"      : "/greyhounds/trent/",
+      "nick"     : "",
+      "pic"      : "trent.jpg"
+    } ,
+  
+    {
+      "title"    : "Lucy lou",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lucy-lou/",
+      "nick"     : "",
+      "pic"      : "lucy-lou.jpg"
+    } ,
+  
+    {
+      "title"    : "Kelly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kelly/",
+      "nick"     : "",
+      "pic"      : "kelly.jpg"
+    } ,
+  
+    {
+      "title"    : "Snowhite",
+      "category" : "adopted",
+      "url"      : "/greyhounds/snowhite/",
+      "nick"     : "",
+      "pic"      : "snowhite.jpg"
+    } ,
+  
+    {
+      "title"    : "Doll",
+      "category" : "adopted",
+      "url"      : "/greyhounds/doll/",
+      "nick"     : "",
+      "pic"      : "doll.jpg"
+    } ,
+  
+    {
+      "title"    : "Wesley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/wesley/",
+      "nick"     : "",
+      "pic"      : "wesley.jpg"
+    } ,
+  
+    {
+      "title"    : "Cate",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cate/",
+      "nick"     : "",
+      "pic"      : "cate.jpg"
+    } ,
+  
+    {
+      "title"    : "Carley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/carley/",
+      "nick"     : "",
+      "pic"      : "carley.jpg"
+    } ,
+  
+    {
+      "title"    : "Polly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/polly/",
+      "nick"     : "",
+      "pic"      : "polly.jpg"
+    } ,
+  
+    {
+      "title"    : "Oreo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/oreo/",
+      "nick"     : "",
+      "pic"      : "oreo.jpg"
+    } ,
+  
+    {
+      "title"    : "Brandy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/brandy/",
+      "nick"     : "",
+      "pic"      : "brandy.jpg"
+    } ,
+  
+    {
+      "title"    : "Finn",
+      "category" : "adopted",
+      "url"      : "/greyhounds/finn/",
+      "nick"     : "",
+      "pic"      : "finn.jpg"
+    } ,
+  
+    {
+      "title"    : "Sully",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sully/",
+      "nick"     : "",
+      "pic"      : "sully.jpg"
+    } ,
+  
+    {
+      "title"    : "Emily",
+      "category" : "adopted",
+      "url"      : "/greyhounds/emily/",
+      "nick"     : "",
+      "pic"      : "emily.jpg"
+    } ,
+  
+    {
+      "title"    : "Dillon",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dillon/",
+      "nick"     : "",
+      "pic"      : "dillon.jpg"
+    } ,
+  
+    {
+      "title"    : "Wendy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/wendy/",
+      "nick"     : "",
+      "pic"      : "wendy.jpg"
+    } ,
+  
+    {
+      "title"    : "Seamus",
+      "category" : "adopted",
+      "url"      : "/greyhounds/seamus1/",
+      "nick"     : "",
+      "pic"      : "seamus1.jpg"
+    } ,
+  
+    {
+      "title"    : "Mike",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mike/",
+      "nick"     : "",
+      "pic"      : "mike.jpg"
+    } ,
+  
+    {
+      "title"    : "Lucky",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lucky/",
+      "nick"     : "",
+      "pic"      : "lucky.jpg"
+    } ,
+  
+    {
+      "title"    : "Fenton",
+      "category" : "adopted",
+      "url"      : "/greyhounds/fenton/",
+      "nick"     : "",
+      "pic"      : "fenton.jpg"
+    } ,
+  
+    {
+      "title"    : "Dreamer",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dreamer/",
+      "nick"     : "",
+      "pic"      : "dreamer.jpg"
+    } ,
+  
+    {
+      "title"    : "Timber",
+      "category" : "adopted",
+      "url"      : "/greyhounds/timber/",
+      "nick"     : "",
+      "pic"      : "timber.jpg"
+    } ,
+  
+    {
+      "title"    : "Tara",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tara/",
+      "nick"     : "",
+      "pic"      : "tara.jpg"
+    } ,
+  
+    {
+      "title"    : "Stan Lee",
+      "category" : "adopted",
+      "url"      : "/greyhounds/stan-lee/",
+      "nick"     : "",
+      "pic"      : "stan-lee.jpg"
+    } ,
+  
+    {
+      "title"    : "Harper",
+      "category" : "adopted",
+      "url"      : "/greyhounds/harper1/",
+      "nick"     : "",
+      "pic"      : "harper1.jpg"
+    } ,
+  
+    {
+      "title"    : "Daisy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/daisy1/",
+      "nick"     : "",
+      "pic"      : "daisy1.jpg"
+    } ,
+  
+    {
+      "title"    : "Natalie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/natalie/",
+      "nick"     : "",
+      "pic"      : "natalie.jpg"
+    } ,
+  
+    {
+      "title"    : "Nancy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nancy/",
+      "nick"     : "",
+      "pic"      : "nancy.jpg"
+    } ,
+  
+    {
+      "title"    : "Nova",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nova/",
+      "nick"     : "",
+      "pic"      : "nova.jpg"
+    } ,
+  
+    {
+      "title"    : "Fina",
+      "category" : "adopted",
+      "url"      : "/greyhounds/fina/",
+      "nick"     : "",
+      "pic"      : "fina.jpg"
+    } ,
+  
+    {
+      "title"    : "Petals",
+      "category" : "deceased",
+      "url"      : "/greyhounds/petals/",
+      "nick"     : "",
+      "pic"      : "petals.jpg"
+    } ,
+  
+    {
+      "title"    : "Lucille",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lucille/",
+      "nick"     : "",
+      "pic"      : "lucille.jpg"
+    } ,
+  
+    {
+      "title"    : "Linda",
+      "category" : "adopted",
+      "url"      : "/greyhounds/linda/",
+      "nick"     : "",
+      "pic"      : "linda.jpg"
+    } ,
+  
+    {
+      "title"    : "Ronan",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ronan/",
+      "nick"     : "",
+      "pic"      : "ronan.jpg"
+    } ,
+  
+    {
+      "title"    : "Molly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/molly/",
+      "nick"     : "",
+      "pic"      : "molly.jpg"
+    } ,
+  
+    {
+      "title"    : "Kerry",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kerry/",
+      "nick"     : "",
+      "pic"      : "kerry.jpg"
+    } ,
+  
+    {
+      "title"    : "Conor",
+      "category" : "adopted",
+      "url"      : "/greyhounds/conor/",
+      "nick"     : "",
+      "pic"      : "conor.jpg"
+    } ,
+  
+    {
+      "title"    : "Beanie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/beanie/",
+      "nick"     : "",
+      "pic"      : "beanie.jpg"
+    } ,
+  
+    {
+      "title"    : "Dixie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dixie/",
+      "nick"     : "",
+      "pic"      : "dixie.jpg"
+    } ,
+  
+    {
+      "title"    : "Cutie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cutie/",
+      "nick"     : "",
+      "pic"      : "cutie.jpg"
+    } ,
+  
+    {
+      "title"    : "Seth",
+      "category" : "adopted",
+      "url"      : "/greyhounds/seth/",
+      "nick"     : "",
+      "pic"      : "seth.jpg"
+    } ,
+  
+    {
+      "title"    : "Horus",
+      "category" : "adopted",
+      "url"      : "/greyhounds/horus/",
+      "nick"     : "",
+      "pic"      : "horus.jpg"
+    } ,
+  
+    {
+      "title"    : "Cassie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cassie/",
+      "nick"     : "",
+      "pic"      : "cassie.jpg"
+    } ,
+  
+    {
+      "title"    : "Sandy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sandy1/",
+      "nick"     : "",
+      "pic"      : "sandy1.jpg"
+    } ,
+  
+    {
+      "title"    : "Olive",
+      "category" : "adopted",
+      "url"      : "/greyhounds/olive1/",
+      "nick"     : "",
+      "pic"      : "olive1.jpg"
+    } ,
+  
+    {
+      "title"    : "Randall",
+      "category" : "adopted",
+      "url"      : "/greyhounds/randall/",
+      "nick"     : "",
+      "pic"      : "randall.jpg"
+    } ,
+  
+    {
+      "title"    : "Rain",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rain/",
+      "nick"     : "",
+      "pic"      : "rain.jpg"
+    } ,
+  
+    {
+      "title"    : "Shay",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shay/",
+      "nick"     : "",
+      "pic"      : "shay.jpg"
+    } ,
+  
+    {
+      "title"    : "Rexha",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rexha/",
+      "nick"     : "",
+      "pic"      : "rexha.jpg"
+    } ,
+  
+    {
+      "title"    : "Fergie",
+      "category" : "available",
+      "url"      : "/greyhounds/fergie/",
+      "nick"     : "",
+      "pic"      : "fergie.jpg"
+    } ,
+  
+    {
+      "title"    : "Faye",
+      "category" : "adopted",
+      "url"      : "/greyhounds/faye1/",
+      "nick"     : "",
+      "pic"      : "faye1.jpg"
+    } ,
+  
+    {
+      "title"    : "Sarge",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sarge/",
+      "nick"     : "",
+      "pic"      : "sarge.jpg"
+    } ,
+  
+    {
+      "title"    : "Gatti",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gatti/",
+      "nick"     : "",
+      "pic"      : "gatti.jpg"
+    } ,
+  
+    {
+      "title"    : "Felix",
+      "category" : "adopted",
+      "url"      : "/greyhounds/felix1/",
+      "nick"     : "",
+      "pic"      : "felix1.jpg"
+    } ,
+  
+    {
+      "title"    : "Tuuka",
+      "category" : "deceased",
+      "url"      : "/greyhounds/tuuka/",
+      "nick"     : "",
+      "pic"      : "tuuka.jpg"
+    } ,
+  
+    {
+      "title"    : "Diane",
+      "category" : "deceased",
+      "url"      : "/greyhounds/diane/",
+      "nick"     : "",
+      "pic"      : "diane.jpg"
+    } ,
+  
+    {
+      "title"    : "Cheese",
+      "category" : "deceased",
+      "url"      : "/greyhounds/cheese/",
+      "nick"     : "",
+      "pic"      : "cheese.jpg"
+    } ,
+  
+    {
+      "title"    : "Matilda",
+      "category" : "adopted",
+      "url"      : "/greyhounds/matilda/",
+      "nick"     : "",
+      "pic"      : "matilda.jpg"
+    } ,
+  
+    {
+      "title"    : "Daydream",
+      "category" : "adopted",
+      "url"      : "/greyhounds/daydream/",
+      "nick"     : "",
+      "pic"      : "daydream.jpg"
+    } ,
+  
+    {
+      "title"    : "Cover Girl",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cover-girl/",
+      "nick"     : "",
+      "pic"      : "cover-girl.jpg"
+    } ,
+  
+    {
+      "title"    : "Chai",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chai/",
+      "nick"     : "",
+      "pic"      : "chai.jpg"
+    } ,
+  
+    {
+      "title"    : "Chili",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chili/",
+      "nick"     : "",
+      "pic"      : "chili.jpg"
+    } ,
+  
+    {
+      "title"    : "Hillary",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hillary/",
+      "nick"     : "",
+      "pic"      : "hillary.jpg"
+    } ,
+  
+    {
+      "title"    : "Lee",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lee/",
+      "nick"     : "",
+      "pic"      : "lee.jpg"
+    } ,
+  
+    {
+      "title"    : "Gary",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gary/",
+      "nick"     : "",
+      "pic"      : "gary.jpg"
+    } ,
+  
+    {
+      "title"    : "Diamond",
+      "category" : "adopted",
+      "url"      : "/greyhounds/diamond1/",
+      "nick"     : "",
+      "pic"      : "diamond1.jpg"
+    } ,
+  
+    {
+      "title"    : "Blue",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blue1/",
+      "nick"     : "",
+      "pic"      : "blue1.jpeg"
+    } ,
+  
+    {
+      "title"    : "Sasha",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sasha/",
+      "nick"     : "",
+      "pic"      : "sasha.jpeg"
+    } ,
+  
+    {
+      "title"    : "Marley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/marley/",
+      "nick"     : "",
+      "pic"      : "marley.jpeg"
+    } ,
+  
+    {
+      "title"    : "Margarita",
+      "category" : "adopted",
+      "url"      : "/greyhounds/margarita/",
+      "nick"     : "",
+      "pic"      : "margarita.jpeg"
+    } ,
+  
+    {
+      "title"    : "Ebony",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ebony/",
+      "nick"     : "",
+      "pic"      : "ebony.jpeg"
+    } ,
+  
+    {
+      "title"    : "Doctor",
+      "category" : "deceased",
+      "url"      : "/greyhounds/doctor/",
+      "nick"     : "",
+      "pic"      : "doctor.jpg"
+    } ,
+  
+    {
+      "title"    : "Darrell",
+      "category" : "adopted",
+      "url"      : "/greyhounds/darrell/",
+      "nick"     : "",
+      "pic"      : "darrell.jpeg"
+    } ,
+  
+    {
+      "title"    : "Merry",
+      "category" : "adopted",
+      "url"      : "/greyhounds/merry/",
+      "nick"     : "",
+      "pic"      : "merry.jpg"
+    } ,
+  
+    {
+      "title"    : "Kent",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kent/",
+      "nick"     : "",
+      "pic"      : "kent.jpg"
+    } ,
+  
+    {
+      "title"    : "Harper",
+      "category" : "adopted",
+      "url"      : "/greyhounds/harper/",
+      "nick"     : "",
+      "pic"      : "harper.jpg"
+    } ,
+  
+    {
+      "title"    : "Dovey",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dovey/",
+      "nick"     : "",
+      "pic"      : "dovey.jpg"
+    } ,
+  
+    {
+      "title"    : "Swift",
+      "category" : "adopted",
+      "url"      : "/greyhounds/swift/",
+      "nick"     : "",
+      "pic"      : "swift.jpg"
+    } ,
+  
+    {
+      "title"    : "Sage",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sage1/",
+      "nick"     : "",
+      "pic"      : "sage1.jpg"
+    } ,
+  
+    {
+      "title"    : "Nate",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nate/",
+      "nick"     : "",
+      "pic"      : "nate.jpg"
+    } ,
+  
+    {
+      "title"    : "Katie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/katie/",
+      "nick"     : "",
+      "pic"      : "katie.jpg"
+    } ,
+  
+    {
+      "title"    : "Hazel",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hazel/",
+      "nick"     : "",
+      "pic"      : "hazel.jpg"
+    } ,
+  
+    {
+      "title"    : "Cinnamon",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cinnamon/",
+      "nick"     : "",
+      "pic"      : "cinnamon.jpg"
+    } ,
+  
+    {
+      "title"    : "Sabrina",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sabrina/",
+      "nick"     : "",
+      "pic"      : "sabrina.jpg"
+    } ,
+  
+    {
+      "title"    : "Jinx",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jinx/",
+      "nick"     : "",
+      "pic"      : "jinx.jpg"
+    } ,
+  
+    {
+      "title"    : "Isabella",
+      "category" : "adopted",
+      "url"      : "/greyhounds/isabella/",
+      "nick"     : "",
+      "pic"      : "isabella.jpg"
+    } ,
+  
+    {
+      "title"    : "Carrie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/carrie/",
+      "nick"     : "",
+      "pic"      : "carrie.jpg"
+    } ,
+  
+    {
+      "title"    : "Thomas",
+      "category" : "adopted",
+      "url"      : "/greyhounds/thomas/",
+      "nick"     : "",
+      "pic"      : "thomas.jpg"
+    } ,
+  
+    {
+      "title"    : "Sneakers",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sneakers/",
+      "nick"     : "",
+      "pic"      : "sneakers.jpg"
+    } ,
+  
+    {
+      "title"    : "Rawhide",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rawhide/",
+      "nick"     : "",
+      "pic"      : "rawhide.jpg"
+    } ,
+  
+    {
+      "title"    : "Flyer",
+      "category" : "adopted",
+      "url"      : "/greyhounds/flyer/",
+      "nick"     : "",
+      "pic"      : "flyer.jpg"
+    } ,
+  
+    {
+      "title"    : "Leigh",
+      "category" : "adopted",
+      "url"      : "/greyhounds/leigh/",
+      "nick"     : "",
+      "pic"      : "leigh.jpg"
+    } ,
+  
+    {
+      "title"    : "Hopper",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hopper/",
+      "nick"     : "",
+      "pic"      : "hopper.jpg"
+    } ,
+  
+    {
+      "title"    : "Chauncey",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chauncey/",
+      "nick"     : "",
+      "pic"      : "chauncey.jpg"
+    } ,
+  
+    {
+      "title"    : "Malia",
+      "category" : "deceased",
+      "url"      : "/greyhounds/malia/",
+      "nick"     : "",
+      "pic"      : "malia.jpg"
+    } ,
+  
+    {
+      "title"    : "Lyla",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lyla/",
+      "nick"     : "",
+      "pic"      : "lyla.jpg"
+    } ,
+  
+    {
+      "title"    : "Kay",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kay/",
+      "nick"     : "",
+      "pic"      : "kay.jpg"
+    } ,
+  
+    {
+      "title"    : "Oriole",
+      "category" : "adopted",
+      "url"      : "/greyhounds/oriole/",
+      "nick"     : "",
+      "pic"      : "oriole.jpg"
+    } ,
+  
+    {
+      "title"    : "Violet",
+      "category" : "adopted",
+      "url"      : "/greyhounds/violet/",
+      "nick"     : "",
+      "pic"      : "violet.jpg"
+    } ,
+  
+    {
+      "title"    : "Raven",
+      "category" : "adopted",
+      "url"      : "/greyhounds/raven1/",
+      "nick"     : "",
+      "pic"      : "raven1.jpg"
+    } ,
+  
+    {
+      "title"    : "Indigo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/indigo/",
+      "nick"     : "",
+      "pic"      : "indigo.jpg"
+    } ,
+  
+    {
+      "title"    : "Vespa",
+      "category" : "adopted",
+      "url"      : "/greyhounds/vespa/",
+      "nick"     : "",
+      "pic"      : "vespa.jpg"
+    } ,
+  
+    {
+      "title"    : "Blackberry",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blackberry/",
+      "nick"     : "",
+      "pic"      : "blackberry.jpg"
+    } ,
+  
+    {
+      "title"    : "Chaz",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chaz/",
+      "nick"     : "",
+      "pic"      : "chaz.jpg"
+    } ,
+  
+    {
+      "title"    : "Peaches",
+      "category" : "adopted",
+      "url"      : "/greyhounds/peaches/",
+      "nick"     : "",
+      "pic"      : "peaches.jpg"
+    } ,
+  
+    {
+      "title"    : "Taffy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/taffy/",
+      "nick"     : "",
+      "pic"      : "taffy.jpg"
+    } ,
+  
+    {
+      "title"    : "Skittles",
+      "category" : "deceased",
+      "url"      : "/greyhounds/skittles/",
+      "nick"     : "",
+      "pic"      : "skittles.jpg"
+    } ,
+  
+    {
+      "title"    : "Kit Kat",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kit-kat/",
+      "nick"     : "",
+      "pic"      : "kit-kat.jpg"
+    } ,
+  
+    {
+      "title"    : "Bones",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bones/",
+      "nick"     : "",
+      "pic"      : "bones.jpg"
+    } ,
+  
+    {
+      "title"    : "Heidi",
+      "category" : "adopted",
+      "url"      : "/greyhounds/heidi/",
+      "nick"     : "",
+      "pic"      : "heidi.jpg"
+    } ,
+  
+    {
+      "title"    : "Bonnie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bonnie/",
+      "nick"     : "",
+      "pic"      : "bonnie.jpg"
+    } ,
+  
+    {
+      "title"    : "Fara",
+      "category" : "deceased",
+      "url"      : "/greyhounds/fara/",
+      "nick"     : "",
+      "pic"      : "fara.jpg"
+    } ,
+  
+    {
+      "title"    : "Appleton",
+      "category" : "adopted",
+      "url"      : "/greyhounds/appleton/",
+      "nick"     : "",
+      "pic"      : "appleton.jpg"
+    } ,
+  
+    {
+      "title"    : "Cyclone",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cyclone/",
+      "nick"     : "",
+      "pic"      : "cyclone.jpg"
+    } ,
+  
+    {
+      "title"    : "Allan",
+      "category" : "deceased",
+      "url"      : "/greyhounds/allan/",
+      "nick"     : "",
+      "pic"      : "allan.jpg"
+    } ,
+  
+    {
+      "title"    : "Helena",
+      "category" : "adopted",
+      "url"      : "/greyhounds/helena/",
+      "nick"     : "",
+      "pic"      : "helena.jpg"
+    } ,
+  
+    {
+      "title"    : "Goose",
+      "category" : "adopted",
+      "url"      : "/greyhounds/goose/",
+      "nick"     : "",
+      "pic"      : "goose.jpg"
+    } ,
+  
+    {
+      "title"    : "Cordelia",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cordelia/",
+      "nick"     : "",
+      "pic"      : "cordelia.jpg"
+    } ,
+  
+    {
+      "title"    : "Ramona",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ramona/",
+      "nick"     : "",
+      "pic"      : "ramona.jpg"
+    } ,
+  
+    {
+      "title"    : "Joanna",
+      "category" : "adopted",
+      "url"      : "/greyhounds/joanna/",
+      "nick"     : "",
+      "pic"      : "joanna.jpg"
+    } ,
+  
+    {
+      "title"    : "Addie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/addie/",
+      "nick"     : "",
+      "pic"      : "addie.jpg"
+    } ,
+  
+    {
+      "title"    : "Ranger",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ranger/",
+      "nick"     : "",
+      "pic"      : "ranger.jpg"
+    } ,
+  
+    {
+      "title"    : "Bronco",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bronco/",
+      "nick"     : "",
+      "pic"      : "bronco.jpg"
+    } ,
+  
+    {
+      "title"    : "Volt",
+      "category" : "adopted",
+      "url"      : "/greyhounds/volt/",
+      "nick"     : "",
+      "pic"      : "volt.jpg"
+    } ,
+  
+    {
+      "title"    : "Blackjack",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blackjack/",
+      "nick"     : "",
+      "pic"      : "blackjack.jpg"
+    } ,
+  
+    {
+      "title"    : "Joy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/joy/",
+      "nick"     : "",
+      "pic"      : "joy.jpg"
+    } ,
+  
+    {
+      "title"    : "Faith",
+      "category" : "deceased",
+      "url"      : "/greyhounds/faith/",
+      "nick"     : "",
+      "pic"      : "faith.jpg"
+    } ,
+  
+    {
+      "title"    : "Corazón",
+      "category" : "adopted",
+      "url"      : "/greyhounds/corazon/",
+      "nick"     : "",
+      "pic"      : "corazon.jpg"
+    } ,
+  
+    {
+      "title"    : "Bésame",
+      "category" : "deceased",
+      "url"      : "/greyhounds/besame/",
+      "nick"     : "",
+      "pic"      : "besame.jpg"
+    } ,
+  
+    {
+      "title"    : "Faye",
+      "category" : "adopted",
+      "url"      : "/greyhounds/faye/",
+      "nick"     : "",
+      "pic"      : "faye.jpg"
+    } ,
+  
+    {
+      "title"    : "CJ",
+      "category" : "deceased",
+      "url"      : "/greyhounds/cj/",
+      "nick"     : "",
+      "pic"      : "cj.jpg"
+    } ,
+  
+    {
+      "title"    : "Miley",
+      "category" : "deceased",
+      "url"      : "/greyhounds/miley/",
+      "nick"     : "",
+      "pic"      : "miley.jpg"
+    } ,
+  
+    {
+      "title"    : "Madrid",
+      "category" : "adopted",
+      "url"      : "/greyhounds/madrid/",
+      "nick"     : "",
+      "pic"      : "madrid.jpg"
+    } ,
+  
+    {
+      "title"    : "Django",
+      "category" : "adopted",
+      "url"      : "/greyhounds/django/",
+      "nick"     : "",
+      "pic"      : "django.jpg"
+    } ,
+  
+    {
+      "title"    : "Butterfly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/butterfly/",
+      "nick"     : "",
+      "pic"      : "butterfly.jpg"
+    } ,
+  
+    {
+      "title"    : "Nessa",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nessa/",
+      "nick"     : "",
+      "pic"      : "nessa.jpg"
+    } ,
+  
+    {
+      "title"    : "Dvara",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dvara/",
+      "nick"     : "",
+      "pic"      : "dvara.jpg"
+    } ,
+  
+    {
+      "title"    : "Ahava",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ahava/",
+      "nick"     : "",
+      "pic"      : "ahava.jpg"
+    } ,
+  
+    {
+      "title"    : "Nadine",
+      "category" : "deceased",
+      "url"      : "/greyhounds/nadine/",
+      "nick"     : "",
+      "pic"      : "nadine.jpg"
+    } ,
+  
+    {
+      "title"    : "Maudie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/maudie/",
+      "nick"     : "",
+      "pic"      : "maudie.jpg"
+    } ,
+  
+    {
+      "title"    : "London",
+      "category" : "adopted",
+      "url"      : "/greyhounds/london/",
+      "nick"     : "",
+      "pic"      : "london.jpg"
+    } ,
+  
+    {
+      "title"    : "Rosie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rosie/",
+      "nick"     : "",
+      "pic"      : "rosie.jpg"
+    } ,
+  
+    {
+      "title"    : "Josie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/josie/",
+      "nick"     : "",
+      "pic"      : "josie.jpg"
+    } ,
+  
+    {
+      "title"    : "Cali",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cali/",
+      "nick"     : "",
+      "pic"      : "cali.jpg"
+    } ,
+  
+    {
+      "title"    : "Scarlet",
+      "category" : "adopted",
+      "url"      : "/greyhounds/scarlet/",
+      "nick"     : "",
+      "pic"      : "scarlet.jpg"
+    } ,
+  
+    {
+      "title"    : "Rowan",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rowan/",
+      "nick"     : "",
+      "pic"      : "rowan.jpg"
+    } ,
+  
+    {
+      "title"    : "Colorado",
+      "category" : "adopted",
+      "url"      : "/greyhounds/colorado/",
+      "nick"     : "",
+      "pic"      : "colorado.jpg"
+    } ,
+  
+    {
+      "title"    : "Julie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/julie/",
+      "nick"     : "",
+      "pic"      : "julie.jpg"
+    } ,
+  
+    {
+      "title"    : "Krissy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/krissy/",
+      "nick"     : "",
+      "pic"      : "krissy.jpg"
+    } ,
+  
+    {
+      "title"    : "Annie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/annie1/",
+      "nick"     : "",
+      "pic"      : "annie1.jpg"
+    } ,
+  
+    {
+      "title"    : "Shiloh",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shiloh/",
+      "nick"     : "",
+      "pic"      : "shiloh.jpg"
+    } ,
+  
+    {
+      "title"    : "Robbie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/robbie/",
+      "nick"     : "",
+      "pic"      : "robbie.jpg"
+    } ,
+  
+    {
+      "title"    : "Irving",
+      "category" : "deceased",
+      "url"      : "/greyhounds/irving/",
+      "nick"     : "",
+      "pic"      : "irving.jpg"
+    } ,
+  
+    {
+      "title"    : "Wyatt",
+      "category" : "adopted",
+      "url"      : "/greyhounds/wyatt/",
+      "nick"     : "",
+      "pic"      : "wyatt.jpg"
+    } ,
+  
+    {
+      "title"    : "Ryder",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ryder/",
+      "nick"     : "",
+      "pic"      : "ryder.jpg"
+    } ,
+  
+    {
+      "title"    : "Flame",
+      "category" : "deceased",
+      "url"      : "/greyhounds/flame/",
+      "nick"     : "",
+      "pic"      : "flame.jpg"
+    } ,
+  
+    {
+      "title"    : "Fiesta",
+      "category" : "adopted",
+      "url"      : "/greyhounds/fiesta/",
+      "nick"     : "",
+      "pic"      : "fiesta.jpg"
+    } ,
+  
+    {
+      "title"    : "Emma",
+      "category" : "adopted",
+      "url"      : "/greyhounds/emma/",
+      "nick"     : "",
+      "pic"      : "emma.jpg"
+    } ,
+  
+    {
+      "title"    : "Dash",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dash/",
+      "nick"     : "",
+      "pic"      : "dash.jpg"
+    } ,
+  
+    {
+      "title"    : "Azalea",
+      "category" : "deceased",
+      "url"      : "/greyhounds/azalea/",
+      "nick"     : "",
+      "pic"      : "azalea.jpg"
+    } ,
+  
+    {
+      "title"    : "Zuzu",
+      "category" : "adopted",
+      "url"      : "/greyhounds/zuzu/",
+      "nick"     : "",
+      "pic"      : "zuzu.jpg"
+    } ,
+  
+    {
+      "title"    : "Whiskey",
+      "category" : "adopted",
+      "url"      : "/greyhounds/whiskey/",
+      "nick"     : "",
+      "pic"      : "whiskey.jpg"
+    } ,
+  
+    {
+      "title"    : "Seamus",
+      "category" : "adopted",
+      "url"      : "/greyhounds/seamus/",
+      "nick"     : "",
+      "pic"      : "seamus.jpg"
+    } ,
+  
+    {
+      "title"    : "Raegan",
+      "category" : "adopted",
+      "url"      : "/greyhounds/raegan/",
+      "nick"     : "",
+      "pic"      : "raegan.jpg"
+    } ,
+  
+    {
+      "title"    : "Lily T",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lily-t/",
+      "nick"     : "",
+      "pic"      : "lily-t.jpg"
+    } ,
+  
+    {
+      "title"    : "Liam",
+      "category" : "adopted",
+      "url"      : "/greyhounds/liam/",
+      "nick"     : "",
+      "pic"      : "liam.jpg"
+    } ,
+  
+    {
+      "title"    : "Audi",
+      "category" : "adopted",
+      "url"      : "/greyhounds/audi1/",
+      "nick"     : "",
+      "pic"      : "audi1.jpg"
+    } ,
+  
+    {
+      "title"    : "Jenny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jenny/",
+      "nick"     : "",
+      "pic"      : "jenny.jpg"
+    } ,
+  
+    {
+      "title"    : "Forrest",
+      "category" : "adopted",
+      "url"      : "/greyhounds/forest/",
+      "nick"     : "",
+      "pic"      : "forest.png"
+    } ,
+  
+    {
+      "title"    : "Bart",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bart/",
+      "nick"     : "",
+      "pic"      : "bart.jpg"
+    } ,
+  
+    {
+      "title"    : "Titan",
+      "category" : "deceased",
+      "url"      : "/greyhounds/titan/",
+      "nick"     : "",
+      "pic"      : "titan.jpg"
+    } ,
+  
+    {
+      "title"    : "Slate",
+      "category" : "adopted",
+      "url"      : "/greyhounds/slate/",
+      "nick"     : "",
+      "pic"      : "slate.jpg"
+    } ,
+  
+    {
+      "title"    : "Shadow",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shadow/",
+      "nick"     : "",
+      "pic"      : "shadow.jpg"
+    } ,
+  
+    {
+      "title"    : "Penny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/penny/",
+      "nick"     : "",
+      "pic"      : "penny.jpg"
+    } ,
+  
+    {
+      "title"    : "Skipper",
+      "category" : "adopted",
+      "url"      : "/greyhounds/skipper/",
+      "nick"     : "",
+      "pic"      : "skipper.jpg"
+    } ,
+  
+    {
+      "title"    : "Dozer",
+      "category" : "deceased",
+      "url"      : "/greyhounds/dozer/",
+      "nick"     : "",
+      "pic"      : "dozer.jpg"
+    } ,
+  
+    {
+      "title"    : "Telly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/telly/",
+      "nick"     : "",
+      "pic"      : "telly.jpg"
+    } ,
+  
+    {
+      "title"    : "Holly",
+      "category" : "adopted",
+      "url"      : "/greyhounds/holly1/",
+      "nick"     : "",
+      "pic"      : "holly1.jpg"
+    } ,
+  
+    {
+      "title"    : "Cheech",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cheech/",
+      "nick"     : "",
+      "pic"      : "cheech.jpg"
+    } ,
+  
+    {
+      "title"    : "Snowy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/snowy/",
+      "nick"     : "",
+      "pic"      : "snowy.jpg"
+    } ,
+  
+    {
+      "title"    : "Elsa",
+      "category" : "deceased",
+      "url"      : "/greyhounds/elsa/",
+      "nick"     : "",
+      "pic"      : "elsa.png"
+    } ,
+  
+    {
+      "title"    : "Winnie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/winnie/",
+      "nick"     : "",
+      "pic"      : "winnie.jpg"
+    } ,
+  
+    {
+      "title"    : "Maserati",
+      "category" : "adopted",
+      "url"      : "/greyhounds/maserati/",
+      "nick"     : "",
+      "pic"      : "maserati.jpg"
+    } ,
+  
+    {
+      "title"    : "Keri Anne",
+      "category" : "deceased",
+      "url"      : "/greyhounds/keri-anne/",
+      "nick"     : "",
+      "pic"      : "keri-anne.jpg"
+    } ,
+  
+    {
+      "title"    : "Fred",
+      "category" : "adopted",
+      "url"      : "/greyhounds/fred/",
+      "nick"     : "",
+      "pic"      : "fred.jpg"
+    } ,
+  
+    {
+      "title"    : "Alexis",
+      "category" : "adopted",
+      "url"      : "/greyhounds/alexis/",
+      "nick"     : "",
+      "pic"      : "alexis.jpg"
+    } ,
+  
+    {
+      "title"    : "Sidney",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sidney/",
+      "nick"     : "",
+      "pic"      : "sidney.jpg"
+    } ,
+  
+    {
+      "title"    : "Sam",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sam/",
+      "nick"     : "",
+      "pic"      : "sam.jpg"
+    } ,
+  
+    {
+      "title"    : "Sherman",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sherman/",
+      "nick"     : "",
+      "pic"      : "sherman.jpg"
+    } ,
+  
+    {
+      "title"    : "Jon",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jon/",
+      "nick"     : "",
+      "pic"      : "jon.jpg"
+    } ,
+  
+    {
+      "title"    : "Abby",
+      "category" : "deceased",
+      "url"      : "/greyhounds/abby1/",
+      "nick"     : "",
+      "pic"      : "abby1.jpg"
+    } ,
+  
+    {
+      "title"    : "Kevin",
+      "category" : "adopted",
+      "url"      : "/greyhounds/kevin/",
+      "nick"     : "",
+      "pic"      : "kevin.jpg"
+    } ,
+  
+    {
+      "title"    : "Nita",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nita/",
+      "nick"     : "",
+      "pic"      : "nita.jpg"
+    } ,
+  
+    {
+      "title"    : "Ginger",
+      "category" : "deceased",
+      "url"      : "/greyhounds/ginger/",
+      "nick"     : "",
+      "pic"      : "ginger.jpg"
+    } ,
+  
+    {
+      "title"    : "Arty",
+      "category" : "deceased",
+      "url"      : "/greyhounds/arty/",
+      "nick"     : "",
+      "pic"      : "arty.jpg"
+    } ,
+  
+    {
+      "title"    : "Lucy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lucy/",
+      "nick"     : "",
+      "pic"      : "lucy.jpg"
+    } ,
+  
+    {
+      "title"    : "Waffles (aka Ethel)",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ethel/",
+      "nick"     : "Waffles",
+      "pic"      : "ethel.jpg"
+    } ,
+  
+    {
+      "title"    : "Sunny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sunny/",
+      "nick"     : "",
+      "pic"      : "sunny.jpg"
+    } ,
+  
+    {
+      "title"    : "Diamond",
+      "category" : "adopted",
+      "url"      : "/greyhounds/diamond/",
+      "nick"     : "",
+      "pic"      : "diamond.jpg"
+    } ,
+  
+    {
+      "title"    : "Blue Jean",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blue-jean/",
+      "nick"     : "",
+      "pic"      : "blue-jean.jpg"
+    } ,
+  
+    {
+      "title"    : "Babe",
+      "category" : "adopted",
+      "url"      : "/greyhounds/babe/",
+      "nick"     : "",
+      "pic"      : "babe.jpg"
+    } ,
+  
+    {
+      "title"    : "Simba",
+      "category" : "adopted",
+      "url"      : "/greyhounds/simba/",
+      "nick"     : "",
+      "pic"      : "simba.jpg"
+    } ,
+  
+    {
+      "title"    : "Lazer",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lazer/",
+      "nick"     : "",
+      "pic"      : "lazer.jpg"
+    } ,
+  
+    {
+      "title"    : "Lady",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lady1/",
+      "nick"     : "",
+      "pic"      : "lady1.jpg"
+    } ,
+  
+    {
+      "title"    : "Zöe",
+      "category" : "deceased",
+      "url"      : "/greyhounds/zoe/",
+      "nick"     : "",
+      "pic"      : "zoe.jpg"
+    } ,
+  
+    {
+      "title"    : "Zane",
+      "category" : "adopted",
+      "url"      : "/greyhounds/zane/",
+      "nick"     : "",
+      "pic"      : "zane.jpg"
+    } ,
+  
+    {
+      "title"    : "Archie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/archie/",
+      "nick"     : "",
+      "pic"      : "archie.jpg"
+    } ,
+  
+    {
+      "title"    : "Ricky",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ricky/",
+      "nick"     : "",
+      "pic"      : "ricky.jpg"
+    } ,
+  
+    {
+      "title"    : "Joey",
+      "category" : "deceased",
+      "url"      : "/greyhounds/joey/",
+      "nick"     : "",
+      "pic"      : "joey.jpg"
+    } ,
+  
+    {
+      "title"    : "Clara",
+      "category" : "deceased",
+      "url"      : "/greyhounds/clara/",
+      "nick"     : "",
+      "pic"      : "clara.jpg"
+    } ,
+  
+    {
+      "title"    : "Tori",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tori/",
+      "nick"     : "",
+      "pic"      : "tori.jpg"
+    } ,
+  
+    {
+      "title"    : "Mercedes",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mercedes/",
+      "nick"     : "",
+      "pic"      : "mercedes.jpg"
+    } ,
+  
+    {
+      "title"    : "Chelsea",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chelsea/",
+      "nick"     : "",
+      "pic"      : "chelsea.jpg"
+    } ,
+  
+    {
+      "title"    : "Sybil",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sybil/",
+      "nick"     : "",
+      "pic"      : "sybil.jpg"
+    } ,
+  
+    {
+      "title"    : "Dahlia (Octane)",
+      "category" : "adopted",
+      "url"      : "/greyhounds/octane/",
+      "nick"     : "Dahlia",
+      "pic"      : "octane.jpg"
+    } ,
+  
+    {
+      "title"    : "Byrdie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/byrdie/",
+      "nick"     : "",
+      "pic"      : "byrdie.jpg"
+    } ,
+  
+    {
+      "title"    : "Abby",
+      "category" : "adopted",
+      "url"      : "/greyhounds/abby/",
+      "nick"     : "",
+      "pic"      : "abby.jpg"
+    } ,
+  
+    {
+      "title"    : "Eloise",
+      "category" : "adopted",
+      "url"      : "/greyhounds/eloise/",
+      "nick"     : "",
+      "pic"      : "eloise.jpg"
+    } ,
+  
+    {
+      "title"    : "Ruby Red",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ruby-red/",
+      "nick"     : "",
+      "pic"      : "ruby-red.jpg"
+    } ,
+  
+    {
+      "title"    : "Rebel",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rebel/",
+      "nick"     : "",
+      "pic"      : "rebel.jpg"
+    } ,
+  
+    {
+      "title"    : "Blitzen",
+      "category" : "adopted",
+      "url"      : "/greyhounds/blitzen/",
+      "nick"     : "",
+      "pic"      : "blitzen.jpg"
+    } ,
+  
+    {
+      "title"    : "Lonnie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lonnie/",
+      "nick"     : "",
+      "pic"      : "lonnie.jpg"
+    } ,
+  
+    {
+      "title"    : "Maybelline",
+      "category" : "adopted",
+      "url"      : "/greyhounds/maybelline/",
+      "nick"     : "",
+      "pic"      : "maybelline.jpg"
+    } ,
+  
+    {
+      "title"    : "Leno",
+      "category" : "deceased",
+      "url"      : "/greyhounds/leno/",
+      "nick"     : "",
+      "pic"      : "leno.jpg"
+    } ,
+  
+    {
+      "title"    : "Nala",
+      "category" : "deceased",
+      "url"      : "/greyhounds/nala/",
+      "nick"     : "",
+      "pic"      : "nala.jpg"
+    } ,
+  
+    {
+      "title"    : "Mario",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mario/",
+      "nick"     : "",
+      "pic"      : "mario.jpg"
+    } ,
+  
+    {
+      "title"    : "Knockout",
+      "category" : "adopted",
+      "url"      : "/greyhounds/knockout/",
+      "nick"     : "",
+      "pic"      : "knockout.jpg"
+    } ,
+  
+    {
+      "title"    : "Olive",
+      "category" : "adopted",
+      "url"      : "/greyhounds/olive/",
+      "nick"     : "",
+      "pic"      : "olive.jpg"
+    } ,
+  
+    {
+      "title"    : "Moose",
+      "category" : "adopted",
+      "url"      : "/greyhounds/moose/",
+      "nick"     : "",
+      "pic"      : "moose.jpg"
+    } ,
+  
+    {
+      "title"    : "Bess",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bess/",
+      "nick"     : "",
+      "pic"      : "bess.jpg"
+    } ,
+  
+    {
+      "title"    : "Athena",
+      "category" : "deceased",
+      "url"      : "/greyhounds/athena/",
+      "nick"     : "",
+      "pic"      : "athena.jpg"
+    } ,
+  
+    {
+      "title"    : "Oakley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/oakley/",
+      "nick"     : "",
+      "pic"      : "oakley.jpg"
+    } ,
+  
+    {
+      "title"    : "Allegro",
+      "category" : "deceased",
+      "url"      : "/greyhounds/allegro/",
+      "nick"     : "",
+      "pic"      : "allegro.jpg"
+    } ,
+  
+    {
+      "title"    : "Vixen",
+      "category" : "adopted",
+      "url"      : "/greyhounds/vixen/",
+      "nick"     : "",
+      "pic"      : "vixen.jpg"
+    } ,
+  
+    {
+      "title"    : "Tugger",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tugger/",
+      "nick"     : "",
+      "pic"      : "tugger.jpg"
+    } ,
+  
+    {
+      "title"    : "Quinn",
+      "category" : "adopted",
+      "url"      : "/greyhounds/quinn/",
+      "nick"     : "",
+      "pic"      : "quinn.jpg"
+    } ,
+  
+    {
+      "title"    : "Nimitz",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nimitz/",
+      "nick"     : "",
+      "pic"      : "nimitz.jpg"
+    } ,
+  
+    {
+      "title"    : "Dasher",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dasher/",
+      "nick"     : "",
+      "pic"      : "dasher.jpg"
+    } ,
+  
+    {
+      "title"    : "Turbo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/turbo/",
+      "nick"     : "",
+      "pic"      : "preston.jpg"
+    } ,
+  
+    {
+      "title"    : "Wheeler",
+      "category" : "adopted",
+      "url"      : "/greyhounds/wheeler/",
+      "nick"     : "",
+      "pic"      : "wheeler.jpg"
+    } ,
+  
+    {
+      "title"    : "Fiona",
+      "category" : "adopted",
+      "url"      : "/greyhounds/fiona2/",
+      "nick"     : "",
+      "pic"      : "fiona2.jpg"
+    } ,
+  
+    {
+      "title"    : "Chin",
+      "category" : "deceased",
+      "url"      : "/greyhounds/chin/",
+      "nick"     : "",
+      "pic"      : "chin.jpg"
+    } ,
+  
+    {
+      "title"    : "Lamar",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lamar/",
+      "nick"     : "",
+      "pic"      : "lamar.jpg"
+    } ,
+  
+    {
+      "title"    : "Dina",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dina/",
+      "nick"     : "",
+      "pic"      : "dina.jpg"
+    } ,
+  
+    {
+      "title"    : "Anoop",
+      "category" : "deceased",
+      "url"      : "/greyhounds/anoop/",
+      "nick"     : "",
+      "pic"      : "anoop.jpg"
+    } ,
+  
+    {
+      "title"    : "Striker",
+      "category" : "adopted",
+      "url"      : "/greyhounds/striker/",
+      "nick"     : "",
+      "pic"      : "striker.jpg"
+    } ,
+  
+    {
+      "title"    : "Slick",
+      "category" : "adopted",
+      "url"      : "/greyhounds/slick/",
+      "nick"     : "",
+      "pic"      : "slick.jpg"
+    } ,
+  
+    {
+      "title"    : "Omaha",
+      "category" : "adopted",
+      "url"      : "/greyhounds/omaha/",
+      "nick"     : "",
+      "pic"      : "omaha.jpg"
+    } ,
+  
+    {
+      "title"    : "Jupiter",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jupiter/",
+      "nick"     : "",
+      "pic"      : "jupiter.jpg"
+    } ,
+  
+    {
+      "title"    : "Jitterbug",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jitterbug/",
+      "nick"     : "",
+      "pic"      : "jitterbug.jpg"
+    } ,
+  
+    {
+      "title"    : "Funny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/funny/",
+      "nick"     : "",
+      "pic"      : "funny.jpg"
+    } ,
+  
+    {
+      "title"    : "Farrah",
+      "category" : "adopted",
+      "url"      : "/greyhounds/farrah/",
+      "nick"     : "",
+      "pic"      : "farrah.jpg"
+    } ,
+  
+    {
+      "title"    : "Captain",
+      "category" : "adopted",
+      "url"      : "/greyhounds/captain/",
+      "nick"     : "",
+      "pic"      : "captain.jpg"
+    } ,
+  
+    {
+      "title"    : "Bobbi",
+      "category" : "deceased",
+      "url"      : "/greyhounds/bobbi/",
+      "nick"     : "",
+      "pic"      : "bobbi.jpg"
+    } ,
+  
+    {
+      "title"    : "Beetle",
+      "category" : "adopted",
+      "url"      : "/greyhounds/beetle/",
+      "nick"     : "",
+      "pic"      : "beetle.jpg"
+    } ,
+  
+    {
+      "title"    : "Arby",
+      "category" : "deceased",
+      "url"      : "/greyhounds/arby/",
+      "nick"     : "",
+      "pic"      : "arby.jpg"
+    } ,
+  
+    {
+      "title"    : "Anny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/anny/",
+      "nick"     : "",
+      "pic"      : "anny.jpg"
+    } ,
+  
+    {
+      "title"    : "Maizie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/maizie/",
+      "nick"     : "",
+      "pic"      : "maizie.jpg"
+    } ,
+  
+    {
+      "title"    : "Gabby",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gabby/",
+      "nick"     : "",
+      "pic"      : "gabby.jpg"
+    } ,
+  
+    {
+      "title"    : "Daisy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/daisy/",
+      "nick"     : "",
+      "pic"      : "daisy.jpg"
+    } ,
+  
+    {
+      "title"    : "Scout",
+      "category" : "adopted",
+      "url"      : "/greyhounds/scout/",
+      "nick"     : "",
+      "pic"      : "scout.jpg"
+    } ,
+  
+    {
+      "title"    : "Laredo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/laredo/",
+      "nick"     : "",
+      "pic"      : "laredo.jpg"
+    } ,
+  
+    {
+      "title"    : "Foley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/foley/",
+      "nick"     : "",
+      "pic"      : "foley.jpg"
+    } ,
+  
+    {
+      "title"    : "Sofia",
+      "category" : "deceased",
+      "url"      : "/greyhounds/sofia/",
+      "nick"     : "",
+      "pic"      : "sofia.jpg"
+    } ,
+  
+    {
+      "title"    : "Paola",
+      "category" : "deceased",
+      "url"      : "/greyhounds/paola/",
+      "nick"     : "",
+      "pic"      : "paola.jpg"
+    } ,
+  
+    {
+      "title"    : "Duke",
+      "category" : "adopted",
+      "url"      : "/greyhounds/duke/",
+      "nick"     : "",
+      "pic"      : "duke.jpg"
+    } ,
+  
+    {
+      "title"    : "Tempo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tempo/",
+      "nick"     : "",
+      "pic"      : "tempo.jpg"
+    } ,
+  
+    {
+      "title"    : "Thea",
+      "category" : "adopted",
+      "url"      : "/greyhounds/thea/",
+      "nick"     : "",
+      "pic"      : "thea.jpeg"
+    } ,
+  
+    {
+      "title"    : "Poppy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/poppy2/",
+      "nick"     : "",
+      "pic"      : "poppy_2.jpg"
+    } ,
+  
+    {
+      "title"    : "Mollie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mollie/",
+      "nick"     : "",
+      "pic"      : "mollie.jpg"
+    } ,
+  
+    {
+      "title"    : "Zoya",
+      "category" : "deceased",
+      "url"      : "/greyhounds/zoya/",
+      "nick"     : "",
+      "pic"      : "zoya.jpeg"
+    } ,
+  
+    {
+      "title"    : "Tawny",
+      "category" : "deceased",
+      "url"      : "/greyhounds/tawny/",
+      "nick"     : "",
+      "pic"      : "tawny.jpg"
+    } ,
+  
+    {
+      "title"    : "Suzy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/suzy/",
+      "nick"     : "",
+      "pic"      : "suzy.jpeg"
+    } ,
+  
+    {
+      "title"    : "Salsa",
+      "category" : "deceased",
+      "url"      : "/greyhounds/salsa/",
+      "nick"     : "",
+      "pic"      : "salsa.jpeg"
+    } ,
+  
+    {
+      "title"    : "Selena",
+      "category" : "adopted",
+      "url"      : "/greyhounds/selena/",
+      "nick"     : "",
+      "pic"      : "selena.jpg"
+    } ,
+  
+    {
+      "title"    : "Soho",
+      "category" : "adopted",
+      "url"      : "/greyhounds/soho/",
+      "nick"     : "",
+      "pic"      : "soho.jpg"
+    } ,
+  
+    {
+      "title"    : "Caruso",
+      "category" : "adopted",
+      "url"      : "/greyhounds/caruso/",
+      "nick"     : "",
+      "pic"      : "caruso.jpg"
+    } ,
+  
+    {
+      "title"    : "Hurley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hurley/",
+      "nick"     : "",
+      "pic"      : "hurley.jpg"
+    } ,
+  
+    {
+      "title"    : "Jedda",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jedda/",
+      "nick"     : "",
+      "pic"      : "jedi.jpg"
+    } ,
+  
+    {
+      "title"    : "Annie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/annie/",
+      "nick"     : "",
+      "pic"      : "annie.jpg"
+    } ,
+  
+    {
+      "title"    : "Laney",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lani/",
+      "nick"     : "",
+      "pic"      : "lani.jpg"
+    } ,
+  
+    {
+      "title"    : "Gumdrop",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gumdrop/",
+      "nick"     : "",
+      "pic"      : "gumdrop.jpg"
+    } ,
+  
+    {
+      "title"    : "Romeo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/romeo/",
+      "nick"     : "",
+      "pic"      : "romeo.jpg"
+    } ,
+  
+    {
+      "title"    : "Layton",
+      "category" : "adopted",
+      "url"      : "/greyhounds/layton/",
+      "nick"     : "",
+      "pic"      : "layton.jpg"
+    } ,
+  
+    {
+      "title"    : "Canaan",
+      "category" : "adopted",
+      "url"      : "/greyhounds/canaan/",
+      "nick"     : "",
+      "pic"      : "canaan.jpg"
+    } ,
+  
+    {
+      "title"    : "Olivia",
+      "category" : "adopted",
+      "url"      : "/greyhounds/olivia/",
+      "nick"     : "",
+      "pic"      : "olivia.jpg"
+    } ,
+  
+    {
+      "title"    : "Zella",
+      "category" : "adopted",
+      "url"      : "/greyhounds/zella/",
+      "nick"     : "",
+      "pic"      : "zella.jpg"
+    } ,
+  
+    {
+      "title"    : "Willow",
+      "category" : "adopted",
+      "url"      : "/greyhounds/willow/",
+      "nick"     : "",
+      "pic"      : "willow.jpg"
+    } ,
+  
+    {
+      "title"    : "Snow White",
+      "category" : "adopted",
+      "url"      : "/greyhounds/snowwhite/",
+      "nick"     : "Snow W.",
+      "pic"      : "snowwhite.jpg"
+    } ,
+  
+    {
+      "title"    : "Jay",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jay/",
+      "nick"     : "",
+      "pic"      : "jay.jpg"
+    } ,
+  
+    {
+      "title"    : "Simmons",
+      "category" : "adopted",
+      "url"      : "/greyhounds/simmons/",
+      "nick"     : "",
+      "pic"      : "simmons.jpg"
+    } ,
+  
+    {
+      "title"    : "Philly",
+      "category" : "deceased",
+      "url"      : "/greyhounds/philly/",
+      "nick"     : "",
+      "pic"      : "philly.jpg"
+    } ,
+  
+    {
+      "title"    : "Isabelle",
+      "category" : "deceased",
+      "url"      : "/greyhounds/isabelle/",
+      "nick"     : "",
+      "pic"      : "Isabelle.JPG"
+    } ,
+  
+    {
+      "title"    : "Waco",
+      "category" : "deceased",
+      "url"      : "/greyhounds/waco/",
+      "nick"     : "",
+      "pic"      : "Waco.jpg"
+    } ,
+  
+    {
+      "title"    : "Georgie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/georgie/",
+      "nick"     : "",
+      "pic"      : "georgie.png"
+    } ,
+  
+    {
+      "title"    : "Victor",
+      "category" : "adopted",
+      "url"      : "/greyhounds/victor/",
+      "nick"     : "",
+      "pic"      : "victor.jpg"
+    } ,
+  
+    {
+      "title"    : "Plante",
+      "category" : "adopted",
+      "url"      : "/greyhounds/plante/",
+      "nick"     : "",
+      "pic"      : "plante.jpg"
+    } ,
+  
+    {
+      "title"    : "Johaunna",
+      "category" : "adopted",
+      "url"      : "/greyhounds/johaunna/",
+      "nick"     : "",
+      "pic"      : "johaunna.jpg"
+    } ,
+  
+    {
+      "title"    : "James Bond",
+      "category" : "deceased",
+      "url"      : "/greyhounds/jamesbond/",
+      "nick"     : "James B.",
+      "pic"      : "jamesbond.jpeg"
+    } ,
+  
+    {
+      "title"    : "Gregory",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gregory/",
+      "nick"     : "",
+      "pic"      : "gregory.jpg"
+    } ,
+  
+    {
+      "title"    : "Flower",
+      "category" : "deceased",
+      "url"      : "/greyhounds/flower/",
+      "nick"     : "",
+      "pic"      : "flower.jpg"
+    } ,
+  
+    {
+      "title"    : "Ballatore",
+      "category" : "adopted",
+      "url"      : "/greyhounds/ballatore/",
+      "nick"     : "",
+      "pic"      : "ballatore.jpg"
+    } ,
+  
+    {
+      "title"    : "Denise",
+      "category" : "adopted",
+      "url"      : "/greyhounds/denise/",
+      "nick"     : "",
+      "pic"      : "denise.JPG"
+    } ,
+  
+    {
+      "title"    : "Butterfinger",
+      "category" : "deceased",
+      "url"      : "/greyhounds/butterfinger/",
+      "nick"     : "",
+      "pic"      : "butterfinger.JPG"
+    } ,
+  
+    {
+      "title"    : "Jamie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jamie/",
+      "nick"     : "",
+      "pic"      : "jamie.JPG"
+    } ,
+  
+    {
+      "title"    : "Dayce",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dayce/",
+      "nick"     : "",
+      "pic"      : "dayce.JPG"
+    } ,
+  
+    {
+      "title"    : "Colt",
+      "category" : "adopted",
+      "url"      : "/greyhounds/colt/",
+      "nick"     : "",
+      "pic"      : "colt.jpg"
+    } ,
+  
+    {
+      "title"    : "Phoebe",
+      "category" : "deceased",
+      "url"      : "/greyhounds/phoebe/",
+      "nick"     : "",
+      "pic"      : "phoebe.jpg"
+    } ,
+  
+    {
+      "title"    : "Taz",
+      "category" : "adopted",
+      "url"      : "/greyhounds/taz/",
+      "nick"     : "",
+      "pic"      : "taz.jpg"
+    } ,
+  
+    {
+      "title"    : "Pearl",
+      "category" : "adopted",
+      "url"      : "/greyhounds/pearl/",
+      "nick"     : "",
+      "pic"      : "pearl.jpg"
+    } ,
+  
+    {
+      "title"    : "Bear",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bear/",
+      "nick"     : "",
+      "pic"      : "bear.jpg"
+    } ,
+  
+    {
+      "title"    : "Galaxy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/galaxy/",
+      "nick"     : "",
+      "pic"      : "galaxy.jpg"
+    } ,
+  
+    {
+      "title"    : "Siggie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/siggie/",
+      "nick"     : "",
+      "pic"      : "siggie.jpg"
+    } ,
+  
+    {
+      "title"    : "Karo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/karo/",
+      "nick"     : "",
+      "pic"      : "karo.jpg"
+    } ,
+  
+    {
+      "title"    : "Demi",
+      "category" : "deceased",
+      "url"      : "/greyhounds/demi/",
+      "nick"     : "",
+      "pic"      : "demi.jpg"
+    } ,
+  
+    {
+      "title"    : "Teresa",
+      "category" : "adopted",
+      "url"      : "/greyhounds/teresa/",
+      "nick"     : "",
+      "pic"      : "teresa.JPG"
+    } ,
+  
+    {
+      "title"    : "Frank",
+      "category" : "deceased",
+      "url"      : "/greyhounds/frank/",
+      "nick"     : "",
+      "pic"      : "frank.JPG"
+    } ,
+  
+    {
+      "title"    : "Pettee",
+      "category" : "deceased",
+      "url"      : "/greyhounds/pettee/",
+      "nick"     : "",
+      "pic"      : "pettee.jpg"
+    } ,
+  
+    {
+      "title"    : "Lexi",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lexi/",
+      "nick"     : "",
+      "pic"      : "lexi.jpg"
+    } ,
+  
+    {
+      "title"    : "Hurst",
+      "category" : "deceased",
+      "url"      : "/greyhounds/hurst/",
+      "nick"     : "",
+      "pic"      : "hurst.jpg"
+    } ,
+  
+    {
+      "title"    : "Noosa",
+      "category" : "adopted",
+      "url"      : "/greyhounds/noosa/",
+      "nick"     : "",
+      "pic"      : "noosa.JPG"
+    } ,
+  
+    {
+      "title"    : "Greycie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/greycie/",
+      "nick"     : "",
+      "pic"      : "greycie.JPG"
+    } ,
+  
+    {
+      "title"    : "Breeze",
+      "category" : "deceased",
+      "url"      : "/greyhounds/breeze/",
+      "nick"     : "",
+      "pic"      : "breeze.JPG"
+    } ,
+  
+    {
+      "title"    : "Bella",
+      "category" : "deceased",
+      "url"      : "/greyhounds/bella/",
+      "nick"     : "",
+      "pic"      : "bella.png"
+    } ,
+  
+    {
+      "title"    : "Alcide",
+      "category" : "adopted",
+      "url"      : "/greyhounds/alcide/",
+      "nick"     : "",
+      "pic"      : "alcide.jpg"
+    } ,
+  
+    {
+      "title"    : "Tia",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tia/",
+      "nick"     : "",
+      "pic"      : "tia.jpg"
+    } ,
+  
+    {
+      "title"    : "Rocket",
+      "category" : "adopted",
+      "url"      : "/greyhounds/rocket/",
+      "nick"     : "",
+      "pic"      : "rocket.jpg"
+    } ,
+  
+    {
+      "title"    : "Tyler",
+      "category" : "adopted",
+      "url"      : "/greyhounds/tyler/",
+      "nick"     : "",
+      "pic"      : "tyler.jpg"
+    } ,
+  
+    {
+      "title"    : "Homer",
+      "category" : "adopted",
+      "url"      : "/greyhounds/homer/",
+      "nick"     : "",
+      "pic"      : "homer.jpg"
+    } ,
+  
+    {
+      "title"    : "Eleanor",
+      "category" : "adopted",
+      "url"      : "/greyhounds/eleanor/",
+      "nick"     : "",
+      "pic"      : "eleanor.jpg"
+    } ,
+  
+    {
+      "title"    : "Cortez",
+      "category" : "deceased",
+      "url"      : "/greyhounds/cortez/",
+      "nick"     : "",
+      "pic"      : "cortez.jpg"
+    } ,
+  
+    {
+      "title"    : "Lights",
+      "category" : "deceased",
+      "url"      : "/greyhounds/lights/",
+      "nick"     : "",
+      "pic"      : "lights.jpg"
+    } ,
+  
+    {
+      "title"    : "Concho",
+      "category" : "adopted",
+      "url"      : "/greyhounds/concho/",
+      "nick"     : "",
+      "pic"      : "concho.jpg"
+    } ,
+  
+    {
+      "title"    : "Prince",
+      "category" : "deceased",
+      "url"      : "/greyhounds/prince/",
+      "nick"     : "",
+      "pic"      : "prince.jpg"
+    } ,
+  
+    {
+      "title"    : "Sunday",
+      "category" : "deceased",
+      "url"      : "/greyhounds/sunday/",
+      "nick"     : "",
+      "pic"      : "sunday.jpg"
+    } ,
+  
+    {
+      "title"    : "Nite Design",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nitedesign/",
+      "nick"     : "Nite",
+      "pic"      : "nitedesign.jpg"
+    } ,
+  
+    {
+      "title"    : "Jill",
+      "category" : "deceased",
+      "url"      : "/greyhounds/jill/",
+      "nick"     : "",
+      "pic"      : "jill.jpg"
+    } ,
+  
+    {
+      "title"    : "Jack",
+      "category" : "deceased",
+      "url"      : "/greyhounds/jack2/",
+      "nick"     : "",
+      "pic"      : "jack2.jpg"
+    } ,
+  
+    {
+      "title"    : "Felix",
+      "category" : "adopted",
+      "url"      : "/greyhounds/felix/",
+      "nick"     : "",
+      "pic"      : "felix.jpg"
+    } ,
+  
+    {
+      "title"    : "Bristol",
+      "category" : "deceased",
+      "url"      : "/greyhounds/bristol/",
+      "nick"     : "",
+      "pic"      : "bristol.png"
+    } ,
+  
+    {
+      "title"    : "Horace",
+      "category" : "adopted",
+      "url"      : "/greyhounds/horace/",
+      "nick"     : "",
+      "pic"      : "horace.jpg"
+    } ,
+  
+    {
+      "title"    : "Edmundo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/edmundo/",
+      "nick"     : "",
+      "pic"      : "edmundo.png"
+    } ,
+  
+    {
+      "title"    : "Mary",
+      "category" : "adopted",
+      "url"      : "/greyhounds/mary/",
+      "nick"     : "",
+      "pic"      : "mary.png"
+    } ,
+  
+    {
+      "title"    : "Sage",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sage/",
+      "nick"     : "",
+      "pic"      : "sage.png"
+    } ,
+  
+    {
+      "title"    : "Buckley",
+      "category" : "adopted",
+      "url"      : "/greyhounds/buckley/",
+      "nick"     : "",
+      "pic"      : "buckley.png"
+    } ,
+  
+    {
+      "title"    : "Hannah",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hannah/",
+      "nick"     : "",
+      "pic"      : "hannah.jpg"
+    } ,
+  
+    {
+      "title"    : "Tamara",
+      "category" : "deceased",
+      "url"      : "/greyhounds/tamara/",
+      "nick"     : "",
+      "pic"      : "tamara.png"
+    } ,
+  
+    {
+      "title"    : "Gracie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/gracie/",
+      "nick"     : "",
+      "pic"      : "gracie.png"
+    } ,
+  
+    {
+      "title"    : "Carly",
+      "category" : "deceased",
+      "url"      : "/greyhounds/carly/",
+      "nick"     : "",
+      "pic"      : "carly.png"
+    } ,
+  
+    {
+      "title"    : "Lady",
+      "category" : "adopted",
+      "url"      : "/greyhounds/lady/",
+      "nick"     : "",
+      "pic"      : "lady.png"
+    } ,
+  
+    {
+      "title"    : "Poppy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/poppy/",
+      "nick"     : "",
+      "pic"      : "poppy.jpg"
+    } ,
+  
+    {
+      "title"    : "Judge",
+      "category" : "adopted",
+      "url"      : "/greyhounds/judge/",
+      "nick"     : "",
+      "pic"      : "judge.jpg"
+    } ,
+  
+    {
+      "title"    : "Poncho",
+      "category" : "adopted",
+      "url"      : "/greyhounds/poncho/",
+      "nick"     : "",
+      "pic"      : "poncho.jpg"
+    } ,
+  
+    {
+      "title"    : "Bella",
+      "category" : "adopted",
+      "url"      : "/greyhounds/bella1/",
+      "nick"     : "",
+      "pic"      : "bella1.JPG"
+    } ,
+  
+    {
+      "title"    : "Swee’Pea (Sandy)",
+      "category" : "deceased",
+      "url"      : "/greyhounds/sandy/",
+      "nick"     : "Swee’Pea",
+      "pic"      : "sweepea.jpg"
+    } ,
+  
+    {
+      "title"    : "Valkyrie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/valkyrie/",
+      "nick"     : "",
+      "pic"      : "valkyrie.jpg"
+    } ,
+  
+    {
+      "title"    : "Vicki",
+      "category" : "deceased",
+      "url"      : "/greyhounds/vicki/",
+      "nick"     : "",
+      "pic"      : "vicki.jpg"
+    } ,
+  
+    {
+      "title"    : "Pepper",
+      "category" : "deceased",
+      "url"      : "/greyhounds/pepper1/",
+      "nick"     : "",
+      "pic"      : "pepper1.jpg"
+    } ,
+  
+    {
+      "title"    : "Jack",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jack/",
+      "nick"     : "",
+      "pic"      : "jack.jpg"
+    } ,
+  
+    {
+      "title"    : "Doc",
+      "category" : "deceased",
+      "url"      : "/greyhounds/doc/",
+      "nick"     : "",
+      "pic"      : "doc.jpg"
+    } ,
+  
+    {
+      "title"    : "Raven",
+      "category" : "deceased",
+      "url"      : "/greyhounds/raven/",
+      "nick"     : "",
+      "pic"      : "raven.png"
+    } ,
+  
+    {
+      "title"    : "Baby Girl",
+      "category" : "adopted",
+      "url"      : "/greyhounds/baby-girl/",
+      "nick"     : "",
+      "pic"      : "baby-girl.jpg"
+    } ,
+  
+    {
+      "title"    : "Alex",
+      "category" : "deceased",
+      "url"      : "/greyhounds/alex/",
+      "nick"     : "",
+      "pic"      : "alex.jpg"
+    } ,
+  
+    {
+      "title"    : "Summer",
+      "category" : "adopted",
+      "url"      : "/greyhounds/summer/",
+      "nick"     : "",
+      "pic"      : "summer.jpg"
+    } ,
+  
+    {
+      "title"    : "Nicole",
+      "category" : "deceased",
+      "url"      : "/greyhounds/nicole/",
+      "nick"     : "",
+      "pic"      : "nicole.jpg"
+    } ,
+  
+    {
+      "title"    : "Zander",
+      "category" : "deceased",
+      "url"      : "/greyhounds/zoolander/",
+      "nick"     : "",
+      "pic"      : "zoolander.jpg"
+    } ,
+  
+    {
+      "title"    : "Lady Jeanine",
+      "category" : "deceased",
+      "url"      : "/greyhounds/ladyjeanine/",
+      "nick"     : "Jeanine",
+      "pic"      : "ladyjeanine.jpg"
+    } ,
+  
+    {
+      "title"    : "Giselle",
+      "category" : "adopted",
+      "url"      : "/greyhounds/giselle/",
+      "nick"     : "",
+      "pic"      : "giselle.jpg"
+    } ,
+  
+    {
+      "title"    : "Abnar",
+      "category" : "deceased",
+      "url"      : "/greyhounds/abnar/",
+      "nick"     : "",
+      "pic"      : "abnar.jpg"
+    } ,
+  
+    {
+      "title"    : "Dino",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dino/",
+      "nick"     : "",
+      "pic"      : "dino.jpg"
+    } ,
+  
+    {
+      "title"    : "Aine",
+      "category" : "adopted",
+      "url"      : "/greyhounds/aine/",
+      "nick"     : "",
+      "pic"      : "aine.jpg"
+    } ,
+  
+    {
+      "title"    : "Chunk",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chunk/",
+      "nick"     : "",
+      "pic"      : "chunk.jpg"
+    } ,
+  
+    {
+      "title"    : "Cowboy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/cowboy/",
+      "nick"     : "",
+      "pic"      : "cowboy.jpg"
+    } ,
+  
+    {
+      "title"    : "Antigua Tia",
+      "category" : "adopted",
+      "url"      : "/greyhounds/antigua/",
+      "nick"     : "Antigua",
+      "pic"      : "antigua.jpg"
+    } ,
+  
+    {
+      "title"    : "Anastasia (Ana)",
+      "category" : "adopted",
+      "url"      : "/greyhounds/anastasia/",
+      "nick"     : "Anastasia",
+      "pic"      : "anastasia.jpg"
+    } ,
+  
+    {
+      "title"    : "Silvia",
+      "category" : "deceased",
+      "url"      : "/greyhounds/silversloan/",
+      "nick"     : "",
+      "pic"      : "silvia.jpg"
+    } ,
+  
+    {
+      "title"    : "Haley",
+      "category" : "deceased",
+      "url"      : "/greyhounds/haley/",
+      "nick"     : "",
+      "pic"      : "haley.jpg"
+    } ,
+  
+    {
+      "title"    : "Dolly",
+      "category" : "deceased",
+      "url"      : "/greyhounds/dolly/",
+      "nick"     : "",
+      "pic"      : "dolly.jpg"
+    } ,
+  
+    {
+      "title"    : "Checkers",
+      "category" : "deceased",
+      "url"      : "/greyhounds/checkers/",
+      "nick"     : "",
+      "pic"      : "checkers.jpg"
+    } ,
+  
+    {
+      "title"    : "Jazzy (Happy Jazz)",
+      "category" : "deceased",
+      "url"      : "/greyhounds/happyjazz/",
+      "nick"     : "Jazz",
+      "pic"      : "happyjazz.jpg"
+    } ,
+  
+    {
+      "title"    : "Robin",
+      "category" : "deceased",
+      "url"      : "/greyhounds/robin/",
+      "nick"     : "",
+      "pic"      : "robin.jpg"
+    } ,
+  
+    {
+      "title"    : "Casey",
+      "category" : "adopted",
+      "url"      : "/greyhounds/casey/",
+      "nick"     : "",
+      "pic"      : "casey.jpg"
+    } ,
+  
+    {
+      "title"    : "Henny Penny",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hennypenny/",
+      "nick"     : "Penny",
+      "pic"      : "hennypenny.jpg"
+    } ,
+  
+    {
+      "title"    : "Backwoods Justice",
+      "category" : "deceased",
+      "url"      : "/greyhounds/backwoodsjustice/",
+      "nick"     : "Justice",
+      "pic"      : "backwoodsjustice.jpg"
+    } ,
+  
+    {
+      "title"    : "Baxter",
+      "category" : "adopted",
+      "url"      : "/greyhounds/baxter/",
+      "nick"     : "",
+      "pic"      : "baxter.jpg"
+    } ,
+  
+    {
+      "title"    : "Beau",
+      "category" : "adopted",
+      "url"      : "/greyhounds/beau/",
+      "nick"     : "",
+      "pic"      : "beau.jpg"
+    } ,
+  
+    {
+      "title"    : "Paco",
+      "category" : "adopted",
+      "url"      : "/greyhounds/paco/",
+      "nick"     : "",
+      "pic"      : "paco.jpg"
+    } ,
+  
+    {
+      "title"    : "Sunflower",
+      "category" : "adopted",
+      "url"      : "/greyhounds/sunflower/",
+      "nick"     : "",
+      "pic"      : "sunflower.jpg"
+    } ,
+  
+    {
+      "title"    : "Chrissy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chrissy/",
+      "nick"     : "",
+      "pic"      : "chrissy.jpg"
+    } ,
+  
+    {
+      "title"    : "Jacy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jacy/",
+      "nick"     : "",
+      "pic"      : "jacy.jpg"
+    } ,
+  
+    {
+      "title"    : "Santana",
+      "category" : "adopted",
+      "url"      : "/greyhounds/santana/",
+      "nick"     : "",
+      "pic"      : ""
+    } ,
+  
+    {
+      "title"    : "Charging Warrior &quot;Charlie&quot;",
+      "category" : "deceased",
+      "url"      : "/greyhounds/chargingwarrior/",
+      "nick"     : "Warrior",
+      "pic"      : "chargingwarrior.jpg"
+    } ,
+  
+    {
+      "title"    : "Audi",
+      "category" : "adopted",
+      "url"      : "/greyhounds/audi/",
+      "nick"     : "",
+      "pic"      : "audi.jpg"
+    } ,
+  
+    {
+      "title"    : "Elle",
+      "category" : "deceased",
+      "url"      : "/greyhounds/elle/",
+      "nick"     : "",
+      "pic"      : "elle.jpg"
+    } ,
+  
+    {
+      "title"    : "Opal",
+      "category" : "deceased",
+      "url"      : "/greyhounds/opal/",
+      "nick"     : "",
+      "pic"      : "opal.jpg"
+    } ,
+  
+    {
+      "title"    : "Batman",
+      "category" : "deceased",
+      "url"      : "/greyhounds/batman/",
+      "nick"     : "",
+      "pic"      : "batman.jpg"
+    } ,
+  
+    {
+      "title"    : "Harmony",
+      "category" : "deceased",
+      "url"      : "/greyhounds/harmony/",
+      "nick"     : "",
+      "pic"      : "harmony.jpg"
+    } ,
+  
+    {
+      "title"    : "Backwoods Tyson",
+      "category" : "adopted",
+      "url"      : "/greyhounds/backwoodstyson/",
+      "nick"     : "Tyson",
+      "pic"      : "backwoodstyson.jpg"
+    } ,
+  
+    {
+      "title"    : "Bingo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/bingo/",
+      "nick"     : "",
+      "pic"      : "bingo.jpg"
+    } ,
+  
+    {
+      "title"    : "Angelo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/angelo/",
+      "nick"     : "",
+      "pic"      : "angelo.jpg"
+    } ,
+  
+    {
+      "title"    : "Backwoods Alaska",
+      "category" : "adopted",
+      "url"      : "/greyhounds/backwoodsalaska/",
+      "nick"     : "Alaska",
+      "pic"      : "backwoodsalaska.jpg"
+    } ,
+  
+    {
+      "title"    : "Limoncello",
+      "category" : "adopted",
+      "url"      : "/greyhounds/limoncello/",
+      "nick"     : "",
+      "pic"      : "limoncello.jpg"
+    } ,
+  
+    {
+      "title"    : "Sheila",
+      "category" : "deceased",
+      "url"      : "/greyhounds/sheila/",
+      "nick"     : "",
+      "pic"      : "sheila.jpg"
+    } ,
+  
+    {
+      "title"    : "Backwoods Timothy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/backwoodstimothy/",
+      "nick"     : "Timothy",
+      "pic"      : "backwoodstimothy.jpg"
+    } ,
+  
+    {
+      "title"    : "Jet",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jet/",
+      "nick"     : "",
+      "pic"      : "jet.jpg"
+    } ,
+  
+    {
+      "title"    : "Pepper",
+      "category" : "deceased",
+      "url"      : "/greyhounds/pepper/",
+      "nick"     : "",
+      "pic"      : "pepper.jpg"
+    } ,
+  
+    {
+      "title"    : "Lily",
+      "category" : "deceased",
+      "url"      : "/greyhounds/lily2/",
+      "nick"     : "",
+      "pic"      : "lily2.jpg"
+    } ,
+  
+    {
+      "title"    : "Cathy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cathy/",
+      "nick"     : "",
+      "pic"      : "cathy.jpg"
+    } ,
+  
+    {
+      "title"    : "Fiona",
+      "category" : "deceased",
+      "url"      : "/greyhounds/fiona/",
+      "nick"     : "",
+      "pic"      : "fiona.jpg"
+    } ,
+  
+    {
+      "title"    : "Cora",
+      "category" : "adopted",
+      "url"      : "/greyhounds/cora/",
+      "nick"     : "",
+      "pic"      : "cora.jpg"
+    } ,
+  
+    {
+      "title"    : "Daniel",
+      "category" : "deceased",
+      "url"      : "/greyhounds/daniel/",
+      "nick"     : "",
+      "pic"      : "daniel.jpg"
+    } ,
+  
+    {
+      "title"    : "Dynomite",
+      "category" : "adopted",
+      "url"      : "/greyhounds/dynomite/",
+      "nick"     : "",
+      "pic"      : "dynomite.jpg"
+    } ,
+  
+    {
+      "title"    : "Breezy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/breezy/",
+      "nick"     : "",
+      "pic"      : "breezy.jpg"
+    } ,
+  
+    {
+      "title"    : "Vegas",
+      "category" : "adopted",
+      "url"      : "/greyhounds/vegas/",
+      "nick"     : "",
+      "pic"      : "vegas.jpg"
+    } ,
+  
+    {
+      "title"    : "Luna",
+      "category" : "adopted",
+      "url"      : "/greyhounds/luna/",
+      "nick"     : "",
+      "pic"      : "luna.jpg"
+    } ,
+  
+    {
+      "title"    : "Chrissie",
+      "category" : "adopted",
+      "url"      : "/greyhounds/chrissie/",
+      "nick"     : "",
+      "pic"      : "chrissie.jpg"
+    } ,
+  
+    {
+      "title"    : "Nantucket",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nantucket/",
+      "nick"     : "",
+      "pic"      : "nantucket.jpg"
+    } ,
+  
+    {
+      "title"    : "Montezuma",
+      "category" : "deceased",
+      "url"      : "/greyhounds/montezuma/",
+      "nick"     : "",
+      "pic"      : "montezuma.jpg"
+    } ,
+  
+    {
+      "title"    : "Jedi Warrior",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jediwarrior/",
+      "nick"     : "Jedi",
+      "pic"      : "jediwarrior.jpg"
+    } ,
+  
+    {
+      "title"    : "High Noon Motive",
+      "category" : "adopted",
+      "url"      : "/greyhounds/highnoonmotive/",
+      "nick"     : "Motive",
+      "pic"      : "highnoonmotive.jpg"
+    } ,
+  
+    {
+      "title"    : "Carmelo",
+      "category" : "adopted",
+      "url"      : "/greyhounds/carmelo/",
+      "nick"     : "",
+      "pic"      : "carmelo.jpg"
+    } ,
+  
+    {
+      "title"    : "Blackjack Mongo",
+      "category" : "deceased",
+      "url"      : "/greyhounds/blackjackmongo/",
+      "nick"     : "Blackjack",
+      "pic"      : "blackjackmongo.jpg"
+    } ,
+  
+    {
+      "title"    : "Alfie",
+      "category" : "deceased",
+      "url"      : "/greyhounds/alfie/",
+      "nick"     : "",
+      "pic"      : "alfie.jpg"
+    } ,
+  
+    {
+      "title"    : "Ice Man",
+      "category" : "deceased",
+      "url"      : "/greyhounds/iceman/",
+      "nick"     : "",
+      "pic"      : "iceman.jpg"
+    } ,
+  
+    {
+      "title"    : "Hotkisses",
+      "category" : "deceased",
+      "url"      : "/greyhounds/hotkisses/",
+      "nick"     : "",
+      "pic"      : "hotkisses.jpg"
+    } ,
+  
+    {
+      "title"    : "Dutchess",
+      "category" : "deceased",
+      "url"      : "/greyhounds/dutchess/",
+      "nick"     : "",
+      "pic"      : "dutchess.jpg"
+    } ,
+  
+    {
+      "title"    : "Justin",
+      "category" : "adopted",
+      "url"      : "/greyhounds/justin/",
+      "nick"     : "",
+      "pic"      : "justin.jpg"
+    } ,
+  
+    {
+      "title"    : "Erin",
+      "category" : "deceased",
+      "url"      : "/greyhounds/erin/",
+      "nick"     : "",
+      "pic"      : "erin.jpg"
+    } ,
+  
+    {
+      "title"    : "Nick",
+      "category" : "adopted",
+      "url"      : "/greyhounds/nick/",
+      "nick"     : "",
+      "pic"      : "nick.jpg"
+    } ,
+  
+    {
+      "title"    : "Brianna",
+      "category" : "deceased",
+      "url"      : "/greyhounds/brianna/",
+      "nick"     : "",
+      "pic"      : "brianna.jpg"
+    } ,
+  
+    {
+      "title"    : "Holly",
+      "category" : "deceased",
+      "url"      : "/greyhounds/holly/",
+      "nick"     : "",
+      "pic"      : "holly.jpg"
+    } ,
+  
+    {
+      "title"    : "Twinkle",
+      "category" : "deceased",
+      "url"      : "/greyhounds/twinkle/",
+      "nick"     : "",
+      "pic"      : "twinkle.jpg"
+    } ,
+  
+    {
+      "title"    : "Blue",
+      "category" : "deceased",
+      "url"      : "/greyhounds/blue/",
+      "nick"     : "",
+      "pic"      : "blue.jpg"
+    } ,
+  
+    {
+      "title"    : "Nadia",
+      "category" : "deceased",
+      "url"      : "/greyhounds/nadia/",
+      "nick"     : "",
+      "pic"      : "nadia.jpg"
+    } ,
+  
+    {
+      "title"    : "Bette",
+      "category" : "deceased",
+      "url"      : "/greyhounds/bette/",
+      "nick"     : "",
+      "pic"      : "bette.jpg"
+    } ,
+  
+    {
+      "title"    : "Carlos",
+      "category" : "deceased",
+      "url"      : "/greyhounds/carlos/",
+      "nick"     : "",
+      "pic"      : "carlos.jpg"
+    } ,
+  
+    {
+      "title"    : "Mona Nicole",
+      "category" : "deceased",
+      "url"      : "/greyhounds/monanicole/",
+      "nick"     : "Nicole",
+      "pic"      : "monanicole.jpg"
+    } ,
+  
+    {
+      "title"    : "Linda McPike",
+      "category" : "deceased",
+      "url"      : "/greyhounds/lindamcpike/",
+      "nick"     : "Linda",
+      "pic"      : "lindamcpike.jpg"
+    } ,
+  
+    {
+      "title"    : "Jimmy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/jimmy/",
+      "nick"     : "",
+      "pic"      : "jimmy.jpg"
+    } ,
+  
+    {
+      "title"    : "Coal",
+      "category" : "deceased",
+      "url"      : "/greyhounds/coal/",
+      "nick"     : "",
+      "pic"      : "coal.jpg"
+    } ,
+  
+    {
+      "title"    : "Stormy",
+      "category" : "deceased",
+      "url"      : "/greyhounds/stormy/",
+      "nick"     : "",
+      "pic"      : "stormy.jpg"
+    } ,
+  
+    {
+      "title"    : "Alyann",
+      "category" : "deceased",
+      "url"      : "/greyhounds/alyann/",
+      "nick"     : "",
+      "pic"      : "alyann.jpg"
+    } ,
+  
+    {
+      "title"    : "Ballymac",
+      "category" : "deceased",
+      "url"      : "/greyhounds/ballymac/",
+      "nick"     : "",
+      "pic"      : "ballymac.jpg"
+    } ,
+  
+    {
+      "title"    : "Hully",
+      "category" : "adopted",
+      "url"      : "/greyhounds/hully/",
+      "nick"     : "",
+      "pic"      : "hully.jpg"
+    } ,
+  
+    {
+      "title"    : "Shiner",
+      "category" : "adopted",
+      "url"      : "/greyhounds/shiner/",
+      "nick"     : "",
+      "pic"      : "shiner.jpg"
+    } ,
+  
+    {
+      "title"    : "Easy",
+      "category" : "adopted",
+      "url"      : "/greyhounds/easy/",
+      "nick"     : "",
+      "pic"      : "easy.jpg"
+    } ,
+  
+    {
+      "title"    : "Peach",
+      "category" : "adopted",
+      "url"      : "/greyhounds/peach/",
+      "nick"     : "",
+      "pic"      : "peach.jpg"
+    } ,
+  
+    {
+      "title"    : "Lily",
+      "category" : "deceased",
+      "url"      : "/greyhounds/lily/",
+      "nick"     : "",
+      "pic"      : "lily.jpg"
+    } ,
+  
+    {
+      "title"    : "Hope",
+      "category" : "deceased",
+      "url"      : "/greyhounds/hope/",
+      "nick"     : "",
+      "pic"      : "hope.jpg"
+    } ,
+  
+    {
+      "title"    : "Piper",
+      "category" : "deceased",
+      "url"      : "/greyhounds/piper/",
+      "nick"     : "",
+      "pic"      : "piper.jpg"
+    } 
+  
+]
