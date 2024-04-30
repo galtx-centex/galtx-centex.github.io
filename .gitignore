@@ -22,7 +22,6 @@ _site/
 /vendor/
 /lib/bundler/man/
 
-.ruby-version
 .ruby-gemset
 
 # macOS
