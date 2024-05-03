@@ -1,13 +1,14 @@
 ---
 layout: greyhound
 date: 2023-10-04
-category: available
+category: adopted
 title: Kansas (Oddie)
 color: black
 sex: male
 dob: 2016-12-24
 pic: kansas.jpg
 pending: yes
+doa: 2024-05-03
 ---
 You may know me as Kansas, but my foster family calls me Oddie, or dozens of silly variations on that. You see, I am NGA registered under the name "Odd Gray" and I am rather proud of my 96 career races.  
 
