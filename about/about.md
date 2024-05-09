@@ -56,10 +56,8 @@ greyhound.
 <div class="row">
   <div class="col-md-6">
     <h2>Board of Directors Meetings</h2>
-
-    Board of Directors meetings are held on the third Tuesday of the month from 7-9 pm at
-    <a href="http://goo.gl/oV0yar">Old Quarry Branch Library</a>.
-    Members are always welcome to join us.
+    Board of Directors Meetings are held on the Second Tuesday of the month.
+    Open to members, but please contact <a href="mailto:president@galtx-centex.org">president@galtx-centex.org</a> to confirm time and location.
   </div>
   <div class="col-md-6">
     <h2>Membership Meetings</h2>
