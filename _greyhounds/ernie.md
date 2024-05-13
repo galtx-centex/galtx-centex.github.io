@@ -6,5 +6,6 @@ title: Ernie
 color: black
 sex: male
 dob: 2019-04-30
+pic: ernie.jpg
 ---
 Coming soon!
