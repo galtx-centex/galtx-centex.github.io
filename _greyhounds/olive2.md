@@ -1,12 +1,13 @@
 ---
 layout: greyhound
 date: 2023-08-10
-category: permafoster
+category: adopted
 title: Olive
 color: black & white
 sex: female
 dob: 2015-08-04
 pic: olive2.jpg
+doa: 2024-05-22
 ---
 Olive enjoys her regular walks through the neighborhood where she has become quite the dignatary. Her other pastimes include sunbathing in the yard and tossing around her stuffies.
 
