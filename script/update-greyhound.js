@@ -18,21 +18,46 @@ function nowDate() {
 }
 
 function update(data, inputs) {
-    switch (inputs.status) {
-        case 'available':
-            return available(data, inputs);
-        case 'pending':
-            return pending(data, inputs);
-        case 'adopted':
-            return adopted(data, inputs);
-        case 'medicalhold':
-            return meicaldhold(data, inputs);
-        case 'permafoster':
-            return permafoster(data, inputs);
-        case 'deceased':
-            return deceased(data, inputs);
+    let message = '';
+    message += updateStatus(data, inputs);
+    message += updateCatSafety(data, inputs);
+    return message
+}
+
+function updateStatus(data, inputs) {
+    try {
+        switch (inputs.status) {
+            case 'available':
+                return available(data, inputs);
+            case 'pending':
+                return pending(data, inputs);
+            case 'adopted':
+                return adopted(data, inputs);
+            case 'medicalhold':
+                return medicalhold(data, inputs);
+            case 'permafoster':
+                return permafoster(data, inputs);
+            case 'deceased':
+                return deceased(data, inputs);
+            default:
+                console.log(`${data.title} no status update`);
+        }
+    } catch(error) {
+        console.log(error);
+    }
+    return '';
+}
+
+function updateCatSafety(data, inputs) {
+    switch (inputs.catsafe) {
+        case 'yes':
+            data.cats = inputs.catsafe;
+            return `${data.title} is cat safe 😸\n\n`;
+        case 'no':
+            data.cats = inputs.catsafe;
+            return `${data.title} is not cat safe 😿\n\n`;
         default:
-            throw `unknown status ${inputs.status}`;
+            return ''
     }
 }
 
@@ -67,7 +92,7 @@ function available(data, inputs) {
     data.category = 'available';
     data.pending = false;
     data.medicalhold = false;
-    return `${data.title} is Available! 🌟`;
+    return `${data.title} is Available! 🌟\n\n`;
 }
 
 function pending(data, inputs) {
@@ -75,7 +100,7 @@ function pending(data, inputs) {
     checkAdopted(data);
     checkPending(data);
     data.pending = true;
-    return `${data.title} is Pending Adoption! 🎉`;
+    return `${data.title} is Pending Adoption! 🎉\n\n`;
 }
 
 function adopted(data, inputs) {
@@ -83,7 +108,7 @@ function adopted(data, inputs) {
     checkAdopted(data);
     data.category = 'adopted';
     data.doa = nowDate();
-    return `${data.title} has been Adopted! 💗`;
+    return `${data.title} has been Adopted! 💗\n\n`;
 }
 
 function medicalhold(data, inputs) {
@@ -93,7 +118,7 @@ function medicalhold(data, inputs) {
     checkPending(data);
     checkMedicalhold(data);
     data.medicalhold = true;
-    return `${data.title} is in Medical Hold 🤕`;
+    return `${data.title} is in Medical Hold 🤕\n\n`;
 }
 
 function permafoster(data, inputs) {
@@ -101,14 +126,14 @@ function permafoster(data, inputs) {
     checkAdopted(data);
     checkPermafoster(data);
     data.category = 'permafoster';
-    return `${data.title} is a Permanent Foster 💜`;
+    return `${data.title} is a Permanent Foster 💜\n\n`;
 }
 
 function deceased(data, inputs) {
     checkDeceased(data);
     data.category = 'deceased';
     data.dod = nowDate();
-    return `${data.title} has crossed the Rainbow Bridge 😢`;
+    return `${data.title} has crossed the Rainbow Bridge 😢\n\n`;
 }
 
 module.exports = async ({github, context, core, inputs}) => {
