@@ -9,20 +9,20 @@ on:
       status:
         type: choice
         options:
-          - no update
-          - pending
-          - adopted
-          - medicalhold
-          - permafoster
-          - deceased
-        default: no update
+          - 'no update'
+          - 'pending'
+          - 'adopted'
+          - 'medicalhold'
+          - 'permafoster'
+          - 'deceased'
+        default: 'no update'
       catsafe:
         type: choice
         options:
-          - no update
-          - yes
-          - no
-        default: no update
+          - 'no update'
+          - 'yes'
+          - 'no'
+        default: 'no update'
 
 env:
   INPUTS: ${{ toJSON(inputs) }}
