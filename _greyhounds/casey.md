@@ -6,5 +6,6 @@ title: Casey
 color: white & brindle
 sex: female
 dob: 2018-01-01
+medicalhold: yes
 ---
 Currently in treatment for heartworms ☹️
