@@ -8,4 +8,4 @@ sex: male
 dob: 2019-04-30
 pic: ernie.jpg
 ---
-Coming soon!
+Tall, dark and handsome Ernie is a real ladies man. Make eye contact with him, and he is right in your face trying to get to first base! 
