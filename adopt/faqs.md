@@ -7,9 +7,9 @@ permalink: /adopt/faqs/
 ## How much is the adoption fee?
 Our standard adoption fees are:
 
-* Non-refundable adoption fee of $750 for Greyhounds (incl. Irish, Australian, Domestic)
-* Non-refundable adoption fee of $450 for Greyhounds age 7 and up
-* Non-refundable adoption fee of $550 for Lurchers
+* Non-refundable adoption fee of $450 for Greyhounds (incl. Irish, Australian, Domestic)
+* Non-refundable adoption fee of $350 for Greyhounds age 7 and up
+* Non-refundable adoption fee of $450 for Lurchers
 
 Your $75 application deposit is applied to
 the adoption donation fee at the time of the adoption. The preferred method of
