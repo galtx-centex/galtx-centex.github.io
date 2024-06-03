@@ -2,9 +2,9 @@
 layout: page
 title: Adoption
 permalink: /adopt/
-StandardFee: 750
-SeniorFee: 450
-LurcherFee: 550
+StandardFee: 450
+SeniorFee: 350
+LurcherFee: 450
 ---
 
 <div class="row">
