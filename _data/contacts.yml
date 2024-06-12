@@ -26,15 +26,17 @@
   phone: (855) 446-3278, ext. 2
   email: angie@galtx-centex.org
 
+- name: Grace Howell
+  title:
+    - Foster Coordinator
+    - Director
+  phone: (855) 446-3278, ext. 3
+  email: grace@galtx-centex.org
+
 - name: Dona Ghadimi
   title:
     - Director
   email: dona@galtx-centex.org
-
-- name: Jane Troyer
-  title:
-    - Director
-  email: jane@galtx-centex.org
 
 - name: Amy Garcia
   title:
@@ -60,3 +62,8 @@
   title:
     - San Antonio Coordinator
   email: amyv@galtx-centex.org
+
+- name: Jane Troyer
+  title:
+    - Director
+  email: jane@galtx-centex.org
