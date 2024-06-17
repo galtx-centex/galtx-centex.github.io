@@ -6,5 +6,6 @@ title: Curt
 color: red
 sex: male
 dob: 2022-10-22
+pic: curt.jpg
 ---
 My foster called me, "a perfect gentleman."
