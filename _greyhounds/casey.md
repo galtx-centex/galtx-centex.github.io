@@ -1,11 +1,12 @@
 ---
 layout: greyhound
-date: 2024-05-27
-category: available
 title: Casey
-color: white & brindle
-sex: female
-dob: 2018-01-01
-medicalhold: yes
+date: 2010-03-15
+category: adopted
+doa: 2010-03-15
+cats: no
+color: RED FAWN
+pic: casey.jpg
+sex: MALE
 ---
-Currently in treatment for heartworms ☹️
+Striking red fawn male, 7 yrs old, with over 200 races.
