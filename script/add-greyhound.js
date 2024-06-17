@@ -32,7 +32,7 @@ function thisDate(dateString) {
 module.exports = async ({github, context, core, inputs}) => {
     // Create greyhound data
     const info = {
-        content: inputs.summary,
+        content: inputs.summary ??= "",
         data: {
             layout: 'greyhound',
             date: nowDate(),
