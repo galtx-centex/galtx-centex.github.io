@@ -1,4 +1,5 @@
-fs = require('fs').promises;
+existsSync = require('fs').existsSync;
+writeFile = require('fs').promises.writeFile;
 yaml = require('yamljs');
 matter = require('gray-matter');
 slugify = require('slugify');
@@ -29,9 +30,6 @@ function thisDate(dateString) {
 }
 
 module.exports = async ({github, context, core, inputs}) => {
-    const greyhound = slugify(inputs.name, { lower: true });
-    const filePath = `_greyhounds/${greyhound}.md`;
-
     // Create greyhound data
     const info = {
         content: inputs.summary,
@@ -46,10 +44,22 @@ module.exports = async ({github, context, core, inputs}) => {
         }
     };
 
+    // Create a unique file path to avoid overwriting an existing greyhound's data
+    const greyhound = slugify(inputs.name, { lower: true });
+
+    let count = 1;
+    let nameId = greyhound;
+    let filePath = `_greyhounds/${nameId}.md`;
+    while (existsSync(filePath)) {
+        count += 1;
+        nameId = greyhound + count;
+        filePath = `_greyhounds/${nameId}.md`;
+    }
+
     // Save greyhound data
     const data = matter.stringify(info.content, info.data, options);
-    await fs.writeFile(filePath, data);
+    await writeFile(filePath, data);
     console.log(`Saved ${filePath}`);
 
-    return `Adding ${info.data.title} to Available Hounds! 🌟`;
+    return `Adding ${info.data.title} to Available Hounds as ${nameId}! 🌟`;
 }
