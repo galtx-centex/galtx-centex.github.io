@@ -8,6 +8,6 @@ sex: male
 dob: 2022-10-22
 pic: curt.jpg
 ---
-Curt is young and athletic.  He would enjoy an active family who will toss a tennis ball or frisbee in their fenced yard. He is strong, and will need some leash training.  Inside the house, Curt has been a wonderful guest - no accidents, no chewing, and super cuddly. He will gladly announce the arrival of the delivery driver and the lawn service for you.
+Curt is young and exuberant.  He would enjoy meeting an active family who will toss a tennis ball or frisbee in their fenced yard. His foster family is working with him on leash manners.  Inside the house, Curt has been a wonderful guest - no accidents, no chewing, and SUPER cuddly. He will gladly announce the arrival of the delivery driver and the lawn service for you.
 
-We believe Curt is littermate to Toby. 
+We believe Curt is littermate to Toby. He previously lived with cats and a small dog.  
