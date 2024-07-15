@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-05-30
-category: adopted
+category: deceased
 name: nancy
 sex: female
 dob: 2019-12-30
@@ -10,6 +10,7 @@ title: Nancy
 pic: nancy.jpg
 pending: yes
 doa: 2022-07-20
+dod: 2024-07-15
 ---
 Fancy Nancy has a bit of a shopping addiction - some might call it a hoarding problem. She just loves to gather up toys and other misc. items, to carry them back to her bed. Nancy is a busy young lady who would enjoy someone to play fetch with. She excitedly greets all arriving family or visitors. Loves some good lovin' and gives her kisses freely.  
 
