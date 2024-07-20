@@ -2,13 +2,14 @@
 layout: greyhound
 title: Henny Penny
 date: 2010-03-14
-category: adopted
+category: deceased
 doa: 2010-03-14
 cats: no
 color: BLACK
 nick: Penny
 pic: hennypenny.jpg
 sex: FEMALE
+dod: 2024-07-20
 ---
 Penny is a lover/leaner with adults and kids and even the veterinary staff. She has a soft coat that just begs to be
 touched. However, she does take her breeding and racing training to heart and should not be placed with little fluffy
