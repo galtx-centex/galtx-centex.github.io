@@ -13,4 +13,4 @@ pending: no
 doa: 2021-08-27
 ---
 
-Fergie will be available as soon as she is cleared medically and has some time in foster to decompress. 
+Fergie is great with kids, great with cats - NOT great with thunderstorms.  Fergie takes daily medication to manage her anxiety. She will need a patient and kind adopter.  
