@@ -6,5 +6,6 @@ title: Gretel
 color: Red
 sex: female
 dob: 2023-01-27
+cats: yes
 ---
 I just arrived from Mexico!
