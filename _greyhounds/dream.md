@@ -6,5 +6,6 @@ title: Dream
 color: Black
 sex: female
 dob: 2020-02-08
+cats: yes
 ---
 I just arrived from Mexico!
