@@ -6,5 +6,6 @@ title: Walter
 color: fawn
 sex: male
 dob: 2023-01-01
+medicalhold: yes
 ---
 I am a  very special boy!
