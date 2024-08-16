@@ -7,5 +7,6 @@ color: Red
 sex: female
 dob: 2023-01-27
 cats: yes
+pic: gretel.jpeg
 ---
 I just arrived from Mexico!
