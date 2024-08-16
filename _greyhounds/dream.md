@@ -7,5 +7,6 @@ color: Black
 sex: female
 dob: 2020-02-08
 cats: yes
+pic: dream.jpg
 ---
 I just arrived from Mexico!
