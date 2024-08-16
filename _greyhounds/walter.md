@@ -7,5 +7,6 @@ color: fawn
 sex: male
 dob: 2023-01-01
 medicalhold: yes
+pic: walter.jpg
 ---
 I am a  very special boy!
