@@ -9,4 +9,4 @@ dob: 2023-01-27
 cats: yes
 pic: gretel.jpeg
 ---
-I just arrived from Mexico!
+Gretel was racing, and winning, at the Caliente racetrack just one month ago! This señorita has adapted easily to suburban life with school-aged children, two other greyhounds, and a cat. 
