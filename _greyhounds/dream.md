@@ -10,4 +10,4 @@ cats: yes
 pic: dream.jpg
 doa: 2024-08-18
 ---
-I just arrived from Mexico!
+This one is truly Dreamy! She had an impressive racing career in Tijuana, Mexico. She is brave, smart, and playful - a real delight.
