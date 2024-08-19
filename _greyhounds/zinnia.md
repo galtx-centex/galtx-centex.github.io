@@ -6,5 +6,6 @@ title: Zinnia
 color: fawn
 sex: female
 dob: 2022-07-01
+pic: zinnia.JPG
 ---
 
