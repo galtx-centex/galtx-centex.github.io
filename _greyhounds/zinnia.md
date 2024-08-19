@@ -8,4 +8,4 @@ sex: female
 dob: 2022-07-01
 pic: zinnia.JPG
 ---
-
+This petite blonde girl is kind of shy. She would like a quiet homestead.
