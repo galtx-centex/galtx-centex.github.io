@@ -3,12 +3,13 @@ layout: greyhound
 title: Limoncello
 date: 2010-02-20
 age: 17 MONTHS
-category: adopted
+category: deceased
 doa: 2010-02-20
 cats: yes
 color: FAWN BRINDLE
 pic: limoncello.jpg
 sex: MALE
+dod: 2024-08-29
 ---
 
 What could be better than a cool, sweet Limoncello after dinner?  Limoncello's foster family says he will be a
