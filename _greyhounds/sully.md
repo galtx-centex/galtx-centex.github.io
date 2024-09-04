@@ -11,4 +11,4 @@ cats: no
 pending: yes
 doa: 2023-03-05
 ---
-Sully is a handsome Irish lad with a glossy black coat. Sully is not even two years old, so he can get into some shenanigans, like stealing a bunch of bananas from the counertop. This will, of course, diminish with time and positive discipline (and make you a better housekeeper!)  Sully gets along with all the dogs he has met, from his senior Greyhound housemate to the young pups of various breeds that he visits with along the fence line. We think Sully will make a fun addition to the family.
+Sully is a handsome Irish lad with a glossy black coat. He is a quick learner, but needs some structure to his routine. He previoulsy lived with a grey and then a standard poodle. We will evaluate him with smaller dogs after he has settled in a bit. 
