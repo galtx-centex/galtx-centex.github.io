@@ -11,7 +11,7 @@ title: Fergie
 pic: fergie.jpg
 pending: no
 doa: 2021-08-27
-medicalhold: yes
+medicalhold: no
 ---
 
 Fergie is great with kids, great with cats - NOT great with thunderstorms.  Fergie takes daily medication to manage her anxiety. She will need a patient and kind adopter.  
