@@ -8,5 +8,6 @@ sex: male
 dob: 2022-02-07
 pending: yes
 cats: yes
+pic: magpie.jpg
 ---
 I come from a land down under
