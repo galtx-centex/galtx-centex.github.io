@@ -6,5 +6,7 @@ title: Magpie
 color: white & black
 sex: male
 dob: 2022-02-07
+pending: yes
+cats: yes
 ---
 I come from a land down under
