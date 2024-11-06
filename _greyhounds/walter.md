@@ -9,4 +9,5 @@ dob: 2023-01-01
 medicalhold: no
 pic: walter.jpg
 ---
-Walter was found as a stray - underweight, and full of parasites including Heartworms. Not tattooed, he appears to be a Saluki cross. He will need a few months in foster care to complete medical treatment. Despite whatever he has experienced in his past, Walter is a joyful, mischievious puppy. We believe he will make a wonderful family pet. 
+Walter was found as a stray - underweight, and full of parasites including Heartworms. Despite whatever he has experienced in his past, Walter is a joyful, mischievious puppy. We believe he will make a wonderful family pet. 
+Update: Walter has now completed Heartworm treatments without complication! Also, his Embark DNA analysis confirms what we suspected.  He is equal parts Greyhound and Saluki, and all together adorable!
