@@ -6,5 +6,6 @@ title: Parrot
 color: black
 sex: male
 dob: 2020-11-25
+pic: parrot.jpg
 ---
 I just arrived!
