@@ -6,5 +6,6 @@ title: Baz
 color: red
 sex: male
 dob: 2019-03-20
+pic: bazza.jpg
 ---
 I just arrived!
