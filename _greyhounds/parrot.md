@@ -7,5 +7,6 @@ color: black
 sex: female
 dob: 2020-11-25
 pic: parrot.jpg
+pending: yes
 ---
 I just arrived!
