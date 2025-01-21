@@ -9,13 +9,14 @@ on:
       status:
         type: choice
         options:
-          - 'no update'
+          - 'available'
           - 'pending'
           - 'adopted'
           - 'medicalhold'
           - 'permafoster'
           - 'deceased'
-        default: 'no update'
+          - 'no update'
+        default: 'available'
       catsafe:
         type: choice
         options:

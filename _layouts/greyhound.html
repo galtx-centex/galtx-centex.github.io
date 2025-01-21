@@ -43,6 +43,10 @@ layout: page
   <div class="text-center alert alert-warning" role="alert">
     <span class="banner">⚕️ <b>Medical Hold</b> ⚕️</span>
   </div>
+{% elsif greyhound.category == 'comingsoon' %}
+  <div class="text-center alert alert-info" role="alert">
+    <span class="banner">⏰ <b>Coming Soon...</b> ⏰</span>
+  </div>
 {% elsif greyhound.category == 'available' %}
   <div class="text-center alert alert-info" role="alert">
     <span class="banner">🐾 <b>Available!</b> 🐾</span>

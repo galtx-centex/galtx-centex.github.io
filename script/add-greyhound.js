@@ -36,7 +36,7 @@ module.exports = async ({github, context, core, inputs}) => {
         data: {
             layout: 'greyhound',
             date: nowDate(),
-            category: 'available',
+            category: 'comingsoon',
             title: capitalize(inputs.name),
             color: inputs.color,
             sex: inputs.sex,
@@ -61,5 +61,5 @@ module.exports = async ({github, context, core, inputs}) => {
     await writeFile(filePath, data);
     console.log(`Saved ${filePath}`);
 
-    return `Adding ${info.data.title} to Available Hounds as ${nameId}! 🌟`;
+    return `Adding ${info.data.title} to Greyhounds as ${nameId}! 🌟`;
 }

@@ -42,7 +42,33 @@ permalink: /greyhounds/
       </div>
     {% endfor %}
 
-    <!-- Permanent Fosters should be at the bottom of the list -->
+    <!-- Coming soon follows available list -->
+    {% assign comingsoon = site.greyhounds | where: "category","comingsoon" %}
+    {% for greyhound in comingsoon reversed %}
+      <div class="col-sm-4 col-md-3">
+        <a class="thumbnail" href="{{ greyhound.url }}">
+          <div class="thumbnail-container">
+          {% if greyhound.pic %}
+            <img class="img-rounded" src="/img/thm/{{ greyhound.pic }}" alt="{{ greyhound.title | remove: '"' }}">
+          {% else %}
+            <img class="img-rounded" src="/img/thm/GALT-CENTEX_flag_logo.svg" alt="{{ greyhound.title | remove: '"' }}">
+          {% endif %}
+            <div class="thumbnail-comingsoon alert alert-info" role="alert">
+              <b>Coming Soon!</b>
+            </div>
+          </div>
+          <div class="caption">
+            {% if greyhound.nick %}
+              <h3>{{ greyhound.nick }}</h3>
+            {% else %}
+              <h3>{{ greyhound.title }}</h3>
+            {% endif %}
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+
+    <!-- Permanent fosters will be at the bottom of the list -->
     {% assign fosters = site.greyhounds | where: "category","permafoster" %}
     {% for foster in fosters reversed %}
       <div class="col-sm-4 col-md-3">
