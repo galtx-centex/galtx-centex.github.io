@@ -130,7 +130,7 @@ layout: page
           <span class="label label-default">Adopted {{ greyhound.doa | date: '%b %Y' }}</span>
         {% endif %}
       <!-- Available Greyhounds -->
-      {% elsif greyhound.category == 'available' %}
+      {% elsif greyhound.category == 'comingsoon' or greyhound.category == 'available' %}
         {% if greyhound.dob %}
           {% assign dob_ts = greyhound.dob | date: '%s' %}
           {% assign age_in_secs = site.time | date: '%s' | minus: dob_ts %}
