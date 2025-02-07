@@ -309,15 +309,6 @@ a.thumbnail:hover {
   }
 }
 
-/* Profile labels */
-
-.info-labels {
-  text-align: left;
-  @include media-min-width($screen-sm-min) {
-    text-align: right;
-  }
-}
-
 /* Calendar */
 
 .calendar-home {
