@@ -6,5 +6,6 @@ title: Noodlez
 color: black
 sex: female
 dob: 2020-09-10
+pic: noodlez.png
 ---
 I just arrived from Australia and am undergoing evaluations.
