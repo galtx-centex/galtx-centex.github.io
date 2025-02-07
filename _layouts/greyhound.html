@@ -71,27 +71,33 @@ layout: page
   </div>
 </div>
 
-{% if greyhound.category == 'available' or greyhound.category == 'permafoster' %}
-  <div class="text-center">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_donations">
-    <input type="hidden" name="business" value="accounting@galtx-centex.org">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="item_name" value="Donation to sponsor {{ greyhound.title }}">
-    <input type="submit" name="submit" value="Sponsor Me" class="btn btn-lg btn-padding btn-success">
-    </form>
+<div class="row">
+  <div class="col-md-6">
+    {% if greyhound.category == 'available' or greyhound.category == 'permafoster' %}
+      <div class="text-center">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="accounting@galtx-centex.org">
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="item_name" value="Donation to sponsor {{ greyhound.title }}">
+        <input type="submit" name="submit" value="Sponsor Me" class="btn btn-lg btn-padding btn-success">
+        </form>
+      </div>
+    {% elsif greyhound.category == 'deceased' %}
+      <div class="text-center">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="accounting@galtx-centex.org">
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="item_name" value="Donation to memorialize {{ greyhound.title }}">
+        <input type="submit" name="submit" value="Memorial Donation" class="btn btn-lg btn-padding btn-success">
+        </form>
+      </div>
+    {% endif %}
   </div>
-{% elsif greyhound.category == 'deceased' %}
-  <div class="text-center">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_donations">
-    <input type="hidden" name="business" value="accounting@galtx-centex.org">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="item_name" value="Donation to memorialize {{ greyhound.title }}">
-    <input type="submit" name="submit" value="Memorial Donation" class="btn btn-lg btn-padding btn-success">
-    </form>
+  <div class="col-md-6">
   </div>
-{% endif %}
+</div>
 
 <p/>
 
