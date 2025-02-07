@@ -99,6 +99,7 @@ function pending(data, inputs) {
     checkDeceased(data);
     checkAdopted(data);
     checkPending(data);
+    data.category = 'available';
     data.pending = true;
     return `${data.title} is Pending Adoption! 🎉\n\n`;
 }
