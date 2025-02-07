@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-02-04
-category: comingsoon
+category: available
 title: Bluey
 color: Blue
 sex: male
