@@ -9,7 +9,7 @@ color: black
 cats: yes
 title: Fergie
 pic: fergie.jpg
-pending: no
+pending: yes
 doa: 2021-08-27
 medicalhold: no
 ---
