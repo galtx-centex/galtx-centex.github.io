@@ -3,11 +3,12 @@ layout: greyhound
 title: Cora
 date: 2010-02-11
 age: 2 YEARS
-category: adopted
+category: deceased
 doa: 2010-02-11
 color: DARK BRINDLE
 pic: cora.jpg
 sex: FEMALE
+dod: 2025-03-08
 ---
 
 Cora is turning out to be a great house guest in her foster home. She is learning to play with toys and is friendly to
