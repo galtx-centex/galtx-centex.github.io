@@ -1,0 +1,10 @@
+---
+layout: greyhound
+date: 2025-03-08
+category: comingsoon
+title: Jess
+color: black
+sex: male
+dob: 2019-12-12
+---
+I just arrived from Australia and am undergoing evaluations.
