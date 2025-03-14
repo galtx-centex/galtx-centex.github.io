@@ -6,5 +6,6 @@ title: Jess
 color: black
 sex: male
 dob: 2019-12-12
+pic: jess.jpg
 ---
 I just arrived from Australia and am undergoing evaluations.
