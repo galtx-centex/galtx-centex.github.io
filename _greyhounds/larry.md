@@ -7,7 +7,7 @@ color: black
 sex: male
 dob: 2020-10-31
 pic: larry.png
-pending: no
+pending: yes
 medicalhold: no
 ---
 
