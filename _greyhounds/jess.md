@@ -7,7 +7,7 @@ color: black
 sex: male
 dob: 2019-12-12
 pic: jess.jpg
-pending: no
+pending: yes
 medicalhold: no
 ---
 I just arrived from Australia and am undergoing evaluations.
