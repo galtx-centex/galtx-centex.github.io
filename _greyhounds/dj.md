@@ -6,5 +6,6 @@ title: Dj
 color: black
 sex: female
 dob: 2019-11-01
+pic: dj.jpg
 ---
 I'm a Texas gal!
