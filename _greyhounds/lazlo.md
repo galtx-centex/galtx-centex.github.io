@@ -6,5 +6,6 @@ title: Lazlo
 color: black
 sex: male
 dob: 2022-03-28
+pic: lazlo.jpg
 ---
 I just arrived from Australia!
