@@ -7,7 +7,7 @@ color: black
 sex: male
 dob: 2022-03-28
 pic: lazlo.jpg
-pending: no
+pending: yes
 medicalhold: no
 ---
 I just arrived from Australia!
