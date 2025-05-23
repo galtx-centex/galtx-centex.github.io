@@ -2,7 +2,7 @@
 layout: greyhound
 title: Tempo
 date: 2017-05-22
-category: adopted
+category: deceased
 cats: no
 color: RED
 doa: 2017-06-23
@@ -15,6 +15,7 @@ fb-posts:
   - 'https://www.facebook.com/galtcentraltexas/posts/10156195944018572:0'
 pics:
   - tempo1.jpg
+dod: 2025-05-23
 ---
 
 Life moving at a hectic pace?  Slow down the Tempo with a chill boy like me!  I will make a trusting companion.  I sport a handsome caramel colored coat and have very effective, pleading eyes.  Crates are okay by me.
