@@ -6,5 +6,6 @@ title: Goldie
 color: red fawn
 sex: female
 dob: 2023-02-18
+pic: goldie.jpg
 ---
 I just arrived from Australia!
