@@ -6,5 +6,6 @@ title: Girlie
 color: black
 sex: female
 dob: 2020-05-14
+pic: girlie.jpg
 ---
 I just arrived from Australia!
