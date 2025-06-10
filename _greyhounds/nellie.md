@@ -6,5 +6,6 @@ title: Nellie
 color: fawn
 sex: female
 dob: 2022-09-14
+pic: nellie.jpg
 ---
 arriving from Wheeling, WV
