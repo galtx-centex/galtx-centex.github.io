@@ -7,7 +7,7 @@ color: blue
 sex: male
 dob: 2023-01-30
 pic: luka.jpg
-pending: no
+pending: yes
 medicalhold: no
 ---
 I just arrived from Australia!
