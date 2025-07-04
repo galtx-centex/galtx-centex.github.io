@@ -7,7 +7,7 @@ color: fawn
 sex: female
 dob: 2022-09-14
 pic: nellie.jpg
-pending: no
+pending: yes
 medicalhold: no
 ---
 arriving from Wheeling, WV
