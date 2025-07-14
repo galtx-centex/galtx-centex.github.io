@@ -9,5 +9,6 @@ dob: 2020-03-07
 pending: no
 medicalhold: no
 cats: no
+pic: sahara.jpg
 ---
 
