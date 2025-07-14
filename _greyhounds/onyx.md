@@ -9,5 +9,6 @@ dob: 2022-02-11
 pending: no
 medicalhold: no
 cats: no
+pic: onyx.jpg
 ---
 
