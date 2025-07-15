@@ -6,7 +6,7 @@ title: Sahara
 color: black
 sex: female
 dob: 2020-03-07
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 pic: sahara.jpg
