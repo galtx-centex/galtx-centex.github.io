@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 title: Dino
-category: adopted
+category: deceased
 color: white & black
 pic: dino.jpg
 sex: male
@@ -9,6 +9,7 @@ dob: 2015-01-22
 medicalhold: no
 pending: yes
 doa: 2024-01-18
+dod: 2025-07-21
 ---
 Dino is a large staghound-type, who was rescued from the streets of Corpus Christi by a dedicated group of volunteers. He has recently completed Heartworm treatment, and is ready to meet his forever family.
 
