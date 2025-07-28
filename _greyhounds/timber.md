@@ -8,7 +8,7 @@ dob: 2018-10-10
 color: red
 title: Timber
 pic: timber.jpg
-pending: no
+pending: yes
 doa: 2022-10-09
 medicalhold: no
 cats: yes
