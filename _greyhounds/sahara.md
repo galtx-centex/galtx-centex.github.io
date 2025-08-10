@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-06-28
-category: available
+category: adopted
 title: Sahara
 color: black
 sex: female
@@ -10,5 +10,6 @@ pending: yes
 medicalhold: no
 cats: no
 pic: sahara.jpg
+doa: 2025-08-10
 ---
 
