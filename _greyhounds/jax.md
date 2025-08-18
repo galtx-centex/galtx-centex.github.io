@@ -7,5 +7,6 @@ color: brindle
 sex: male
 dob: 2022-03-11
 medicalhold: yes
+pic: jax.jpg
 ---
 
