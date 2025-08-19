@@ -7,7 +7,7 @@ color: fawn
 sex: female
 dob: 2023-07-02
 pic: millie.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: yes
 ---
