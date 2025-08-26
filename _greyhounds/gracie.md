@@ -3,12 +3,13 @@ layout: greyhound
 title: Gracie
 date: 2014-12-02
 age: 1 1/2 YEARS
-category: adopted
+category: deceased
 cats: yes
 color: FAWN
 doa: 2015-01-12
 pic: gracie.png
 sex: FEMALE
+dod: 2025-08-26
 ---
 
 I am a lover! I could just stand by your side and lovingly rest my head on your leg or simply gaze into your eyes all day! 
