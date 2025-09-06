@@ -6,7 +6,7 @@ title: Onyx
 color: black
 sex: female
 dob: 2022-02-11
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 pic: onyx.jpg
