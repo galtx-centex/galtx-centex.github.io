@@ -2,7 +2,7 @@
 layout: greyhound
 title: Alexis
 date: 2018-11-09
-category: adopted
+category: deceased
 sex: female
 dob: 2012-03-02
 color: black
@@ -10,6 +10,7 @@ cats: yes
 pic: alexis.jpg
 pending: yes
 doa: 2018-12-18
+dod: 2025-09-22
 ---
 Hi!  My name is supposedly "U Too Alexis", but my foster human calls me random things like "sweet girl", "Mama", and "Lexi". What would you call me?
 
