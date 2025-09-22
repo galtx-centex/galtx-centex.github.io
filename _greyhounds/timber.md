@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2022-08-04
-category: available
+category: adopted
 name: timber
 sex: male
 dob: 2018-10-10
@@ -9,7 +9,7 @@ color: red
 title: Timber
 pic: timber.jpg
 pending: yes
-doa: 2022-10-09
+doa: 2025-09-22
 medicalhold: no
 cats: yes
 ---
