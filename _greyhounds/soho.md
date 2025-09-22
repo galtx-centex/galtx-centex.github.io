@@ -2,7 +2,7 @@
 layout: greyhound
 title: Soho
 date: 2017-02-23
-category: adopted
+category: deceased
 cats: yes
 color: WHITE AND BRINDLE
 doa: 2017-05-07
@@ -10,7 +10,8 @@ dob: 2015-10-01
 pic: soho.jpg
 sex: FEMALE
 fb-posts:
-  - https://www.facebook.com/galtcentraltexas/posts/10155865045988572:0
+  - 'https://www.facebook.com/galtcentraltexas/posts/10155865045988572:0'
+dod: 2025-09-22
 ---
 
 Soho has taken to family life like she was born for it... and maybe she was! After all, at less than 18 months old, the professionals decided racing life was not for her. While she was pretty scared leaving the vet to go to a house for the first time, in just days she settled right in. Stairs, windows, hard floors, and vacuum cleaners have been no problem from the get go. Cats on the other hand were a little scary at first, until she realized they are not really tiny terrible fur monsters - now she's perfectly willing to share her people and petting with the resident felines - she just wishes they'd PLAY with her!
