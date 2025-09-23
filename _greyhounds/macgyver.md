@@ -9,6 +9,7 @@ dob: 2018-03-04
 pic: macgyver.jpg
 pending: no
 medicalhold: no
+cats: no
 ---
 Just like his namesake, MacGyver is quite the character! "Mac" is a happy-go-lucky seven year old male whose presence is instantly noticeable. From the moment he walked into his foster home, he made it his mission to follow everyone everywhere -- the ultimate velcro dog. As soon as you open a door he's on the other side of, his nose instantly pops in. He's been waiting! And he's so excited to see you! Honestly, where have you been? While he is animated at home with his constantly wagging tail and daily roaching, he is reserved and calm in public spaces. He absolutely loves going on walks, does well on a leash, and is enthusiastic about meal times. 
 
