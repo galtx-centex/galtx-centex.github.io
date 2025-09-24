@@ -11,4 +11,6 @@ pending: yes
 medicalhold: no
 doa: 2025-05-06
 ---
+UPDATE: My new name is Asher Levi
+
 I just arrived from Australia!
