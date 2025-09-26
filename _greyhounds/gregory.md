@@ -7,6 +7,8 @@ category: deceased
 cats: yes
 color: BLACK
 pic: gregory.jpg
+pics:
+  - gregory_2.jpg
 sex: MALE
 doa: 2016-09-25
 dod: 2025-09-18
