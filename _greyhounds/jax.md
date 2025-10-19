@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-08-01
-category: available
+category: adopted
 title: Jax
 color: brindle
 sex: male
@@ -10,5 +10,6 @@ medicalhold: yes
 pic: jax.jpg
 pending: yes
 cats: no
+doa: 2025-10-19
 ---
 
