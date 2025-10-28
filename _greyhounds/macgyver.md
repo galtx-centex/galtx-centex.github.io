@@ -7,7 +7,7 @@ color: white w brindle spots
 sex: male
 dob: 2018-03-04
 pic: macgyver.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 ---
