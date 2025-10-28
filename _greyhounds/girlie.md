@@ -7,7 +7,7 @@ color: black
 sex: female
 dob: 2020-05-14
 pic: girlie.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 ---
