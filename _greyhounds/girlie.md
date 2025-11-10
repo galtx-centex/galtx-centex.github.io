@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-05-28
-category: available
+category: adopted
 title: Girlie
 color: black
 sex: female
@@ -10,6 +10,7 @@ pic: girlie.jpg
 pending: yes
 medicalhold: no
 cats: no
+doa: 2025-11-10
 ---
 My official racing name was "Let's Go Girls" and I am pretty proud of my 31 finishes all around Victoria and New South Wales, Australia.  When my handlers decided to retire me, I said "let's go" to the USA where maybe I can meet Shania ;) 
 
