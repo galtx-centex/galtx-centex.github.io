@@ -9,5 +9,6 @@ dob: 2024-12-10
 pending: yes
 cats: yes
 doa: 2025-11-04
+pic: bruce.png
 ---
 Sweet and silly boy, still has some growing to do.
