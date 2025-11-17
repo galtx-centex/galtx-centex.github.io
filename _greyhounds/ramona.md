@@ -9,7 +9,7 @@ color: black and white
 cats: yes
 title: Ramona
 pic: ramona.jpg
-pending: no
+pending: yes
 doa: 2020-06-08
 medicalhold: no
 ---
