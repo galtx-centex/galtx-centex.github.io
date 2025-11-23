@@ -3,11 +3,12 @@ layout: greyhound
 title: Tyler
 date: 2015-09-15
 age: 4 YEARS
-category: adopted
+category: deceased
 color: BRINDLE
 doa: 2016-10-02
 pic: tyler.jpg
 sex: MALE
+dod: 2025-11-23
 ---
 
 I am a goofy, curious, and affectionate 4 year old boy. I love to explore the world, and even
