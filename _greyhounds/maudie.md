@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-10-21
-category: adopted
+category: deceased
 name: maudie
 sex: female
 dob: 2010-05-11
@@ -10,5 +10,6 @@ cats: yes
 title: Maudie
 pic: maudie.jpg
 doa: 2019-11-14
+dod: 2025-11-23
 ---
 
