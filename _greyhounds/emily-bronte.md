@@ -2,9 +2,9 @@
 layout: greyhound
 date: 2025-12-01
 category: comingsoon
-title: Emily bronte
+title: Emily Bronte
 color: black
-sex: male
+sex: female
 dob: 2021-12-06
 ---
 
