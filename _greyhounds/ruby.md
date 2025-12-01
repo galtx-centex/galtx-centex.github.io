@@ -6,5 +6,6 @@ title: Ruby
 color: red brindle
 sex: female
 dob: 2020-06-27
+pic: ruby.jpg
 ---
 
