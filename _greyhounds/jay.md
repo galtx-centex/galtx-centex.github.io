@@ -2,13 +2,14 @@
 layout: greyhound
 title: Jay
 date: 2016-09-06
-category: adopted
+category: deceased
 cats: no
 color: BLACK
 doa: 2016-12-18
 dob: 2014-11-22
 pic: jay.jpg
 sex: MALE
+dod: 2025-12-03
 ---
 
 
