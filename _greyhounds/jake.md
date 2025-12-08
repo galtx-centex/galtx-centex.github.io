@@ -7,7 +7,7 @@ color: brindle & white
 sex: male
 dob: 2024-04-16
 pic: jake.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: yes
 ---
