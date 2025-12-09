@@ -6,5 +6,6 @@ title: Riesling
 color: fawn
 sex: female
 dob: 2022-10-08
+pic: riesling.jpg
 ---
 Beautiful blonde from Australia
