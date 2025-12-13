@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-11-06
-category: available
+category: adopted
 title: Jake
 color: brindle & white
 sex: male
@@ -10,5 +10,6 @@ pic: jake.jpg
 pending: yes
 medicalhold: no
 cats: yes
+doa: 2025-12-13
 ---
 
