@@ -1,11 +1,14 @@
 ---
 layout: greyhound
 date: 2025-12-01
-category: comingsoon
+category: available
 title: Emily Bronte
 color: black
 sex: female
 dob: 2021-12-06
 pic: emilybronte.jpg
+pending: no
+medicalhold: no
+cats: yes
 ---
 
