@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-12-01
-category: available
+category: adopted
 title: Jordan
 color: light brindle
 sex: male
@@ -10,5 +10,6 @@ pic: jordan.jpg
 pending: no
 medicalhold: no
 cats: yes
+doa: 2026-01-31
 ---
 Darling boy from the land down under
