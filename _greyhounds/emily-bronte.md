@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2025-12-01
-category: available
+category: adopted
 title: Emily Bronte
 color: black
 sex: female
@@ -10,5 +10,6 @@ pic: emilybronte.jpg
 pending: yes
 medicalhold: no
 cats: yes
+doa: 2026-03-04
 ---
 Just the right balance of fun times and couch time!
