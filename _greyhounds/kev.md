@@ -7,7 +7,7 @@ color: black
 sex: male
 dob: 2023-09-08
 pic: kev.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: yes
 ---
