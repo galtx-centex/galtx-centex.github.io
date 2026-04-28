@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2026-01-31
-category: available
+category: adopted
 title: Kevin
 color: black
 sex: male
@@ -10,6 +10,7 @@ pic: kev.jpg
 pending: yes
 medicalhold: no
 cats: yes
+doa: 2026-04-28
 ---
 Meet Kevin — a gentle soul learning that the world isn’t so scary after all. 💛
 
