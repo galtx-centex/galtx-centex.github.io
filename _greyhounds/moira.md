@@ -7,7 +7,7 @@ color: black
 sex: female
 dob: 2020-11-30
 pic: moira.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 ---
