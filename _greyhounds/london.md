@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2019-10-21
-category: adopted
+category: deceased
 name: london
 sex: female
 dob: 2015-10-05
@@ -10,5 +10,6 @@ cats: yes
 title: London
 pic: london.jpg
 doa: 2019-12-16
+dod: 2026-05-18
 ---
 
