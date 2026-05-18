@@ -2,7 +2,7 @@
 layout: greyhound
 title: Bess
 date: 2018-01-17
-category: adopted
+category: deceased
 color: White and Black
 dob: 2012-11-29
 pic: bess.jpg
@@ -11,6 +11,7 @@ pics:
   - bess1.jpg
 cats: yes
 doa: 2018-02-21
+dod: 2026-05-18
 ---
 
 Bess is the besst! This soft, gentle little cutie is one of our favorite fosters ever! She is so sweet, and gets along great with everyone (may work with a calm, confident cat). 
