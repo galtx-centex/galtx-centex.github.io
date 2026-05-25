@@ -6,5 +6,6 @@ title: Ellie
 color: black
 sex: female
 dob: 2024-01-10
+pic: ellie.jpg
 ---
 
