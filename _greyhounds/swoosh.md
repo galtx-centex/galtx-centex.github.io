@@ -6,5 +6,6 @@ title: Swoosh
 color: red with some white
 sex: female
 dob: 2024-08-21
+pic: swoosh.jpg
 ---
 Shy little thing, but oh so cute!
