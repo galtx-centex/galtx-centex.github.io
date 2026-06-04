@@ -1,0 +1,57 @@
+name: Add Greyhound Photos
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: Greyhound name, matching the website record
+        type: string
+        required: true
+      photo:
+        description: Path to the photo, for example uploads/ricky.jpg.
+        type: string
+        required: true
+
+concurrency:
+  group: ${{ github.workflow }}
+
+permissions:
+  contents: write
+
+env:
+  INPUTS: ${{ toJSON(inputs) }}
+
+jobs:
+  add-photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ROOBOT_PAT }}
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - run: npm ci
+
+      - id: add
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const inputs = JSON.parse(process.env.INPUTS)
+            const addGreyhoundPhotos = require('./script/add-greyhound-photos.js')
+            const message = await addGreyhoundPhotos({github, context, core, inputs})
+            core.setOutput('message', message)
+
+      - id: push
+        env:
+          COMMIT_MESSAGE: ${{ steps.add.outputs.message }}
+        run: |
+          git config --global user.email 'website@galtx-centex.org'
+          git config --global user.name 'Roobot'
+          git add _greyhounds/ img/ uploads/
+          git commit -m "$COMMIT_MESSAGE"
+          git push origin ${{ github.ref_name }}
