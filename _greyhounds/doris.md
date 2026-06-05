@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2026-03-29
-category: available
+category: adopted
 title: Doris
 color: brindle
 sex: female
@@ -10,6 +10,7 @@ pic: doris.jpg
 pending: no
 medicalhold: no
 cats: no
+doa: 2026-06-05
 ---
 I come from a land down under.
 
