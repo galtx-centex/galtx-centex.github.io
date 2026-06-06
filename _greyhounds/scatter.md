@@ -6,7 +6,7 @@ title: Scatter
 color: black with white
 sex: male
 dob: 2021-06-29
-pending: no
+pending: yes
 medicalhold: no
 cats: yes
 pic: scatter.jpg
