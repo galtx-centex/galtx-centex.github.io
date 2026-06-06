@@ -9,5 +9,6 @@ dob: 2022-12-10
 pic: johnny.jpg
 pending: no
 medicalhold: no
+cats: no
 ---
 
