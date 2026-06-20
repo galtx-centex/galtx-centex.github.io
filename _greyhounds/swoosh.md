@@ -1,12 +1,14 @@
 ---
 layout: greyhound
 date: 2026-05-28
-category: comingsoon
+category: available
 title: Swoosh
 color: red with some white
 sex: female
 dob: 2024-08-21
 pic: swoosh.jpg
+pending: no
+medicalhold: no
 ---
 Meet sweet, shy, silly Swoosh. She arrived from Kansas so stressed and unsure, but is blossoming beautifully. She is being fostered with three other greyhounds and a small mixed dog, and catching on like a champ.  Her foster family nicknamed her Pippi after the children's book character Pippi Longstockings. 
 
