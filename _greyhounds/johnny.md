@@ -7,7 +7,7 @@ color: blue fawn
 sex: male
 dob: 2022-12-10
 pic: johnny.jpg
-pending: no
+pending: yes
 medicalhold: no
 cats: no
 ---
