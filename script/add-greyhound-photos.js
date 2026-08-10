@@ -1,9 +1,9 @@
-fs = require('fs').promises;
-path = require('path');
-execFileSync = require('child_process').execFileSync;
-yaml = require('yamljs');
-matter = require('gray-matter');
-slugify = require('slugify');
+const fs = require('fs').promises;
+const path = require('path');
+const execFileSync = require('child_process').execFileSync;
+const yaml = require('yamljs');
+const matter = require('gray-matter');
+const slugify = require('slugify');
 
 const options = {
     engines: {
@@ -68,13 +68,12 @@ async function findGreyhoundFile(name) {
     throw new Error(`Could not find a greyhound named "${name}"`);
 }
 
-async function discoverUploads(dogSlug) {
-    const uploadDir = path.join('uploads', dogSlug);
-    const files = await fs.readdir(uploadDir);
+async function discoverUploads() {
+    const files = await fs.readdir('uploads', {withFileTypes: true});
     return files
-        .filter((file) => imageExtensions.has(path.extname(file).toLowerCase()))
-        .sort()
-        .map((file) => path.join(uploadDir, file));
+        .filter((file) => file.isFile() && imageExtensions.has(path.extname(file.name).toLowerCase()))
+        .map((file) => path.join('uploads', file.name))
+        .sort();
 }
 
 function findImageMagickCommand() {
@@ -154,28 +153,31 @@ async function cleanupUpload(uploadPath) {
     }
 }
 
-module.exports = async ({inputs}) => {
-    const dogSlug = slug(inputs.name);
-    const greyhoundPath = await findGreyhoundFile(inputs.name);
-    let uploadPath = inputs.photo && inputs.photo.trim();
+module.exports = async () => {
+    const uploads = await discoverUploads();
+    const names = [];
 
-    assertSafeRelativePath(uploadPath);
-    if (!imageExtensions.has(path.extname(uploadPath).toLowerCase())) {
-        throw new Error(`Unsupported image extension: ${uploadPath}`);
+    for (const uploadPath of uploads) {
+        assertSafeRelativePath(uploadPath);
+
+        const name = path.basename(uploadPath, path.extname(uploadPath));
+        const dogSlug = slug(name);
+        const greyhoundPath = await findGreyhoundFile(name);
+        const content = await fs.readFile(greyhoundPath, {encoding: 'utf8'});
+        const info = matter(content, options);
+        const imageName = await processPhoto(uploadPath, dogSlug);
+
+        updateFrontMatter(info, imageName);
+
+        const data = matter.stringify(info.content, info.data, options);
+        await fs.writeFile(greyhoundPath, data);
+        await cleanupUpload(uploadPath);
+        names.push(info.data.title || name);
     }
-    if (!await exists(uploadPath)) {
-        throw new Error(`Upload does not exist: ${uploadPath}`);
+
+    if (names.length === 0) {
+        return 'No uploaded greyhound photos to process';
     }
 
-    const content = await fs.readFile(greyhoundPath, {encoding: 'utf8'});
-    const info = matter(content, options);
-    const imageName = await processPhoto(uploadPath, dogSlug);
-
-    updateFrontMatter(info, imageName);
-
-    const data = matter.stringify(info.content, info.data, options);
-    await fs.writeFile(greyhoundPath, data);
-    await cleanupUpload(uploadPath);
-
-    return `Adding photo for ${info.data.title || inputs.name}`;
+    return `Add pic for ${names.join(', ')}`;
 }
