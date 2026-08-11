@@ -1,7 +1,7 @@
 ---
 layout: greyhound
 date: 2026-05-06
-category: available
+category: adopted
 title: Johnny
 color: blue fawn
 sex: male
@@ -10,5 +10,6 @@ pic: johnny.jpg
 pending: yes
 medicalhold: no
 cats: no
+doa: 2026-08-11
 ---
 Johnny is our latest Aussie lad. He is quite the looker with a hint of blue showing through his fawn coat. Johnny carries himself with confidence, tackling interior stairs on day one; he is equally happy lounging in a crate or free-roaming while his foster family is at work.  He has not shown any fear over the frequent thunderstorms we've had lately. Gets along well with other greyhounds or dogs of similar size, but shows a high prey drive toward little dogs and cats.  
