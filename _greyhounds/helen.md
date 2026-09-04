@@ -6,5 +6,6 @@ title: Helen
 color: red fawn
 sex: female
 dob: 2025-01-12
+pic: helen.jpg
 ---
 littermate to Iris 💙
