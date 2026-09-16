@@ -3,11 +3,12 @@ layout: greyhound
 title: Carmelo
 date: 2010-01-30
 age: 18 MONTHS
-category: adopted
+category: deceased
 doa: 2010-01-30
 color: BROWN & WHITE
 pic: carmelo.jpg
 sex: MALE
+dod: 2026-09-16
 ---
 
 Carmelo is as sweet as a caramel & vanilla sundae.  He came to GPA as a stray from the San Marcos Animal Shelter.
