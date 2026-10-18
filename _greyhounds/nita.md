@@ -2,13 +2,14 @@
 layout: greyhound
 title: Nita
 date: 2018-08-07
-category: adopted
+category: deceased
 sex: female
 dob: 2015-03-18
 color: brindle
 pic: nita.jpg
 pending: yes
 doa: 2018-10-03
+dod: 2026-10-18
 ---
 
 Hi, my name is Nita.  I thought I would be a racer when I grew up, but decided that just wasn’t  the life for me. 
