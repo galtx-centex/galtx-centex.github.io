@@ -3,11 +3,12 @@ layout: greyhound
 title: Pearl
 date: 2016-03-17
 age: 1.5 YEARS
-category: adopted
+category: deceased
 color: WHITE
 doa: 2016-04-23
 pic: pearl.jpg
 sex: FEMALE
+dod: 2026-10-27
 ---
 
 Pearl is as beautiful as her name; her white coat is dappled with light brown ticking and her left ear is covered in brindle.  She is a looker!
