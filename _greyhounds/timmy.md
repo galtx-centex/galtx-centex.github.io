@@ -6,5 +6,6 @@ title: Timmy
 color: black
 sex: male
 dob: 2023-08-09
+pic: timmy.jpg
 ---
 Curious Aussie boy 
